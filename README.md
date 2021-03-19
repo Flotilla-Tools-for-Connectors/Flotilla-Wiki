@@ -8,6 +8,10 @@ We are an association of designers, makers, and others interested in tools for c
 
 - [Flotilla Tools For Connectors](https://chat.collectivesensecommons.org/agora/channels/flotilla-tools-for-connectors) chat channel on CSC Mattermost.
 
+## Wiki Pages
+
+- [[Things To Talk About Some Day]]
+
 ## Meeting Notes
 
 - [[Meetings/Flotilla Friday, 2021-03-19|Flotilla Friday, 2021-03-19]]

@@ -1,7 +1,14 @@
-# README
+# Flotilla Tools for Connectors
 
-Welcome to the home page of this wiki. Edit to make it your own!
+Welcome to the Flotilla Wiki!
 
-Use Markdown, or just type text -- either way works.
+We are an association of designers, makers, and others interested in tools for connecting people.
 
-Use double brackets around some words to make links to other pages in this wiki.
+## Meet with Flotilla
+
+- [Flotilla Tools For Connectors](https://chat.collectivesensecommons.org/agora/channels/flotilla-tools-for-connectors) chat channel on CSC Mattermost.
+
+## Meeting Notes
+
+- [[Meetings/Flotilla Friday, 2021-03-19|Flotilla Friday, 2021-03-19]]
+- [[Meetings/Flotilla Friday 2021-03-12|Flotilla Friday 2021-03-12]]

@@ -16,7 +16,7 @@
 * social bookmarking / bookmark management
     * Diigo
     * Pinboard?
-    * federate bookmarking with MaSVF Wiki
+    * federate bookmarking with Massive Wiki
 
 ### Practicing Python-Airtable
 
@@ -37,7 +37,7 @@
 ### Notes / Wiki
 
 * Obsidian.md
-    * check back for syncing with mobile devices and masvf wikis
+    * check back for syncing with mobile devices and massive wikis
 * how to use with / migrate from OneNote
 
 ### Project / Task Management

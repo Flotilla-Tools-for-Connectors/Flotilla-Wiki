@@ -22,7 +22,7 @@
 * https://barelink.example.com/
   * has to start with https or www
 
-## MaSVF Wiki
+## Massive Wiki
 
 ### Demo / Diagram
 
@@ -37,9 +37,9 @@
 ### Federation/Syndication/Murmuration-ish Stuff
 
 * really important
-* MaSVF and [federated document creation and revision](https://chat.collectivesensecommons.org/agora/pl/ji61en34yfnn9g1ge5mdwj7hyw) is cool
+* Massive and [federated document creation and revision](https://chat.collectivesensecommons.org/agora/pl/ji61en34yfnn9g1ge5mdwj7hyw) is cool
 * looks like we should get tools up first, then work on syndication/aggregation
-* MaSVF-Catalist coordination
+* Massive-Catalist coordination
   * Vincent and Pete to stay in close touch going forward
     * "leaf" schemas from Catalist to help set up wiki page templates
     * URL structure / format of wiki pages (both wiki-specific, and semantics/information architecture of directory wikis) for Catalist to interoperate
@@ -73,7 +73,7 @@
 * guilds
 * dashboard
 
-Let's try to do both Catalist and MaSVF together.
+Let's try to do both Catalist and Massive together.
 
 ### New Idea: Agreements Hub
 

@@ -28,7 +28,7 @@
 * social bookmarking / bookmark management
     * Diigo
     * Pinboard?
-    * federate bookmarking with MaSVF Wiki
+    * federate bookmarking with Massive Wiki
 
 ## Practicing Python-Airtable
 

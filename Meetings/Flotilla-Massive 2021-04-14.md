@@ -1,3 +1,9 @@
+---
+category: Meeting
+meeting-series: Flotilla-Massive
+source-channel: CSC Zoom
+date: 2021-04-14
+---
 # Flotilla-Massive 2021-04-14
 
 ## People

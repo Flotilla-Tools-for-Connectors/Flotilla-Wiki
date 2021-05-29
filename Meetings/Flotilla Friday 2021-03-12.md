@@ -1,3 +1,8 @@
+---
+category: Meeting
+meeting-series: Flotilla Friday
+date: 2021-03-12
+---
 # Flotilla Friday 2021-03-12
 
 ## Experiments

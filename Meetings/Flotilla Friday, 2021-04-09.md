@@ -1,3 +1,8 @@
+---
+category: Meeting
+meeting-series: Flotilla Friday
+date: 2021-04-09
+---
 # Flotilla Friday, 2021-04-09
 
 ## Possible Agenda Items

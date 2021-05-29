@@ -1,3 +1,11 @@
+---
+category: Meeting
+meeting-series: Flotilla Friday
+source-channel: CSC Zoom
+recording-video: https://www.youtube.com/watch?v=EUmPk5Y0h_g
+transcript: https://otter.ai/u/ocy2pNgqQP_6T-UpK06P3zYSVZk
+date: 2021-05-28
+---
 # Flotilla Friday, 2021-05-28
 
 ## Agenda

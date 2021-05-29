@@ -1,3 +1,11 @@
+---
+category: Meeting
+meeting-series: Flotilla Friday
+source-channel: CSC Zoom
+recording-video: https://www.youtube.com/watch?v=L3vDbbwWC9E
+transcript: https://otter.ai/u/wCAjDdxwxUMeyUeC2_0314nKJxI
+date: 2021-03-19
+---
 # Flotilla Friday, 2021-03-19
 
 ## Future Meetings

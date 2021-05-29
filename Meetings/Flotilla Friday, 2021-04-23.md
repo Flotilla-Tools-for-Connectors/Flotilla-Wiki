@@ -1,3 +1,8 @@
+---
+category: Meeting
+meeting-series: Flotilla Friday
+date: 2021-04-23
+---
 # Flotilla Friday, 2021-04-23
 
 ## Trove URLs

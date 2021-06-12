@@ -2,7 +2,7 @@
 category: Meeting
 meeting-series: Flotilla Friday
 source-channel: CSC Zoom
-recording-video: (to be updated)
+recording-video: https://www.youtube.com/watch?v=-ie6z04kmi8
 transcript: (to be updated)
 date: 2021-06-04
 ---

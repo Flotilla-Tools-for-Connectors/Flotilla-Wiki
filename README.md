@@ -16,4 +16,4 @@ We are an association of designers, makers, and others interested in tools for c
 
 - [[Meetings/Flotilla Friday, 2021-04-02|Flotilla Friday, 2021-04-02]]
 - [[Meetings/Flotilla Friday, 2021-03-19|Flotilla Friday, 2021-03-19]]
-- [[Meetings/Flotilla Friday 2021-03-12|Flotilla Friday 2021-03-12]]
+- [[Flotilla Friday, 2021-03-12|Flotilla Friday 2021-03-12]]

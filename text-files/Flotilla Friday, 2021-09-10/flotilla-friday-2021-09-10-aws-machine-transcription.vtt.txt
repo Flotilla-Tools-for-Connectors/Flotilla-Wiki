@@ -1,0 +1,8578 @@
+WEBVTT
+
+0
+00:00:02.440 --> 00:00:06.850
+-- This is a flotilla Friday for 2021 September 10.
+
+1
+00:00:07.540 --> 00:00:07.860
+-- Yeah.
+
+2
+00:00:10.440 --> 00:00:13.510
+-- I don't really like having the recordings.
+
+3
+00:00:13.510 --> 00:00:16.050
+-- But I mean I like having the recordings I guess.
+
+4
+00:00:16.050 --> 00:00:19.050
+-- But I don't like recording and feeling like there's somebody kind of having,
+
+5
+00:00:19.060 --> 00:00:22.200
+-- you know these future watchers hovering over our shoulders.
+
+6
+00:00:22.210 --> 00:00:24.360
+-- But on the other hand, um
+
+7
+00:00:24.840 --> 00:00:28.260
+-- uh Wendy Elford is a big fan of of uh
+
+8
+00:00:28.850 --> 00:00:30.640
+-- Having the source material.
+
+9
+00:00:30.730 --> 00:00:37.730
+-- Well she does her that's a big part of her job as uh you know, text analysis.
+
+10
+00:00:37.740 --> 00:00:40.290
+-- And she's like, well I can't have text if I don't have transcripts,
+
+11
+00:00:40.300 --> 00:00:42.830
+-- I can't and she when she talks about transcript,
+
+12
+00:00:42.830 --> 00:00:46.350
+-- she actually means human corrected 100% correct transcripts.
+
+13
+00:00:46.440 --> 00:00:50.060
+-- And I can't have transcripts of I don't have recordings and so,
+
+14
+00:00:50.440 --> 00:00:51.690
+-- you know,
+
+15
+00:00:51.700 --> 00:00:55.500
+-- well here's my wife's an anthropologist and ethnographer instructions.
+
+16
+00:00:55.500 --> 00:00:55.860
+So
+
+17
+00:00:56.240 --> 00:01:00.460
+-- and then in the Bc days when we used to go at the restaurants for eating
+
+18
+00:01:01.340 --> 00:01:01.890
+-- occasionally,
+
+19
+00:01:01.890 --> 00:01:05.420
+-- she would get distracted because her anthropologists think
+
+20
+00:01:05.430 --> 00:01:07.850
+-- like should be listening to the table.
+
+21
+00:01:08.640 --> 00:01:10.950
+-- Yeah, because
+
+22
+00:01:11.340 --> 00:01:11.900
+-- that's what we
+
+23
+00:01:11.900 --> 00:01:13.350
+do
+
+24
+00:01:15.340 --> 00:01:18.900
+-- reminds me of when my wife and I lived in southern California and
+
+25
+00:01:18.910 --> 00:01:23.630
+-- sometimes we'd end up in in Hollywood or right around Hollywood having,
+
+26
+00:01:23.640 --> 00:01:24.160
+-- you know
+
+27
+00:01:24.540 --> 00:01:27.010
+-- dinner out at a piece of place or something like that.
+
+28
+00:01:27.020 --> 00:01:30.530
+-- And all the tables around you were talking about scripts and script
+
+29
+00:01:30.530 --> 00:01:33.280
+-- of workshops and you know deals and all that kind of stuff.
+
+30
+00:01:33.280 --> 00:01:33.960
+-- It was weird.
+
+31
+00:01:34.540 --> 00:01:36.150
+-- Yeah. Yeah.
+
+32
+00:01:38.240 --> 00:01:40.730
+-- We're being in Silicon Valley and all the tables around
+
+33
+00:01:40.730 --> 00:01:43.660
+-- you are talking about which round they're trying to raise and
+
+34
+00:01:44.040 --> 00:01:46.050
+-- you know whether the good news is
+
+35
+00:01:47.940 --> 00:01:49.350
+-- except for the small little
+
+36
+00:01:49.940 --> 00:01:54.350
+-- python glen where they're still talking about scripts, but there,
+
+37
+00:01:55.310 --> 00:01:55.760
+-- yeah,
+
+38
+00:01:57.340 --> 00:01:57.660
+-- yeah,
+
+39
+00:02:00.240 --> 00:02:01.370
+-- sorry, I'm just moving on.
+
+40
+00:02:01.370 --> 00:02:04.460
+-- I had a very good week because I actually got some code to running.
+
+41
+00:02:05.240 --> 00:02:07.460
+-- I kind of learned a lot and I actually
+
+42
+00:02:08.139 --> 00:02:08.560
+like
+
+43
+00:02:10.039 --> 00:02:11.290
+-- the way the code looks.
+
+44
+00:02:11.430 --> 00:02:11.860
+So
+
+45
+00:02:12.340 --> 00:02:12.710
+-- yeah,
+
+46
+00:02:12.720 --> 00:02:15.760
+-- bills coming off a little bit of a high actually being successful in running cook.
+
+47
+00:02:16.440 --> 00:02:16.850
+-- Yeah,
+
+48
+00:02:18.840 --> 00:02:21.450
+-- Which is the big deal. Um,
+
+49
+00:02:22.040 --> 00:02:24.400
+-- I wonder uh, when you're Michael,
+
+50
+00:02:24.400 --> 00:02:28.760
+-- if you folks want to talk a little bit about the clambake project
+
+51
+00:02:29.540 --> 00:02:30.350
+-- and now it's gone,
+
+52
+00:02:30.940 --> 00:02:31.360
+-- please,
+
+53
+00:02:35.140 --> 00:02:36.250
+-- I can take a stab at it.
+
+54
+00:02:36.740 --> 00:02:37.550
+Um
+
+55
+00:02:38.240 --> 00:02:41.960
+-- yes, so since Michael Vincent and I were able to get together last week,
+
+56
+00:02:42.640 --> 00:02:44.760
+-- we
+-- were
+
+57
+00:02:45.440 --> 00:02:48.610
+-- basically brainstorm besides aligning our visions
+
+58
+00:02:48.610 --> 00:02:50.760
+-- and direction and things like that,
+
+59
+00:02:50.760 --> 00:02:51.820
+-- we were brainstorming.
+
+60
+00:02:51.820 --> 00:02:56.410
+-- So how can we bring our visions together? And so that's clam big. How do we bring it?
+
+61
+00:02:56.420 --> 00:02:57.910
+-- How do we bring our visions together?
+
+62
+00:02:57.920 --> 00:03:03.950
+-- So trove Right now, this is going to be my summary is kind of a warehouse of
+
+63
+00:03:04.440 --> 00:03:07.090
+-- organizations, projects people right.
+
+64
+00:03:07.090 --> 00:03:09.830
+-- And in an attempt to help connect all of those things
+
+65
+00:03:09.830 --> 00:03:13.560
+-- and reduce friction for people to find what they need and
+
+66
+00:03:13.940 --> 00:03:15.760
+-- projects to find the people
+
+67
+00:03:16.540 --> 00:03:19.360
+-- factor is a
+
+68
+00:03:19.840 --> 00:03:23.460
+-- um storehouse, you might say, of
+
+69
+00:03:23.840 --> 00:03:29.190
+-- links and topics, websites, everything you can find on the web organized,
+
+70
+00:03:29.190 --> 00:03:30.480
+-- how you want it to be organized.
+
+71
+00:03:30.490 --> 00:03:34.470
+-- So it's easy to find it again later with the ability to talk about it,
+
+72
+00:03:34.470 --> 00:03:36.460
+-- discuss it and all that kind of good stuff.
+
+73
+00:03:37.040 --> 00:03:37.850
+Um
+
+74
+00:03:40.440 --> 00:03:47.120
+-- and then my contribution is a vision of how we can visualize things better
+
+75
+00:03:47.120 --> 00:03:51.980
+-- so that we can navigate to those pieces of information we're looking for faster,
+
+76
+00:03:51.980 --> 00:03:54.780
+-- easier and again reducing friction.
+
+77
+00:03:54.790 --> 00:03:59.460
+-- So I tend to be all about reducing friction to getting to what we need.
+
+78
+00:03:59.740 --> 00:04:01.920
+-- My view is also a little more on the personal side,
+
+79
+00:04:01.920 --> 00:04:04.430
+-- like the individual seeing a need to
+
+80
+00:04:04.580 --> 00:04:05.660
+improve
+
+81
+00:04:06.240 --> 00:04:07.950
+-- our individual
+
+82
+00:04:09.540 --> 00:04:13.950
+-- use of technology so that we can
+
+83
+00:04:14.340 --> 00:04:16.350
+-- enable individual
+
+84
+00:04:16.940 --> 00:04:17.750
+um
+
+85
+00:04:19.440 --> 00:04:23.460
+-- evolution, I guess evolution towards better thinking, more creativity,
+
+86
+00:04:23.460 --> 00:04:27.360
+-- more innovation so that we can then contribute collaborate like that.
+
+87
+00:04:27.360 --> 00:04:29.720
+-- The individual comes first in my mind and then
+
+88
+00:04:29.720 --> 00:04:32.330
+-- it's then you come to the point of collaboration with
+
+89
+00:04:32.330 --> 00:04:34.010
+-- others and then hopefully we come to the point of
+
+90
+00:04:34.010 --> 00:04:37.170
+-- collaboration to the point of providing something for society.
+
+91
+00:04:37.170 --> 00:04:39.360
+-- So I'm just coming at it from the individual side,
+
+92
+00:04:39.940 --> 00:04:46.700
+-- so creating a UX UI experience that enables individuals to get to what they need,
+
+93
+00:04:46.700 --> 00:04:47.840
+-- solutions they need,
+
+94
+00:04:47.850 --> 00:04:52.570
+-- and then similarly scaling up to the same thing for organizations,
+
+95
+00:04:52.570 --> 00:04:53.910
+-- same things for groups, same things.
+
+96
+00:04:53.920 --> 00:04:56.560
+-- Okay, so how do we bring all this stuff together? That's
+
+97
+00:04:56.750 --> 00:04:57.850
+-- that's clam cake,
+
+98
+00:04:58.140 --> 00:05:02.520
+-- Sorry, and that's so we're fumbling our way so far,
+
+99
+00:05:02.520 --> 00:05:08.160
+-- it's just a conversation but any input is totally welcome, I hope I did that justice,
+
+100
+00:05:08.640 --> 00:05:09.360
+-- You did great
+
+101
+00:05:09.740 --> 00:05:13.350
+-- um house, I wonder about some relationships,
+
+102
+00:05:13.350 --> 00:05:14.650
+-- how is that related to maps and
+
+103
+00:05:14.650 --> 00:05:18.050
+-- mapping and collective intelligence and collective knowledge.
+
+104
+00:05:20.140 --> 00:05:23.010
+-- So for me those are two different questions from me,
+
+105
+00:05:23.010 --> 00:05:25.820
+-- maps and mapping is the part of my thinking
+
+106
+00:05:25.820 --> 00:05:29.740
+-- that says how can we use technology to visualize?
+
+107
+00:05:29.750 --> 00:05:32.780
+-- Are thinking not necessarily data,
+
+108
+00:05:32.790 --> 00:05:36.970
+-- how can we use technology to help us say I'm thinking
+
+109
+00:05:36.970 --> 00:05:39.840
+-- this and that leads to 10 more things and that's interesting.
+
+110
+00:05:39.850 --> 00:05:40.520
+-- That's interesting.
+
+111
+00:05:40.520 --> 00:05:44.250
+-- Instead of sending me down a rabbit hole pre designed by someone else.
+
+112
+00:05:44.740 --> 00:05:46.690
+-- Yes, visual thinking thank you Bill.
+
+113
+00:05:46.700 --> 00:05:49.770
+-- Um instead of sending me down a rabbit hole designed by
+
+114
+00:05:49.770 --> 00:05:52.310
+-- somebody else to keep me engaged and sell me something.
+
+115
+00:05:52.320 --> 00:05:58.060
+-- What's the direction that I want to go in? So it's you know it's the brain it's um
+
+116
+00:05:58.540 --> 00:06:03.020
+-- as we think it's I think some of the stuff is really wisdomtree I've been playing
+
+117
+00:06:03.020 --> 00:06:08.330
+-- around with um I think a lot of um napkin is trying to do that,
+
+118
+00:06:08.340 --> 00:06:11.620
+-- I think there's a factor is basically trying to do that in its own way.
+
+119
+00:06:11.630 --> 00:06:12.550
+Um
+
+120
+00:06:13.040 --> 00:06:14.140
+-- but following,
+
+121
+00:06:14.150 --> 00:06:19.300
+-- enabling better thinking for the individual again as being my focus.
+
+122
+00:06:19.310 --> 00:06:21.160
+-- So for me I have a
+
+123
+00:06:21.840 --> 00:06:26.710
+-- wisdomtree came the closest so far to the to the visual version of what I want.
+
+124
+00:06:26.710 --> 00:06:30.530
+-- Not necessarily take technical capabilities but visual
+
+125
+00:06:30.540 --> 00:06:32.900
+-- version of what I'm thinking of.
+
+126
+00:06:32.910 --> 00:06:33.560
+Um
+
+127
+00:06:34.240 --> 00:06:35.160
+and
+
+128
+00:06:35.840 --> 00:06:41.780
+-- yeah just just my background in research and creativity and um and connection
+
+129
+00:06:41.790 --> 00:06:46.720
+-- in human connection has been a big piece of what's informed how this,
+
+130
+00:06:46.730 --> 00:06:49.460
+-- how the technical visual piece could work.
+
+131
+00:06:49.470 --> 00:06:50.260
+Um
+
+132
+00:06:50.640 --> 00:06:54.960
+-- Knowledge networks. To me it's just a natural extension right? Of
+
+133
+00:06:55.340 --> 00:06:57.750
+-- I need to know I'm researching this now and I want
+
+134
+00:06:57.750 --> 00:07:01.160
+-- to both store the knowledge that I know and I want to
+
+135
+00:07:01.170 --> 00:07:03.980
+-- expand on it where I can and then I want to
+
+136
+00:07:03.980 --> 00:07:06.350
+-- collaborate with other people on the parts I don't know yet.
+
+137
+00:07:06.740 --> 00:07:10.430
+-- And then eventually hopefully create something that benefits everybody.
+
+138
+00:07:10.440 --> 00:07:14.120
+-- And so to me that's the scaling scaffolding
+
+139
+00:07:14.130 --> 00:07:17.240
+-- Knowledge Network piece with a personal version and
+
+140
+00:07:17.240 --> 00:07:20.010
+-- a public version and maybe some hybrid versions
+
+141
+00:07:20.010 --> 00:07:22.160
+-- for groups that want to work privately together.
+
+142
+00:07:22.540 --> 00:07:24.760
+-- Yeah. And I hope
+
+143
+00:07:24.910 --> 00:07:26.620
+-- that justice and it made sense.
+
+144
+00:07:27.170 --> 00:07:32.260
+-- So Wendy, I put a link in there. Is that the app you're looking at?
+
+145
+00:07:33.140 --> 00:07:33.950
+-- Yes,
+-- sir.
+
+146
+00:07:34.840 --> 00:07:35.860
+-- Mom,
+
+147
+00:07:36.240 --> 00:07:42.420
+-- I think there's a bit of discussion about it in in the Clambake channel to
+
+148
+00:07:42.500 --> 00:07:42.700
+-- go.
+
+149
+00:07:42.700 --> 00:07:43.920
+-- I gotta go, I guess I gotta
+
+150
+00:07:43.930 --> 00:07:45.180
+-- Yeah.
+
+151
+00:07:45.960 --> 00:07:47.040
+-- Okay. All right,
+
+152
+00:07:47.230 --> 00:07:48.450
+-- that's the one, yep.
+
+153
+00:07:49.040 --> 00:07:50.560
+-- And it's limited. I mean,
+
+154
+00:07:51.140 --> 00:07:52.960
+-- I met the
+
+155
+00:07:53.540 --> 00:07:56.960
+-- I met the one of the founders and
+
+156
+00:07:57.440 --> 00:07:57.640
+-- yeah,
+
+157
+00:07:58.940 --> 00:08:01.160
+-- there's just two guys. They just did it for fun.
+
+158
+00:08:01.540 --> 00:08:03.460
+-- They're in the middle of working on other stuff.
+
+159
+00:08:03.840 --> 00:08:08.240
+-- So, you know, I'm not sure how much development, it's going to get any time soon.
+
+160
+00:08:08.250 --> 00:08:11.850
+-- I was just super excited to see the visual version of it.
+
+161
+00:08:12.340 --> 00:08:13.140
+-- Yeah,
+
+162
+00:08:15.340 --> 00:08:15.510
+-- yeah.
+
+163
+00:08:15.510 --> 00:08:18.290
+-- If I could, if I could confine his visual the visual,
+
+164
+00:08:18.290 --> 00:08:22.060
+-- he's created in Wisdomtree and put it on like the brain
+
+165
+00:08:23.140 --> 00:08:25.140
+-- I would I would be happy.
+
+166
+00:08:25.150 --> 00:08:30.630
+-- I
+-- was wondering about that visual because um I wonder if you've played
+
+167
+00:08:30.630 --> 00:08:35.320
+-- around with Obsidian and um they're graphic equalizer and there's actually two,
+
+168
+00:08:35.320 --> 00:08:39.100
+-- there's a there's the regular one and then there's a fancier one.
+
+169
+00:08:39.110 --> 00:08:40.659
+-- I have not yet
+
+170
+00:08:40.940 --> 00:08:44.560
+-- and you're the third person to reckon to recommend that to me this week.
+
+171
+00:08:44.940 --> 00:08:49.330
+-- So obviously
+-- that's my name if you want to get together sometime
+
+172
+00:08:49.330 --> 00:08:53.540
+-- and play with the city and I'd be happy to do that.
+
+173
+00:08:53.550 --> 00:08:56.060
+-- Yeah that'd be great. Um
+
+174
+00:08:56.440 --> 00:08:57.550
+-- I also
+
+175
+00:08:58.440 --> 00:09:02.550
+-- Notice that the brain has a new version version 12,
+
+176
+00:09:03.040 --> 00:09:05.560
+-- I don't know how old that is or how familiar other people
+
+177
+00:09:05.560 --> 00:09:09.160
+-- are with it but I was just posting in the Clambake channel the
+
+178
+00:09:09.640 --> 00:09:10.150
+that
+
+179
+00:09:10.740 --> 00:09:14.180
+-- the enhancements they recently made to the brain
+
+180
+00:09:14.180 --> 00:09:16.950
+-- and version 12 really improved the U.
+
+181
+00:09:16.950 --> 00:09:17.850
+-- I. A lot
+
+182
+00:09:18.340 --> 00:09:21.590
+-- and I'm loving all the stuff that I'm seeing because it just
+
+183
+00:09:21.600 --> 00:09:25.230
+-- again brings it closer even closer to what I'm visualizing in my mind
+
+184
+00:09:25.230 --> 00:09:29.830
+-- and the features that I've I've outlined for the development that I
+
+185
+00:09:29.830 --> 00:09:33.580
+-- was planning on doing but now now I'm kind of collaborating instead.
+
+186
+00:09:33.590 --> 00:09:34.560
+Um
+
+187
+00:09:35.140 --> 00:09:39.820
+-- So I'm curious to know if if anybody else has been using the brain or you know what
+
+188
+00:09:39.830 --> 00:09:43.200
+-- other I know jerry and ask them a bunch
+
+189
+00:09:43.200 --> 00:09:44.010
+-- of questions but
+
+190
+00:09:44.020 --> 00:09:47.260
+-- we should we should have you over
+
+191
+00:09:48.340 --> 00:09:52.560
+-- to visit the free jerry's brain call where jerry,
+
+192
+00:09:52.940 --> 00:09:55.960
+-- it's people who are interested in
+
+193
+00:09:57.040 --> 00:09:58.450
+-- um data,
+
+194
+00:09:59.240 --> 00:10:01.860
+-- uh graph knowledge bases I guess.
+
+195
+00:10:01.870 --> 00:10:05.050
+-- But we talked a fair bit about the brain and um,
+
+196
+00:10:05.060 --> 00:10:07.670
+-- there's jerry often comes and then Mark Trexler
+
+197
+00:10:07.670 --> 00:10:10.250
+-- who also has a very large brain that he
+
+198
+00:10:10.740 --> 00:10:13.150
+-- has semi commercialized.
+
+199
+00:10:13.740 --> 00:10:14.250
+-- Mm hmm.
+
+200
+00:10:14.740 --> 00:10:17.390
+-- They, you know, they know they know a lot about the brand,
+
+201
+00:10:17.390 --> 00:10:19.530
+-- their power users superpowers
+
+202
+00:10:19.540 --> 00:10:19.950
+And
+
+203
+00:10:20.440 --> 00:10:25.070
+-- did the climate version one, yeah, yeah. It was like a tattoo.
+
+204
+00:10:25.080 --> 00:10:28.680
+-- I remember they were talking about version 12 coming out a couple months ago,
+
+205
+00:10:28.680 --> 00:10:30.760
+-- and they were you know, there's some nice things that
+
+206
+00:10:31.240 --> 00:10:32.210
+-- so it is new.
+
+207
+00:10:32.220 --> 00:10:33.360
+-- Ok.
+
+208
+00:10:33.840 --> 00:10:37.650
+-- Um and you you can get stuff well actually,
+
+209
+00:10:39.240 --> 00:10:40.050
+-- um,
+
+210
+00:10:40.840 --> 00:10:43.260
+-- you can back up your brain
+
+211
+00:10:43.640 --> 00:10:46.760
+-- um to a reasonable data file, but then
+
+212
+00:10:47.340 --> 00:10:49.650
+-- the data file they don't really support
+
+213
+00:10:50.040 --> 00:10:52.250
+-- or they haven't documented the, you know,
+
+214
+00:10:52.250 --> 00:10:56.160
+-- export formats or anything where there's an api but it's kind of private.
+
+215
+00:10:56.160 --> 00:10:57.750
+-- It's not supposed to be public.
+
+216
+00:10:58.240 --> 00:11:03.660
+-- Um uh we have code though that does parse both the A. P. I and the
+
+217
+00:11:04.140 --> 00:11:09.930
+-- and the exports. The backups so it's possible to get data out of it.
+
+218
+00:11:09.940 --> 00:11:11.660
+-- Um but it's not friendly.
+
+219
+00:11:12.240 --> 00:11:14.950
+-- Yeah, I know. Vincent. That was my primary question.
+
+220
+00:11:14.950 --> 00:11:21.260
+-- You anticipated it because I know Vincent did that once he did a portion of it. Yeah.
+
+221
+00:11:22.140 --> 00:11:23.060
+-- Okay.
+
+222
+00:11:23.540 --> 00:11:27.690
+-- Um is the brain generally collaborative. This just one more question.
+
+223
+00:11:27.700 --> 00:11:29.200
+-- It's not multi player.
+
+224
+00:11:29.510 --> 00:11:31.550
+-- I think
+
+225
+00:11:31.940 --> 00:11:33.030
+-- that's a song where
+
+226
+00:11:33.040 --> 00:11:36.730
+-- that's the most sad making thing that jerry has right now That,
+
+227
+00:11:36.740 --> 00:11:41.480
+-- you know, he's very, um, the brain is a really good tool for him,
+
+228
+00:11:41.480 --> 00:11:43.370
+-- but he really wants to play with other people.
+
+229
+00:11:43.380 --> 00:11:43.960
+-- And so
+
+230
+00:11:44.740 --> 00:11:45.660
+-- yeah,
+
+231
+00:11:46.340 --> 00:11:49.460
+-- that would be, that's the biggest barrier for me
+
+232
+00:11:50.840 --> 00:11:53.560
+-- that in the data for medicine. Very open.
+
+233
+00:11:53.940 --> 00:11:54.440
+-- Yeah.
+
+234
+00:11:56.140 --> 00:11:56.460
+-- Bill.
+
+235
+00:11:57.640 --> 00:11:57.840
+-- Yeah.
+
+236
+00:12:04.140 --> 00:12:08.660
+-- I have questions. But you know, who wants to hear um,
+
+237
+00:12:09.140 --> 00:12:13.430
+-- when you talked about how you reacted, when I talked visual thinking about,
+
+238
+00:12:13.440 --> 00:12:16.130
+-- I was typing too fast what you were really talking about?
+
+239
+00:12:16.130 --> 00:12:17.750
+-- Visualizing, thinking.
+
+240
+00:12:18.140 --> 00:12:21.260
+-- And I'd like to hear more sometime or look at
+
+241
+00:12:21.260 --> 00:12:24.460
+-- more or have maybe a time to actually talk about
+
+242
+00:12:25.840 --> 00:12:26.350
+what
+
+243
+00:12:26.740 --> 00:12:28.260
+-- you're getting out there.
+
+244
+00:12:29.440 --> 00:12:32.160
+-- Because partially when I used to teach, I used to,
+
+245
+00:12:32.740 --> 00:12:34.660
+-- well it was graduate students, but I used to,
+
+246
+00:12:35.140 --> 00:12:36.550
+-- I used to assert
+
+247
+00:12:37.040 --> 00:12:38.360
+-- that they all knew
+
+248
+00:12:39.340 --> 00:12:41.650
+-- the best ways that they learn things
+
+249
+00:12:42.840 --> 00:12:44.850
+-- or had some idea what they were.
+
+250
+00:12:46.140 --> 00:12:48.750
+-- And so this thing about visualizing, thinking I,
+
+251
+00:12:49.240 --> 00:12:50.050
+-- I will,
+
+252
+00:12:51.640 --> 00:12:53.560
+-- I would like to know what works
+
+253
+00:12:54.240 --> 00:12:55.260
+-- talking about
+
+254
+00:12:55.940 --> 00:12:57.830
+-- because it's an actual activity.
+
+255
+00:12:58.150 --> 00:12:59.060
+-- Then I think,
+
+256
+00:12:59.740 --> 00:13:04.060
+-- you know, having some way of wandering through the warehouse in the storehouse
+
+257
+00:13:04.740 --> 00:13:06.890
+-- and making sense out of the two of them
+
+258
+00:13:06.900 --> 00:13:09.780
+-- you call trove of warehouse and factory store house.
+
+259
+00:13:09.790 --> 00:13:12.560
+-- And I'm like, okay, but
+
+260
+00:13:13.040 --> 00:13:15.860
+-- when we're thinking, what are we doing
+
+261
+00:13:17.340 --> 00:13:20.960
+-- that, you know, it could be about, I'm told it's not a task, but
+
+262
+00:13:22.240 --> 00:13:24.760
+-- sometimes I'm just looking at the clouds and you know,
+
+263
+00:13:25.540 --> 00:13:26.260
+-- ruminating.
+
+264
+00:13:30.340 --> 00:13:31.560
+-- Do you want to pick that up lending?
+
+265
+00:13:32.740 --> 00:13:34.260
+-- Yeah, sure.
+
+266
+00:13:35.340 --> 00:13:36.770
+-- It's a great question.
+
+267
+00:13:36.930 --> 00:13:37.950
+-- I think
+
+268
+00:13:39.440 --> 00:13:44.980
+-- it's interesting for me to have technical conversations around it.
+
+269
+00:13:44.980 --> 00:13:49.360
+-- So let me just kind of back up for a second and say I
+
+270
+00:13:49.360 --> 00:13:54.460
+-- understand the nature of most of the questions I've I've been I've been asked
+
+271
+00:13:55.340 --> 00:13:58.060
+-- from people who work with data
+
+272
+00:13:58.640 --> 00:14:01.550
+-- are coming from a perspective where
+
+273
+00:14:01.940 --> 00:14:03.460
+visualizing
+
+274
+00:14:04.240 --> 00:14:08.950
+-- using technology to visualize something usually means visualizing existing data
+
+275
+00:14:10.740 --> 00:14:11.850
+-- for me.
+
+276
+00:14:12.340 --> 00:14:15.090
+-- Because I came at this project from a
+
+277
+00:14:15.090 --> 00:14:18.250
+-- direction of positive psychology and that's fear.
+
+278
+00:14:19.240 --> 00:14:24.660
+-- I came at it from wanting to start from the place of the visual
+
+279
+00:14:25.540 --> 00:14:27.860
+-- and have the database be in the background
+
+280
+00:14:27.860 --> 00:14:29.980
+-- because I know the database needs to be there
+
+281
+00:14:29.990 --> 00:14:34.000
+-- right rather than it being a visual being a
+
+282
+00:14:34.000 --> 00:14:37.530
+-- way to better understand data that's already there.
+
+283
+00:14:37.540 --> 00:14:41.010
+-- I'm trying to use a visual interface to help me
+
+284
+00:14:41.010 --> 00:14:43.810
+-- create what I'm to help me see what I'm thinking.
+
+285
+00:14:43.820 --> 00:14:45.850
+-- Right? So yeah,
+
+286
+00:14:46.040 --> 00:14:52.150
+-- so if I'm really the storing of the knowledge is really just baseline, right?
+
+287
+00:14:52.160 --> 00:14:54.750
+-- Because I haven't had this tool already.
+
+288
+00:14:54.760 --> 00:14:56.030
+-- If I had this tool already,
+
+289
+00:14:56.030 --> 00:14:59.280
+-- I would have been putting things into this user interface the
+
+290
+00:14:59.280 --> 00:15:02.150
+-- whole time and the storage would be there as a default.
+
+291
+00:15:02.540 --> 00:15:05.250
+-- But because we I haven't had it up to this point,
+
+292
+00:15:05.250 --> 00:15:06.990
+-- then I need something from which I can
+
+293
+00:15:06.990 --> 00:15:12.080
+-- maybe upload some some other documents or Excel,
+
+294
+00:15:12.080 --> 00:15:13.160
+-- file CSP files,
+
+295
+00:15:13.170 --> 00:15:16.960
+-- other things because I've been forced to store information that way so far.
+
+296
+00:15:17.440 --> 00:15:23.950
+-- But really I want to see it in this visual interconnected way because I have so many,
+
+297
+00:15:24.340 --> 00:15:26.260
+-- so much going on
+
+298
+00:15:26.840 --> 00:15:29.260
+-- and have gone down so many different
+
+299
+00:15:30.340 --> 00:15:33.470
+-- avenues of thought and started to realize how
+
+300
+00:15:33.480 --> 00:15:37.310
+-- I researched into this area of positive psychology.
+
+301
+00:15:37.310 --> 00:15:40.760
+-- And then I researched over here into climate change and then I researched over here
+
+302
+00:15:40.760 --> 00:15:43.420
+-- into helping my community through Covid and some
+
+303
+00:15:43.420 --> 00:15:45.220
+-- of those pieces connected to each other,
+
+304
+00:15:45.230 --> 00:15:47.210
+-- but it was impossible to connect them.
+
+305
+00:15:47.220 --> 00:15:50.860
+-- It would have been lovely if in the moment I could have gone soup,
+
+306
+00:15:50.940 --> 00:15:54.710
+-- like I just connected those two things for me, I'm a visual person.
+
+307
+00:15:54.710 --> 00:15:59.150
+-- That's not everybody I get that. But because yeah,
+
+308
+00:15:59.740 --> 00:16:03.850
+-- you just wrote positive psychology and yeah, that's my that's my uh
+
+309
+00:16:04.340 --> 00:16:06.760
+-- that's that's basically taking the best of
+
+310
+00:16:07.140 --> 00:16:10.860
+-- how we think and what we do and and and
+
+311
+00:16:11.640 --> 00:16:12.260
+and
+
+312
+00:16:13.640 --> 00:16:16.800
+-- doing it more often making it more common in doing it more often.
+
+313
+00:16:16.810 --> 00:16:19.670
+-- So I'm trying to use technology to enable that, right?
+
+314
+00:16:19.680 --> 00:16:20.810
+-- So in my case,
+
+315
+00:16:20.810 --> 00:16:23.560
+-- it's creating these connections than that
+
+316
+00:16:23.570 --> 00:16:25.960
+-- are really the essence of creative thinking
+
+317
+00:16:26.440 --> 00:16:28.910
+-- and we are often at our best when we can
+
+318
+00:16:28.910 --> 00:16:31.130
+-- be creative and that's where solutions start to come from.
+
+319
+00:16:31.130 --> 00:16:33.610
+-- So I think there's a bunch of low hanging fruit,
+
+320
+00:16:33.610 --> 00:16:37.220
+-- low hanging fruit being storing the knowledge, low hanging fruit being,
+
+321
+00:16:37.230 --> 00:16:40.960
+-- enabling people to get to solutions that have existed for a really long time,
+
+322
+00:16:40.960 --> 00:16:43.770
+-- but maybe they're not aware of it or they don't know about it.
+
+323
+00:16:45.040 --> 00:16:49.480
+-- And then it's then it's enabling people to be more creative, more innovative.
+
+324
+00:16:49.490 --> 00:16:51.850
+-- Again, it's a visual version of that.
+
+325
+00:16:52.240 --> 00:16:54.580
+-- I'm not saying that's the only way to do this,
+
+326
+00:16:54.590 --> 00:16:56.060
+-- but I'm saying it's a big piece that's
+
+327
+00:16:56.060 --> 00:16:58.370
+-- missing right now that technology could fill and
+
+328
+00:16:58.370 --> 00:17:01.220
+-- for for those of us who would find a benefit in a tool like this?
+
+329
+00:17:01.220 --> 00:17:04.940
+-- I think we would usually benefit when I talked to Vincent about it,
+
+330
+00:17:04.950 --> 00:17:11.380
+-- we've come to a and Michael last week to it was there need to be different views.
+
+331
+00:17:11.380 --> 00:17:11.569
+-- Right?
+
+332
+00:17:11.569 --> 00:17:15.410
+-- Sometimes you need to see things in list form, sometimes you want to see a map view,
+
+333
+00:17:15.420 --> 00:17:18.180
+-- sometimes you want to look at the database itself.
+
+334
+00:17:18.190 --> 00:17:20.030
+-- And I think those that would be a
+
+335
+00:17:20.030 --> 00:17:23.240
+-- valuable interfaces to have almost like toggles at the
+
+336
+00:17:23.240 --> 00:17:25.369
+-- top where you can switch between views or
+
+337
+00:17:25.369 --> 00:17:27.760
+-- different views being presented at the same time.
+
+338
+00:17:27.760 --> 00:17:32.170
+-- And again, you know, the brain just kind of went there in the sense that you have the
+
+339
+00:17:32.540 --> 00:17:37.290
+-- you have the brain view on one side and you have the page view on the other.
+
+340
+00:17:37.290 --> 00:17:39.090
+-- So I think again,
+
+341
+00:17:39.090 --> 00:17:44.020
+-- some stuff like that's coming but circling back around my approach to it
+
+342
+00:17:44.020 --> 00:17:47.770
+-- is from the visual view and not so much from the data view.
+
+343
+00:17:51.240 --> 00:17:57.270
+-- Um, if if I may, I kind of wanted to pick up and and to do kind of a parallel, um,
+
+344
+00:17:57.940 --> 00:18:03.460
+-- rent or chat or whatever. Um, I've been for the for a week or two?
+
+345
+00:18:03.840 --> 00:18:04.830
+-- Maybe a little bit longer?
+
+346
+00:18:04.830 --> 00:18:09.660
+-- I've been talking about organizing information especially as relates to wikis.
+
+347
+00:18:10.140 --> 00:18:12.170
+-- Um and
+
+348
+00:18:13.040 --> 00:18:18.290
+-- um and I have I've been making a couple of assertions and part of it,
+
+349
+00:18:18.300 --> 00:18:20.770
+-- I I have a fairly strong position,
+
+350
+00:18:20.780 --> 00:18:26.460
+-- which is why I strengthen a little bit just to to be able to articulate it.
+
+351
+00:18:26.460 --> 00:18:31.160
+-- I don't think it's the only way to think are the only way that I don't know if it's true,
+
+352
+00:18:31.540 --> 00:18:35.620
+-- but I like to take a strong position and you know, and talk about that.
+
+353
+00:18:35.620 --> 00:18:37.560
+-- So my strong position is that
+
+354
+00:18:37.940 --> 00:18:39.050
+um
+
+355
+00:18:39.840 --> 00:18:43.550
+-- uh 111 thing is that the folks here,
+
+356
+00:18:43.560 --> 00:18:50.190
+-- people like us are all specialists and were able to use uh specialized tools,
+
+357
+00:18:50.200 --> 00:18:55.660
+-- uh like databases or like lists or like visualizations.
+
+358
+00:18:55.670 --> 00:18:56.760
+Um
+
+359
+00:18:57.540 --> 00:19:00.060
+-- uh and most people uh
+
+360
+00:19:00.740 --> 00:19:02.780
+-- aren't specialists,
+
+361
+00:19:02.790 --> 00:19:06.520
+-- they're kind of human generalists and they get through life without using a
+
+362
+00:19:06.520 --> 00:19:09.350
+-- lot of the power tools that we kind of take for granted like
+
+363
+00:19:09.740 --> 00:19:15.120
+-- like wikis or like databases were like lists of things or streams of things.
+
+364
+00:19:15.130 --> 00:19:21.110
+-- Um I think that specialization even goes out to reading and writing to me,
+
+365
+00:19:21.110 --> 00:19:23.560
+-- reading and writing is a specialization.
+
+366
+00:19:23.570 --> 00:19:27.570
+-- Um We all take it so much for granted that it seems like,
+
+367
+00:19:27.580 --> 00:19:29.450
+-- well of course everyone reads and writes.
+
+368
+00:19:29.450 --> 00:19:33.270
+-- But if you think about it in your life, the people that you talk to,
+
+369
+00:19:33.740 --> 00:19:36.750
+-- How many of them have written, you know, 10 pages,
+
+370
+00:19:36.750 --> 00:19:39.270
+-- how I haven't written 10 pages recently, right?
+
+371
+00:19:39.280 --> 00:19:42.430
+-- How many have written? How many have read 100 pages?
+
+372
+00:19:42.440 --> 00:19:45.460
+-- You know, in the past, you know, week or month or whatever, right?
+
+373
+00:19:46.040 --> 00:19:50.560
+-- Um, meeting and writing is kind of a specialization and we we forget that. I think
+
+374
+00:19:50.940 --> 00:19:55.260
+-- so, in the same way, I think that information organization,
+
+375
+00:19:55.640 --> 00:19:56.950
+-- um, uh,
+
+376
+00:19:56.960 --> 00:20:01.460
+-- you have a piece of paper that goes in a file folder that goes in a
+
+377
+00:20:01.460 --> 00:20:03.060
+-- set of another file folders that goes in
+
+378
+00:20:03.060 --> 00:20:05.960
+-- the drawer that goes in a particular cabinet or
+
+379
+00:20:06.540 --> 00:20:10.130
+-- um, probably all of us are old enough to have used physical libraries.
+
+380
+00:20:10.140 --> 00:20:11.020
+-- Um,
+
+381
+00:20:11.030 --> 00:20:15.070
+-- I'm going to go look in the either the old physical card
+
+382
+00:20:15.070 --> 00:20:18.000
+-- catalogs where I'm going to look in the computer card catalog.
+
+383
+00:20:18.010 --> 00:20:21.170
+-- I'm going to find a book about um elephants.
+
+384
+00:20:21.440 --> 00:20:25.560
+-- Um and then it's going to give me a coded address for a
+
+385
+00:20:25.560 --> 00:20:31.460
+-- physical location of a a floor and an aisle and a shelf,
+
+386
+00:20:32.040 --> 00:20:35.290
+-- and a section of that shelf where I can go and
+
+387
+00:20:35.290 --> 00:20:38.670
+-- grab elephants and I can grab other books close to elephants.
+
+388
+00:20:39.140 --> 00:20:41.360
+-- Um, All of that. So
+
+389
+00:20:41.840 --> 00:20:44.530
+-- I think probably each of us grew up in
+
+390
+00:20:44.530 --> 00:20:47.260
+-- an environment where that was kind of just obvious.
+
+391
+00:20:47.260 --> 00:20:50.060
+-- That was kind of just something that everybody did.
+
+392
+00:20:50.440 --> 00:20:51.060
+So
+
+393
+00:20:51.540 --> 00:20:53.480
+-- when I see people pick up a wiki,
+
+394
+00:20:53.490 --> 00:20:58.010
+-- um I see them kind of recapitulating that thinking right.
+
+395
+00:20:58.020 --> 00:21:01.460
+-- Um of course, of course everybody reads and writes.
+
+396
+00:21:01.470 --> 00:21:06.660
+-- Um of course everybody organizes things by categories or by hierarchy.
+
+397
+00:21:07.140 --> 00:21:12.890
+-- Um and that's and I come upon, you know, it's it's fairly common people are going,
+
+398
+00:21:12.890 --> 00:21:16.660
+-- okay, well I'm organizing information and here's my hierarchy, right?
+
+399
+00:21:16.670 --> 00:21:21.880
+-- We don't start the conversation about what what information is, what knowledge is,
+
+400
+00:21:21.880 --> 00:21:22.800
+-- how we communicate.
+
+401
+00:21:22.800 --> 00:21:26.160
+-- We just go straight to this hierarchy. Right? Here's my hierarchy.
+
+402
+00:21:26.160 --> 00:21:27.970
+-- I'm comparing it to somebody else's hierarchy.
+
+403
+00:21:27.970 --> 00:21:30.450
+-- Mine is better than theirs or there's a better than mine. And
+
+404
+00:21:30.840 --> 00:21:33.530
+-- or I, I want to figure out how to map hierarchies.
+
+405
+00:21:33.540 --> 00:21:37.560
+-- And I'm like, so the pitch in massive wikileaks and is like yeah,
+
+406
+00:21:37.570 --> 00:21:40.090
+-- hierarchies and even categories and stuff like that
+
+407
+00:21:40.090 --> 00:21:45.770
+-- aren't as interesting as connections links between uh information
+
+408
+00:21:46.340 --> 00:21:50.060
+-- um uh and context. Um
+
+409
+00:21:50.440 --> 00:21:53.410
+-- so when I, when I talk to people about, you know,
+
+410
+00:21:53.420 --> 00:21:57.470
+-- uh the question is how am I going to organize my information and my wicked.
+
+411
+00:21:57.470 --> 00:21:58.770
+-- And I'm like, well
+
+412
+00:21:59.140 --> 00:22:01.860
+-- don't worry too much about organizing it, worrying,
+
+413
+00:22:01.870 --> 00:22:07.140
+-- worry about capturing it and improving the way it has been captured moving
+
+414
+00:22:07.140 --> 00:22:11.140
+-- up from kind of a stream of consciousness set of notes or thoughts,
+
+415
+00:22:11.150 --> 00:22:14.450
+-- you know, improve that slowly over time.
+
+416
+00:22:14.460 --> 00:22:18.330
+-- And it could be like over weeks or months or years in a wiki, you know,
+
+417
+00:22:18.330 --> 00:22:20.360
+-- where you start to cluster the information and
+
+418
+00:22:20.360 --> 00:22:22.170
+-- you start to connect it to other things.
+
+419
+00:22:22.540 --> 00:22:26.780
+-- Um And then look for ways that you connect information.
+
+420
+00:22:26.790 --> 00:22:28.100
+-- This stream of consciousness.
+
+421
+00:22:28.110 --> 00:22:31.920
+-- Oh this reminds me of other streams of consciousness had in the past.
+
+422
+00:22:31.920 --> 00:22:35.170
+-- And my wiki let me make it draw a link between them, right?
+
+423
+00:22:35.640 --> 00:22:37.950
+-- Um, uh,
+
+424
+00:22:42.940 --> 00:22:46.490
+-- The, the, and then away that Wikis work,
+
+425
+00:22:46.490 --> 00:22:50.230
+-- especially when you get a number of people doing a wicked together,
+
+426
+00:22:50.230 --> 00:22:54.850
+-- which is something that we don't see anymore, but we do it all the time 15 years ago.
+
+427
+00:22:54.860 --> 00:22:55.860
+-- Um,
+
+428
+00:22:56.240 --> 00:23:01.090
+-- uh, there's an interesting thing that happens that people start thinking alike.
+
+429
+00:23:01.100 --> 00:23:06.260
+-- They think in a group brain way. So I, I used to see this all the time.
+
+430
+00:23:06.740 --> 00:23:07.020
+-- Um,
+
+431
+00:23:07.020 --> 00:23:08.820
+-- somebody would start to organize something a
+
+432
+00:23:08.820 --> 00:23:11.160
+-- certain way and then somebody else would
+
+433
+00:23:11.170 --> 00:23:14.360
+-- pick up that organization and improve it a little bit or make it worse.
+
+434
+00:23:14.360 --> 00:23:15.170
+-- Maybe a little bit,
+
+435
+00:23:15.540 --> 00:23:20.220
+-- they'd have some conversations around the edges in a chat system or in real life.
+
+436
+00:23:20.220 --> 00:23:21.490
+-- And they'd say, oh,
+
+437
+00:23:21.490 --> 00:23:24.230
+-- I saw that you started putting headers this way or I saw that
+
+438
+00:23:24.230 --> 00:23:28.670
+-- we started making links or I saw that we started having this convention of
+
+439
+00:23:29.040 --> 00:23:33.730
+-- naming pages a certain way. Here's my idea about that or I like that.
+
+440
+00:23:33.740 --> 00:23:35.520
+-- And here's the thing that I'm going to do.
+
+441
+00:23:35.520 --> 00:23:38.160
+-- Another thing that's similar to that are different than that.
+
+442
+00:23:38.640 --> 00:23:40.960
+-- As we started working together wikis.
+
+443
+00:23:40.960 --> 00:23:44.540
+-- We have this collective way of managing information and organizing information
+
+444
+00:23:44.540 --> 00:23:49.170
+-- and linking information and knowing kind of having body language around.
+
+445
+00:23:49.540 --> 00:23:52.740
+-- Um, you know, you could, you could end up looking at somebody's page and,
+
+446
+00:23:52.740 --> 00:23:55.200
+-- and kind of know what they were thinking about that page.
+
+447
+00:23:55.210 --> 00:24:00.230
+-- Oh they kind of left it in a draft state and I know that I can improve it or you know,
+
+448
+00:24:00.230 --> 00:24:04.080
+-- this is a this is a page where they obviously have a strong opinion about it.
+
+449
+00:24:04.080 --> 00:24:08.350
+-- This is a rant and I'm not going to touch their rant except maybe to fixing typos.
+
+450
+00:24:08.640 --> 00:24:10.460
+-- What I'll do is I'll make a link to it.
+
+451
+00:24:10.740 --> 00:24:13.370
+-- Um and I'll have a separate rant on a separate page.
+
+452
+00:24:13.380 --> 00:24:15.220
+-- That kind of body language of, you know,
+
+453
+00:24:15.220 --> 00:24:18.630
+-- what this information space means and what we're doing with it and things
+
+454
+00:24:18.630 --> 00:24:22.870
+-- like that is something that kind of improves and evolves over time.
+
+455
+00:24:22.870 --> 00:24:26.470
+-- And one of the things I I notice about
+
+456
+00:24:26.470 --> 00:24:30.660
+-- humans is that when we're doing culture together,
+
+457
+00:24:31.040 --> 00:24:34.860
+-- um it brings people closer together. It builds trust.
+
+458
+00:24:34.870 --> 00:24:38.010
+-- It builds relationships that we can rely on
+
+459
+00:24:38.010 --> 00:24:40.850
+-- and then build upon those relationships to do
+
+460
+00:24:41.240 --> 00:24:43.760
+-- a better job of keeping information, things like that.
+
+461
+00:24:44.240 --> 00:24:44.860
+-- Um,
+
+462
+00:24:45.240 --> 00:24:49.500
+-- one of the, some, some people will look at kind of the chatter,
+
+463
+00:24:49.500 --> 00:24:52.890
+-- the chit chat or the slow process of
+
+464
+00:24:52.900 --> 00:24:55.970
+-- organizing information kind of organically rather than,
+
+465
+00:24:55.980 --> 00:24:59.410
+-- you know, having a library sciences person come in and say, okay,
+
+466
+00:24:59.410 --> 00:25:01.950
+-- you've screwed up your information here is the way to do it.
+
+467
+00:25:02.340 --> 00:25:07.350
+-- That's not really what I want out of my wikis. The wikis are participate in right?
+
+468
+00:25:07.350 --> 00:25:10.610
+-- Except you know, sometimes you need that there there are cases when you need that.
+
+469
+00:25:10.620 --> 00:25:13.650
+-- But in the main what you want is to have this
+
+470
+00:25:13.650 --> 00:25:17.980
+-- culture forming that understands how the information is put together,
+
+471
+00:25:17.990 --> 00:25:22.670
+-- wants it to be better and works on that together and builds
+
+472
+00:25:22.840 --> 00:25:28.060
+-- human relationships about how we're doing that. And people are just slow that way.
+
+473
+00:25:28.070 --> 00:25:28.980
+-- And it's a good thing.
+
+474
+00:25:28.990 --> 00:25:31.890
+-- It's a really good thing when we go slow and we
+
+475
+00:25:31.890 --> 00:25:35.790
+-- honor each other's trust and we honor relationships to one another.
+
+476
+00:25:35.790 --> 00:25:36.670
+-- And when we,
+
+477
+00:25:36.740 --> 00:25:41.290
+-- we make jokes about things or we tell people that we're upset about things.
+
+478
+00:25:41.290 --> 00:25:44.310
+-- I can't believe you stomped on my page. Why did you do that? You know?
+
+479
+00:25:44.310 --> 00:25:49.560
+-- And it's okay sometimes to be mad at somebody and you work things out right?
+
+480
+00:25:50.040 --> 00:25:51.820
+-- Um, all of this stuff,
+
+481
+00:25:51.830 --> 00:25:56.990
+-- I'm kind of describing humans as they have been for thousands of years, right?
+
+482
+00:25:56.990 --> 00:25:58.580
+-- Tens of thousands of years.
+
+483
+00:25:58.590 --> 00:26:00.880
+-- If you think about humans and the way they
+
+484
+00:26:00.880 --> 00:26:03.660
+-- communicate and the way did they do knowledge.
+
+485
+00:26:04.140 --> 00:26:08.630
+-- It's not written down. It's not in file folders. It's not in a library.
+
+486
+00:26:08.640 --> 00:26:12.170
+-- The way you human, the way you culture
+
+487
+00:26:12.540 --> 00:26:14.270
+-- is by
+
+488
+00:26:14.640 --> 00:26:18.250
+-- having emotional connections with one another. Having trust bonds.
+
+489
+00:26:18.260 --> 00:26:22.670
+-- Social trust bonds with one another. And the way that you
+
+490
+00:26:23.040 --> 00:26:26.150
+-- communicate information is in what I call stories.
+
+491
+00:26:26.160 --> 00:26:29.770
+-- And when I say story, I mean probably something pretty small.
+
+492
+00:26:29.780 --> 00:26:36.100
+-- Um, even as small as a single sentences to me. A story, right? Subject verb object.
+
+493
+00:26:36.110 --> 00:26:39.060
+-- Um uh,
+
+494
+00:26:39.640 --> 00:26:42.570
+-- last time grandma got too close to the bear cave,
+
+495
+00:26:42.580 --> 00:26:47.930
+-- she got eaten you know or um or uh Auntie was out collecting
+
+496
+00:26:47.930 --> 00:26:50.990
+-- berries and then she found this new kind of berry which is awesome.
+
+497
+00:26:51.000 --> 00:26:55.360
+-- Um or she found this new kind of berry she ate some and she got sick.
+
+498
+00:26:56.240 --> 00:26:56.860
+Um
+
+499
+00:26:57.240 --> 00:26:59.730
+-- Those are the kinds of things that I think.
+
+500
+00:26:59.740 --> 00:27:03.270
+-- So my another strong assertion I have is that
+
+501
+00:27:04.140 --> 00:27:05.060
+people
+
+502
+00:27:05.540 --> 00:27:10.160
+-- knowledge if I can use knowledge of the verb with stories.
+
+503
+00:27:10.640 --> 00:27:15.770
+-- And so all of the technical specialization tools that we have
+
+504
+00:27:16.240 --> 00:27:21.760
+-- um are are largely not entirely but largely ways of
+
+505
+00:27:22.440 --> 00:27:29.060
+-- of story and maybe serializing a story into a form that you can pull out later.
+
+506
+00:27:29.070 --> 00:27:32.900
+-- So text when you write down a piece of text,
+
+507
+00:27:32.910 --> 00:27:37.540
+-- hopefully what you're doing is essentially your brain is
+
+508
+00:27:37.540 --> 00:27:40.950
+-- telling a story of how something happened to you.
+
+509
+00:27:40.950 --> 00:27:41.460
+-- And then you
+
+510
+00:27:41.740 --> 00:27:44.470
+-- you actually tell a story about the story that happened to you.
+
+511
+00:27:44.480 --> 00:27:47.050
+-- You can't really relate the thing that happened to you but
+
+512
+00:27:47.050 --> 00:27:49.270
+-- you relate a story about it what it meant to you.
+
+513
+00:27:49.740 --> 00:27:56.270
+-- And we have this trick where we we serialize language spoken language into text
+
+514
+00:27:56.640 --> 00:27:59.800
+-- and then later I can or somebody else can de
+
+515
+00:27:59.800 --> 00:28:04.350
+-- serialize that back into speech and language and stories.
+
+516
+00:28:04.740 --> 00:28:08.710
+-- And it's not the text that is the communicator.
+
+517
+00:28:08.710 --> 00:28:12.480
+-- It's actually the story that I tried to serialize into text
+
+518
+00:28:12.490 --> 00:28:15.530
+-- and the story that somebody de serialize out of the text.
+
+519
+00:28:15.540 --> 00:28:18.450
+-- So the story there is the interesting part.
+
+520
+00:28:18.460 --> 00:28:22.050
+-- Um So then something like a map of visualization is
+
+521
+00:28:22.050 --> 00:28:25.670
+-- kind of the same thing where you take um Yeah.
+
+522
+00:28:26.040 --> 00:28:30.780
+-- Uh you take a bunch of stories and you can put them in a visual
+
+523
+00:28:30.790 --> 00:28:35.550
+-- space and you can and and but then the way that you use the map is
+
+524
+00:28:36.140 --> 00:28:41.920
+-- me later looking at my map or somebody else, or me showing somebody else my map,
+
+525
+00:28:41.930 --> 00:28:44.450
+-- it's like A is connected to be this way
+
+526
+00:28:45.040 --> 00:28:47.960
+-- B is connected to C. And D. These ways.
+
+527
+00:28:47.970 --> 00:28:52.090
+-- And you you tell a story around the map,
+
+528
+00:28:52.100 --> 00:28:56.310
+-- and that's the value of the map is it's a way to
+
+529
+00:28:56.310 --> 00:28:59.990
+-- remind yourself of the stories that you can tell in that space.
+
+530
+00:29:00.000 --> 00:29:04.960
+-- The um And when you make a map and give it to somebody else,
+
+531
+00:29:05.340 --> 00:29:09.860
+-- if you did a good job, what happens is that they can
+
+532
+00:29:10.440 --> 00:29:15.070
+-- brainstorm over the map that you've created and tell stories.
+
+533
+00:29:15.080 --> 00:29:18.910
+-- They can't look at a map and get all the visual relations,
+
+534
+00:29:18.910 --> 00:29:21.560
+-- they don't get the relationships of all of that stuff
+
+535
+00:29:22.040 --> 00:29:23.040
+-- in a flash.
+
+536
+00:29:23.050 --> 00:29:25.720
+-- What happens is they look at a map and they go,
+
+537
+00:29:25.720 --> 00:29:28.760
+-- ok if I need to get from the Empire State Building
+
+538
+00:29:29.140 --> 00:29:32.490
+-- uh to uh to the met,
+
+539
+00:29:32.500 --> 00:29:38.000
+-- what I have to do is find this station and use this line and then go to
+
+540
+00:29:38.000 --> 00:29:41.950
+-- this station and make a transfer and then go to another station and get out right,
+
+541
+00:29:42.440 --> 00:29:45.940
+-- you tell yourself a story of how to navigate the map.
+
+542
+00:29:45.950 --> 00:29:48.670
+-- and that story again is the important part,
+
+543
+00:29:49.040 --> 00:29:54.740
+-- the map is just a way of giving you hints about what the stories are,
+
+544
+00:29:54.750 --> 00:29:56.440
+-- right and where the stories are,
+
+545
+00:29:56.450 --> 00:29:59.830
+-- it helps you remember how many stories that you can get.
+
+546
+00:29:59.840 --> 00:30:02.360
+-- It helps you synthesize new stories.
+
+547
+00:30:02.360 --> 00:30:06.260
+-- You know, if somebody made a map of all the subway stations in new york,
+
+548
+00:30:06.740 --> 00:30:09.500
+-- maybe that's not super useful to them or to you,
+
+549
+00:30:09.510 --> 00:30:12.990
+-- but when you can turn it into something like I need
+
+550
+00:30:12.990 --> 00:30:15.610
+-- to get from the Empire State Building to the mat,
+
+551
+00:30:15.620 --> 00:30:19.310
+-- then you've synthesized the story out of it that they didn't write down,
+
+552
+00:30:19.310 --> 00:30:22.530
+-- they wrote down all the possible stories with the subway stations.
+
+553
+00:30:22.540 --> 00:30:26.660
+-- But the story again, is the the interesting and important part.
+
+554
+00:30:26.940 --> 00:30:27.860
+-- So then
+
+555
+00:30:28.740 --> 00:30:32.610
+-- one of the things that I observe with these visualizations,
+
+556
+00:30:32.620 --> 00:30:37.550
+-- graph visualizations of knowledge base is always look like junk to me.
+
+557
+00:30:37.560 --> 00:30:39.560
+-- Um if they're automatically done
+
+558
+00:30:40.140 --> 00:30:45.330
+-- and it's I think what happens is that when you just have the machine say, okay,
+
+559
+00:30:45.330 --> 00:30:46.850
+-- here's all the connections.
+
+560
+00:30:46.860 --> 00:30:49.260
+-- Um you didn't capture
+
+561
+00:30:49.740 --> 00:30:54.380
+-- the ability to do, you didn't capture a story, There wasn't a human that said,
+
+562
+00:30:54.390 --> 00:30:56.830
+-- you know, this is a is connected to B.
+
+563
+00:30:56.830 --> 00:30:58.250
+-- And B. Is connected to C.
+
+564
+00:30:58.250 --> 00:31:02.800
+-- And it's important because you just had a database query that said, okay,
+
+565
+00:31:02.800 --> 00:31:06.450
+-- split all the possible connections on the screen, right?
+
+566
+00:31:06.740 --> 00:31:08.760
+-- Um and then maybe if you're lucky,
+
+567
+00:31:08.770 --> 00:31:13.460
+-- some gravity forces kind of organized it into a way that is least objectionable.
+
+568
+00:31:14.040 --> 00:31:15.860
+-- But the
+
+569
+00:31:16.240 --> 00:31:19.810
+-- The process of just making a visualization doesn't make meaning.
+
+570
+00:31:19.810 --> 00:31:21.890
+-- It doesn't make stories and things like that,
+
+571
+00:31:21.900 --> 00:31:25.880
+-- it's when somebody comes along and curates that and says, Okay,
+
+572
+00:31:25.890 --> 00:31:28.770
+-- so now I've got a picture of 200 nodes.
+
+573
+00:31:29.240 --> 00:31:31.890
+-- Let me filter out the ones that aren't meaningful.
+
+574
+00:31:31.920 --> 00:31:34.670
+-- Let me highlight the connections that are meaningful.
+
+575
+00:31:35.040 --> 00:31:36.660
+-- And here
+
+576
+00:31:37.540 --> 00:31:43.680
+-- MS reader is a story that I can tell out of this mismatch of big data.
+
+577
+00:31:43.690 --> 00:31:46.450
+-- I've I've curated it into stories.
+
+578
+00:31:46.840 --> 00:31:49.390
+-- So my whole thing is is stories are the
+
+579
+00:31:49.390 --> 00:31:51.880
+-- way people think the way that people knowledge,
+
+580
+00:31:51.890 --> 00:31:55.560
+-- we use specialized tools to help us story
+
+581
+00:31:56.240 --> 00:31:58.920
+-- but we don't want to get distracted by the fact
+
+582
+00:31:58.920 --> 00:32:02.080
+-- that the tools that the tools aren't the story,
+
+583
+00:32:02.090 --> 00:32:02.590
+-- right?
+
+584
+00:32:02.600 --> 00:32:05.950
+-- Um the stories are still the story and the tools
+
+585
+00:32:05.950 --> 00:32:09.560
+-- just help us serialized stories and de serialized stories,
+
+586
+00:32:10.040 --> 00:32:11.060
+-- so that's my pitch.
+
+587
+00:32:12.540 --> 00:32:12.770
+-- Okay,
+
+588
+00:32:19.940 --> 00:32:22.060
+-- Mark, I think maybe you're up next except your music
+
+589
+00:32:25.940 --> 00:32:26.770
+-- are commuted.
+
+590
+00:32:28.340 --> 00:32:28.870
+-- Sorry?
+
+591
+00:32:28.880 --> 00:32:32.470
+-- Um Yes, I am up next by hand uh signal,
+
+592
+00:32:32.470 --> 00:32:35.270
+-- but I'd love to hear responses to what Peter just said.
+
+593
+00:32:38.640 --> 00:32:42.170
+-- I I asked a question, I'm in the chat um
+
+594
+00:32:43.340 --> 00:32:45.860
+-- about stories
+
+595
+00:32:46.340 --> 00:32:51.950
+-- Um 20 I was in a conversation yesterday with uh some uh
+
+596
+00:32:53.540 --> 00:32:56.770
+-- um c t a uh
+
+597
+00:32:58.340 --> 00:33:02.360
+-- collaborative technology alliance um folks about um
+
+598
+00:33:03.040 --> 00:33:07.270
+-- ontology ease and schemas and um
+
+599
+00:33:07.640 --> 00:33:08.360
+and
+
+600
+00:33:09.340 --> 00:33:12.460
+-- was thinking out of what they were saying about
+
+601
+00:33:13.140 --> 00:33:13.860
+um
+
+602
+00:33:16.540 --> 00:33:20.260
+-- trying to strip down to um
+
+603
+00:33:21.640 --> 00:33:21.840
+-- yeah,
+
+604
+00:33:22.440 --> 00:33:30.860
+-- people, you know agents, those that can be profiled those that have agency
+
+605
+00:33:31.440 --> 00:33:32.160
+um
+
+606
+00:33:34.340 --> 00:33:36.050
+-- for lack of a better word
+
+607
+00:33:36.940 --> 00:33:38.860
+-- data, information
+
+608
+00:33:39.240 --> 00:33:41.160
+-- nodes, um
+
+609
+00:33:42.340 --> 00:33:46.830
+-- a second category that is just stuff without agency but information
+
+610
+00:33:46.830 --> 00:33:53.260
+-- that gathers um metadata and stories I would say as well,
+
+611
+00:33:54.240 --> 00:33:57.960
+-- story elements as the
+
+612
+00:33:58.440 --> 00:34:03.170
+-- accumulates, I mean things that stories can be told about um
+
+613
+00:34:03.540 --> 00:34:04.180
+-- and then
+
+614
+00:34:04.380 --> 00:34:10.050
+-- containers, which is a much looser thing, which I wonder if it might include stories
+
+615
+00:34:10.440 --> 00:34:12.260
+-- um that when you
+
+616
+00:34:13.040 --> 00:34:15.260
+-- um take all these
+
+617
+00:34:15.639 --> 00:34:18.610
+-- random books in the library um some of
+
+618
+00:34:18.610 --> 00:34:21.010
+-- which were they not constrained by physical space,
+
+619
+00:34:21.010 --> 00:34:24.780
+-- might fit in multiple sections or might fit
+
+620
+00:34:24.790 --> 00:34:28.260
+-- together in different ways according to different people
+
+621
+00:34:28.739 --> 00:34:34.670
+-- but you allow all these overlapping containers and stories
+
+622
+00:34:35.040 --> 00:34:36.960
+-- to be created around them
+
+623
+00:34:37.540 --> 00:34:39.460
+-- which um
+
+624
+00:34:41.139 --> 00:34:41.340
+-- yeah,
+
+625
+00:34:42.340 --> 00:34:48.270
+-- you know which of course their hair brain stories told about the same set
+
+626
+00:34:48.270 --> 00:34:52.270
+-- of facts but there's there's an inherent
+
+627
+00:34:52.280 --> 00:34:56.260
+-- vetting and building of reputation in seeing
+
+628
+00:34:56.639 --> 00:34:58.170
+-- the gravity of
+
+629
+00:34:58.940 --> 00:35:01.760
+-- the connection between certain facts.
+
+630
+00:35:02.140 --> 00:35:02.860
+Um
+
+631
+00:35:03.540 --> 00:35:05.890
+-- data points, pieces of information
+
+632
+00:35:06.080 --> 00:35:07.560
+-- that different
+
+633
+00:35:08.240 --> 00:35:15.760
+-- agents have drawn in a story or by just tagging them the same way or by
+
+634
+00:35:17.240 --> 00:35:19.460
+-- just connections that they have drawn?
+
+635
+00:35:19.940 --> 00:35:20.560
+Um
+
+636
+00:35:21.140 --> 00:35:21.670
+-- Mhm.
+
+637
+00:35:22.540 --> 00:35:25.060
+-- And I don't know if those three elements
+
+638
+00:35:26.140 --> 00:35:26.760
+uh
+
+639
+00:35:27.140 --> 00:35:31.990
+-- I see Bill, just asking the question what is the fact before is the fact, you know,
+
+640
+00:35:32.000 --> 00:35:37.670
+-- a data point an assertion which may be wrong, which you know and yes,
+
+641
+00:35:38.140 --> 00:35:39.250
+incorrect
+
+642
+00:35:39.640 --> 00:35:41.670
+-- data points can
+
+643
+00:35:42.640 --> 00:35:48.480
+-- build some gravity um around a story that certain people are telling each other,
+
+644
+00:35:48.480 --> 00:35:53.830
+-- but if you also have as as metadata around that item.
+
+645
+00:35:53.840 --> 00:35:56.260
+-- Other people saying this is wrong
+
+646
+00:35:56.740 --> 00:36:01.750
+-- um and other people with, with expertise in that area saying this is wrong,
+
+647
+00:36:02.930 --> 00:36:07.250
+-- that can be telling for people, if you if you go to that piece of data
+
+648
+00:36:08.030 --> 00:36:09.950
+-- in a random access way,
+
+649
+00:36:10.330 --> 00:36:13.150
+-- there's a little bit of a story that an individual piece of data
+
+650
+00:36:13.930 --> 00:36:15.460
+-- tells that
+
+651
+00:36:15.830 --> 00:36:20.450
+-- that has the information that different agents has. The
+
+652
+00:36:21.130 --> 00:36:21.550
+mhm
+
+653
+00:36:22.030 --> 00:36:24.160
+-- The containers um
+
+654
+00:36:24.930 --> 00:36:28.850
+-- iii stories, tags um groupings
+
+655
+00:36:29.430 --> 00:36:34.850
+-- that that different agents have put on it to say, wow this, this
+
+656
+00:36:35.730 --> 00:36:37.160
+-- alleged fact
+
+657
+00:36:37.630 --> 00:36:38.550
+is
+
+658
+00:36:38.930 --> 00:36:43.760
+-- um is associated with some things that other people say they are wrong
+
+659
+00:36:43.760 --> 00:36:48.160
+-- and the people who are expert in this field seemed to say that
+
+660
+00:36:48.830 --> 00:36:51.850
+-- this is wrong. There's at least controversy here.
+
+661
+00:36:52.730 --> 00:36:53.350
+Um
+
+662
+00:36:53.930 --> 00:36:54.160
+mhm
+
+663
+00:36:55.630 --> 00:36:58.050
+-- You know, the visualization of this
+
+664
+00:36:58.430 --> 00:36:59.450
+-- can be
+
+665
+00:37:00.630 --> 00:37:02.120
+-- done in many ways.
+
+666
+00:37:04.130 --> 00:37:09.350
+-- Sorry, I'll stop. But I mean I just wanted to throw out the idea of
+
+667
+00:37:09.730 --> 00:37:10.450
+um
+
+668
+00:37:10.830 --> 00:37:14.870
+-- that that random access quality being sort of
+
+669
+00:37:14.870 --> 00:37:19.460
+-- a leveler because anybody can just come upon
+
+670
+00:37:20.530 --> 00:37:24.040
+-- whether digitally or in the world um
+
+671
+00:37:24.930 --> 00:37:26.550
+-- an item of information
+
+672
+00:37:27.130 --> 00:37:29.950
+-- and if part of our job
+
+673
+00:37:31.030 --> 00:37:35.050
+-- and part of our job in creating interoperability is too
+
+674
+00:37:35.530 --> 00:37:37.150
+-- associate as much
+
+675
+00:37:38.130 --> 00:37:44.550
+-- metadata and as many stories and containers that have been put there by other people
+
+676
+00:37:45.030 --> 00:37:48.840
+-- um to let somebody find something and let them
+
+677
+00:37:49.230 --> 00:37:50.160
+-- use the
+
+678
+00:37:50.730 --> 00:37:52.890
+-- all the spokes, all the edges
+
+679
+00:37:53.040 --> 00:37:54.240
+-- that come out of it
+
+680
+00:37:54.630 --> 00:37:59.850
+-- to find people find related information,
+
+681
+00:38:00.320 --> 00:38:01.250
+-- dispute it.
+
+682
+00:38:01.820 --> 00:38:02.450
+Um
+
+683
+00:38:03.220 --> 00:38:03.540
+No
+
+684
+00:38:04.720 --> 00:38:06.540
+-- find the stories that are built around it.
+
+685
+00:38:07.420 --> 00:38:10.750
+-- Um I think that's it's a little bit our job.
+
+686
+00:38:13.320 --> 00:38:13.530
+-- Mhm.
+
+687
+00:38:16.220 --> 00:38:16.450
+-- Mhm.
+
+688
+00:38:19.820 --> 00:38:26.030
+-- Um Thanks Michael and uh thanks Peter. These are both great um
+
+689
+00:38:26.620 --> 00:38:32.800
+-- notions I am fairly known um or at least uh unfairly known,
+
+690
+00:38:32.810 --> 00:38:39.970
+-- fairly unknown for basically um trying to take
+
+691
+00:38:39.970 --> 00:38:42.250
+-- the position that it's not all stories,
+
+692
+00:38:42.620 --> 00:38:47.150
+-- its context, it's different types of
+
+693
+00:38:47.520 --> 00:38:51.330
+-- elements, statements, um
+
+694
+00:38:52.420 --> 00:39:00.250
+-- oppositional propositions, big propositions questions. Um
+
+695
+00:39:00.720 --> 00:39:04.440
+-- and I find the story focus to be
+
+696
+00:39:04.920 --> 00:39:13.670
+-- um in the study of how we basically grow an understanding to be a limited kind of view.
+
+697
+00:39:13.680 --> 00:39:14.940
+-- Um I just
+
+698
+00:39:15.420 --> 00:39:16.140
+um
+
+699
+00:39:17.020 --> 00:39:22.420
+-- I'll try I'll just put that out there and and come back to it later,
+
+700
+00:39:22.420 --> 00:39:24.940
+-- but I certainly appreciate um
+
+701
+00:39:26.020 --> 00:39:29.040
+-- the slow culture
+
+702
+00:39:29.720 --> 00:39:32.330
+-- vision of or
+
+703
+00:39:32.920 --> 00:39:36.840
+-- um story or example that Peter told.
+
+704
+00:39:37.220 --> 00:39:46.150
+-- Um I posted a James Maxwell quotations um and I'll just post the quotation um
+
+705
+00:39:46.620 --> 00:39:52.530
+-- uh in there basically. Um and I'll read it out,
+
+706
+00:39:53.620 --> 00:39:56.530
+-- It's part of a 19
+
+707
+00:39:57.220 --> 00:39:59.340
+-- 78. Um
+
+708
+00:40:00.510 --> 00:40:06.530
+-- I'm looking for the encyclopedia Britannica where apparently this um
+
+709
+00:40:07.610 --> 00:40:11.570
+-- quote on entropy is but let me read it out
+
+710
+00:40:11.580 --> 00:40:16.310
+-- a memorandum book does not provided it is neatly written,
+
+711
+00:40:16.320 --> 00:40:17.830
+-- appear confused
+
+712
+00:40:18.910 --> 00:40:20.440
+-- to an illiterate person
+
+713
+00:40:22.110 --> 00:40:23.940
+-- or to the owner who understands it
+
+714
+00:40:24.710 --> 00:40:25.490
+-- thoroughly,
+
+715
+00:40:25.660 --> 00:40:29.330
+-- but to any other person able to read it.
+
+716
+00:40:30.310 --> 00:40:33.940
+-- It appears to be inextricably confused.
+
+717
+00:40:35.010 --> 00:40:37.750
+-- So we've all had the experience of being in
+
+718
+00:40:37.750 --> 00:40:42.030
+-- class and sharing notes with other people and basically
+
+719
+00:40:42.710 --> 00:40:46.650
+-- some people's notes are clear and understandable to us.
+
+720
+00:40:46.890 --> 00:40:49.430
+-- Other people's notes are Impenetrable.
+
+721
+00:40:49.910 --> 00:40:51.830
+-- Um And
+
+722
+00:40:52.210 --> 00:40:55.030
+-- what I love about this quote is it's in the middle of
+
+723
+00:40:55.610 --> 00:40:57.740
+-- available a discussion of entropy,
+
+724
+00:40:57.740 --> 00:41:01.070
+-- available energy and dissipated energy is heat.
+
+725
+00:41:01.080 --> 00:41:08.530
+-- And this uh notion of organization is linked to
+
+726
+00:41:10.010 --> 00:41:16.130
+-- the states of motion of atoms. But anyway the this little chunk
+
+727
+00:41:16.510 --> 00:41:18.400
+-- really puts out
+
+728
+00:41:18.410 --> 00:41:19.240
+a
+
+729
+00:41:22.010 --> 00:41:24.380
+-- a case to tie back to what Peter was
+
+730
+00:41:24.380 --> 00:41:29.550
+-- talking about about some kind of collaborative culture where we
+
+731
+00:41:29.550 --> 00:41:37.100
+-- learn each other's signs and organizational systems and adapt mutually
+
+732
+00:41:37.100 --> 00:41:40.240
+-- to each other so that we can have an artifact
+
+733
+00:41:40.510 --> 00:41:42.330
+-- that is mutually meaningful.
+
+734
+00:41:42.710 --> 00:41:43.820
+Now
+
+735
+00:41:44.510 --> 00:41:51.070
+-- whether that can be done on a website like factor or even Wikipedia.
+
+736
+00:41:51.080 --> 00:41:53.880
+-- Uh people are actually doing that.
+
+737
+00:41:53.890 --> 00:41:59.630
+-- People are actually developing different ways of communicating.
+
+738
+00:42:00.200 --> 00:42:01.120
+Um
+
+739
+00:42:03.300 --> 00:42:05.420
+-- When I was involved with
+
+740
+00:42:08.800 --> 00:42:11.430
+-- 03 d. um
+
+741
+00:42:11.900 --> 00:42:13.520
+-- vernal Vrml
+
+742
+00:42:14.100 --> 00:42:15.020
+um
+
+743
+00:42:15.600 --> 00:42:19.620
+-- it was an idea to create three D. Spaces on the web
+
+744
+00:42:20.400 --> 00:42:24.020
+-- and like html. You could cut and paste to make your own stuff.
+
+745
+00:42:24.400 --> 00:42:29.110
+-- But I went to architecture school and learn how to think in three dimensions.
+
+746
+00:42:29.600 --> 00:42:31.140
+-- People can
+
+747
+00:42:31.320 --> 00:42:32.930
+-- do the writing
+
+748
+00:42:33.500 --> 00:42:35.230
+-- of html
+
+749
+00:42:36.300 --> 00:42:39.510
+-- and the reading of html in a browser very
+
+750
+00:42:40.500 --> 00:42:41.450
+easily
+
+751
+00:42:41.560 --> 00:42:44.010
+-- to actually create visual
+
+752
+00:42:45.100 --> 00:42:50.090
+-- or at least I'll use the three D. Example to create spatial three D.
+
+753
+00:42:50.090 --> 00:42:51.930
+-- Spaces that make sense.
+
+754
+00:42:52.500 --> 00:42:58.290
+-- Um It was an authoring problem. You could not author a three D.
+
+755
+00:42:58.290 --> 00:43:06.780
+-- Space as easily as you could the two D. Web page and it kind of fizzled out and and died.
+
+756
+00:43:06.780 --> 00:43:07.430
+So
+
+757
+00:43:08.300 --> 00:43:11.050
+-- certainly what I'm trying to point out are to
+
+758
+00:43:11.050 --> 00:43:16.120
+-- the two aspects of creating the shared knowledge bases,
+
+759
+00:43:16.800 --> 00:43:19.050
+-- the writing part and the reading
+
+760
+00:43:19.050 --> 00:43:19.730
+-- part.
+
+761
+00:43:20.100 --> 00:43:21.810
+-- Um They're not
+
+762
+00:43:23.600 --> 00:43:28.400
+-- always as clear as we might ourselves
+
+763
+00:43:28.400 --> 00:43:31.310
+-- imagine when it comes to involving other people
+
+764
+00:43:32.400 --> 00:43:39.620
+-- and um certainly um I loved what uh Michael and and peter we're talking about. Um
+
+765
+00:43:40.100 --> 00:43:43.930
+-- and unfortunately I've got to go in about four minutes but
+
+766
+00:43:44.500 --> 00:43:46.510
+-- uh thanks for listening.
+
+767
+00:43:49.500 --> 00:43:50.010
+-- Thanks mike.
+
+768
+00:43:59.600 --> 00:43:59.810
+-- Yes.
+
+769
+00:44:00.790 --> 00:44:03.400
+-- Um along with the Mexico code. Thank you mark.
+
+770
+00:44:03.410 --> 00:44:07.810
+-- Um I wanted to share a Kafka letter, franz kafka letter.
+
+771
+00:44:08.190 --> 00:44:09.510
+-- Um It
+
+772
+00:44:09.990 --> 00:44:14.720
+-- came up in the context of a smaller part of the quote of it, but it's a fun,
+
+773
+00:44:15.090 --> 00:44:15.290
+-- yeah,
+
+774
+00:44:15.890 --> 00:44:16.910
+-- it's a fun letter.
+
+775
+00:44:17.390 --> 00:44:19.310
+-- It's in german so you have to
+
+776
+00:44:20.290 --> 00:44:21.720
+-- you have to translate it. But
+
+777
+00:44:22.290 --> 00:44:22.920
+um
+
+778
+00:44:24.390 --> 00:44:31.440
+-- uh the small quote was um words or really a book. A book must be the
+
+779
+00:44:31.620 --> 00:44:34.110
+-- ice axe for the frozen sea within us.
+
+780
+00:44:34.790 --> 00:44:35.110
+Ah
+
+781
+00:44:36.090 --> 00:44:37.310
+-- The whole letter is lovely
+
+782
+00:44:39.090 --> 00:44:40.220
+-- and I won't,
+
+783
+00:44:40.590 --> 00:44:41.100
+-- I mean
+
+784
+00:44:41.690 --> 00:44:43.720
+-- grab it and grab it and translate it.
+
+785
+00:44:47.490 --> 00:44:50.610
+-- That's not the that's the pull quote but that's not the best part of it.
+
+786
+00:44:51.090 --> 00:44:51.290
+-- Yeah,
+
+787
+00:44:53.370 --> 00:44:53.800
+-- instant.
+
+788
+00:44:57.190 --> 00:44:58.260
+Hello
+
+789
+00:44:58.260 --> 00:44:59.190
+-- everyone.
+
+790
+00:44:59.200 --> 00:45:01.090
+-- I have like a
+
+791
+00:45:01.100 --> 00:45:03.610
+-- half baked thought um
+
+792
+00:45:05.490 --> 00:45:07.110
+-- whenever I
+
+793
+00:45:07.790 --> 00:45:12.800
+-- find information or stories that are really interesting.
+
+794
+00:45:13.590 --> 00:45:14.420
+Um
+
+795
+00:45:15.090 --> 00:45:17.420
+-- My
+-- one of my first
+
+796
+00:45:18.190 --> 00:45:23.610
+-- kind of urges is to like save it in a place where I know I can find it later
+
+797
+00:45:23.990 --> 00:45:25.910
+-- and I don't know
+
+798
+00:45:26.290 --> 00:45:27.310
+-- if that
+
+799
+00:45:28.590 --> 00:45:37.680
+-- like almost like a bad learned habit because life is too demanding and we don't have
+
+800
+00:45:37.680 --> 00:45:42.000
+-- the time when we come across something we like to actually like sit with it.
+
+801
+00:45:42.390 --> 00:45:48.230
+-- It's like, you know, you come across like a patrick berry's, but there's like a,
+
+802
+00:45:48.240 --> 00:45:51.220
+-- you know, a wild tiger chasing you and so you can look at it,
+
+803
+00:45:51.220 --> 00:45:54.210
+-- take a mental note of where it is and then you have to keep running away.
+
+804
+00:45:54.690 --> 00:45:59.100
+-- And so I don't know if that's um and like a realistic
+
+805
+00:46:00.080 --> 00:46:06.260
+-- uh analogy um because maybe will never be in
+
+806
+00:46:06.260 --> 00:46:08.150
+-- a time where we can actually go through things.
+
+807
+00:46:08.150 --> 00:46:09.800
+-- But yeah, I very rarely
+
+808
+00:46:10.180 --> 00:46:15.450
+-- um there's this one tool I use called refined when I open a new tab and it shows me
+
+809
+00:46:15.450 --> 00:46:19.010
+-- like really interesting articles and occasionally I'll like open
+
+810
+00:46:19.010 --> 00:46:21.080
+-- up one of those articles and and read it,
+
+811
+00:46:21.090 --> 00:46:23.560
+-- but most of the times I'll save it for later and then when
+
+812
+00:46:23.560 --> 00:46:26.100
+-- I do have the time I will open it up and read it.
+
+813
+00:46:26.480 --> 00:46:31.830
+-- Um But yeah, like for me, there's like almost two separate processes,
+
+814
+00:46:31.830 --> 00:46:33.200
+-- there's the process of like
+
+815
+00:46:33.580 --> 00:46:36.620
+-- being emergent engaged in stories which is like the
+
+816
+00:46:36.620 --> 00:46:39.040
+-- actual juicy stuff like that's like the berries.
+
+817
+00:46:39.040 --> 00:46:40.090
+-- It's what you live for,
+
+818
+00:46:40.580 --> 00:46:43.040
+-- but then there's like a whole other process which is like, all right,
+
+819
+00:46:43.040 --> 00:46:44.500
+-- we're like hunting for
+
+820
+00:46:44.880 --> 00:46:49.100
+-- the stories for the berries. It's like, and that's that time
+
+821
+00:46:49.480 --> 00:46:50.910
+-- is kind of unknown.
+
+822
+00:46:50.910 --> 00:46:53.800
+-- You know when you're going to come across something and so
+
+823
+00:46:53.810 --> 00:46:57.700
+-- I feel like having an information system which actually can help me
+
+824
+00:46:58.280 --> 00:47:01.100
+-- take that unknown and make it a little bit more known.
+
+825
+00:47:01.480 --> 00:47:03.120
+-- Like when I search for something on Google,
+
+826
+00:47:03.120 --> 00:47:07.220
+-- I'm not sure if it's going to be on the first result of the page or it's
+
+827
+00:47:07.220 --> 00:47:10.800
+-- going to be on the like 107th page or I'm not going to find it at all.
+
+828
+00:47:11.580 --> 00:47:15.800
+-- Um So having a way to like search and find information that's like
+
+829
+00:47:16.180 --> 00:47:21.330
+-- reliable, that when you do want to like sit down and engage with the story, you know,
+
+830
+00:47:21.330 --> 00:47:22.210
+-- you could find it.
+
+831
+00:47:22.580 --> 00:47:26.750
+-- Um like last night I spent a half an hour looking on like, you know,
+
+832
+00:47:26.750 --> 00:47:29.090
+-- four different websites for a movie to watch that
+
+833
+00:47:29.480 --> 00:47:31.100
+-- was on netflix and that
+
+834
+00:47:31.480 --> 00:47:35.130
+-- um wasn't over two hours because we don't have that much time.
+
+835
+00:47:35.140 --> 00:47:39.230
+-- Uh and that was not super action
+
+836
+00:47:39.230 --> 00:47:39.710
+packed
+
+837
+00:47:39.720 --> 00:47:41.690
+-- because I
+-- actually got into a surfing incident.
+
+838
+00:47:41.700 --> 00:47:45.970
+-- I was like super adrenaline adrenaline filled and I wanted
+
+839
+00:47:45.970 --> 00:47:49.630
+-- something relaxing uh ended up just watching Planet Earth because
+
+840
+00:47:49.630 --> 00:47:56.250
+-- that was the only thing that I knew was I knew it was there uh that met the criteria,
+
+841
+00:47:56.250 --> 00:48:01.090
+-- but I couldn't actually find what I was looking for and um yeah, so that's kind of
+
+842
+00:48:01.470 --> 00:48:03.870
+-- information management tools and wikis
+
+843
+00:48:04.370 --> 00:48:06.380
+-- aren't just about the stories.
+
+844
+00:48:06.380 --> 00:48:11.200
+-- I think they're also about finding the stories and that process could be different.
+
+845
+00:48:19.570 --> 00:48:20.080
+-- Um,
+
+846
+00:48:20.470 --> 00:48:22.200
+-- I'll jump in and nobody else's.
+
+847
+00:48:22.570 --> 00:48:23.790
+-- Uh, I would
+
+848
+00:48:24.470 --> 00:48:27.690
+-- love to come back to that first thing you said Vincent about,
+
+849
+00:48:27.700 --> 00:48:30.200
+-- about running from the tiger and
+
+850
+00:48:30.670 --> 00:48:34.690
+-- and you know, not having time to deal with the berries. Um,
+
+851
+00:48:36.570 --> 00:48:41.000
+-- I think the stories that we tell
+
+852
+00:48:41.470 --> 00:48:45.580
+-- and the things, the information than that each of these agents
+
+853
+00:48:45.970 --> 00:48:48.790
+-- gathers in the random way that they do.
+
+854
+00:48:49.170 --> 00:48:52.890
+-- Like, I'm running from a tiger. There's some berries. Mental note.
+
+855
+00:48:53.470 --> 00:48:55.000
+-- I'm throwing that in the,
+
+856
+00:48:55.970 --> 00:48:58.580
+-- the food full older
+
+857
+00:49:00.370 --> 00:49:01.690
+-- that that
+
+858
+00:49:02.070 --> 00:49:06.930
+-- association of food and place,
+
+859
+00:49:06.940 --> 00:49:10.190
+-- were it like where it's something that you could look at,
+
+860
+00:49:10.190 --> 00:49:12.900
+-- where somebody else who was running from a different tiger,
+
+861
+00:49:13.270 --> 00:49:18.400
+-- you know, in a different direction. You would never go back maybe to that,
+
+862
+00:49:19.270 --> 00:49:19.690
+that
+
+863
+00:49:20.270 --> 00:49:21.290
+-- berry tree
+
+864
+00:49:21.770 --> 00:49:25.580
+-- because there are tigers around there. But uh
+
+865
+00:49:26.370 --> 00:49:31.430
+-- um if that information were recorded,
+
+866
+00:49:31.440 --> 00:49:36.550
+-- if that metadata were recorded and layered on
+
+867
+00:49:36.550 --> 00:49:39.630
+-- the metadata of other people doing different things,
+
+868
+00:49:39.630 --> 00:49:43.840
+-- some of whom weren't running from tigers and had time to stop
+
+869
+00:49:43.840 --> 00:49:46.690
+-- and taste the berries and say these berries are really good.
+
+870
+00:49:47.270 --> 00:49:51.760
+-- And that were mapped in a way that said there seemed to be
+
+871
+00:49:51.760 --> 00:49:54.950
+-- a lot of these berry trees that a couple of people have said,
+
+872
+00:49:54.950 --> 00:49:55.900
+-- we're really good
+
+873
+00:49:56.470 --> 00:49:57.580
+-- in this area.
+
+874
+00:49:58.170 --> 00:50:00.380
+-- The north part of it has lots of tigers in it.
+
+875
+00:50:00.380 --> 00:50:01.710
+-- But the south part of it, you know,
+
+876
+00:50:01.720 --> 00:50:05.530
+-- this is the way that knowledge emerges and stories
+
+877
+00:50:05.530 --> 00:50:10.680
+-- emerge from just one random bit of metadata.
+
+878
+00:50:11.460 --> 00:50:15.690
+-- That could be the metadata that is you putting it in a folder for later.
+
+879
+00:50:16.660 --> 00:50:18.110
+-- You know what I'm saying? And
+
+880
+00:50:18.250 --> 00:50:18.990
+and
+
+881
+00:50:19.560 --> 00:50:20.490
+that
+
+882
+00:50:20.960 --> 00:50:22.580
+-- kind of layered
+
+883
+00:50:22.960 --> 00:50:27.780
+-- interactive non storytelling, just container
+
+884
+00:50:28.160 --> 00:50:29.390
+-- placing.
+
+885
+00:50:29.760 --> 00:50:30.390
+Um
+
+886
+00:50:30.760 --> 00:50:32.490
+-- seems seems to me
+
+887
+00:50:33.260 --> 00:50:34.070
+-- something,
+
+888
+00:50:35.160 --> 00:50:35.990
+-- there's something there.
+
+889
+00:50:36.000 --> 00:50:40.470
+-- So please please keep uh maybe it's not yielding much yet,
+
+890
+00:50:40.480 --> 00:50:42.960
+-- but please keep putting those things you see into
+
+891
+00:50:42.960 --> 00:50:45.460
+-- a container or tagging them or you know,
+
+892
+00:50:45.460 --> 00:50:47.390
+-- and I think we all should and then we have to figure out
+
+893
+00:50:47.760 --> 00:50:48.780
+-- how we can all see it.
+
+894
+00:50:49.460 --> 00:50:49.780
+-- Mhm.
+
+895
+00:50:50.660 --> 00:50:51.080
+-- By mark.
+
+896
+00:50:57.860 --> 00:50:59.570
+-- Okay, I'll jump in. So
+
+897
+00:51:00.360 --> 00:51:03.870
+-- I'm gonna go back to something I posted and then bring it back ground
+
+898
+00:51:03.870 --> 00:51:05.440
+-- to stories and everything everybody is talking
+
+899
+00:51:05.440 --> 00:51:07.380
+-- about because I find this super interesting.
+
+900
+00:51:07.760 --> 00:51:13.690
+-- So I think what I'm hearing and what everyone is saying is we're talking about
+
+901
+00:51:14.260 --> 00:51:16.110
+-- capturing and storing knowledge
+
+902
+00:51:16.270 --> 00:51:19.180
+-- in different phases. I guess I would call the phases
+
+903
+00:51:19.560 --> 00:51:23.580
+-- where and so what I posted before was sometimes we want to just get to a resource
+
+904
+00:51:23.960 --> 00:51:26.520
+-- right? Either it's a piece of information we need right now.
+
+905
+00:51:26.520 --> 00:51:28.300
+-- We don't really care about it other times.
+
+906
+00:51:28.310 --> 00:51:32.620
+-- Or just curious or a friend post pointed us to something but it's not really our
+
+907
+00:51:32.620 --> 00:51:37.980
+-- thing or we just told we need to learn something for some reason or whatever.
+
+908
+00:51:37.980 --> 00:51:40.970
+-- Right? We just need we just need information that already exists.
+
+909
+00:51:40.970 --> 00:51:43.580
+-- We need to get it from a book or website or something
+
+910
+00:51:44.560 --> 00:51:48.840
+-- to me that's a very different process then
+
+911
+00:51:48.850 --> 00:51:51.520
+-- I'm exploring something that I really love.
+
+912
+00:51:51.530 --> 00:51:53.530
+-- It's a new hobby or I'm more interested in,
+
+913
+00:51:53.530 --> 00:51:56.950
+-- the more I explore it and I want to go deeper and I want to go broader and I want to,
+
+914
+00:51:56.960 --> 00:51:57.400
+-- you know,
+
+915
+00:51:57.400 --> 00:52:02.230
+-- I want to remember what I thought of three months ago when I was researching this,
+
+916
+00:52:02.230 --> 00:52:04.180
+-- but then got sidetracked from researching this,
+
+917
+00:52:04.550 --> 00:52:05.480
+-- that kind of
+
+918
+00:52:06.150 --> 00:52:07.070
+knowledge
+
+919
+00:52:07.850 --> 00:52:09.180
+-- storing and learning.
+
+920
+00:52:09.190 --> 00:52:13.710
+-- And then we sometimes want to explore something that really no one knows yet,
+
+921
+00:52:13.720 --> 00:52:15.560
+-- or there's very little information about
+
+922
+00:52:16.350 --> 00:52:18.430
+-- and then, and that's a completely different thing.
+
+923
+00:52:18.430 --> 00:52:21.100
+-- I completely agree with the threat of stories.
+
+924
+00:52:21.100 --> 00:52:22.980
+-- I don't know that we always think about it,
+
+925
+00:52:23.750 --> 00:52:24.680
+-- but I do think
+
+926
+00:52:25.050 --> 00:52:28.000
+-- all the research and psychology even points to the fact
+
+927
+00:52:28.000 --> 00:52:30.030
+-- that we're always creating a story in our mind.
+
+928
+00:52:30.040 --> 00:52:33.350
+-- We have a story about how we feel about things.
+
+929
+00:52:33.360 --> 00:52:37.610
+-- We have a story about who we are, we have a story about what our origin is.
+
+930
+00:52:37.620 --> 00:52:41.290
+-- We have a story about how we see the world that provides the filters and
+
+931
+00:52:41.290 --> 00:52:43.810
+-- the perspectives that we have on the world
+
+932
+00:52:43.820 --> 00:52:46.300
+-- and whether we're consciously conscious of it,
+
+933
+00:52:46.310 --> 00:52:46.760
+-- sorry,
+
+934
+00:52:47.350 --> 00:52:51.480
+-- whether we're conscious of it or not, we are forming those stories all the time
+
+935
+00:52:51.950 --> 00:52:56.150
+-- and I don't know yet whether technology would
+
+936
+00:52:56.150 --> 00:52:59.570
+-- benefit us and pointing out that process or simply
+
+937
+00:52:59.570 --> 00:53:04.300
+-- just presenting us the pathways with which to to get to where we need to go.
+
+938
+00:53:04.310 --> 00:53:06.260
+-- But I think both are valuable and I
+
+939
+00:53:06.850 --> 00:53:08.260
+-- I guess what I'm trying to say is
+
+940
+00:53:09.750 --> 00:53:13.060
+-- all of these things are important. All of them have value.
+
+941
+00:53:13.070 --> 00:53:16.350
+-- Whether we're just passing something by and we need to put it, you know,
+
+942
+00:53:16.360 --> 00:53:18.770
+-- there we saw the berries and we were racing by
+
+943
+00:53:19.150 --> 00:53:21.880
+-- and so we think we need to store it
+
+944
+00:53:22.250 --> 00:53:26.980
+-- um for later when we're hungry and we're not being chased by a tiger.
+
+945
+00:53:27.950 --> 00:53:29.180
+-- But what if
+
+946
+00:53:30.250 --> 00:53:32.870
+-- somebody else had already stored that knowledge for us and we
+
+947
+00:53:32.870 --> 00:53:37.460
+-- could trust that our society had that knowledge stored for us.
+
+948
+00:53:37.460 --> 00:53:39.970
+-- So we didn't even have to waste the energy
+
+949
+00:53:40.550 --> 00:53:41.270
+-- to storing
+
+950
+00:53:41.950 --> 00:53:42.180
+-- that.
+
+951
+00:53:42.180 --> 00:53:44.860
+-- We could go find it when we needed it and we could trust that
+
+952
+00:53:44.860 --> 00:53:48.490
+-- we could find it when we needed it when when it was important and
+
+953
+00:53:48.490 --> 00:53:52.750
+-- it might even then be surrounded with the best time to go is in
+
+954
+00:53:52.750 --> 00:53:55.970
+-- the spring when the tigers have moved away and there's no one around,
+
+955
+00:53:55.970 --> 00:53:56.190
+-- right?
+
+956
+00:53:56.190 --> 00:53:59.680
+-- And you can take your time gathering in fact, and then here's how to
+
+957
+00:54:00.140 --> 00:54:03.320
+-- process the barriers so that the last of the winter so that when the tigers are there,
+
+958
+00:54:03.320 --> 00:54:04.360
+-- you don't have to like
+
+959
+00:54:05.240 --> 00:54:08.450
+-- that. Yes, that to me is the ideal, right?
+
+960
+00:54:08.460 --> 00:54:12.520
+-- It's let's guess past the point where we reach curating for ourselves,
+
+961
+00:54:12.530 --> 00:54:13.850
+-- there will always be that piece.
+
+962
+00:54:14.240 --> 00:54:16.670
+-- But we're also curating for each other
+
+963
+00:54:17.140 --> 00:54:22.160
+-- simply because I already curated it for myself, why not give it to you as well? Right.
+
+964
+00:54:22.160 --> 00:54:26.970
+-- It's common knowledge now. So to me that's the juicy spots, right.
+
+965
+00:54:26.970 --> 00:54:30.550
+-- Whether we want to frame it in stories or not. Stories. To me, it's more valuable
+
+966
+00:54:31.040 --> 00:54:34.250
+-- to frame it in what kind of phase I'm in?
+
+967
+00:54:34.840 --> 00:54:40.120
+-- Am I in a phase of I just need some information and I am I in a phase where I'm really deep
+
+968
+00:54:40.120 --> 00:54:43.850
+-- diving into something and I want to use use the interface
+
+969
+00:54:43.850 --> 00:54:48.550
+-- or the community or the interaction or whatever to really learn something
+
+970
+00:54:48.940 --> 00:54:49.800
+-- deeply.
+
+971
+00:54:49.960 --> 00:54:53.260
+-- Am I in a phase of creating something brand new
+
+972
+00:54:53.840 --> 00:54:56.360
+-- if I were to try to break it down into three.
+
+973
+00:54:56.740 --> 00:54:58.750
+-- But I think there's it's a continuum really?
+
+974
+00:55:00.040 --> 00:55:00.240
+-- Yeah.
+
+975
+00:55:16.240 --> 00:55:17.170
+-- Any thoughts
+
+976
+00:55:21.640 --> 00:55:25.260
+-- off of um what was being said in the chat here? Um
+
+977
+00:55:25.940 --> 00:55:30.380
+-- what Vincent was saying of who do you curate for? Who are you waiting for? You?
+
+978
+00:55:30.380 --> 00:55:32.170
+-- Others both? Um
+
+979
+00:55:34.640 --> 00:55:35.170
+that
+
+980
+00:55:35.940 --> 00:55:36.960
+-- mm hmm.
+
+981
+00:55:37.440 --> 00:55:40.350
+-- It's really interesting. One of the, one of the uh
+
+982
+00:55:41.740 --> 00:55:45.760
+-- the use cases, the user stories um
+
+983
+00:55:46.440 --> 00:55:47.160
+that
+
+984
+00:55:49.340 --> 00:55:55.670
+-- we imagined for factor in early days where our orientation was more
+
+985
+00:55:56.040 --> 00:55:56.670
+um
+
+986
+00:55:57.740 --> 00:56:02.450
+-- um related. NGO gathering um
+
+987
+00:56:02.930 --> 00:56:04.660
+-- gathering information.
+
+988
+00:56:05.030 --> 00:56:05.840
+-- So that
+
+989
+00:56:06.230 --> 00:56:10.480
+-- people on the ground in one place, we're seeing the same things that you know,
+
+990
+00:56:10.490 --> 00:56:12.250
+-- somebody in new york was seeing
+
+991
+00:56:12.730 --> 00:56:13.450
+um
+
+992
+00:56:14.730 --> 00:56:15.450
+and
+
+993
+00:56:16.130 --> 00:56:18.250
+-- realizing that some of the
+
+994
+00:56:19.030 --> 00:56:21.160
+-- data that needed to be gathered
+
+995
+00:56:21.830 --> 00:56:24.520
+-- would be gathered by people who didn't know what
+
+996
+00:56:24.520 --> 00:56:28.970
+-- its significance was and that had to be surfaced.
+
+997
+00:56:28.980 --> 00:56:33.460
+-- Like somebody in Sierra Leone takes a picture of
+
+998
+00:56:33.830 --> 00:56:38.750
+-- somebody's arm and says you know what the hell is this this
+
+999
+00:56:39.230 --> 00:56:44.350
+-- disease that's forming on you know not not being a part of a U. N. Team. Not
+
+1000
+00:56:44.930 --> 00:56:47.960
+-- being anything. Just just wanting to like say hey
+
+1001
+00:56:48.330 --> 00:56:50.550
+-- berries on this bush, you know,
+
+1002
+00:56:50.930 --> 00:56:53.240
+-- I don't know what it means where it fits.
+
+1003
+00:56:54.100 --> 00:56:58.540
+-- I'm not sure this is for me or for you or for the greater world but just
+
+1004
+00:56:59.130 --> 00:57:00.240
+-- you know, data point.
+
+1005
+00:57:00.930 --> 00:57:01.740
+Um
+
+1006
+00:57:02.430 --> 00:57:03.240
+and
+
+1007
+00:57:03.930 --> 00:57:06.660
+-- so you know that we don't really know
+
+1008
+00:57:07.630 --> 00:57:09.270
+-- why were gathering,
+
+1009
+00:57:09.280 --> 00:57:11.860
+-- you know not all of us are information gatherers but we're
+
+1010
+00:57:11.860 --> 00:57:15.960
+-- kind of all information gatherers and the easier it is for
+
+1011
+00:57:17.030 --> 00:57:17.950
+everybody
+
+1012
+00:57:18.090 --> 00:57:18.850
+to
+
+1013
+00:57:19.330 --> 00:57:20.850
+-- share their information.
+
+1014
+00:57:21.230 --> 00:57:23.450
+-- If it's not something they need to keep private
+
+1015
+00:57:23.930 --> 00:57:27.900
+-- um without knowing what its significance is. Without knowing where it fits.
+
+1016
+00:57:27.900 --> 00:57:30.460
+-- I mean the metadata on
+
+1017
+00:57:30.930 --> 00:57:34.910
+-- the very photograph for the skin photograph could just be
+
+1018
+00:57:34.920 --> 00:57:38.050
+-- a date and a location and that's all there is.
+
+1019
+00:57:38.060 --> 00:57:40.690
+-- But somebody who is researching because they're doing
+
+1020
+00:57:40.690 --> 00:57:44.340
+-- a deep dive and looking for examples of
+
+1021
+00:57:44.730 --> 00:57:46.250
+-- berries in this region,
+
+1022
+00:57:46.630 --> 00:57:49.450
+-- you know, I can find that. Um
+
+1023
+00:57:51.230 --> 00:57:52.960
+-- Yeah so um
+
+1024
+00:57:53.330 --> 00:57:53.740
+-- yeah.
+
+1025
+00:57:54.730 --> 00:57:59.050
+-- Um just to what Wendy, what you were saying about um
+
+1026
+00:58:00.320 --> 00:58:03.710
+-- I don't have to gather this information because
+
+1027
+00:58:03.720 --> 00:58:06.650
+-- um because somebody else has already gathered it.
+
+1028
+00:58:08.020 --> 00:58:13.840
+-- I find the information that other people have already gathered because
+
+1029
+00:58:14.220 --> 00:58:14.840
+I
+
+1030
+00:58:15.520 --> 00:58:19.950
+-- gather this piece of information that I don't know. I don't know where it fits.
+
+1031
+00:58:20.420 --> 00:58:24.040
+-- But I find out where it fit from from the other people.
+
+1032
+00:58:24.520 --> 00:58:25.150
+-- Um,
+
+1033
+00:58:26.120 --> 00:58:29.950
+-- you know, picture of at a more mature state.
+
+1034
+00:58:30.320 --> 00:58:35.650
+-- A picture of a berry in this place brings up all this information about,
+
+1035
+00:58:36.120 --> 00:58:39.810
+-- you know, recipes for how to cook that barry, how to dry it for the winter.
+
+1036
+00:58:39.810 --> 00:58:41.150
+-- As you were saying, you know,
+
+1037
+00:58:41.720 --> 00:58:47.140
+-- watch out for the tigers, all kinds of stuff. So yeah,
+
+1038
+00:58:47.520 --> 00:58:48.240
+-- I think we're
+
+1039
+00:58:49.620 --> 00:58:51.330
+-- we're getting some good stuff here.
+
+1040
+00:58:57.520 --> 00:58:57.750
+So
+
+1041
+00:59:01.320 --> 00:59:02.150
+-- sorry, go.
+
+1042
+00:59:08.520 --> 00:59:09.330
+-- Okay. So
+
+1043
+00:59:11.320 --> 00:59:12.700
+-- I'm having a bit of a hard time with this
+
+1044
+00:59:12.700 --> 00:59:15.150
+-- conversation because I don't really don't have to think about it
+
+1045
+00:59:17.420 --> 00:59:18.040
+-- literally.
+
+1046
+00:59:20.720 --> 00:59:22.250
+-- So I
+
+1047
+00:59:23.320 --> 00:59:24.950
+-- maybe I'll make some notes and send them out.
+
+1048
+00:59:24.960 --> 00:59:28.020
+-- But I um a little confused about this word story
+
+1049
+00:59:28.020 --> 00:59:30.180
+-- which has now become so big that it has,
+
+1050
+00:59:30.190 --> 00:59:31.840
+-- it's losing its meaning for me
+
+1051
+00:59:33.320 --> 00:59:36.950
+-- or the meeting I used to have. So I'm a little confused there.
+
+1052
+00:59:37.320 --> 00:59:40.650
+-- Although I actually believe everything you're saying.
+
+1053
+00:59:41.720 --> 00:59:41.950
+-- Okay,
+
+1054
+00:59:42.320 --> 00:59:46.750
+-- all right, just I'm getting kind of unhinged here. So in a way that
+
+1055
+00:59:47.220 --> 00:59:48.540
+-- isn't helpful
+
+1056
+00:59:49.920 --> 00:59:50.750
+and
+
+1057
+00:59:51.720 --> 00:59:52.740
+-- so I don't really,
+
+1058
+00:59:53.720 --> 00:59:59.240
+-- I don't know I have. This is so it's quite generative, you know, this is a really rich
+
+1059
+01:00:00.010 --> 01:00:01.930
+-- conversation, but I think
+
+1060
+01:00:04.610 --> 01:00:08.620
+-- for me at least it's going to take a lot of work to come up with
+
+1061
+01:00:09.010 --> 01:00:10.440
+-- to make sense of
+
+1062
+01:00:11.110 --> 01:00:12.430
+-- just what we've talked about
+
+1063
+01:00:13.610 --> 01:00:16.940
+-- and the idea of looking things up because I've seen this very what is it
+
+1064
+01:00:17.410 --> 01:00:19.070
+-- in the neighborhood, I live in texas,
+
+1065
+01:00:19.070 --> 01:00:22.740
+-- people just take pictures of snakes in their garden and posted on facebook.
+
+1066
+01:00:23.410 --> 01:00:27.130
+-- You know, many of my wife or the snake Wrangler comes back. Oh that's just a
+
+1067
+01:00:27.510 --> 01:00:28.730
+-- that's just a rat snake.
+
+1068
+01:00:28.740 --> 01:00:32.730
+-- You love those things, They eat things you don't want around in new york.
+
+1069
+01:00:33.210 --> 01:00:33.530
+-- Mhm.
+
+1070
+01:00:34.010 --> 01:00:35.240
+-- You know, so people
+
+1071
+01:00:35.610 --> 01:00:36.930
+-- don't expect
+
+1072
+01:00:37.410 --> 01:00:38.940
+-- to find it online,
+
+1073
+01:00:40.510 --> 01:00:43.430
+-- they expect some neighbor to go, oh that thing,
+
+1074
+01:00:44.310 --> 01:00:46.640
+-- you know, don't worry, it's not interested in you,
+
+1075
+01:00:47.810 --> 01:00:49.940
+-- like the rattlesnake, which is like you want to come,
+
+1076
+01:00:49.940 --> 01:00:52.030
+-- you want you want a piece of me come and take it
+
+1077
+01:00:53.110 --> 01:00:53.440
+-- right,
+
+1078
+01:00:54.110 --> 01:00:56.740
+-- most snakes are like, there's a big two legged I think home
+
+1079
+01:00:57.210 --> 01:00:57.740
+-- I think of
+
+1080
+01:00:58.310 --> 01:00:59.530
+-- hideout.
+
+1081
+01:01:00.510 --> 01:01:03.440
+-- So I'm just saying that I think this is super rich
+
+1082
+01:01:04.410 --> 01:01:09.930
+-- and I don't know how to make sense of it. I'm not sure, I agree with all the assertions.
+
+1083
+01:01:11.810 --> 01:01:12.230
+So
+
+1084
+01:01:13.110 --> 01:01:17.370
+-- the way to make sense of it is to keep talking and obviously not necessarily,
+
+1085
+01:01:17.370 --> 01:01:18.580
+-- we can do a day synchronously.
+
+1086
+01:01:18.590 --> 01:01:22.020
+-- But then the other the other trick of that is to remember what we're talking about
+
+1087
+01:01:22.910 --> 01:01:25.030
+-- um which is going to end up maybe in text.
+
+1088
+01:01:25.510 --> 01:01:25.740
+-- Okay.
+
+1089
+01:01:26.310 --> 01:01:28.020
+-- Yeah, and I
+
+1090
+01:01:28.610 --> 01:01:29.030
+-- wow.
+
+1091
+01:01:31.710 --> 01:01:32.120
+-- Yeah.
+
+1092
+01:01:33.110 --> 01:01:33.440
+-- Well,
+
+1093
+01:01:35.710 --> 01:01:38.440
+-- I don't know, maybe later this week, I'll find out
+
+1094
+01:01:38.910 --> 01:01:40.800
+-- when I know that I'm actually thinking
+
+1095
+01:01:40.940 --> 01:01:42.630
+-- rather than doing something else
+
+1096
+01:01:43.510 --> 01:01:46.140
+-- that would help if I could say, oh now I'm thinking
+
+1097
+01:01:47.010 --> 01:01:47.430
+-- Mhm.
+
+1098
+01:01:48.010 --> 01:01:49.630
+-- As opposed to what bill?
+
+1099
+01:01:50.010 --> 01:01:50.820
+Uh
+
+1100
+01:01:51.410 --> 01:01:52.820
+-- daydreaming?
+
+1101
+01:01:53.410 --> 01:01:57.430
+-- Um It's super interesting, so thanks, thanks,
+
+1102
+01:01:58.010 --> 01:01:58.640
+-- thanks for it.
+
+1103
+01:02:02.600 --> 01:02:04.750
+-- Yeah, so as you were talking about,
+
+1104
+01:02:04.750 --> 01:02:09.520
+-- I think I might have an example that might help because it's in the
+
+1105
+01:02:10.000 --> 01:02:11.430
+-- realm of education.
+
+1106
+01:02:11.900 --> 01:02:13.310
+-- So I always pictured
+
+1107
+01:02:16.200 --> 01:02:16.620
+of
+
+1108
+01:02:17.000 --> 01:02:20.000
+-- visual interface, let's say you're a teacher,
+
+1109
+01:02:20.120 --> 01:02:24.920
+-- the traditional model and you can please feel free to correct me. Would be
+
+1110
+01:02:25.900 --> 01:02:29.920
+-- I as the teacher know the body of knowledge that I need to cover in a semester,
+
+1111
+01:02:30.400 --> 01:02:31.620
+-- I'm going to start here
+
+1112
+01:02:32.300 --> 01:02:35.120
+-- and I'm going to go through this path to get here.
+
+1113
+01:02:35.700 --> 01:02:39.420
+-- We're going to take some branches if I think they're important tangents
+
+1114
+01:02:39.430 --> 01:02:42.520
+-- to help people understand of course I'll take questions and stuff.
+
+1115
+01:02:42.530 --> 01:02:45.010
+-- But it basically had my curriculum mapped out.
+
+1116
+01:02:45.020 --> 01:02:48.420
+-- I've got my exercises, I've got my group work, I've got my
+
+1117
+01:02:49.000 --> 01:02:50.390
+-- labs have got whatever,
+
+1118
+01:02:50.400 --> 01:02:54.930
+-- even maybe a field trip thrown in there to help integrate the knowledge right?
+
+1119
+01:02:55.800 --> 01:02:56.430
+They
+
+1120
+01:02:57.400 --> 01:02:58.020
+if
+
+1121
+01:02:58.700 --> 01:03:03.390
+-- I could take what I am visualizing and give it to a teacher,
+
+1122
+01:03:03.400 --> 01:03:06.230
+-- this is how I can imagine it working.
+
+1123
+01:03:07.200 --> 01:03:08.350
+-- I'm a teacher,
+
+1124
+01:03:08.360 --> 01:03:14.470
+-- I plan a couple days in advance with a visual representation of the knowledge,
+
+1125
+01:03:14.470 --> 01:03:16.920
+-- I plan to teach and its smallest
+
+1126
+01:03:17.500 --> 01:03:18.930
+-- beginner form,
+
+1127
+01:03:19.300 --> 01:03:21.010
+-- I've just say a node
+
+1128
+01:03:21.400 --> 01:03:22.810
+-- and a couple of connections.
+
+1129
+01:03:24.400 --> 01:03:30.120
+-- On day one we talk intro, we meet each other, all that normal stuff and for homework,
+
+1130
+01:03:30.130 --> 01:03:32.520
+-- the kids assignment are to add
+
+1131
+01:03:33.900 --> 01:03:34.730
+-- one thing
+
+1132
+01:03:35.200 --> 01:03:36.930
+-- to the tree, collaboratively
+
+1133
+01:03:37.600 --> 01:03:39.420
+-- Add one piece of information.
+
+1134
+01:03:39.430 --> 01:03:42.980
+-- The discussion is why did you add that piece of information and how
+
+1135
+01:03:42.980 --> 01:03:45.430
+-- does it relate to the topic that we're talking about in class?
+
+1136
+01:03:46.100 --> 01:03:48.230
+-- That could happen at a regular basis
+
+1137
+01:03:48.800 --> 01:03:52.780
+-- over the course of a semester at the end of every semester,
+
+1138
+01:03:52.900 --> 01:03:53.930
+-- the tree of
+
+1139
+01:03:54.300 --> 01:03:57.030
+-- curated knowledge around the topic from which we've
+
+1140
+01:03:57.030 --> 01:04:00.450
+-- been learning looks different every single time,
+
+1141
+01:04:00.450 --> 01:04:00.720
+-- right?
+
+1142
+01:04:00.720 --> 01:04:01.310
+Because
+
+1143
+01:04:01.690 --> 01:04:03.810
+-- of what different students will add
+
+1144
+01:04:04.490 --> 01:04:05.920
+-- and why they added it.
+
+1145
+01:04:06.290 --> 01:04:08.920
+-- The why they added it is the story
+
+1146
+01:04:09.890 --> 01:04:15.180
+-- I added this piece because I was it made me think of block. Right?
+
+1147
+01:04:15.180 --> 01:04:16.360
+-- So history,
+
+1148
+01:04:16.360 --> 01:04:21.670
+-- but it made me one student think of how her family cooks and she ends up adding a
+
+1149
+01:04:21.670 --> 01:04:24.540
+-- recipe and a little story about how this particular
+
+1150
+01:04:24.540 --> 01:04:26.880
+-- recipe fits into history and where it came from,
+
+1151
+01:04:26.890 --> 01:04:31.060
+-- either from her family or or from the food or whatever.
+
+1152
+01:04:31.070 --> 01:04:34.790
+-- Whereas another kid goes off into politics and talks about, you know,
+
+1153
+01:04:34.790 --> 01:04:38.240
+-- wants to integrate what's happening now with what happened then.
+
+1154
+01:04:38.250 --> 01:04:42.920
+-- Right. And and that becomes the story and that story line even if
+
+1155
+01:04:43.290 --> 01:04:44.810
+-- not only helps us
+
+1156
+01:04:45.390 --> 01:04:48.900
+-- learn because that's how we think even when we're not conscious of it,
+
+1157
+01:04:48.900 --> 01:04:50.360
+-- we think in associations,
+
+1158
+01:04:50.360 --> 01:04:52.500
+-- we learn much better when we connect a piece of
+
+1159
+01:04:52.500 --> 01:04:55.490
+-- information as you probably well know right to something else.
+
+1160
+01:04:55.490 --> 01:04:57.940
+-- We already know that if it's a piece of information is just
+
+1161
+01:04:57.940 --> 01:05:01.160
+-- kind of floating around there and doesn't seem to connect to anything.
+
+1162
+01:05:01.170 --> 01:05:05.750
+-- So it's helping literally build those connections in ways
+
+1163
+01:05:05.750 --> 01:05:09.010
+-- that are meaningful to the people in the room?
+
+1164
+01:05:09.790 --> 01:05:11.610
+-- I don't know if that helps or not. But
+
+1165
+01:05:11.990 --> 01:05:12.800
+-- that's the way I think.
+
+1166
+01:05:13.390 --> 01:05:17.850
+-- Yeah that's genius actually. Um And when I was teaching at the U. K.
+
+1167
+01:05:17.850 --> 01:05:21.310
+-- It was a graduate level course on scientific data informatics.
+
+1168
+01:05:21.690 --> 01:05:24.720
+-- You know I've shared that big list of mind maps
+
+1169
+01:05:25.190 --> 01:05:27.800
+-- but that's exactly how the car this course started
+
+1170
+01:05:28.190 --> 01:05:30.110
+-- with a little scalpel bagram.
+
+1171
+01:05:30.890 --> 01:05:31.220
+Uh
+
+1172
+01:05:32.090 --> 01:05:34.600
+-- Now I didn't have I wasn't you know when we're
+
+1173
+01:05:34.600 --> 01:05:37.720
+-- trying to talk about what's this you know the information
+
+1174
+01:05:38.390 --> 01:05:42.010
+-- was the information properties of scientific data.
+
+1175
+01:05:43.490 --> 01:05:46.220
+-- I just would tell the class. I said look there's no textbook
+
+1176
+01:05:47.990 --> 01:05:49.610
+-- we are here on our own.
+
+1177
+01:05:51.190 --> 01:05:55.920
+-- And I would say my goal for you is to have a worthwhile learning experience.
+
+1178
+01:05:57.090 --> 01:05:58.110
+-- Then he hitches
+
+1179
+01:05:58.790 --> 01:05:59.810
+-- I can't do it for you.
+
+1180
+01:06:02.380 --> 01:06:03.700
+-- You're going to have to do it for you.
+
+1181
+01:06:04.680 --> 01:06:06.990
+-- I'm gonna have a great one because I always do because
+
+1182
+01:06:07.680 --> 01:06:08.490
+-- I'm interested
+
+1183
+01:06:09.580 --> 01:06:10.600
+-- in that. But
+
+1184
+01:06:11.180 --> 01:06:13.910
+-- so that's the way I didn't really have the idea of
+
+1185
+01:06:14.880 --> 01:06:17.060
+-- if I were doing it now I think I would have
+
+1186
+01:06:17.060 --> 01:06:20.490
+-- more technology to help people actually build an annotated kind of
+
+1187
+01:06:21.180 --> 01:06:24.300
+-- I know some monster. I would actually build a wiki
+
+1188
+01:06:25.280 --> 01:06:25.910
+of
+
+1189
+01:06:26.780 --> 01:06:28.000
+-- the results of
+
+1190
+01:06:28.380 --> 01:06:29.910
+-- you know these whatever
+
+1191
+01:06:30.380 --> 01:06:31.400
+-- 15 weeks of
+
+1192
+01:06:33.080 --> 01:06:33.800
+interacting
+
+1193
+01:06:34.680 --> 01:06:37.200
+-- but yes I mean I think that is
+
+1194
+01:06:39.280 --> 01:06:39.700
+-- you know.
+
+1195
+01:06:40.980 --> 01:06:43.500
+-- Yeah. Well so yes I agree. I mean
+
+1196
+01:06:44.380 --> 01:06:45.400
+-- I did that.
+
+1197
+01:06:49.180 --> 01:06:54.000
+-- Yes. So does that clarify story to you, because that was where you were?
+
+1198
+01:06:55.580 --> 01:06:58.170
+-- Yeah, that's a nice idea, just but I don't know,
+
+1199
+01:06:58.170 --> 01:07:01.400
+-- in this conversation it got super big, like a pumpkin.
+
+1200
+01:07:01.880 --> 01:07:02.890
+-- Yeah,
+
+1201
+01:07:04.180 --> 01:07:05.370
+-- which is something lucy,
+
+1202
+01:07:05.370 --> 01:07:09.320
+-- such minutes eric spark used to talk to the tech people about interoperability,
+
+1203
+01:07:09.320 --> 01:07:12.910
+-- she used to say it's like a big idea, it's like it's like a pumpkin.
+
+1204
+01:07:14.140 --> 01:07:14.790
+-- Yeah,
+
+1205
+01:07:15.680 --> 01:07:17.800
+-- because you know,
+
+1206
+01:07:18.580 --> 01:07:22.590
+-- my wife was there to just to push back on the tech people like what,
+
+1207
+01:07:22.590 --> 01:07:23.800
+-- what are you talking about
+
+1208
+01:07:24.580 --> 01:07:25.000
+-- this?
+
+1209
+01:07:25.980 --> 01:07:28.850
+-- Yeah, and I think again, it's multilayered, right?
+
+1210
+01:07:28.850 --> 01:07:32.230
+-- I have my individual story about myself, I have the story about this classroom,
+
+1211
+01:07:32.230 --> 01:07:33.400
+-- of the story about the teacher,
+
+1212
+01:07:33.400 --> 01:07:35.440
+-- the story about what I'm learning that either provides
+
+1213
+01:07:35.440 --> 01:07:37.450
+-- it meaning or makes me think it's stupid.
+
+1214
+01:07:37.460 --> 01:07:42.270
+-- And then, and to me it's the it's the scaling up version of that, you know,
+
+1215
+01:07:42.270 --> 01:07:44.790
+-- Wendy Alford's version of that would be,
+
+1216
+01:07:45.980 --> 01:07:48.380
+-- we're a top,
+
+1217
+01:07:48.390 --> 01:07:50.260
+-- we're trying to look top down on a
+
+1218
+01:07:50.260 --> 01:07:54.340
+-- very complicated situation and if we collect stories,
+
+1219
+01:07:54.350 --> 01:07:55.490
+-- we can
+
+1220
+01:07:56.780 --> 01:08:00.780
+-- makes sense out of the threads that exist and
+
+1221
+01:08:00.780 --> 01:08:04.120
+-- see into what other people aren't seeing within them,
+
+1222
+01:08:04.130 --> 01:08:07.450
+-- within their own, within their own frame of experience, right?
+
+1223
+01:08:07.450 --> 01:08:11.800
+-- So it's still it's sense making a larger story, which until computers came along,
+
+1224
+01:08:11.800 --> 01:08:12.190
+-- really,
+
+1225
+01:08:12.190 --> 01:08:15.740
+-- the only way you could do that was sit around a fire and share and share stories,
+
+1226
+01:08:15.740 --> 01:08:20.550
+-- right, and see where the thread was now she's taught, she's able to find the thread.
+
+1227
+01:08:20.550 --> 01:08:24.490
+-- So instead of a threat of knowledge weaving through the semester of a classroom,
+
+1228
+01:08:24.500 --> 01:08:27.300
+-- going slightly in one direction or slightly in the other direction,
+
+1229
+01:08:27.300 --> 01:08:31.819
+-- depending on the students, you now have an entire community, a city,
+
+1230
+01:08:31.819 --> 01:08:36.680
+-- an organization or whatever, who are also going in one direction and if
+
+1231
+01:08:36.870 --> 01:08:38.770
+-- management thinks they're going in this direction,
+
+1232
+01:08:38.770 --> 01:08:40.260
+-- but they're actually going in this direction,
+
+1233
+01:08:40.260 --> 01:08:42.910
+-- that's worthwhile knowing because otherwise we're solving the wrong
+
+1234
+01:08:42.910 --> 01:08:45.390
+-- problems are putting our energy in the wrong ways.
+
+1235
+01:08:46.270 --> 01:08:49.300
+-- Yeah, well, I just want to add one thing, I'm going to have to jump off in it.
+
+1236
+01:08:49.310 --> 01:08:50.680
+-- Well, maybe another five minutes. But
+
+1237
+01:08:51.770 --> 01:08:54.680
+-- so the one thing that I came up for me, I didn't type them in.
+
+1238
+01:08:54.680 --> 01:08:58.189
+-- The thing is that when we start using story, the way I've been hearing it,
+
+1239
+01:08:58.569 --> 01:09:01.630
+-- that almost things it sounds to me now,
+
+1240
+01:09:01.630 --> 01:09:04.840
+-- we're going to reduce almost every experience they have to like,
+
+1241
+01:09:04.840 --> 01:09:05.990
+-- you're telling a story.
+
+1242
+01:09:06.000 --> 01:09:09.100
+-- So once things get reduced, I'm like, I'm done now
+
+1243
+01:09:10.870 --> 01:09:16.090
+-- because that's an intellectual, like, model and sorry, I'm a human organism,
+
+1244
+01:09:18.370 --> 01:09:19.189
+-- I'm not, sorry,
+
+1245
+01:09:19.340 --> 01:09:20.590
+-- sorry, not, sorry,
+
+1246
+01:09:20.970 --> 01:09:23.399
+-- well, whatever. But so I think,
+
+1247
+01:09:24.370 --> 01:09:24.600
+-- yeah,
+
+1248
+01:09:25.170 --> 01:09:29.790
+-- if it gets, if the word gets to be everything is a story,
+
+1249
+01:09:30.370 --> 01:09:31.330
+-- then after a while
+
+1250
+01:09:31.770 --> 01:09:33.000
+-- we're not,
+
+1251
+01:09:33.200 --> 01:09:35.180
+-- you know what I mean? We're going to lose
+
+1252
+01:09:35.340 --> 01:09:38.399
+-- what it is we're talking about, which actually needs,
+
+1253
+01:09:40.270 --> 01:09:43.500
+-- depending on the tasks, certain distinctions to be made.
+
+1254
+01:09:48.870 --> 01:09:52.100
+-- Bill, I actually think you just got to something which was,
+
+1255
+01:09:52.770 --> 01:09:54.690
+-- I was about to say that the,
+
+1256
+01:09:55.290 --> 01:09:57.180
+-- if I'm hearing you right,
+
+1257
+01:09:58.470 --> 01:09:59.190
+the
+
+1258
+01:10:00.760 --> 01:10:03.280
+-- the negative association um
+
+1259
+01:10:03.760 --> 01:10:05.470
+-- that you have with stories is
+
+1260
+01:10:07.360 --> 01:10:08.980
+-- kind of there.
+
+1261
+01:10:11.060 --> 01:10:12.290
+-- You want them.
+
+1262
+01:10:13.660 --> 01:10:15.860
+-- Well I won't try and characterize what you're saying.
+
+1263
+01:10:15.870 --> 01:10:19.290
+-- I'll just say what I was going to say, which is that the
+
+1264
+01:10:20.660 --> 01:10:26.030
+-- people write stories about barry's and tigers and legends and you know,
+
+1265
+01:10:26.040 --> 01:10:29.060
+-- all kinds of mythology could be built around berries and tigers.
+
+1266
+01:10:29.070 --> 01:10:33.470
+-- We're gonna be talking about berries and tigers for a long time. Um, but
+
+1267
+01:10:34.660 --> 01:10:37.480
+-- the december, dis ambiguous waited
+
+1268
+01:10:38.360 --> 01:10:41.570
+-- information there that led them to tell the story
+
+1269
+01:10:42.360 --> 01:10:44.190
+-- um, is
+
+1270
+01:10:45.060 --> 01:10:48.080
+-- is what you want to get past. Like
+
+1271
+01:10:48.460 --> 01:10:51.370
+-- not that stories are bad, but sometimes
+
+1272
+01:10:52.960 --> 01:10:58.560
+-- you don't want to hear somebody else's story, you want to filter out the stories,
+
+1273
+01:10:58.570 --> 01:11:00.970
+-- but just know that stories were
+
+1274
+01:11:01.360 --> 01:11:02.970
+-- told about this thing,
+
+1275
+01:11:02.970 --> 01:11:05.260
+-- that information was attached to it that you
+
+1276
+01:11:05.260 --> 01:11:07.630
+-- may want to associate in different ways.
+
+1277
+01:11:08.160 --> 01:11:15.780
+-- So like I want the benefit of the fact that this thing that somebody told a story about
+
+1278
+01:11:16.460 --> 01:11:18.190
+-- has these attributes,
+
+1279
+01:11:18.560 --> 01:11:20.590
+-- that it's in this place, that it's
+
+1280
+01:11:20.700 --> 01:11:24.370
+-- that this snake is in this yard in this
+
+1281
+01:11:24.690 --> 01:11:25.580
+city
+
+1282
+01:11:26.760 --> 01:11:28.430
+-- and that's somebody else
+
+1283
+01:11:28.960 --> 01:11:31.800
+-- told a different story that happened to have another
+
+1284
+01:11:31.800 --> 01:11:34.400
+-- stake in this yard and before you know it,
+
+1285
+01:11:34.410 --> 01:11:35.470
+-- hey, I realized that
+
+1286
+01:11:36.160 --> 01:11:37.290
+-- these snakes are,
+
+1287
+01:11:37.660 --> 01:11:38.190
+-- you know
+
+1288
+01:11:38.760 --> 01:11:40.470
+-- indigenous to this area
+
+1289
+01:11:41.160 --> 01:11:42.640
+-- and you know,
+
+1290
+01:11:42.750 --> 01:11:44.190
+-- and the fact that,
+
+1291
+01:11:44.860 --> 01:11:46.680
+-- that somebody, you know that this,
+
+1292
+01:11:46.690 --> 01:11:50.580
+-- this question and answered that you have on facebook,
+
+1293
+01:11:51.360 --> 01:11:53.370
+-- which is um,
+
+1294
+01:11:54.060 --> 01:11:55.980
+-- not the result of search,
+
+1295
+01:11:57.060 --> 01:11:59.690
+-- not the result of true storytelling
+
+1296
+01:12:02.250 --> 01:12:04.250
+-- that we want to preserve that decision
+
+1297
+01:12:04.600 --> 01:12:06.570
+-- ambiguous lated information
+
+1298
+01:12:07.050 --> 01:12:10.150
+-- and let that be a part of other
+
+1299
+01:12:10.150 --> 01:12:13.490
+-- people's research and other people's knowledge right now.
+
+1300
+01:12:13.490 --> 01:12:14.480
+-- It's siloed
+
+1301
+01:12:15.950 --> 01:12:20.800
+-- only on facebook perhaps, you know, privately only on somebody's or you know,
+
+1302
+01:12:20.800 --> 01:12:22.920
+-- some friend groups.
+
+1303
+01:12:22.930 --> 01:12:23.870
+-- Um,
+
+1304
+01:12:25.150 --> 01:12:31.840
+-- uh, you know, page that, you know, a dozen people have access to where they're not,
+
+1305
+01:12:31.840 --> 01:12:33.630
+-- they might be private about the banter,
+
+1306
+01:12:33.630 --> 01:12:36.480
+-- but they're not private about the fact that there's a snake
+
+1307
+01:12:37.050 --> 01:12:43.080
+-- in a photograph with this, you know, time and and location metadata.
+
+1308
+01:12:43.550 --> 01:12:45.260
+-- If it was anonymous organized.
+
+1309
+01:12:45.750 --> 01:12:46.260
+-- Um,
+
+1310
+01:12:46.750 --> 01:12:46.920
+-- yeah,
+
+1311
+01:12:46.920 --> 01:12:50.170
+-- I just want to say one more thing before because you said something super critical.
+
+1312
+01:12:52.050 --> 01:12:53.760
+-- You use the word,
+
+1313
+01:12:54.450 --> 01:12:56.160
+-- um, you have a
+
+1314
+01:12:57.350 --> 01:12:59.390
+-- either true storytelling or something.
+
+1315
+01:12:59.390 --> 01:13:03.200
+-- You called something, you had an adjective on storytelling that was different.
+
+1316
+01:13:03.200 --> 01:13:04.370
+-- I don't have a negative
+
+1317
+01:13:05.850 --> 01:13:07.710
+-- association with the word story.
+
+1318
+01:13:07.710 --> 01:13:12.660
+-- I'm just responding to how it seems to be being used as we have this conversation.
+
+1319
+01:13:14.250 --> 01:13:15.770
+-- Oh yes, yes. But something
+
+1320
+01:13:16.750 --> 01:13:20.490
+-- so if there's something called true storytelling,
+
+1321
+01:13:20.570 --> 01:13:22.870
+-- then we better find out what that is
+
+1322
+01:13:23.350 --> 01:13:28.480
+-- before we start using the word story for all these about many other things.
+
+1323
+01:13:28.950 --> 01:13:29.150
+-- Yeah.
+
+1324
+01:13:29.650 --> 01:13:31.480
+-- But I just think this is a longer,
+
+1325
+01:13:32.150 --> 01:13:34.720
+-- more interesting conversation
+
+1326
+01:13:34.910 --> 01:13:35.380
+and
+
+1327
+01:13:36.650 --> 01:13:38.380
+-- I really do have to run and
+
+1328
+01:13:39.150 --> 01:13:40.530
+-- squeeze the dog. Yes.
+
+1329
+01:13:40.530 --> 01:13:44.480
+-- I'd like to say he actually does the squeezing, but you know what,
+
+1330
+01:13:45.450 --> 01:13:48.980
+-- so I'm going to leave you all here and maybe I'll catch up on the video
+
+1331
+01:13:50.550 --> 01:13:52.080
+-- take and I can use the little
+
+1332
+01:13:52.450 --> 01:13:55.570
+-- you can get the chat thing out of the video, can't we?
+
+1333
+01:13:56.450 --> 01:13:57.470
+-- We have tools for that.
+
+1334
+01:13:57.850 --> 01:13:58.170
+-- Okay.
+
+1335
+01:13:59.450 --> 01:14:00.690
+-- Nobody else, everybody have a good
+
+1336
+01:14:00.690 --> 01:14:01.960
+-- week. We'll see you bill
+
+1337
+01:14:06.840 --> 01:14:07.860
+-- with that.
+
+1338
+01:14:11.440 --> 01:14:12.060
+-- Yes.
+
+1339
+01:14:14.640 --> 01:14:14.870
+-- Mhm.
+
+1340
+01:14:15.740 --> 01:14:17.450
+-- Yeah, I really like what you had to say, Michael.
+
+1341
+01:14:18.440 --> 01:14:21.760
+-- Um I put a couple of things in the chat as you were talking,
+
+1342
+01:14:21.760 --> 01:14:24.560
+-- trying to capture a little bit of what you're saying and maybe add a little,
+
+1343
+01:14:25.540 --> 01:14:28.170
+-- a little extra to um
+
+1344
+01:14:30.240 --> 01:14:31.730
+-- yeah, and I kind of agree with Bill.
+
+1345
+01:14:31.730 --> 01:14:36.270
+-- It's it's I'm not sure we need to continue to use the word story all the time,
+
+1346
+01:14:37.140 --> 01:14:40.050
+-- but it is an interesting exercise to think about it.
+
+1347
+01:14:40.540 --> 01:14:42.670
+-- And I do think there's a line between
+
+1348
+01:14:43.440 --> 01:14:44.160
+when
+
+1349
+01:14:44.640 --> 01:14:45.960
+-- we when we
+
+1350
+01:14:46.440 --> 01:14:48.170
+-- seek out stories
+
+1351
+01:14:49.040 --> 01:14:50.660
+-- either from each other
+
+1352
+01:14:51.040 --> 01:14:53.260
+-- in person or whether it's,
+
+1353
+01:14:53.640 --> 01:14:55.370
+-- you know, through technical means,
+
+1354
+01:14:55.840 --> 01:14:56.460
+um
+
+1355
+01:14:56.840 --> 01:15:00.000
+-- in the traditional sense versus what our understanding
+
+1356
+01:15:00.000 --> 01:15:02.560
+-- might be of how we work unconsciously,
+
+1357
+01:15:02.560 --> 01:15:04.760
+-- and when we get into that, I think,
+
+1358
+01:15:05.140 --> 01:15:07.490
+-- um there's a value there to just
+
+1359
+01:15:07.500 --> 01:15:09.760
+-- understanding that that thread runs through everything.
+
+1360
+01:15:09.770 --> 01:15:11.860
+-- But I think when we start talking about what features
+
+1361
+01:15:11.860 --> 01:15:15.370
+-- or what attributes or what characteristics do we want,
+
+1362
+01:15:15.370 --> 01:15:15.870
+certain
+
+1363
+01:15:16.740 --> 01:15:18.660
+-- interactions and connections to have.
+
+1364
+01:15:20.040 --> 01:15:21.840
+-- I think story needs to be kind of put back
+
+1365
+01:15:21.840 --> 01:15:24.060
+-- in where and two more of the traditional sense.
+
+1366
+01:15:24.070 --> 01:15:26.690
+-- Um you know, if I'm if I'm creating a workshop,
+
+1367
+01:15:26.690 --> 01:15:28.900
+-- there are times when I'm creating it and I have a
+
+1368
+01:15:28.910 --> 01:15:31.360
+-- very clear direction of where I want everyone to go and I
+
+1369
+01:15:31.360 --> 01:15:34.330
+-- know exactly how to get them there and I'm going to walk
+
+1370
+01:15:34.330 --> 01:15:37.260
+-- them through that and get them where they need to go,
+
+1371
+01:15:37.260 --> 01:15:38.760
+-- there's less story
+
+1372
+01:15:39.140 --> 01:15:43.160
+-- there, but if I'm looking for everyone to explore
+
+1373
+01:15:43.640 --> 01:15:46.990
+-- and we're all trying to figure out what's going on,
+
+1374
+01:15:47.000 --> 01:15:50.520
+-- um then I'm going to be looking for stories, I want to pull stories out.
+
+1375
+01:15:50.530 --> 01:15:51.370
+-- So I think
+
+1376
+01:15:52.440 --> 01:15:53.460
+-- you know, I think um
+
+1377
+01:15:56.440 --> 01:15:57.060
+-- I think we
+
+1378
+01:15:57.440 --> 01:16:00.810
+-- I just go back to using the word to the traditional version is also fine,
+
+1379
+01:16:00.810 --> 01:16:05.450
+-- but it's also helped us today to explore the different ways in which
+
+1380
+01:16:05.830 --> 01:16:08.770
+-- humans interact with each other and potentially could
+
+1381
+01:16:08.770 --> 01:16:11.050
+-- interact with technology and that's been really valuable.
+
+1382
+01:16:23.030 --> 01:16:25.060
+-- Uh You want to say something,
+
+1383
+01:16:28.230 --> 01:16:30.750
+-- I was just looking at the definition of story.
+
+1384
+01:16:31.130 --> 01:16:31.550
+Ah
+
+1385
+01:16:31.930 --> 01:16:34.110
+-- I think it's funny how there's so many definitions,
+
+1386
+01:16:34.110 --> 01:16:36.120
+-- that's why one of the questions I have about the
+
+1387
+01:16:36.120 --> 01:16:38.880
+-- english language is it's just a little bit finicky.
+
+1388
+01:16:38.890 --> 01:16:39.460
+Um
+
+1389
+01:16:39.930 --> 01:16:40.850
+-- and uh
+
+1390
+01:16:41.430 --> 01:16:44.750
+-- you know I just think of story is like metadata
+
+1391
+01:16:45.930 --> 01:16:47.750
+-- um I guess I
+
+1392
+01:16:48.330 --> 01:16:51.200
+-- been so much in the back end of this stuff and thinking about it
+
+1393
+01:16:51.360 --> 01:16:53.060
+-- from a very technical
+
+1394
+01:16:53.830 --> 01:16:55.240
+-- perspective. So
+
+1395
+01:16:55.730 --> 01:16:58.340
+-- I just think of like information about information
+
+1396
+01:16:58.930 --> 01:17:03.250
+-- and just think of like overlap like Kalanick overlap for shared meeting
+
+1397
+01:17:03.730 --> 01:17:04.560
+-- context.
+
+1398
+01:17:05.030 --> 01:17:07.410
+-- But this is very interesting to me this is the kind of
+
+1399
+01:17:07.410 --> 01:17:10.750
+-- stuff that I've been exploring at great length for quite some time
+
+1400
+01:17:11.130 --> 01:17:12.030
+-- again,
+
+1401
+01:17:12.040 --> 01:17:16.140
+-- how it relates to the back end for these different technologies using distributed
+
+1402
+01:17:16.530 --> 01:17:20.480
+-- web architecture and various frameworks for helping
+
+1403
+01:17:20.480 --> 01:17:22.620
+-- these different tools connect and inter operate.
+
+1404
+01:17:22.630 --> 01:17:23.460
+-- So that's like
+
+1405
+01:17:23.830 --> 01:17:26.690
+-- this is the main thing I'm kind of diving into, I'd say right now,
+
+1406
+01:17:26.690 --> 01:17:29.100
+-- so this is cool that we're having this conversation.
+
+1407
+01:17:29.100 --> 01:17:31.350
+-- I'm grateful to be a part of this. Um
+
+1408
+01:17:31.830 --> 01:17:33.560
+-- you know, one thing that did come to mind
+
+1409
+01:17:34.130 --> 01:17:35.280
+-- for me was so
+
+1410
+01:17:35.380 --> 01:17:36.560
+-- when I was learning about
+
+1411
+01:17:37.030 --> 01:17:42.340
+-- history and I got into different religions and archaeology and things like that,
+
+1412
+01:17:42.830 --> 01:17:43.850
+-- the word myth,
+
+1413
+01:17:44.530 --> 01:17:48.640
+-- we intuitively a lot of us at least me and the people I grew up with
+
+1414
+01:17:49.130 --> 01:17:53.060
+-- myth was like made up, it was false or it was kind of
+
+1415
+01:17:53.530 --> 01:17:58.060
+-- elaborated or fabricated to some kind of context. But when you look at
+
+1416
+01:17:58.430 --> 01:17:59.450
+-- the original
+
+1417
+01:17:59.830 --> 01:18:01.150
+-- epistemology of it,
+
+1418
+01:18:01.920 --> 01:18:03.030
+-- it just means story.
+
+1419
+01:18:04.020 --> 01:18:07.800
+-- And so that's what that's what kind of came to mind all this is just the mythos.
+
+1420
+01:18:07.810 --> 01:18:11.400
+-- And um I think that that is an inherently probably
+
+1421
+01:18:11.400 --> 01:18:14.620
+-- going to have a different meaning to each individual,
+
+1422
+01:18:14.630 --> 01:18:18.440
+-- you know what their individual mythos is along with their perspective
+
+1423
+01:18:18.820 --> 01:18:20.550
+-- and you know, their community.
+
+1424
+01:18:20.550 --> 01:18:24.250
+-- So this idea of perspective is quite interesting to me because
+
+1425
+01:18:24.620 --> 01:18:26.930
+-- having gone down the physics rabbit hole
+
+1426
+01:18:27.320 --> 01:18:28.940
+-- and stuff like that. It's like
+
+1427
+01:18:29.520 --> 01:18:32.100
+-- You know you said they've done different these like
+
+1428
+01:18:32.100 --> 01:18:34.530
+-- supposedly they've done these different stories like they have
+
+1429
+01:18:34.530 --> 01:18:39.540
+-- the brain games and all that and uh you know you're gonna have 20 people see an event
+
+1430
+01:18:39.920 --> 01:18:42.070
+-- and you're getting 20 different accounts
+
+1431
+01:18:42.270 --> 01:18:43.140
+-- of that event
+
+1432
+01:18:43.380 --> 01:18:43.940
+and
+
+1433
+01:18:44.320 --> 01:18:48.130
+-- couple days go by and now all of a sudden the details have changed.
+
+1434
+01:18:48.140 --> 01:18:52.650
+-- So I mean that kind of is a little more on the abstract
+
+1435
+01:18:53.020 --> 01:18:55.540
+-- theory side of things of like what is reality.
+
+1436
+01:18:55.540 --> 01:18:56.880
+-- But um you know,
+
+1437
+01:18:56.880 --> 01:19:00.040
+-- I just want to share like those were the things that kind of came to mind
+
+1438
+01:19:00.520 --> 01:19:01.540
+-- when you were speaking.
+
+1439
+01:19:03.320 --> 01:19:03.940
+-- Think sick,
+
+1440
+01:19:06.420 --> 01:19:12.330
+-- I love I love that you just went to like mythos and that perspective and physics,
+
+1441
+01:19:12.340 --> 01:19:16.140
+-- I mean for me that's I've gone to all those places too
+
+1442
+01:19:16.520 --> 01:19:21.850
+-- and it's fascinating how that kind of all land in the in similar spots, right? That
+
+1443
+01:19:22.420 --> 01:19:24.450
+-- we shape our perspective,
+
+1444
+01:19:24.460 --> 01:19:27.210
+-- our perspective is shaped by our past and
+
+1445
+01:19:27.220 --> 01:19:30.010
+-- our habits and everything that's around us.
+
+1446
+01:19:30.010 --> 01:19:34.930
+-- And so the challenge I think for that I have tried to play with
+
+1447
+01:19:35.420 --> 01:19:39.420
+-- in creating something useful and imagining
+
+1448
+01:19:39.420 --> 01:19:42.000
+-- something useful made out of technology
+
+1449
+01:19:42.010 --> 01:19:47.510
+-- is how do we allow for all those possibilities in one interface,
+
+1450
+01:19:47.520 --> 01:19:49.870
+-- which drives me crazy.
+
+1451
+01:19:49.880 --> 01:19:55.430
+-- And at the same time that's why to me the network view of things work so well because
+
+1452
+01:19:55.620 --> 01:19:59.640
+-- I can make it what I want it to be and it can be that three layered
+
+1453
+01:20:00.010 --> 01:20:02.530
+-- or three d layered, multi layered
+
+1454
+01:20:03.210 --> 01:20:03.580
+-- thanks.
+
+1455
+01:20:03.580 --> 01:20:06.210
+-- So I can make the associations that make sense to me,
+
+1456
+01:20:06.220 --> 01:20:10.320
+-- where it gets dicey is where you know, sometimes this group is I think it's been here.
+
+1457
+01:20:10.810 --> 01:20:12.290
+-- I talked before about okay,
+
+1458
+01:20:12.290 --> 01:20:16.570
+-- there's my version of things because this is my beliefs or these are this is my
+
+1459
+01:20:16.570 --> 01:20:21.010
+-- background or this is my perspective on how I'd like to connect to this information.
+
+1460
+01:20:21.020 --> 01:20:24.200
+-- And then there's a big gray area like I'm like okay I draw a
+
+1461
+01:20:24.200 --> 01:20:29.320
+-- circle around myself and then there's like this big huge swath of gray area.
+
+1462
+01:20:29.330 --> 01:20:30.220
+-- That is
+
+1463
+01:20:31.310 --> 01:20:33.460
+-- what I think is opposed to what you think.
+
+1464
+01:20:33.470 --> 01:20:37.310
+-- What I think is a variation on what you think, What I think is, you know,
+
+1465
+01:20:37.320 --> 01:20:39.620
+-- it comes at it from a different angle or whatever.
+
+1466
+01:20:39.620 --> 01:20:44.110
+-- Right? And that's a huge grey areas. How do we play together in that space?
+
+1467
+01:20:44.110 --> 01:20:45.440
+-- In a way that makes sense.
+
+1468
+01:20:45.440 --> 01:20:48.970
+-- And isn't so complicated that nobody wants to be there ever.
+
+1469
+01:20:48.980 --> 01:20:50.820
+-- And then there's the stuff on the outside of that.
+
+1470
+01:20:50.820 --> 01:20:51.520
+-- Yeah,
+
+1471
+01:20:51.610 --> 01:20:54.480
+-- we pretty much all agree that this is either fact or truth
+
+1472
+01:20:54.480 --> 01:20:57.700
+-- or information that everybody the berries are still there a year later.
+
+1473
+01:20:57.700 --> 01:21:02.290
+-- Like it's still, you know, the berries and they're there and that's it. Right?
+
+1474
+01:21:02.300 --> 01:21:07.410
+-- So the gray area is the interesting part and the hardest part to me.
+
+1475
+01:21:07.420 --> 01:21:10.540
+-- Um and how and that's the collaborative part
+
+1476
+01:21:11.110 --> 01:21:15.030
+-- and allowing for each of us to navigate our way through that gray area in a way that
+
+1477
+01:21:15.040 --> 01:21:18.110
+-- provides meaning to me and my individual life or
+
+1478
+01:21:18.110 --> 01:21:20.440
+-- in the life of my family or my community
+
+1479
+01:21:21.010 --> 01:21:21.730
+is
+
+1480
+01:21:22.110 --> 01:21:26.330
+-- I think designing something that's flexible enough that doesn't have,
+
+1481
+01:21:28.010 --> 01:21:32.870
+-- that allows for those different perspectives I guess and doesn't, you know,
+
+1482
+01:21:32.870 --> 01:21:36.760
+-- and here's where we start to get into the realm of like where biases are and where,
+
+1483
+01:21:36.770 --> 01:21:37.950
+-- how do we visualize?
+
+1484
+01:21:37.950 --> 01:21:41.970
+-- How do we help people by visualizing those differences In my mind?
+
+1485
+01:21:41.980 --> 01:21:45.040
+-- I started to do crowd sourcing things. I started to do,
+
+1486
+01:21:45.210 --> 01:21:48.330
+-- you know, going, hey, if there was a piece of information, we could all,
+
+1487
+01:21:48.510 --> 01:21:52.440
+-- even even here's the basin title of something and here all the parts underneath,
+
+1488
+01:21:53.110 --> 01:21:56.660
+-- could we all start to collaborate on? Yeah.
+
+1489
+01:21:56.670 --> 01:21:59.800
+-- Most of us think that this is a great definition and most of us think that this is
+
+1490
+01:21:59.800 --> 01:22:03.200
+-- a great resource and most of us think this is the best book and most of us,
+
+1491
+01:22:03.200 --> 01:22:03.450
+-- right?
+
+1492
+01:22:03.450 --> 01:22:07.290
+-- And yet still allow for the fringe things to be there.
+
+1493
+01:22:07.300 --> 01:22:11.230
+-- It's to me that's where I'm playing right now is trying to
+
+1494
+01:22:12.900 --> 01:22:17.010
+-- Yeah. And I knew that I could, if I couldn't even get like baseline me
+
+1495
+01:22:17.700 --> 01:22:19.910
+-- collective knowledge that we all kind of agree upon.
+
+1496
+01:22:19.910 --> 01:22:24.420
+-- If I can't even get that, then the gray area is like, you know, we're never then
+
+1497
+01:22:24.800 --> 01:22:27.730
+-- we can't even, we can't even start talking about the gray area
+
+1498
+01:22:35.400 --> 01:22:36.420
+-- zika ahead.
+
+1499
+01:22:36.420 --> 01:22:39.210
+-- Don't wait for me because um I've gotten plenty of
+
+1500
+01:22:39.210 --> 01:22:40.920
+-- air time and you're just getting to speak
+
+1501
+01:22:40.920 --> 01:22:42.020
+-- up.
+
+1502
+01:22:42.030 --> 01:22:44.420
+-- Okay thanks. I just wanted to address
+
+1503
+01:22:44.800 --> 01:22:46.270
+-- back to that real quick.
+
+1504
+01:22:46.800 --> 01:22:49.620
+-- Well the dream that had come to me it was actually
+
+1505
+01:22:50.000 --> 01:22:50.420
+um
+
+1506
+01:22:50.800 --> 01:22:52.630
+-- you can have multiple us
+
+1507
+01:22:52.740 --> 01:22:55.920
+-- but it's a shared back end, it's the shared distributed database.
+
+1508
+01:22:56.400 --> 01:23:01.020
+-- Um and really customizable you eyes. So like
+
+1509
+01:23:01.700 --> 01:23:05.260
+-- what where we're getting at is with these new types of technologies.
+
+1510
+01:23:05.270 --> 01:23:10.910
+-- You can you can you can kind of like move the pieces around as it makes sense to you
+
+1511
+01:23:11.300 --> 01:23:16.150
+-- initially of course until ai gets a little more advanced or at least integrated
+
+1512
+01:23:17.000 --> 01:23:19.460
+-- into this. Uh you know it could be a template.
+
+1513
+01:23:19.470 --> 01:23:23.590
+-- So you can put the thing in the upper right hand corner, upper left, lower left,
+
+1514
+01:23:23.590 --> 01:23:23.950
+-- lower right.
+
+1515
+01:23:23.960 --> 01:23:26.710
+-- And those are options but you can still move it amongst those four pieces.
+
+1516
+01:23:26.710 --> 01:23:29.450
+-- So because the way the different brains are wired,
+
+1517
+01:23:29.450 --> 01:23:33.220
+-- the way culturally there's a lot of reasons that people are going
+
+1518
+01:23:33.220 --> 01:23:37.420
+-- to interact with things differently might even change according to mood.
+
+1519
+01:23:38.000 --> 01:23:40.680
+-- So some of the people I know are playing around
+
+1520
+01:23:40.680 --> 01:23:43.870
+-- with kind of like a bio field sensing technology.
+
+1521
+01:23:43.880 --> 01:23:45.350
+-- Um and those kinds of things.
+
+1522
+01:23:45.350 --> 01:23:47.720
+-- So that's kind of cool to think about how that might influence
+
+1523
+01:23:48.100 --> 01:23:49.620
+-- um these different dynamics.
+
+1524
+01:23:50.000 --> 01:23:54.230
+-- So I I envision really share a database and share back ends
+
+1525
+01:23:54.600 --> 01:23:58.330
+-- And but then it can be multiple different forms of presentation.
+
+1526
+01:23:58.330 --> 01:24:00.850
+-- But at least you've now bridged those silos between.
+
+1527
+01:24:00.850 --> 01:24:05.010
+-- You don't have to have 25 apps, you can have one app. It's almost like
+
+1528
+01:24:05.590 --> 01:24:07.810
+-- downloading an os client I guess right?
+
+1529
+01:24:08.190 --> 01:24:08.600
+Yeah
+
+1530
+01:24:08.990 --> 01:24:11.810
+-- it's cool stuff to think about how this might
+
+1531
+01:24:12.190 --> 01:24:12.650
+-- you know
+
+1532
+01:24:12.760 --> 01:24:13.920
+-- come about
+
+1533
+01:24:14.590 --> 01:24:15.120
+and
+
+1534
+01:24:15.590 --> 01:24:20.020
+-- and uh and then the other really important thing that I think
+
+1535
+01:24:20.490 --> 01:24:23.370
+-- this is my opinion is this idea of being
+
+1536
+01:24:23.370 --> 01:24:27.420
+-- resistant to civil attacks meaning multiple fake accounts.
+
+1537
+01:24:27.430 --> 01:24:30.100
+-- I think that's a huge problem right now of accountability
+
+1538
+01:24:30.100 --> 01:24:32.400
+-- is the fact that people can go and just say a
+
+1539
+01:24:32.400 --> 01:24:34.680
+-- bunch of stuff or act a certain way and they
+
+1540
+01:24:34.680 --> 01:24:37.450
+-- can do so kind of behind this scene of anonymity.
+
+1541
+01:24:37.450 --> 01:24:39.320
+-- But as soon as you bring more of these
+
+1542
+01:24:39.320 --> 01:24:42.920
+-- things to light people are much more highly incentivized
+
+1543
+01:24:43.090 --> 01:24:47.880
+-- to be careful and scrutinize their behavior and the information that they share.
+
+1544
+01:24:47.890 --> 01:24:54.310
+-- So I think having um ways in which you can have verifiably unique accounts,
+
+1545
+01:24:54.690 --> 01:24:57.110
+-- you know you don't necessarily have to share
+
+1546
+01:24:57.120 --> 01:25:00.360
+-- all the information about the underlying account.
+
+1547
+01:25:00.370 --> 01:25:04.960
+-- You can you don't necessarily know who they are. You don't have to know who they are.
+
+1548
+01:25:04.970 --> 01:25:08.120
+-- You can if you want that in the rules of your network but
+
+1549
+01:25:08.590 --> 01:25:11.440
+-- you at least know that they're verifiably unique
+
+1550
+01:25:11.450 --> 01:25:14.770
+-- like that that accounts actions has meaning.
+
+1551
+01:25:14.770 --> 01:25:16.210
+-- So if you can imagine,
+
+1552
+01:25:16.690 --> 01:25:19.520
+-- you know your reputation or behavior what do you want to call it?
+
+1553
+01:25:19.520 --> 01:25:22.620
+-- An Uber affects the grocery store affects the restaurant.
+
+1554
+01:25:22.630 --> 01:25:25.470
+-- And then now you could filter reviews that you want
+
+1555
+01:25:25.470 --> 01:25:28.060
+-- to read based on those scores and you know,
+
+1556
+01:25:28.060 --> 01:25:30.700
+-- it's more customizable if you want to go and search
+
+1557
+01:25:31.090 --> 01:25:36.110
+-- um for things, you can basically decide what's important to you.
+
+1558
+01:25:36.110 --> 01:25:39.970
+-- What metrics of measurement you no matter in
+
+1559
+01:25:39.980 --> 01:25:41.920
+-- the information that you want to access.
+
+1560
+01:25:42.290 --> 01:25:43.310
+-- I hope that's a
+
+1561
+01:25:43.790 --> 01:25:45.110
+-- good way to describe it.
+
+1562
+01:25:51.790 --> 01:25:52.180
+-- Yeah.
+
+1563
+01:25:52.190 --> 01:25:55.290
+-- And I want it and you know,
+
+1564
+01:25:55.290 --> 01:26:01.270
+-- thinking about how um I mean we we we talk about this in various groups of us.
+
+1565
+01:26:01.270 --> 01:26:02.590
+-- Just that that
+
+1566
+01:26:03.380 --> 01:26:03.580
+-- yeah.
+
+1567
+01:26:04.080 --> 01:26:06.990
+-- You know wanting the shared um
+
+1568
+01:26:08.580 --> 01:26:11.490
+-- the shared library of of
+
+1569
+01:26:12.280 --> 01:26:13.000
+um
+
+1570
+01:26:13.680 --> 01:26:17.240
+-- data and all the different ways of looking at it.
+
+1571
+01:26:17.250 --> 01:26:20.610
+-- Whether it's in a wiki and a map and you
+
+1572
+01:26:20.610 --> 01:26:25.630
+-- know by association with people by association with topics by,
+
+1573
+01:26:25.640 --> 01:26:31.500
+-- you know, um you know, just being able to filter um in
+
+1574
+01:26:33.880 --> 01:26:41.400
+-- in different front ends and within different front ends in different ways. Um
+
+1575
+01:26:41.980 --> 01:26:46.500
+-- Yeah, that's the kind of interoperability I think. You know, we're
+
+1576
+01:26:46.980 --> 01:26:48.500
+-- all striving for.
+
+1577
+01:26:49.180 --> 01:26:49.810
+Um
+
+1578
+01:26:50.180 --> 01:26:52.210
+-- so you're gonna build the back end for us.
+
+1579
+01:26:52.780 --> 01:26:52.990
+-- Mhm.
+
+1580
+01:26:53.380 --> 01:26:55.500
+-- You got, you got that, you got that part knocked.
+
+1581
+01:26:55.880 --> 01:26:58.210
+-- I'm working on it right now as we speak.
+
+1582
+01:26:58.220 --> 01:27:01.900
+-- Okay, let's talk. Um
+
+1583
+01:27:03.080 --> 01:27:06.800
+-- I just also wanted to say something about the um
+
+1584
+01:27:07.880 --> 01:27:10.100
+-- mythmaking um
+
+1585
+01:27:14.080 --> 01:27:14.890
+-- the myth,
+
+1586
+01:27:15.780 --> 01:27:19.200
+-- I'll go back to container um for
+
+1587
+01:27:19.580 --> 01:27:24.100
+-- um for certain sets of facts that you know individually
+
+1588
+01:27:24.480 --> 01:27:29.490
+-- as when Wendy as you were saying. You know, you come up with your own beliefs that,
+
+1589
+01:27:29.880 --> 01:27:30.710
+-- and,
+
+1590
+01:27:31.080 --> 01:27:35.700
+-- and as groups, we do as religions. We do, you know, that
+
+1591
+01:27:36.080 --> 01:27:40.100
+-- son, you know, rises in east and sets in the west and the
+
+1592
+01:27:40.680 --> 01:27:44.310
+-- myth that's built around that of the, you know,
+
+1593
+01:27:45.380 --> 01:27:48.400
+-- um, you know, pick your, you know, uh,
+
+1594
+01:27:48.880 --> 01:27:49.090
+-- okay,
+
+1595
+01:27:50.080 --> 01:27:58.000
+-- aboriginal, you know, story of the wolf swallowing the sun and uh, you know, um,
+
+1596
+01:27:59.980 --> 01:28:00.400
+that
+
+1597
+01:28:01.070 --> 01:28:08.290
+-- we do that and you know, in modern day, we also do that in a way where like, oh, these,
+
+1598
+01:28:08.300 --> 01:28:09.290
+-- these facts
+
+1599
+01:28:09.770 --> 01:28:13.000
+-- don't fit with the mythology. I already,
+
+1600
+01:28:13.470 --> 01:28:17.000
+-- you know, constructed and therefore I'm not going to include them.
+
+1601
+01:28:17.570 --> 01:28:19.790
+-- Um, but if if
+
+1602
+01:28:21.170 --> 01:28:25.280
+-- everybody has access to all the,
+
+1603
+01:28:27.570 --> 01:28:28.290
+-- um,
+
+1604
+01:28:29.070 --> 01:28:33.900
+-- you know, I have the problem of, do you call them facts, even all the, all the,
+
+1605
+01:28:34.770 --> 01:28:35.600
+-- the,
+
+1606
+01:28:37.670 --> 01:28:41.990
+-- the possible data points within somebody's story
+
+1607
+01:28:42.670 --> 01:28:43.410
+-- are,
+
+1608
+01:28:43.580 --> 01:28:45.900
+-- and the metadata attached to them
+
+1609
+01:28:46.770 --> 01:28:50.790
+-- is all accessible to anybody who is
+
+1610
+01:28:51.470 --> 01:28:56.600
+-- looking at their own story, constructing a story, knowing what pieces of the story.
+
+1611
+01:28:56.610 --> 01:28:57.400
+-- Um,
+
+1612
+01:29:00.170 --> 01:29:01.600
+-- in no
+
+1613
+01:29:02.070 --> 01:29:03.190
+-- are questionable.
+
+1614
+01:29:03.200 --> 01:29:06.930
+-- I mean, if you want to lead anybody, you know, we always have this problem of like,
+
+1615
+01:29:06.930 --> 01:29:07.890
+-- can you really,
+
+1616
+01:29:08.670 --> 01:29:12.140
+-- can you really change somebody's mind by attacking their story?
+
+1617
+01:29:12.150 --> 01:29:14.910
+-- Um, you know, they're gonna want to defend their story,
+
+1618
+01:29:14.910 --> 01:29:18.690
+-- but if anybody on their own can see
+
+1619
+01:29:19.170 --> 01:29:21.180
+-- what parts of their story
+
+1620
+01:29:21.570 --> 01:29:22.610
+have
+
+1621
+01:29:22.790 --> 01:29:24.900
+-- different stories attached to them
+
+1622
+01:29:25.270 --> 01:29:25.780
+that
+
+1623
+01:29:26.470 --> 01:29:27.100
+-- don't,
+
+1624
+01:29:29.070 --> 01:29:30.500
+-- don't negate
+
+1625
+01:29:30.970 --> 01:29:35.500
+-- the fact that this piece of their story exists, but provide
+
+1626
+01:29:35.970 --> 01:29:36.690
+other
+
+1627
+01:29:37.070 --> 01:29:40.380
+-- related explanations that might be able to bend their thinking
+
+1628
+01:29:40.380 --> 01:29:43.100
+-- a little bit or at least open themselves up to.
+
+1629
+01:29:43.670 --> 01:29:46.880
+-- Maybe this thing can be seen a different way.
+
+1630
+01:29:46.890 --> 01:29:47.240
+-- You know,
+
+1631
+01:29:47.240 --> 01:29:50.070
+-- maybe there's a scientific explanation for the sun coming
+
+1632
+01:29:50.070 --> 01:29:52.100
+-- up in the east and setting in the west.
+
+1633
+01:29:52.670 --> 01:29:54.890
+-- I mean it's
+
+1634
+01:29:56.370 --> 01:29:59.410
+-- yeah, I don't know where I'm going with this, but I just like,
+
+1635
+01:29:59.410 --> 01:30:05.690
+-- you know the story as container I come back to and the and like let's let
+
+1636
+01:30:06.460 --> 01:30:07.080
+um
+
+1637
+01:30:07.760 --> 01:30:11.290
+-- data points that don't have stories around them exist.
+
+1638
+01:30:11.960 --> 01:30:14.870
+-- I guess I guess part of what I'm, what I'm trying to say is like
+
+1639
+01:30:16.060 --> 01:30:18.790
+-- trying to think of a framework in which
+
+1640
+01:30:20.060 --> 01:30:21.980
+-- it's okay to for a fact to be
+
+1641
+01:30:22.360 --> 01:30:26.010
+-- the data points to be part of the story. It's okay for it not to be part of the story.
+
+1642
+01:30:26.010 --> 01:30:29.030
+-- It's okay for it to be part of multiple stories
+
+1643
+01:30:29.040 --> 01:30:31.870
+-- and we all get visibility on all of that.
+
+1644
+01:30:32.460 --> 01:30:38.970
+-- Um if if we want it and we can also filter out like, you know,
+
+1645
+01:30:38.980 --> 01:30:41.070
+-- I'm just interested in recipes for these berries.
+
+1646
+01:30:41.070 --> 01:30:45.730
+-- I don't care about the myths and the tigers and the location where they can.
+
+1647
+01:30:45.740 --> 01:30:47.410
+-- I don't I don't want any of that.
+
+1648
+01:30:47.420 --> 01:30:51.180
+-- Please just show me recipes and you don't see all that stuff.
+
+1649
+01:30:59.460 --> 01:30:59.790
+Mhm
+
+1650
+01:31:00.260 --> 01:31:06.290
+-- Yeah, I think you said it all. I can't remember what I was going to say now.
+
+1651
+01:31:07.860 --> 01:31:11.070
+-- Yeah, I think one of the things I was I was going to stay somewhere in there is,
+
+1652
+01:31:11.460 --> 01:31:14.440
+-- you know, there's the myth of the hero's journey, right?
+
+1653
+01:31:14.440 --> 01:31:17.770
+-- And and with which is joseph Campbell nod your head
+
+1654
+01:31:17.770 --> 01:31:20.040
+-- if you know of joseph Campbell and all this.
+
+1655
+01:31:20.050 --> 01:31:21.740
+-- Okay, so everybody's feeling okay,
+
+1656
+01:31:21.740 --> 01:31:28.580
+-- So when you start looking at how often the humans retail that story
+
+1657
+01:31:28.960 --> 01:31:29.580
+-- and it's
+
+1658
+01:31:30.560 --> 01:31:34.910
+-- million, literally millions of versions of this story, you know?
+
+1659
+01:31:34.910 --> 01:31:37.380
+-- And here joseph Campbell tried to break it down and
+
+1660
+01:31:37.380 --> 01:31:39.520
+-- put it into parts and give us give us a
+
+1661
+01:31:39.520 --> 01:31:42.890
+-- schema from which to follow along if we want to
+
+1662
+01:31:42.890 --> 01:31:46.290
+-- build this story or understand it better and it's really,
+
+1663
+01:31:46.290 --> 01:31:47.390
+-- really useful.
+
+1664
+01:31:47.400 --> 01:31:48.690
+-- And then to Michael's point, Yeah,
+
+1665
+01:31:48.690 --> 01:31:50.680
+-- but sometimes I just need some berries and do we need
+
+1666
+01:31:50.680 --> 01:31:53.780
+-- to go through a whole hero's journey to find the berries?
+
+1667
+01:31:54.160 --> 01:31:54.790
+-- No.
+
+1668
+01:31:54.800 --> 01:31:56.160
+-- Right, so, again,
+
+1669
+01:31:56.160 --> 01:32:00.480
+-- I think there's there's an opportunity if we're if we're in trauma,
+
+1670
+01:32:00.490 --> 01:32:01.980
+-- we need to tell stories.
+
+1671
+01:32:02.450 --> 01:32:08.960
+-- If we're in therapy, we need space held for stories. And how do we come?
+
+1672
+01:32:08.970 --> 01:32:10.120
+-- Oh yeah, this is the other thing.
+
+1673
+01:32:10.120 --> 01:32:14.660
+-- So when you have two people who conflict on their version of truth
+
+1674
+01:32:15.550 --> 01:32:17.580
+-- and it seems diametrically opposed,
+
+1675
+01:32:17.950 --> 01:32:21.160
+-- pretty much everybody agrees that the way to get through that is to find connection.
+
+1676
+01:32:22.750 --> 01:32:27.880
+-- Right? So what if we had a platform that helped us to build connection? Right?
+
+1677
+01:32:27.880 --> 01:32:32.810
+-- So it's the same database. It's the same data. It it's we are now.
+
+1678
+01:32:32.810 --> 01:32:36.600
+-- But the visual then shows these two things are currently opposed?
+
+1679
+01:32:36.610 --> 01:32:40.180
+-- And now here is a little intersection and people start working on well,
+
+1680
+01:32:40.180 --> 01:32:42.220
+-- where is the intersection between those two things?
+
+1681
+01:32:42.220 --> 01:32:46.440
+-- Right here, right here. In between the in between space. Right.
+
+1682
+01:32:46.440 --> 01:32:48.430
+-- And so even if these two sections
+
+1683
+01:32:48.440 --> 01:32:50.910
+-- seemingly get more and more diametrically opposed,
+
+1684
+01:32:50.910 --> 01:32:53.570
+-- it turns out that everyone likes puppies, right?
+
+1685
+01:32:53.570 --> 01:32:58.270
+-- Or whatever. You know, it's it's and I think that that's where
+
+1686
+01:32:58.650 --> 01:32:59.370
+um
+
+1687
+01:32:59.950 --> 01:33:03.930
+-- massive wiki is helping. Right? Like any time we're building connections.
+
+1688
+01:33:03.930 --> 01:33:09.190
+-- It's a very human thing that brings us that's how we're wired. Right?
+
+1689
+01:33:09.200 --> 01:33:12.210
+-- It brings us we don't always need a story or we need
+
+1690
+01:33:12.210 --> 01:33:15.030
+-- we don't always need to know that we're building a story.
+
+1691
+01:33:15.040 --> 01:33:18.380
+-- Even if we are we need to build connections to me.
+
+1692
+01:33:18.380 --> 01:33:21.100
+-- That's the key stories do that really,
+
+1693
+01:33:21.100 --> 01:33:23.810
+-- really well because they elicit emotion and emotional.
+
+1694
+01:33:23.810 --> 01:33:24.780
+-- It's it's connection.
+
+1695
+01:33:24.790 --> 01:33:27.820
+-- But I mean the connection to be built in and
+
+1696
+01:33:27.830 --> 01:33:32.350
+-- Myriads of ways and and it breaks down barriers?
+
+1697
+01:33:32.360 --> 01:33:35.750
+-- It breaks down silos between people between information between.
+
+1698
+01:33:35.760 --> 01:33:39.270
+-- It's about So to me it's about the connections in the end.
+
+1699
+01:33:46.450 --> 01:33:46.910
+-- Yeah.
+
+1700
+01:33:46.910 --> 01:33:48.590
+-- And then and then back to what you were saying,
+
+1701
+01:33:48.590 --> 01:33:52.170
+-- Zeke one database helps to build connections faster
+
+1702
+01:33:52.750 --> 01:33:56.880
+-- by its very nature. And my my estimation. Right, because you're not
+
+1703
+01:33:57.250 --> 01:33:58.620
+-- now we're not all slowed down.
+
+1704
+01:33:58.620 --> 01:34:00.400
+-- The whole system doesn't slow down and go, OK,
+
+1705
+01:34:00.400 --> 01:34:03.030
+-- But this connect this system doesn't talk to that system.
+
+1706
+01:34:03.040 --> 01:34:07.420
+-- Okay, well two years of development and a million headaches later.
+
+1707
+01:34:07.420 --> 01:34:10.560
+-- Now we can finally send two pieces of information across to each other. Right?
+
+1708
+01:34:10.560 --> 01:34:13.960
+-- It's not the point is right to to facilitate all of that.
+
+1709
+01:34:14.340 --> 01:34:18.140
+-- Um Yes how do we do that?
+
+1710
+01:34:18.150 --> 01:34:22.760
+-- We need that yesterday I'm sure that every single
+
+1711
+01:34:22.760 --> 01:34:26.050
+-- developer in the entire history of the internet has
+
+1712
+01:34:26.050 --> 01:34:28.850
+-- been saying how do we how do we get
+
+1713
+01:34:28.850 --> 01:34:31.680
+-- these two pieces of information on the same database?
+
+1714
+01:34:31.690 --> 01:34:36.060
+-- Are you familiar with self hosting? Cloud hosting?
+
+1715
+01:34:38.340 --> 01:34:38.880
+-- Yeah.
+
+1716
+01:34:38.890 --> 01:34:41.010
+-- Just from a user perspective,
+
+1717
+01:34:41.010 --> 01:34:42.510
+-- not from a tackle technical
+
+1718
+01:34:42.520 --> 01:34:44.640
+-- right now our information
+
+1719
+01:34:44.650 --> 01:34:47.460
+-- you send a text to your family and friends
+
+1720
+01:34:47.840 --> 01:34:51.050
+-- And that's now seen in 10,000 databases across the world.
+
+1721
+01:34:51.440 --> 01:34:56.610
+-- Um So those are centralized servers giant big warehouse buildings
+
+1722
+01:34:56.610 --> 01:34:59.450
+-- but just stacks and stacks of servers and an I.
+
+1723
+01:34:59.450 --> 01:35:00.860
+-- T. Team and all that stuff
+
+1724
+01:35:01.240 --> 01:35:01.960
+-- taking that
+
+1725
+01:35:02.540 --> 01:35:04.460
+-- and giving a slice to the individual
+
+1726
+01:35:04.940 --> 01:35:06.360
+-- allowing them to plug in
+
+1727
+01:35:07.040 --> 01:35:10.360
+-- device that uses the same amount of electricity as your hard
+
+1728
+01:35:10.360 --> 01:35:14.660
+-- drive would on full capacity or whatever so much less than mining
+
+1729
+01:35:15.040 --> 01:35:16.450
+-- crypto or anything like that.
+
+1730
+01:35:16.840 --> 01:35:20.560
+-- But then you're sharing different instances of these applications
+
+1731
+01:35:20.940 --> 01:35:21.770
+across
+
+1732
+01:35:22.140 --> 01:35:24.230
+-- a large range of notes.
+
+1733
+01:35:24.560 --> 01:35:28.260
+-- Now you have a distributed database. I believe that that's
+
+1734
+01:35:28.640 --> 01:35:31.670
+-- one possible solution potentially where
+
+1735
+01:35:32.040 --> 01:35:32.800
+-- you know
+
+1736
+01:35:32.910 --> 01:35:34.860
+-- there's there's always going to be
+
+1737
+01:35:35.540 --> 01:35:37.460
+-- frankly divided.
+
+1738
+01:35:37.470 --> 01:35:41.820
+-- I want to sit in silos but they don't necessarily have to function so much like silos.
+
+1739
+01:35:41.820 --> 01:35:46.670
+-- It's more I think of them as like permission membranes permission servers. Right.
+
+1740
+01:35:47.040 --> 01:35:52.110
+-- Um But still like it's so cool because the way that they can access the data,
+
+1741
+01:35:52.110 --> 01:35:56.290
+-- it doesn't require global consensus, but you can still find,
+
+1742
+01:35:56.290 --> 01:35:59.690
+-- you can still very readily identify where,
+
+1743
+01:35:59.700 --> 01:36:02.190
+-- where there's that overlap kind of how you were talking about.
+
+1744
+01:36:02.190 --> 01:36:05.060
+-- There is the core and then there's the periphery gray area but
+
+1745
+01:36:05.330 --> 01:36:08.560
+-- should in theory I would think allow us to identify
+
+1746
+01:36:08.730 --> 01:36:13.460
+-- where we have the most overlap in our in our data, in our shared data. Right?
+
+1747
+01:36:22.330 --> 01:36:24.150
+-- I'm really uh
+
+1748
+01:36:25.230 --> 01:36:26.060
+um
+
+1749
+01:36:26.930 --> 01:36:27.950
+-- I really like
+
+1750
+01:36:28.730 --> 01:36:29.650
+-- permission ng
+
+1751
+01:36:30.430 --> 01:36:31.060
+um
+
+1752
+01:36:32.630 --> 01:36:34.850
+-- decentralization and commissioning,
+
+1753
+01:36:35.830 --> 01:36:37.460
+-- you know, coming up out of that.
+
+1754
+01:36:37.460 --> 01:36:41.950
+-- I'm not sure I followed everything that you were saying but the idea that
+
+1755
+01:36:42.730 --> 01:36:44.050
+um
+
+1756
+01:36:46.830 --> 01:36:53.250
+-- well the holy Grail that um we all have
+
+1757
+01:36:53.830 --> 01:36:56.350
+-- all of our own information
+
+1758
+01:36:56.730 --> 01:37:01.340
+-- on our own hard drives and the ability
+
+1759
+01:37:01.490 --> 01:37:02.250
+to
+
+1760
+01:37:03.330 --> 01:37:05.550
+-- permission it outwards in
+
+1761
+01:37:05.930 --> 01:37:07.340
+-- myriad ways
+
+1762
+01:37:07.730 --> 01:37:08.450
+um
+
+1763
+01:37:09.830 --> 01:37:13.880
+-- saying like I want this specific piece of information
+
+1764
+01:37:13.890 --> 01:37:17.430
+-- to be shared with this one person too.
+
+1765
+01:37:17.440 --> 01:37:18.740
+-- I want this
+
+1766
+01:37:19.430 --> 01:37:22.060
+-- data I've Gary gathered about
+
+1767
+01:37:23.130 --> 01:37:26.640
+-- you know, berries in this location to be
+
+1768
+01:37:27.230 --> 01:37:28.250
+shared
+
+1769
+01:37:28.730 --> 01:37:29.960
+globally
+
+1770
+01:37:30.330 --> 01:37:31.850
+-- but without
+
+1771
+01:37:32.430 --> 01:37:35.060
+-- specific attribution to me
+
+1772
+01:37:35.430 --> 01:37:39.930
+-- except as somebody who was a first degree
+
+1773
+01:37:39.930 --> 01:37:42.750
+-- witness to the berries existing in that place
+
+1774
+01:37:43.330 --> 01:37:44.740
+-- as a for instance
+
+1775
+01:37:45.130 --> 01:37:46.240
+-- that just
+
+1776
+01:37:47.130 --> 01:37:47.750
+um
+
+1777
+01:37:48.730 --> 01:37:51.640
+-- you know that that control of permission ng
+
+1778
+01:37:52.360 --> 01:37:53.450
+and
+
+1779
+01:37:55.230 --> 01:37:57.360
+-- permission ng as container
+
+1780
+01:37:57.370 --> 01:38:00.400
+-- what the internet was supposed to be. She mentioned
+
+1781
+01:38:00.540 --> 01:38:03.270
+-- previously and his original dream what his original
+
+1782
+01:38:03.270 --> 01:38:05.150
+-- vision of the internet was supposed to be
+
+1783
+01:38:05.620 --> 01:38:08.650
+-- so we can sell host our applications. So
+
+1784
+01:38:09.020 --> 01:38:11.900
+-- you know, we're we're hosting, we're hosting our own data.
+
+1785
+01:38:11.910 --> 01:38:16.640
+-- It's not going through, it's no longer going through that centralized database.
+
+1786
+01:38:17.120 --> 01:38:20.900
+-- Um so that allows for um I mean there's tons of challenges,
+
+1787
+01:38:20.900 --> 01:38:24.030
+-- of course obstacles that come with that, especially for security.
+
+1788
+01:38:24.040 --> 01:38:28.280
+-- Um but you know, it should be much quicker.
+
+1789
+01:38:28.290 --> 01:38:30.260
+-- In theory, things could be a lot more lightweight,
+
+1790
+01:38:30.260 --> 01:38:31.880
+-- You wouldn't need as many lines of code,
+
+1791
+01:38:31.880 --> 01:38:34.250
+-- you wouldn't need as many calls and things like that.
+
+1792
+01:38:34.520 --> 01:38:38.030
+-- Um so and also should open up the door for
+
+1793
+01:38:38.320 --> 01:38:42.640
+-- um just the ability to see the different perspectives. So you can kind of like,
+
+1794
+01:38:43.020 --> 01:38:46.440
+-- you know, get a better idea of more of a compilation of
+
+1795
+01:38:46.920 --> 01:38:50.960
+-- what this serve over here is seeing or doing and so on.
+
+1796
+01:38:50.970 --> 01:38:55.320
+-- So you get a variety of the different perspectives as to what's going on.
+
+1797
+01:38:55.330 --> 01:38:57.440
+-- And then ultimately, you know, once,
+
+1798
+01:38:58.020 --> 01:39:00.540
+-- once artificial super intelligence arrives
+
+1799
+01:39:01.120 --> 01:39:01.750
+sometimes
+
+1800
+01:39:03.620 --> 01:39:05.150
+-- whenever that is, um
+
+1801
+01:39:05.520 --> 01:39:08.750
+-- now you're talking about literally like a cloud, you know,
+
+1802
+01:39:09.120 --> 01:39:10.940
+-- like the robot Sophia's brain, like
+
+1803
+01:39:11.420 --> 01:39:13.340
+-- it's just the cloud is like in her brain,
+
+1804
+01:39:13.720 --> 01:39:14.740
+-- whatever it is, you know,
+
+1805
+01:39:15.120 --> 01:39:18.030
+-- um that part is scary. Maybe what
+
+1806
+01:39:18.420 --> 01:39:20.150
+-- um just if you look at
+
+1807
+01:39:20.620 --> 01:39:23.490
+-- the idea of an intentional intelligence.
+
+1808
+01:39:23.490 --> 01:39:27.380
+-- Programmable intelligence is the ability of what it can allow us to
+
+1809
+01:39:27.380 --> 01:39:30.980
+-- do with a lot of automated processing and handling of data.
+
+1810
+01:39:30.990 --> 01:39:33.360
+-- So one of the things that the reason I'm sharing is one of things
+
+1811
+01:39:33.360 --> 01:39:39.530
+-- I'm very interested in is this idea of oracle's oracles is like a box,
+
+1812
+01:39:39.530 --> 01:39:41.250
+-- like a black box, you put an input
+
+1813
+01:39:41.620 --> 01:39:43.350
+-- and then it gives you an output. So it's like an
+
+1814
+01:39:43.720 --> 01:39:45.250
+-- basically an automated function.
+
+1815
+01:39:45.920 --> 01:39:50.010
+-- And so I could see these different functions being able to kind of gather data.
+
+1816
+01:39:50.020 --> 01:39:53.070
+-- So it's not like a human necessarily that has to like
+
+1817
+01:39:53.080 --> 01:39:56.010
+-- enter in this data and this database and organize it.
+
+1818
+01:39:56.020 --> 01:39:58.300
+-- But it's it's more of a conglomeration.
+
+1819
+01:39:58.300 --> 01:40:01.400
+-- I'm sure like big tech companies are already using that now.
+
+1820
+01:40:01.410 --> 01:40:03.830
+-- I mean governments for sure have to be using it. But
+
+1821
+01:40:04.010 --> 01:40:06.320
+-- allowing those same technologies that they have
+
+1822
+01:40:06.910 --> 01:40:12.970
+-- that's you know um proprietary and giving that to the people I think
+
+1823
+01:40:12.970 --> 01:40:17.240
+-- could really open up the floodgates for like for what we're talking about.
+
+1824
+01:40:17.250 --> 01:40:19.030
+-- Um I don't know how that's possible but
+
+1825
+01:40:19.410 --> 01:40:20.330
+-- that's just like
+
+1826
+01:40:20.710 --> 01:40:23.940
+-- what that's what I'm hoping can happen at some point.
+
+1827
+01:40:29.210 --> 01:40:32.540
+-- Yes. Going back to the privacy piece for a second
+
+1828
+01:40:34.710 --> 01:40:36.450
+-- when I started to envision, okay,
+
+1829
+01:40:36.450 --> 01:40:39.440
+-- this is my store of knowledge and I started to talk to people about
+
+1830
+01:40:40.610 --> 01:40:42.530
+-- privacy issues around that.
+
+1831
+01:40:43.410 --> 01:40:46.530
+-- It both frightened people but also
+
+1832
+01:40:47.110 --> 01:40:51.340
+-- open doors to write like if there if we really could trust that the thing I'm
+
+1833
+01:40:51.340 --> 01:40:54.050
+-- creating for my secure ating knowledge for myself
+
+1834
+01:40:54.060 --> 01:40:55.950
+-- can be private because I'm storing it here.
+
+1835
+01:40:55.950 --> 01:41:00.630
+-- It's next to me. I only give permission to people who I give permission to access it.
+
+1836
+01:41:02.010 --> 01:41:05.410
+-- Then a whole host of things becomes possible right now.
+
+1837
+01:41:05.410 --> 01:41:08.240
+-- I'm not just storing knowledge like the berries. Right?
+
+1838
+01:41:08.250 --> 01:41:10.620
+-- I'm stirring knowledge that is
+
+1839
+01:41:11.110 --> 01:41:14.530
+-- that I am extremely aware. I want to keep private.
+
+1840
+01:41:15.110 --> 01:41:17.050
+-- I'm working on something brand new.
+
+1841
+01:41:17.050 --> 01:41:20.630
+-- Someone someone could take it and run with it and I'm not ready to publish it yet.
+
+1842
+01:41:21.110 --> 01:41:23.120
+-- Could be one which is knowledge
+
+1843
+01:41:23.910 --> 01:41:27.020
+-- based. But what about medical based? What about financial base?
+
+1844
+01:41:27.020 --> 01:41:29.400
+-- What about all those other ways in which right now
+
+1845
+01:41:29.400 --> 01:41:31.440
+-- a lot of my dad is sitting somewhere else,
+
+1846
+01:41:31.450 --> 01:41:32.440
+-- which, you know,
+
+1847
+01:41:32.440 --> 01:41:37.290
+-- it has to sit with like a high wall around it and I barely can get access to it.
+
+1848
+01:41:37.300 --> 01:41:41.330
+-- What if I owned that? And it could start making associations between
+
+1849
+01:41:42.310 --> 01:41:45.210
+-- the things that I already know about my own financial
+
+1850
+01:41:45.210 --> 01:41:49.680
+-- or medical situation and that the other space out there
+
+1851
+01:41:49.690 --> 01:41:54.440
+-- right where it is the shared knowledge base and I can dip in and out of those two and go,
+
+1852
+01:41:54.450 --> 01:41:55.310
+-- oh wow,
+
+1853
+01:41:55.310 --> 01:41:58.260
+-- this is a diagnosis that I just received or these are
+
+1854
+01:41:58.260 --> 01:42:01.510
+-- symptoms I have or this is my past history and what's,
+
+1855
+01:42:01.520 --> 01:42:06.790
+-- you know, what can I learn from the, from the, the knowledge network,
+
+1856
+01:42:06.800 --> 01:42:10.500
+-- from the public Knowledge Networks Fear about myself and that's interesting.
+
+1857
+01:42:10.500 --> 01:42:14.020
+-- Save it down. Oh, that's interesting. Save it down. That's interesting.
+
+1858
+01:42:14.020 --> 01:42:17.100
+-- Save it down, you know, and these five things over here kind of interesting to,
+
+1859
+01:42:17.100 --> 01:42:19.020
+-- but let me save them for later and let me curate it
+
+1860
+01:42:19.020 --> 01:42:20.470
+-- in a way that I can find it when I want it,
+
+1861
+01:42:20.480 --> 01:42:20.750
+-- Right?
+
+1862
+01:42:20.750 --> 01:42:22.230
+-- So to me it's
+
+1863
+01:42:22.900 --> 01:42:24.120
+-- opens the door to
+
+1864
+01:42:24.600 --> 01:42:25.450
+-- us as humans,
+
+1865
+01:42:25.450 --> 01:42:30.140
+-- re owning our own story might say our our own knowledge and being able
+
+1866
+01:42:30.140 --> 01:42:36.120
+-- to use technology for that benefit of knowing ourselves better in a world that
+
+1867
+01:42:37.200 --> 01:42:37.400
+-- yeah,
+
+1868
+01:42:37.900 --> 01:42:40.720
+-- in our lifetimes we come across,
+
+1869
+01:42:41.200 --> 01:42:45.100
+-- I don't know what the factor is of the amount of information we now
+
+1870
+01:42:45.100 --> 01:42:49.440
+-- come across and have access to in comparison to just say two generations ago.
+
+1871
+01:42:49.450 --> 01:42:52.020
+-- And we, but our brains can't
+
+1872
+01:42:52.700 --> 01:42:55.490
+-- hold it much more than we, right?
+
+1873
+01:42:55.490 --> 01:42:59.100
+-- So let's use technology to hold it and help us help facilitate that
+
+1874
+01:42:59.100 --> 01:43:04.420
+-- thinking really take advantage of all that's available to us is super cool.
+
+1875
+01:43:04.430 --> 01:43:07.840
+-- And I don't think it's really possible unless we can lock it.
+
+1876
+01:43:07.850 --> 01:43:11.230
+-- Thus, we, as individuals can trust that it's locked in a safe place.
+
+1877
+01:43:11.600 --> 01:43:13.120
+-- I'll always be a little nervous,
+
+1878
+01:43:13.500 --> 01:43:13.690
+-- right?
+
+1879
+01:43:13.690 --> 01:43:16.330
+-- And I always won't want to put up the most important pieces
+
+1880
+01:43:16.340 --> 01:43:20.190
+-- of my life on this thing unless I know it's really safe.
+
+1881
+01:43:20.200 --> 01:43:22.600
+-- And so this is to me this is huge.
+
+1882
+01:43:22.600 --> 01:43:24.610
+-- It's found it's part of the reason why I'm struggling.
+
+1883
+01:43:24.620 --> 01:43:29.730
+-- I struggled for years to develop it because I kind of want to wait
+
+1884
+01:43:29.740 --> 01:43:33.230
+-- for that technology to come up because I don't want to develop it twice.
+
+1885
+01:43:41.100 --> 01:43:41.820
+I'm
+
+1886
+01:43:43.300 --> 01:43:46.330
+-- I'm hearing what you're saying and resonating and
+
+1887
+01:43:46.900 --> 01:43:47.920
+and
+
+1888
+01:43:48.400 --> 01:43:48.610
+-- okay,
+
+1889
+01:43:50.700 --> 01:43:53.610
+-- and also thinking about the,
+
+1890
+01:43:54.700 --> 01:43:56.620
+-- you know, we want to feel secure
+
+1891
+01:43:57.200 --> 01:43:57.920
+-- and yet
+
+1892
+01:43:58.300 --> 01:43:59.020
+-- are,
+
+1893
+01:44:01.490 --> 01:44:01.690
+-- yeah,
+
+1894
+01:44:02.590 --> 01:44:04.810
+-- our identities can be
+
+1895
+01:44:05.490 --> 01:44:09.710
+-- um stolen and our our, you know, our finances,
+
+1896
+01:44:10.190 --> 01:44:12.830
+-- our financial records can be hacked and you know,
+
+1897
+01:44:12.830 --> 01:44:14.840
+-- people probably don't want to get our medical records,
+
+1898
+01:44:14.840 --> 01:44:16.240
+-- but certainly you know when they're in
+
+1899
+01:44:16.240 --> 01:44:19.700
+-- somebody else's hands were worried about that and
+
+1900
+01:44:20.090 --> 01:44:21.310
+um
+
+1901
+01:44:21.790 --> 01:44:23.410
+-- that security pieces,
+
+1902
+01:44:25.190 --> 01:44:26.890
+-- you know what's under our control,
+
+1903
+01:44:26.890 --> 01:44:30.200
+-- we can govern but there's so much that's not under our control.
+
+1904
+01:44:30.690 --> 01:44:31.310
+Um
+
+1905
+01:44:33.990 --> 01:44:38.110
+-- Yeah and and and to circle back to something you were saying,
+
+1906
+01:44:38.120 --> 01:44:43.110
+-- Zeke actually I don't remember who was saying this, but just about the
+
+1907
+01:44:43.490 --> 01:44:49.520
+-- yeah I think it was easy talking about, you know, Oracles and and um
+
+1908
+01:44:51.690 --> 01:44:57.420
+-- you know general intelligence when it comes to be um like
+
+1909
+01:44:57.890 --> 01:45:03.280
+-- being able to just the way that we construct mythologies and stories and
+
+1910
+01:45:03.280 --> 01:45:11.620
+-- and explanations and scientific theories around um facts to be able to loose
+
+1911
+01:45:12.090 --> 01:45:12.710
+um
+
+1912
+01:45:13.190 --> 01:45:18.020
+-- a general intelligence in oracle, you know something on a set of facts
+
+1913
+01:45:18.690 --> 01:45:21.020
+-- that we don't even know what we want to make of.
+
+1914
+01:45:21.390 --> 01:45:21.920
+Um
+
+1915
+01:45:22.590 --> 01:45:25.310
+-- But just to like say,
+
+1916
+01:45:25.890 --> 01:45:32.210
+-- you know, maybe not be smart enough to have a point of view. Um but more say
+
+1917
+01:45:33.090 --> 01:45:36.210
+-- here is a possible explanation that fits all these facts together
+
+1918
+01:45:36.690 --> 01:45:39.810
+-- or these data points which may or may not be facts.
+
+1919
+01:45:40.190 --> 01:45:46.120
+-- Um And and you know this one makes sense of like
+
+1920
+01:45:47.090 --> 01:45:52.250
+-- 90 of the 100 facts you put in here, but these 10 would disprove it.
+
+1921
+01:45:52.310 --> 01:45:58.120
+-- So maybe it's worth concentrating on whether these 10 are in fact
+
+1922
+01:45:59.190 --> 01:46:00.020
+-- you know accurate
+
+1923
+01:46:00.680 --> 01:46:04.160
+-- um because if they're not then then this all works,
+
+1924
+01:46:04.170 --> 01:46:09.250
+-- but if you know those to be true then this whole thing falls apart.
+
+1925
+01:46:09.260 --> 01:46:09.890
+Um
+
+1926
+01:46:11.780 --> 01:46:17.900
+-- and yeah, I mean you know general access to all of those data points
+
+1927
+01:46:18.380 --> 01:46:20.720
+-- um in the same language, you know,
+
+1928
+01:46:20.730 --> 01:46:28.310
+-- including the snake photos in the garden on facebook, want to get there
+
+1929
+01:46:28.780 --> 01:46:30.950
+-- and the cool thing with the internet of things,
+
+1930
+01:46:30.950 --> 01:46:34.500
+-- we're going to have access to large amounts of data like never before.
+
+1931
+01:46:34.500 --> 01:46:37.210
+-- So that hopefully will help this process
+
+1932
+01:46:37.580 --> 01:46:39.330
+-- because we'll just have access to they're going
+
+1933
+01:46:39.330 --> 01:46:40.850
+-- to have all these little sensors on everything.
+
+1934
+01:46:40.850 --> 01:46:43.380
+-- You're just going to be uploading tons and tons of
+
+1935
+01:46:43.390 --> 01:46:45.890
+-- data constantly all the time about a bunch of stuff
+
+1936
+01:46:46.480 --> 01:46:47.890
+-- that's going to be really cool
+
+1937
+01:46:48.130 --> 01:46:49.990
+-- and then just having it so that we can
+
+1938
+01:46:50.380 --> 01:46:55.970
+-- compile that data and design algorithms in which the machine can,
+
+1939
+01:46:55.980 --> 01:46:58.360
+-- you know start learning about it and trying to
+
+1940
+01:46:58.360 --> 01:47:00.950
+-- piece it together and then it presents us says,
+
+1941
+01:47:00.950 --> 01:47:01.700
+-- hey, you know,
+
+1942
+01:47:01.710 --> 01:47:03.760
+-- got all this like these are the 90 these are
+
+1943
+01:47:03.760 --> 01:47:05.730
+-- the 10 and here's like some stuff and what it could
+
+1944
+01:47:05.730 --> 01:47:08.650
+-- mean and these are other people that are you know doing
+
+1945
+01:47:08.650 --> 01:47:10.990
+-- the same thing and reading and learning about this and so
+
+1946
+01:47:11.180 --> 01:47:14.900
+-- it just can present to you and then you can say like you can even, you know,
+
+1947
+01:47:15.280 --> 01:47:17.830
+-- teach it, it's like machine learning human,
+
+1948
+01:47:17.840 --> 01:47:19.880
+-- human guided machine learning makes a lot of sense.
+
+1949
+01:47:19.880 --> 01:47:21.170
+-- So yeah that was helpful.
+
+1950
+01:47:21.170 --> 01:47:24.380
+-- No that wasn't helpful or let's put that aside for later and then in
+
+1951
+01:47:24.390 --> 01:47:28.090
+-- tag it if something else comes up let me know pop up a notification
+
+1952
+01:47:28.680 --> 01:47:29.710
+-- stuff like that.
+
+1953
+01:47:29.720 --> 01:47:32.770
+-- So it's really cool to think about the fact that like right now
+
+1954
+01:47:32.770 --> 01:47:36.990
+-- we don't have yet all these sensors and all this like day to get
+
+1955
+01:47:37.380 --> 01:47:40.960
+-- access to potential data but once that's available that
+
+1956
+01:47:40.970 --> 01:47:43.500
+-- that that I think can open up a lot of
+
+1957
+01:47:44.080 --> 01:47:45.210
+-- a lot of possibilities to
+
+1958
+01:47:48.180 --> 01:47:53.050
+-- and that brings me to the fears that we all have and that you know
+
+1959
+01:47:53.050 --> 01:47:59.210
+-- are are realized and true about um the monitoring of the data that we generate
+
+1960
+01:47:59.580 --> 01:48:06.330
+-- By 3rd parties by you know the amazons and googles and the you know the
+
+1961
+01:48:06.340 --> 01:48:10.560
+-- the the ad targeting algorithms that we feel
+
+1962
+01:48:10.560 --> 01:48:13.500
+-- uncomfortable about and we want control over.
+
+1963
+01:48:13.970 --> 01:48:18.460
+-- Um And when you think about you know Iot stuff you
+
+1964
+01:48:18.460 --> 01:48:21.210
+-- think oh my God is you know my vacuum cleaner gonna be
+
+1965
+01:48:21.210 --> 01:48:26.400
+-- eavesdropping on my conversation so amazon can like you know change
+
+1966
+01:48:26.400 --> 01:48:29.780
+-- the pricing on something because they know I really want it.
+
+1967
+01:48:30.170 --> 01:48:30.890
+Um
+
+1968
+01:48:31.970 --> 01:48:32.780
+And
+
+1969
+01:48:34.070 --> 01:48:38.600
+-- if if we felt confident that we all individually had
+
+1970
+01:48:39.870 --> 01:48:44.810
+-- you know control of that stuff on our own servers and shared it voluntarily.
+
+1971
+01:48:44.810 --> 01:48:47.190
+-- Like I'm fine with sharing
+
+1972
+01:48:47.770 --> 01:48:51.120
+-- you know the chemical analysis of the dust in my house
+
+1973
+01:48:51.570 --> 01:48:55.190
+-- um via my vacuum cleaner with you know
+
+1974
+01:48:55.670 --> 01:48:59.090
+-- academic institutions that are you know, looking at
+
+1975
+01:49:02.270 --> 01:49:06.510
+-- the migratory habits of different animals and can tell from, you know,
+
+1976
+01:49:06.520 --> 01:49:09.640
+-- there's all kinds of stuff that you'd be cool with if you knew.
+
+1977
+01:49:09.650 --> 01:49:14.110
+-- Yeah. All right, fine. I'm I'm up for that. I'm down for that. Here's my data.
+
+1978
+01:49:14.120 --> 01:49:15.500
+-- You can you can have a constant
+
+1979
+01:49:16.070 --> 01:49:18.920
+-- monitoring of the flow of data from my vacuum cleaner.
+
+1980
+01:49:18.930 --> 01:49:24.910
+-- You know, this research program. It would be a lot different than God.
+
+1981
+01:49:24.920 --> 01:49:28.100
+-- Don't let anybody see anything because I don't know what they're doing with it.
+
+1982
+01:49:29.770 --> 01:49:32.870
+-- That's right. Yeah. And to be really cool to know what people are doing with it.
+
+1983
+01:49:32.880 --> 01:49:37.180
+-- To see how useful it's been encourages you to write to then give more
+
+1984
+01:49:37.670 --> 01:49:38.090
+data
+
+1985
+01:49:38.570 --> 01:49:41.780
+-- to the right people to is key. So yeah, that's cool. I agree.
+
+1986
+01:49:47.470 --> 01:49:50.680
+-- If people are willing, I just want to flip this on its head for a second.
+
+1987
+01:49:51.070 --> 01:49:55.980
+-- So we're talking about the edges of where this could go, which is super cool.
+
+1988
+01:49:55.990 --> 01:49:59.190
+-- And then it's reminding me of an article I read yesterday which is
+
+1989
+01:49:59.570 --> 01:50:00.620
+-- the simple,
+
+1990
+01:50:00.620 --> 01:50:04.830
+-- the simplest version of this and how it could be immensely useful right now,
+
+1991
+01:50:04.840 --> 01:50:06.820
+-- which is treating this article.
+
+1992
+01:50:06.820 --> 01:50:10.470
+-- And I've been thinking a lot about phantom work we were talking about this last week.
+
+1993
+01:50:10.470 --> 01:50:14.570
+-- Right, Michael. Can't remember. Ok. So I read a really good article about,
+
+1994
+01:50:15.460 --> 01:50:19.380
+-- written by it was in the atlantic. I can post it if you guys want to
+
+1995
+01:50:19.760 --> 01:50:20.380
+um
+
+1996
+01:50:22.060 --> 01:50:28.380
+-- I want to read it from a woman who writes often about the social, um,
+
+1997
+01:50:29.960 --> 01:50:33.380
+-- the government's projects and um,
+
+1998
+01:50:34.360 --> 01:50:38.890
+-- and solutions for supporting the social structure of society. Right?
+
+1999
+01:50:38.890 --> 01:50:42.370
+-- So it could be like helping somebody with homelessness or helping somebody get
+
+2000
+01:50:42.760 --> 01:50:44.390
+-- Money from the government who they were
+
+2001
+01:50:44.390 --> 01:50:46.730
+-- promised because of COVID-19 issues or whatever.
+
+2002
+01:50:46.730 --> 01:50:49.200
+-- Right? Any, any of those kind of programs.
+
+2003
+01:50:49.210 --> 01:50:51.480
+-- And she's saying she got to a point where she, you know,
+
+2004
+01:50:51.490 --> 01:50:52.840
+-- obviously there's always red tape,
+
+2005
+01:50:52.850 --> 01:50:57.280
+-- obviously there's always too many forms to fill out all the rest.
+
+2006
+01:50:57.660 --> 01:50:59.990
+-- But she's got to a point where she started
+
+2007
+01:50:59.990 --> 01:51:02.120
+-- noticing after reporting on it for years and years.
+
+2008
+01:51:02.120 --> 01:51:05.150
+-- Maybe this is about, I'm guessing now about five years ago or something.
+
+2009
+01:51:05.150 --> 01:51:06.480
+-- She started to recognize that,
+
+2010
+01:51:07.560 --> 01:51:10.630
+-- wow, this has gotten to a whole new level of complicated.
+
+2011
+01:51:10.640 --> 01:51:13.250
+-- And does it really need to be this complicated?
+
+2012
+01:51:13.260 --> 01:51:15.090
+-- There's such uh,
+
+2013
+01:51:15.100 --> 01:51:20.240
+-- so much friction for people who are need help to get the help that they need,
+
+2014
+01:51:20.250 --> 01:51:23.090
+-- whether it's in health care and making a million phone
+
+2015
+01:51:23.090 --> 01:51:26.090
+-- calls to your insurance company when you're ill or it's,
+
+2016
+01:51:26.100 --> 01:51:27.970
+-- you know, not, you know,
+
+2017
+01:51:27.970 --> 01:51:30.250
+-- homelessness and making having to fill out
+
+2018
+01:51:30.250 --> 01:51:32.720
+-- forms with random questions to make absolutely no
+
+2019
+01:51:32.720 --> 01:51:36.070
+-- sense to anybody under any circumstances on order
+
+2020
+01:51:36.070 --> 01:51:37.920
+-- to just have a meeting with somebody.
+
+2021
+01:51:37.930 --> 01:51:40.870
+-- And she pointed out some very clear examples
+
+2022
+01:51:41.660 --> 01:51:42.880
+-- of how this works.
+
+2023
+01:51:42.890 --> 01:51:46.810
+-- And so I just think it's interesting, I think that, you know,
+
+2024
+01:51:46.810 --> 01:51:48.700
+-- just having a knowledge repository,
+
+2025
+01:51:48.700 --> 01:51:51.330
+-- we're not even talking about personal now when I'm talking about the gray
+
+2026
+01:51:51.330 --> 01:51:53.810
+-- area and we're not even talking about the future of what's possible.
+
+2027
+01:51:53.810 --> 01:51:58.970
+-- We're talking about that public knowledge store. That could be that with
+
+2028
+01:51:59.160 --> 01:52:02.920
+-- the time and attention of people who have the time and attention to give could
+
+2029
+01:52:02.920 --> 01:52:07.820
+-- be immensely useful to the people who don't have the time and attention to give,
+
+2030
+01:52:07.830 --> 01:52:12.660
+-- who either are ill or don't have the money, the resources, the time,
+
+2031
+01:52:12.660 --> 01:52:14.390
+-- the energy or whatever.
+
+2032
+01:52:14.400 --> 01:52:19.070
+-- And she talked about how those things used to be done by a government agency.
+
+2033
+01:52:19.250 --> 01:52:21.380
+-- There's really no quality control it anymore.
+
+2034
+01:52:21.380 --> 01:52:24.980
+-- So now teachers are doing that work and social workers are doing that work and other,
+
+2035
+01:52:25.150 --> 01:52:25.420
+-- you know,
+
+2036
+01:52:25.420 --> 01:52:29.330
+-- non profit agencies are doing the work of trying to help individuals get
+
+2037
+01:52:29.330 --> 01:52:32.390
+-- to what they need and get through the system to what they need.
+
+2038
+01:52:32.400 --> 01:52:38.510
+-- So it's just interesting to me um as a as a thought exercise and maybe also
+
+2039
+01:52:38.510 --> 01:52:44.580
+-- as a good test case to in terms of trying to get information to the right people
+
+2040
+01:52:44.750 --> 01:52:46.970
+-- at the right time in the right place when they need it.
+
+2041
+01:52:47.250 --> 01:52:52.710
+-- Um It's low hanging fruit in terms of solutions, solution finding, you know,
+
+2042
+01:52:52.710 --> 01:52:54.870
+-- here's the solution here is how to get through it.
+
+2043
+01:52:54.870 --> 01:52:56.970
+-- Here's an organization. They'll help you navigate through it.
+
+2044
+01:52:57.350 --> 01:53:00.770
+-- You know, at least you have the information at the at the baseline.
+
+2045
+01:53:01.250 --> 01:53:03.170
+-- Um Just as a thought
+
+2046
+01:53:08.350 --> 01:53:09.480
+-- Thanks Peter That's the one
+
+2047
+01:53:21.350 --> 01:53:23.270
+-- was it you that posted it to matter most.
+
+2048
+01:53:23.850 --> 01:53:26.230
+-- Did someone post to matter most. Is that how I ended up with it?
+
+2049
+01:53:26.240 --> 01:53:27.300
+-- Because I can't remember.
+
+2050
+01:53:27.310 --> 01:53:31.540
+-- I didn't start with it. I grabbed the link.
+
+2051
+01:53:31.550 --> 01:53:33.980
+-- I found the link after somebody had mentioned it.
+
+2052
+01:53:34.450 --> 01:53:35.580
+-- I think maybe it was you
+
+2053
+01:53:37.650 --> 01:53:39.790
+-- and, and Michael knows it too obvious.
+
+2054
+01:53:41.350 --> 01:53:44.470
+-- So we're coming up on two hours. This has been an awesome conversation.
+
+2055
+01:53:45.050 --> 01:53:47.870
+-- Maybe it's a good time to route.
+
+2056
+01:53:50.050 --> 01:53:51.100
+-- Um, I'll post
+
+2057
+01:53:51.110 --> 01:53:52.590
+-- reported this one
+
+2058
+01:53:52.600 --> 01:53:53.970
+-- too. Yeah. Look forward
+
+2059
+01:53:53.970 --> 01:53:55.010
+-- to think
+
+2060
+01:53:55.020 --> 01:53:55.570
+-- that.
+
+2061
+01:53:55.950 --> 01:54:02.060
+-- Um, I'll plus the zoom chat, uh, in the channel. Yeah.
+
+2062
+01:54:02.060 --> 01:54:06.660
+-- And I'll put the link to the recording there and then I'll get it on Youtube publicly.
+
+2063
+01:54:08.200 --> 01:54:10.970
+-- So nice to meet you, Zeke. I'm so glad you're here today.
+
+2064
+01:54:10.980 --> 01:54:12.090
+-- Nice to meet you.
+
+2065
+01:54:12.190 --> 01:54:15.370
+-- I really appreciate this conversation. So it's amazing.
+
+2066
+01:54:15.840 --> 01:54:18.450
+-- Thank you all for doing what you're doing and being you.
+
+2067
+01:54:18.940 --> 01:54:23.730
+-- Yeah. You too. I think we'd all agree.
+
+2068
+01:54:23.730 --> 01:54:25.380
+-- And I think I probably speak for everyone and
+
+2069
+01:54:25.380 --> 01:54:28.060
+-- that if you're interested in working with us on,
+
+2070
+01:54:28.540 --> 01:54:32.050
+-- I'm trying to figure this out. We are very much
+
+2071
+01:54:32.440 --> 01:54:34.530
+-- welcoming of your time and talents.
+
+2072
+01:54:34.980 --> 01:54:40.170
+-- Thank
+-- you. Love to know what you're doing and how we can support you.
+
+2073
+01:54:40.640 --> 01:54:42.040
+-- Well, thank you. Yeah,
+
+2074
+01:54:42.540 --> 01:54:44.160
+-- very excited to um,
+
+2075
+01:54:44.540 --> 01:54:45.880
+-- get connected. So
+
+2076
+01:54:46.100 --> 01:54:46.760
+-- just let me know.
+
+2077
+01:54:47.740 --> 01:54:48.060
+-- Cool.
+
+2078
+01:54:48.540 --> 01:54:51.560
+-- I think you know about mannerist and yeah, you do.
+
+2079
+01:54:52.040 --> 01:54:54.370
+-- Yeah, I'm not, I haven't been using it, but I'm familiar.
+
+2080
+01:54:54.740 --> 01:54:55.890
+-- I can hop on there.
+
+2081
+01:54:55.900 --> 01:54:59.580
+-- I'm the
+-- one that all the hop on anything, whatever app people are using,
+
+2082
+01:54:59.580 --> 01:55:03.140
+-- I'll jump in here just uh I don't have experience with any of these things,
+
+2083
+01:55:03.140 --> 01:55:05.960
+-- I haven't used social media in like a decade literally, so
+
+2084
+01:55:06.440 --> 01:55:07.780
+-- um there's a lot of things,
+
+2085
+01:55:07.780 --> 01:55:11.630
+-- I'm just not going to know about like current events and stuff to keep that in mind,
+
+2086
+01:55:11.640 --> 01:55:15.390
+-- also, like, I just may struggle to, like figure out how to use some of these things,
+
+2087
+01:55:15.390 --> 01:55:19.230
+-- but I'm very curious to hear people's opinions on what
+
+2088
+01:55:19.230 --> 01:55:23.060
+-- they like and don't like about certain software and applications,
+
+2089
+01:55:23.060 --> 01:55:23.560
+because
+
+2090
+01:55:24.040 --> 01:55:28.450
+-- didn't realize I'd end up being in this where I am now designing it, but I am, so
+
+2091
+01:55:28.840 --> 01:55:30.460
+-- I need to kind of know now like
+
+2092
+01:55:30.940 --> 01:55:32.560
+-- what's what's
+-- out there, so
+
+2093
+01:55:33.540 --> 01:55:39.360
+-- is a so the Mandamus is um where this community kind of
+
+2094
+01:55:39.360 --> 01:55:43.170
+-- hangs out when we're not on calls um in the flotilla channel,
+
+2095
+01:55:43.540 --> 01:55:45.770
+-- um there's another channel you might be interested
+
+2096
+01:55:45.770 --> 01:55:49.070
+-- in which is a synergetic social media,
+
+2097
+01:55:49.080 --> 01:55:53.860
+-- um which is kind of somebody who's working on
+
+2098
+01:55:54.740 --> 01:56:01.060
+-- a uh less on virtuous uh social media
+
+2099
+01:56:01.530 --> 01:56:04.150
+-- um but it's, it's also kind of a general,
+
+2100
+01:56:04.160 --> 01:56:06.880
+-- you might have some good conversations there
+
+2101
+01:56:06.880 --> 01:56:08.760
+-- about what's good and bad about different,
+
+2102
+01:56:08.770 --> 01:56:11.960
+-- different social media platforms.
+
+2103
+01:56:13.030 --> 01:56:15.060
+-- Yeah, yeah, that'd be great. Just um
+
+2104
+01:56:15.530 --> 01:56:17.490
+-- yeah, so do you have me the info
+
+2105
+01:56:17.500 --> 01:56:18.460
+-- and I'll hop in there
+
+2106
+01:56:19.330 --> 01:56:23.120
+-- and feel free again, Michael was saying the post whatever questions you have to,
+
+2107
+01:56:23.130 --> 01:56:23.950
+-- I found,
+
+2108
+01:56:23.960 --> 01:56:28.430
+-- I'm pretty new to to this experience as well with everyone else in collaboration.
+
+2109
+01:56:28.430 --> 01:56:31.700
+-- So I found I can just speak to my own experience as saying,
+
+2110
+01:56:31.700 --> 01:56:33.540
+-- I found that if you post a question,
+
+2111
+01:56:33.540 --> 01:56:37.960
+-- there's plenty of people who will be like to chime in in a very supportive
+
+2112
+01:56:38.230 --> 01:56:43.970
+-- way to um either, you know, bring your attention to resources, you don't know, or,
+
+2113
+01:56:43.980 --> 01:56:47.350
+-- you know, answer the question directly or whatever, so however we can support you,
+
+2114
+01:56:47.830 --> 01:56:48.760
+-- that's what I'm getting at.
+
+2115
+01:56:48.770 --> 01:56:50.250
+-- Yeah, thank you so much.
+
+2116
+01:56:52.130 --> 01:56:54.460
+-- This is uh this is bigger than us, you know?
+
+2117
+01:56:57.230 --> 01:57:01.550
+-- It's really cool. It's great. It's really great to meet people like yourselves,
+
+2118
+01:57:02.230 --> 01:57:06.680
+-- you're too, my husband came down, I had you guys on, on you and I'm making my lunch,
+
+2119
+01:57:06.690 --> 01:57:08.650
+-- and he's he just leans in, he goes,
+
+2120
+01:57:09.030 --> 01:57:11.810
+-- I can't even, like, you didn't say that,
+
+2121
+01:57:11.820 --> 01:57:14.400
+-- but I just know not everyone likes to have these
+
+2122
+01:57:14.400 --> 01:57:17.130
+-- conversations and I would try to have them with him,
+
+2123
+01:57:17.130 --> 01:57:18.770
+-- and he'd be like, please, I have a headache.
+
+2124
+01:57:18.770 --> 01:57:24.490
+-- Like I just he runs he runs software in his day job to seize the VP of Penzler,
+
+2125
+01:57:24.490 --> 01:57:27.510
+-- which is a language learning, you know, he's developed their app.
+
+2126
+01:57:27.510 --> 01:57:32.300
+-- And so he's like, I can't, I can't, I can't, you know, and I'm like, please,
+
+2127
+01:57:32.300 --> 01:57:33.220
+-- I really wanted this stuff
+
+2128
+01:57:33.220 --> 01:57:33.780
+-- is great.
+
+2129
+01:57:33.790 --> 01:57:37.660
+-- It's just nice to have a, have a forum,
+
+2130
+01:57:37.660 --> 01:57:40.050
+-- talk about it with other people who are interested and we all
+
+2131
+01:57:40.050 --> 01:57:43.590
+-- see the potential because it's heavy topics they start talking about,
+
+2132
+01:57:43.600 --> 01:57:46.000
+-- we get into and you know,
+
+2133
+01:57:46.000 --> 01:57:49.880
+-- I know at times it can really weigh me down and give me compassion fatigue.
+
+2134
+01:57:49.890 --> 01:57:50.780
+-- So, um,
+
+2135
+01:57:50.790 --> 01:57:53.840
+-- it's nice to have being an environment with people
+
+2136
+01:57:53.840 --> 01:57:56.150
+-- who feel like there is a path through.
+
+2137
+01:57:56.630 --> 01:57:59.840
+-- So thank you. Thank you for always holding the space and
+
+2138
+01:58:01.130 --> 01:58:01.850
+-- it's been great.
+
+2139
+01:58:03.830 --> 01:58:05.980
+-- Thanks. I'll have a great weekend. Have
+
+2140
+01:58:05.980 --> 01:58:07.250
+-- a great day. Great weekend. See you.
+
+2141
+01:58:07.830 --> 01:58:08.340
+-- Bye.

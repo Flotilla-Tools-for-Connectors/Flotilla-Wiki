@@ -1,0 +1,293 @@
+09:00:42 From Peter Kaminski to Everyone:
+	https://hackmd.io/@peterkaminski/ByDezuiXt/edit (you don't need to sign in, just click the pencil or "both" icon at the top left)
+09:00:50 From Vincent Arena to Everyone:
+	Hey folks from Prague! I can only stay for a bit today, about to go out to get dinner :)
+09:02:43 From Mark Carranza to Everyone:
+	I now how audio!
+09:02:48 From Mark Carranza to Everyone:
+	have
+09:03:35 From Jerry Michalski to Everyone:
+	Pete, are you recording these calls?
+09:03:49 From Peter Kaminski to Everyone:
+	generally yes, will start it soon
+09:05:56 From Michael Grossman (he/him) Factr.com to Everyone:
+	My connection isn’t stable here, I will be in and out, I’m afraid.
+09:06:08 From Peter Kaminski to Everyone:
+	https://hackmd.io/@peterkaminski/ByDezuiXt/edit (you don't need to sign in, just click the pencil or "both" icon at the top left)
+09:06:21 From Jerry Michalski to Everyone:
+	Mark and his MX in my Brain: https://bra.in/4pxJxK
+09:06:34 From Marc-Antoine Parent to Everyone:
+	it's still private. should we at least add Mark?
+09:06:44 From Peter Kaminski to Everyone:
+	yes, we should add Mark
+09:07:48 From Peter Kaminski to Everyone:
+	and add a discussion about opening the FJB code to the FJB discussion queue...
+09:09:51 From Bill Anderson to Everyone:
+	for me reading Marc’s notes stimulates free-associations …
+09:10:00 From Marc-Antoine Parent to Everyone:
+	Sorry, had to leave for a package. Mark is now invited
+09:10:16 From Peter Kaminski to Everyone:
+	"the separation of feeling and thinking"
+09:10:32 From Peter Kaminski to Everyone:
+	"social memex"
+09:10:50 From Bill Anderson to Everyone:
+	start small, keep it simple, be successful
+09:12:11 From Peter Kaminski to Everyone:
+	https://hackmd.io/@peterkaminski/ByDezuiXt/edit (you don't need to sign in, just click the pencil or "both" icon at the top left)
+09:12:22 From Peter Kaminski to Everyone:
+	"Mark Carranza - Conference 2013 on Vimeo"
+	https://vimeo.com/85016624
+09:12:51 From Bill Anderson to Everyone:
+	bi-directional links - still raise many different questions in many difference conversations
+09:13:10 From Wendy McLean, NY to Everyone:
+	+1 Bill
+09:15:49 From Jerry Michalski to Everyone:
+	the most civilized briefing I ever had was with a Silicon Valley startup run by an Australian. at 3pm his assistant showed up at the door. we proceeded to stop and do tea and biscuits 🙂
+09:15:55 From Peter Kaminski to Everyone:
+	"Clambake is testing out the merger of a dynamic mapping UI, robust web content curation, and powerful project hub to create a knowledge platform that connects people with the information and opportunities at the right time, in the right place and in the right way."
+09:17:45 From Peter Kaminski to Everyone:
+	Another way it's been described: like [[Emergent Event Sensemaking]], but about longer-term things, rather than in-the-moment events.
+09:18:49 From Peter Kaminski to Everyone:
+	https://www.catalist.network/event/the-press-conference-planning-event-7-09-21
+09:19:04 From Peter Kaminski to Everyone:
+	(old link :-))
+09:19:29 From Vincent Arena to Everyone:
+	https://www.catalist.network/event/the-press-conference-sept-2021
+09:19:33 From Vincent Arena to Everyone:
+	Here’s the event link!!
+09:22:13 From Peter Kaminski to Everyone:
+	weekly meetings, open house meeting
+09:22:27 From Mark Carranza to Everyone:
+	Open house == Office hours
+09:24:12 From Vincent Arena to Everyone:
+	Take care everyone!
+09:24:51 From BentleyDavis.com to Everyone:
+	I'm going to head to another meeting. I don't have any contributions yet but all sounds exciting. I might drop back in after my meeting.
+09:25:58 From Michael Grossman (he/him) Factr.com to Everyone:
+	@vincent +1 to the open house idea
+09:28:03 From Mark Carranza to Everyone:
+	Next Tuesday, come hear the latest on how the Internet Archive and Starling Labs are forging paths through decentralized storage:  https://www.eventbrite.com/e/dweb-meetup-september-2021-preserving-humanitys-greatest-assets-tickets-168352156833
+09:28:24 From Marc-Antoine Parent to Everyone:
+	Thank you Peter! That was helpful
+09:28:42 From Peter Kaminski to Everyone:
+	the dweb decentralization event looks awesome
+09:29:40 From Jerry Michalski to Everyone:
+	do you meet next to the mummified remains of Vannevar Bush?
+09:30:33 From Jerry Michalski to Everyone:
+	juuuust succinct enough 🙂
+09:30:44 From Jerry Michalski to Everyone:
+	as simple as possible, but no simpler
+09:30:46 From Peter Kaminski to Everyone:
+	if you're ever in San Francisco, the Internet Archive building is an excellent place to visit
+09:31:50 From Michael Grossman (he/him) Factr.com to Everyone:
+	Just to overwhelm us further, I’m attending this (sadly coincidental) event, and it is awesome. If you register, you can also see replays of it I believe.
+	https://live.unfinished.com/
+09:31:52 From Jerry Michalski to Everyone:
+	diff and merge
+09:32:31 From Mark Carranza to Everyone:
+	IBIS: Issue-Based Information Systems
+09:32:51 From Jerry Michalski to Everyone:
+	there’s a backstory to Unfinished you may enjoy reading, Michael: https://theconnector.substack.com/p/the-unfinished-work-of-frank-mccourt  (I figure lightly in the story)
+09:33:21 From Jerry Michalski to Everyone:
+	some of my best friends are texts!
+09:33:25 From Jack Park to Everyone:
+	which did not mention Engelbart’s Unfinished Revolution
+09:34:01 From Jerry Michalski to Everyone:
+	Engelbart’s? I don’t know of it. there’s a book by Dertouzos by that name...
+09:34:39 From Jerry Michalski to Everyone:
+	finding lots on it
+09:34:44 From Mark Carranza to Everyone:
+	Choral (?) explanations
+09:34:54 From Jerry Michalski to Everyone:
+	Coral? like the reef?
+09:35:07 From Jack Park to Everyone:
+	Unrev II was the second lecture series in his unfinished revolution. We gave those lectures at Stanford in 2000.
+09:35:09 From Jerry Michalski to Everyone:
+	Consensual, Polarizing or Fringe
+09:35:27 From Peter Kaminski to Everyone:
+	https://hapgood.us/2016/05/13/choral-explanations/
+09:35:36 From Peter Kaminski to Everyone:
+	a modality we’ll call “choral explanations” (a term based on Ward Cunningham’s claim that federated wiki is a “chorus of voices”)
+09:35:43 From Jerry Michalski to Everyone:
+	tx!
+09:36:13 From Jack Park to Everyone:
+	google ‘unfinished revolution engelbart’
+09:37:11 From Peter Kaminski to Everyone:
+	Neurophysiologist William Calvin, who has an explanation (theory?) of how thought work, uses "chorus" in his explanation.  (Also natural selection, happening on top of competing choruses.)
+09:37:22 From Bill Anderson to Everyone:
+	semiotic triangle?
+09:37:27 From Peter Kaminski to Everyone:
+	"William H. Calvin, "The Emergence of Intelligence," Scientific American Presents (November 1998)"
+	http://www2.psych.utoronto.ca/users/reingold/courses/intelligence/cache/1998SciAmer.htm
+09:38:16 From Peter Kaminski to Everyone:
+	and "THE CEREBRAL CODE - Thinking a Thought in the Mosaics of the Mind"
+09:38:40 From Jerry Michalski to Everyone:
+	speech act event queues?
+09:38:42 From Mark Carranza to Everyone:
+	Speech act event queues?
+09:38:54 From Peter Kaminski to Everyone:
+	"Newly-cloned patterns are tacked onto a temporary mosaic, much like a choir recruiting additional singers during the Hallelujah Chorus. But cloning may “blunder slightly” or overlap several patterns — and that variation makes us creative. Like dueling choirs, variant hexagonal mosaics compete with one another for territory in the association cortex, their success biased by memorized environments and sensory inputs."
+09:39:11 From Jerry Michalski to Everyone:
+	ooooo, mosaics and choruses. music to my ears
+09:40:01 From Mark Carranza to Everyone:
+	Meme streams
+09:40:04 From Mark Carranza to Everyone:
+	Idea streams
+09:40:33 From Peter Kaminski to Everyone:
+	"THE CEREBRAL CODE by William H. Calvin (Chapter 11)"
+	http://williamcalvin.com/bk9/bk9ch11.htm
+09:42:57 From Mark Carranza to Everyone:
+	@bill semiotic square?
+09:43:27 From Bill Anderson to Everyone:
+	@Mark not sure what you mean
+09:43:44 From Mark Carranza to Everyone:
+	https://en.wikipedia.org/wiki/Semiotic_square
+09:43:55 From Peter Kaminski to Everyone:
+	a connection between Calvin, cortical columns, and natural selection as Calvin uses it: "Philosophy:Neural Darwinism - HandWiki"
+	https://handwiki.org/wiki/Philosophy:Neural_Darwinism
+09:44:20 From Peter Kaminski to Everyone:
+	"faux friend"
+09:44:27 From Mark Carranza to Everyone:
+	The _illusion_ of clear categories
+09:44:36 From Peter Kaminski to Everyone:
+	https://en.wikipedia.org/wiki/False_friend
+09:45:22 From Jerry Michalski to Everyone:
+	Ship of Theseus (aka Theseus' Paradox) http://en.wikipedia.org/wiki/Ship_of_Theseus
+09:45:43 From Mark Carranza to Everyone:
+	To do it at need
+09:45:53 From Peter Kaminski to Everyone:
+	progressive, partial formalization
+09:47:21 From Peter Kaminski to Everyone:
+	web URLs = identifier for a mutable object IPFS = identifier for immutable object (content-addressed) how about an identifier to a history of versions of an object
+09:47:30 From Mark Carranza to Everyone:
+	Media Field & Stream
+09:47:42 From Jerry Michalski to Everyone:
+	is that like Mane & Tail?
+09:48:23 From Mark Carranza to Everyone:
+	https://www.fieldandstream.com/survival/massachusetts-beaver-attack/
+09:48:58 From Peter Kaminski to Everyone:
+	(the hack for IPFS to point to a mutable object with history is IPNS, https://docs.ipfs.io/concepts/ipns/#example-ipns-setup-with-cli
+09:50:10 From Bill Anderson to Everyone:
+	i can understand what we want to do. what is it for?
+09:51:30 From Peter Kaminski to Everyone:
+	can we federate the work of debunking, explaining, etc.?
+09:52:07 From Peter Kaminski to Everyone:
+	streams, distributed index of streams, concept neighborhoods
+09:53:02 From Peter Kaminski to Everyone:
+	negotiated identity, rather than (the illusion of) stable identity
+09:53:57 From Peter Kaminski to Everyone:
+	listicles as a knowledge structure, a semantic layer above listicles
+09:54:17 From Jerry Michalski to Everyone:
+	this’ll be fun to do as GANs automatically generate zillions of slightly modified arguments 🙂
+09:54:24 From Wendy McLean, NY to Everyone:
+	@bill, for me it goes back to the example I gave of how a teacher would use it in the classroom.  This allows for concept exploration and supports more evolved discussion, knowledge integration and learning.
+09:54:35 From Peter Kaminski to Everyone:
+	individual knowledge units, and contentiousness around them, negotiating consensus
+09:54:59 From Bill Anderson to Everyone:
+	@marc-antoine: i have a ton of Q’s; i’ll get in touch w/ you
+09:55:07 From Peter Kaminski to Everyone:
+	pansophia
+09:55:33 From Jerry Michalski to Everyone:
+	and here I thought pansophia was a dish of sautéed owl...
+09:57:15 From Peter Kaminski to Everyone:
+	zen buddhist practice - shared knowledge - personal understanding before shared understanding  spinoza, one big connected nature
+09:58:34 From Peter Kaminski to Everyone:
+	psychodynamics of groups, there's no group, there's just a roomful of individual people
+09:59:11 From Jerry Michalski to Everyone:
+	the Big Fungus?
+09:59:30 From Peter Kaminski to Everyone:
+	"curated views"
+09:59:34 From Wendy McLean, NY to Everyone:
+	Curated view = individual perspective
+10:00:09 From Wendy McLean, NY to Everyone:
+	Collective perspective = system perspective
+10:00:53 From Peter Kaminski to Everyone:
+	cf. "curated view" and "shared vision"
+10:00:56 From Jerry Michalski to Everyone:
+	goo views
+10:01:25 From Peter Kaminski to Everyone:
+	vs. "common view"
+10:01:57 From Peter Kaminski to Everyone:
+	no such thing as a "self"; i exist in my interactions with my environment and with others
+10:02:18 From Peter Kaminski to Everyone:
+	"acts of harmonization"
+10:02:19 From Jerry Michalski to Everyone:
+	goal: higher-scale many-to-many
+10:03:20 From Peter Kaminski to Everyone:
+	other people have claimed to have gain something from entering the (knowledge space) through a particular curated view
+10:03:20 From Wendy McLean, NY to Everyone:
+	Or goal: ongoing dance of individual sense making with continual curated shared view
+10:03:40 From Michael Grossman (he/him) Factr.com to Everyone:
+	M-A this is so inspiring, would love to talk more. Also is there any benefit for you—even possible interoperability—in this work? https://jlinc.org/ (which is also being utilized by Tru.net and Hylo.com)
+10:04:09 From Marc-Antoine Parent to Everyone:
+	Michael: thank you, not familiar with this work, will read before answering
+10:05:48 From Jack Park to Everyone:
+	http://williamcalvin.com/1990s/1995Handbook.htm
+10:07:02 From Jack Park to Everyone:
+	we are now in the space of Hawkins and Thousand Brains.
+10:07:14 From Jack Park to Everyone:
+	cortical.io - folding
+10:08:11 From Jack Park to Everyone:
+	gotta run. believe it or not, the beach is calling…
+10:08:14 From Peter Kaminski to Everyone:
+	the "fringe" of conversation or concept
+10:08:17 From Peter Kaminski to Everyone:
+	+1 Jack!
+10:08:25 From Jerry Michalski to Everyone:
+	make sure it’s not Sirens…
+10:10:28 From Bill Anderson to Everyone:
+	collaboration w/o man-splaining
+10:17:24 From Jerry Michalski to Everyone:
+	Massive, MX, Factr, other?
+10:17:56 From Bill Anderson to Everyone:
+	a contribution i can make is to learn to listen better
+10:19:05 From Peter Kaminski to Everyone:
+	+1 Bill
+10:19:21 From Peter Kaminski to Everyone:
+	"Original Blessing", book by Matthew Fox
+10:19:53 From Bill Anderson to Everyone:
+	and today i need to leave in the next minute
+10:20:17 From Peter Kaminski to Everyone:
+	thanks, Bill
+10:21:23 From Jerry Michalski to Everyone:
+	Everything falls apart. (Pema Chodron)
+10:21:30 From Jerry Michalski to Everyone:
+	What is to be done? (Lenin?)
+10:21:52 From Jerry Michalski to Everyone:
+	if you’re not worried, you’re not awake
+10:22:02 From Wendy McLean, NY to Everyone:
+	+1 Jerry
+10:22:40 From Jerry Michalski to Everyone:
+	but I would love a project description I can try to fund. a tile piece for the big mosaic
+10:22:55 From Wendy McLean, NY to Everyone:
+	Yes, Jerry.  Let’s do that!
+10:23:08 From Jerry Michalski to Everyone:
+	it can be a bite-sized project. not the whole enchilada (or fungus)
+10:23:16 From Jerry Michalski to Everyone:
+	tapas
+10:23:18 From Wendy McLean, NY to Everyone:
+	Yup!
+10:23:23 From Peter Kaminski to Everyone:
+	"how much do we prioritize global optimization over local optimization?"
+10:24:21 From Wendy McLean, NY to Everyone:
+	I’m partial to local or even individual.  If we can find a way to get that to work, then scale it up.
+10:24:58 From Jerry Michalski to Everyone:
+	whatever democracy actually is… ;P
+10:25:06 From Wendy McLean, NY to Everyone:
+	It’s also where people will be most motivated to engage.  My life improved, my communities live improved, I’m ready to collaborate on the global view
+10:25:07 From Peter Kaminski to Everyone:
+	deliberative democracy needs auditability
+10:25:14 From Jerry Michalski to Everyone:
+	+1
+10:26:30 From Jerry Michalski to Everyone:
+	just a little tilla?
+10:29:39 From Jerry Michalski to Everyone:
+	sociate@gmail.com
+10:29:40 From Marc-Antoine Parent to Everyone:
+	maparent@conversence.com
+10:29:51 From Michael Grossman (he/him) Factr.com to Everyone:
+	Michael@factr,com
+10:30:00 From Michael Grossman (he/him) Factr.com to Everyone:
+	Factr.com
+10:30:04 From Wendy McLean, NY to Everyone:
+	wendy@everyoneswisdom.com

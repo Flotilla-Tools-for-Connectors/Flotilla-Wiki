@@ -1,0 +1,29 @@
+00:24:05	Mark Carranza:	Not going to eat on video :)
+00:30:30	Bill Anderson:	this is a very neat example for marc-antoine’s hyperknowledge modeling
+00:40:58	Vincent Arena:	Many to many links + collaborative and real time editing of both the nodes and connections
+00:41:43	Vincent Arena:	Each node or connection could be a “webpage”
+00:42:01	Vincent Arena:	In the same way you would navigate around a wiki, you could navigate around the mindmap
+00:42:12	Wendy McLean, NY:	Yes Vincent
+00:42:32	Vincent Arena:	So a collaborative visual wiki
+00:44:03	Bill Anderson:	how do we merge our individual thinkings about the topic and the layout?
+00:46:13	Mark Carranza:	“I want this to stay on the screen, no matter what else I do”
+00:46:40	Michael Grossman (he/him) Factr.com:	The equivalent of “open link new tab” in a browser
+00:48:25	Bill Anderson:	michael: instead of the outline view of browser tabs a graph view might help?
+00:49:16	Bill Anderson:	Xerox PARC FTW
+00:49:36	Michael Grossman (he/him) Factr.com:	Bill: oh for sure! I just meant conceptually
+01:00:47	Wendy McLean, NY:	Vincent… between structural elements
+01:04:01	Bill Anderson:	super interesting ideas today. adios!
+01:05:13	Marc-Antoine Parent:	My problem is that many people try to have multiple views on their platforms; condemning themselves to solve all problems. few try to make a view mosaic with a shared model.
+01:05:35	Marc-Antoine Parent:	And btw I’ve been guilty of this as well.
+01:06:22	Marc-Antoine Parent:	But *you* should not be doing the KGraph view!
+01:16:29	Vincent Arena:	Is sharing my visual notes more distracting than helpful?
+01:16:39	Marc-Antoine Parent:	It’s good
+01:21:47	Wendy McLean, NY:	Sharing your visual notes is super helpful to me!
+01:27:55	Marc-Antoine Parent:	The project seems inactive, but I was very excited to discover https://unba.se/design/core-concepts.html
+01:28:23	Marc-Antoine Parent:	Dis information is not as good as Dat information ;-)
+01:29:47	Wendy McLean, NY:	I love what you’re saying Michael.  This is exactly what I’ve been seeing too!
+01:33:18	Marc-Antoine Parent:	I think I was talking about chosen bubbles
+01:33:50	Marc-Antoine Parent:	Mythical centrist unicorn ;-)
+01:38:14	Marc-Antoine Parent:	I think showing the argument structure matters
+01:40:07	Wendy McLean, NY:	Have to go everyone.  Thank you so much!  Vincent, can I please have a copy of this mind map?  Post on Mattermost channel?
+01:41:04	Vincent Arena:	Sure! I have to run too!

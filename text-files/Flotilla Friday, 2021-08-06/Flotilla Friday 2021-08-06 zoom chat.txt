@@ -1,0 +1,49 @@
+00:10:04	Peter Kaminski:	hackmd: https://hackmd.io/@peterkaminski/r1a23Cc1K/edit'
+00:10:13	Peter Kaminski:	better url: https://hackmd.io/@peterkaminski/r1a23Cc1K/edit
+00:11:08	Bill Anderson:	before the letter “A”
+00:12:02	BentleyDavis.com:	call it Hydrant?
+00:12:08	Bill Anderson:	nice
+00:12:18	Michael Grossman (he/him) Factr.com:	+1
+00:21:07	vincent arena:	https://bigthink.com/politics-current-affairs/media-bias-chart
+00:21:12	vincent arena:	This chart is pretty popular
+00:21:31	vincent arena:	specifically this image: https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjkxMTk0Ni9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTY2NzI4ODc1OH0.KKs-vBLgDW_HVkCStUyarhUC8fatIxR1gQrMk5iqdvg/img.jpg?quality=80&width=1390
+00:21:32	Bill Anderson:	even Goedel’s proof has its other side
+00:21:35	Phil Kennedy:	Sweet thanks Vince
+00:21:42	Phil Kennedy:	Vincent*
+00:24:22	Tiberius Brastaviceanu:	New to this group, invited by Vincent. Listening in to get acquinted with the topic and you people.
+00:25:19	Peter Kaminski:	thanks all, for listening to me rant :-)
+00:26:29	Bill Anderson:	sometimes managing agreement is the work
+00:27:21	Wendy McLean:	Bentley, you may be interested in Kinzen.  Their focus is on identifying misinformation in social media, but there’s overlap here too.
+00:27:52	Peter Kaminski:	we have a collab notes page, https://hackmd.io/@peterkaminski/r1a23Cc1K/edit
+00:28:22	BentleyDavis.com:	Thanks @Wendy
+00:28:46	vincent arena:	what did i miss?!
+00:28:53	vincent arena:	the one time i show up late….
+00:29:06	BentleyDavis.com:	I've got to drop off.😀 Thanks.
+00:32:59	vincent arena:	but we don’t like notion here…. right guys?!
+00:33:02	vincent arena:	(Kidding)
+00:37:32	Zeek:	theyre saved as a hashed address? is blockchain backend?
+00:39:43	Wendy McLean:	I have to go… great to see everyone!
+00:40:14	Zeek:	i didnt quite understand the collections
+00:45:16	vincent arena:	5f0a616c405268036cb928d7
+00:45:30	vincent arena:	1616721863909x421884730416848960
+00:45:47	vincent arena:	1616721863909x455777619781872600
+00:47:52	Peter Kaminski:	totally random, but i wonder if 5f0a616c405268036cb928d7 is like a mongodb id: https://docs.mongodb.com/manual/reference/method/ObjectId/  if it were, the embedded timestamp would be 2020-07-12T01:03:40.000Z
+00:48:59	Peter Kaminski:	UUIDs, https://en.wikipedia.org/wiki/Universally_unique_identifier
+00:49:30	Peter Kaminski:	"DNA Instances - The Holochain Guidebook"
+https://holochain.github.io/holochain-rust/nodejs_dna_instances.html
+00:50:44	Bill Anderson:	Uber as a delivery service - it’s now!
+00:50:56	Peter Kaminski:	https://cyber.harvard.edu/projectvrm/Main_Page
+00:51:53	Peter Kaminski:	https://digi.me/
+00:54:42	Peter Kaminski:	https://twitter.com/search?q=csam%20apple&src=typed_query
+00:56:23	Phil Kennedy:	Sorry bit tangential but just on the topic of defining and redefining, found this pretty comical https://www.nbcnews.com/science/space/gets-called-astronaut-complicated-rcna1499
+00:57:15	Peter Kaminski:	+1 Phil
+00:59:06	vincent arena:	Hasn’t IPFS been around for a while?
+00:59:55	Peter Kaminski:	since 2015
+01:00:47	Zeek:	Telegram: @oneloveallconnected
+01:00:57	Zeek:	newearthdreams@protonmail.com
+01:01:55	Peter Kaminski:	https://dfinity.org/
+01:03:48	Peter Kaminski:	oh hey, i just got great news in my email! "$39,000 was sent to your BlockChain.com Wallet as Bonus due to the recent drop in cryptocurrency, click  Recover Funds  to claim your pending funds.
+01:05:51	Michael Grossman (he/him) Factr.com:	Such great news—congrats, Pete! 😂
+01:05:58	Peter Kaminski:	lolol
+01:07:23	vincent arena:	this decentralized linkedin is interesting…. i can’t sign up because i don’t have biometric readers on my macbook
+01:07:43	vincent arena:	https://az5sd-cqaaa-aaaae-aaarq-cai.ic0.app/

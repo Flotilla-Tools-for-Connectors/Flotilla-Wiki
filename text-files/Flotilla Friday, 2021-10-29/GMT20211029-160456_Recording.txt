@@ -1,0 +1,26 @@
+00:13:22	Marc-Antoine Parent:	But it makes cross-links harder….
+00:14:09	Marc-Antoine Parent:	Namespaced labels remind me of closure
+00:22:53	Jack Park:	clojure?
+00:26:34	Wendy McLean, NY:	+1 Vincent
+00:27:15	Wendy McLean, NY:	YES!
+00:27:42	Marc-Antoine Parent:	s/clojure/datomic/;
+00:28:18	Jack Park:	:)
+00:30:08	Jack Park:	Purple numbers by way of Engelbart
+00:30:33	Jack Park:	Engelbart has a paper on “high performance addressability"
+00:32:31	Jack Park:	https://www.dougengelbart.org/content/view/376/
+00:38:00	Vincent Arena:	now that they’ve messed up reality they can metastasize their cancer to what doesn’t even exist yet
+00:38:01	Jack Park:	Meta as headfake - +1
+00:42:43	Jack Park:	Zuck and his wife run a foundation which puts out a newsletter on biomed research called Meta
+00:44:39	Peter Kaminski:	"the social life of claims"
+00:45:04	Jack Park:	JSB co-authored the book Social Life of Information
+00:45:18	Peter Kaminski:	epistemic network to control truth
+00:45:39	Wendy McLean, NY:	+1 Marc
+00:46:36	Peter Kaminski:	"co-opted a ... term we need to use"
+00:46:56	Wendy McLean, NY:	+1 Michael!
+00:47:00	Vincent Arena:	++++
+00:48:04	Bill Anderson:	have to leave the call
+00:50:09	Vincent Arena:	facebook is being metasued
+00:51:29	Peter Kaminski:	https://hackmd.io/@peterkaminski/S1DncqYIF
+00:56:34	Vincent Arena:	https://docs.google.com/document/d/14xZgiB7l07lljqThQM8xVFgeK7WG2TTKwHjhz0-unrk/edit?usp=sharing
+00:56:47	Wendy McLean, NY:	Thx Vincent!
+00:58:06	Peter Kaminski:	https://seatable.io/en/

@@ -1,0 +1,29 @@
+00:16:30	Bill Anderson:	the name Molly Sargent seems familiar
+00:17:33	Wendy McLean, NY:	https://www.linkedin.com/in/mollysargent/
+00:21:13	Bill Anderson:	Annie Murphy Paul - recent book The Extended Mind
+00:25:11	Bill Anderson:	Bitcoin, for one example, seems to redefine ownership, at least the way I own the money in my bank. I might be all wet here.
+00:28:17	Wendy McLean, NY:	Here’s the link to the company I just learned about in Blockchain / AI / quantum computing. https://www.quisnet.com
+00:30:20	Peter Kaminski:	The 19-inch rack format with rack-units of 1.75 inches (44.45 mm) was established as a standard by AT&T around 1922 in order to reduce the space required for repeater and termination equipment in a telephone company central office. The earliest repeaters from 1914 were installed in ad hoc fashion on shelves, in wooden boxes and cabinets. Once serial production started, they were built into custom-made racks, one per repeater. But in light of the rapid growth of the toll network, the engineering department of AT&T undertook a systematic redesign, resulting in a family of modular factory-assembled panels all "designed to mount on vertical supports spaced 191⁄2 inches between centers. The height of the different panels will vary, ... but ... in all cases to be a whole multiple of 13⁄4 inches".
+00:31:04	Peter Kaminski:	19 inch racks are now high-tech gear that exist in all the big data centers, to hold routers, servers, etc.
+00:31:45	Peter Kaminski:	https://en.wikipedia.org/wiki/19-inch_rack
+00:34:37	Wendy McLean, NY:	Great question Bill:  How are we going to organize, if not around money/hierarchies?  Around resources, around areas of greatest well-being, around thriving community (and what does that mean)?
+00:37:32	Bill Anderson:	a joke when i worked at Xerox was “there are no originals, only copies”
+00:40:27	Bill Anderson:	This is a moral case for a guaranteed income: we should secure for each person the means necessary to live a modern life of dignity, and no one should be asked to take on an inordinate risk to enjoy such a life. I call this a moral argument and a moral case specifically because I am not making an economic argument for any specific economic policy or any specific form of guaranteed income. I am, instead, asserting that we should first commit to securing a level of human dignity and then figure out which specific policies get us there. If we think this is impossible or too costly, we should remember that we do impossible, costly things all the time by changing our grasp of what is worthwhile. Before we put a human on Mars, before a car drives itself across the country, we ought to figure out how to guarantee each person access to a dignified life.
+
+https://audacity.substack.com/p/a-moral-argument-for-basic-income
+00:45:53	Peter Kaminski:	Three Horizons: The Patterning of Hope, by Bill Sharpe
+00:46:25	Bill Anderson:	if the wheel had not been re-invented we would not have wheels today
+00:46:34	Wendy McLean, NY:	Love this Vincent!  Thank you!
+00:48:15	Vincent Arena:	https://youtu.be/_5KfRQJqpPU
+00:55:21	Peter Kaminski:	a couple more:  https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma
+00:55:37	Peter Kaminski:	https://en.wikipedia.org/wiki/Crossing_the_Chasm
+00:56:43	Peter Kaminski:	https://en.wikipedia.org/wiki/A_Study_of_History (Arnold Toynbee)
+00:57:14	Peter Kaminski:	"Toynbee's goal was to trace the development and decay of 19 world civilizations in the historical record, applying his model to each of these civilizations, detailing the stages through which they all pass: genesis, growth, time of troubles, universal state, and disintegration."
+00:58:04	Peter Kaminski:	https://en.wikipedia.org/wiki/There_is_no_alternative
+00:58:17	Vincent Arena:	I have an ask before I run in a few: can someone who is on a computer go to the event page and drop the zoom chat there?? Testing a new feature :D 
+
+https://www.Catalist.network/edit-event/flotilla-fridays-9-17-21
+00:58:26	Peter Kaminski:	https://en.wikipedia.org/wiki/Pens%C3%A9e_unique
+00:58:45	Peter Kaminski:	@vincent, this chat?
+00:59:48	Vincent Arena:	The chat file from this meeting!
+01:00:09	Peter Kaminski:	and, paste, or click to upload?

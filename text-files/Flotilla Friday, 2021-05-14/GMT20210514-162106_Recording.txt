@@ -1,0 +1,27 @@
+00:25:47	Michael Grossman (he/him) Factr.com:	@maparent (will respond in MM) There are many Factr users with hyphens in their names, don’t think it’s that
+00:26:20	Marc-Antoine Parent:	on the email sign-in page, the next button was disabled until I removed the hyphen from my first name.
+00:27:33	Michael Grossman (he/him) Factr.com:	Hm! I will follow up. My deep apologies!
+00:28:31	Marc-Antoine Parent:	we're all developers, we know how it is ;-)
+00:30:33	Marc-Antoine Parent:	7x7!
+00:40:10	vincent arena:	https://medium.com/designing-atlassian/behind-the-scenes-of-the-atlassian-rebrand-f6ba1592377e
+00:49:31	Gyuri Lajos:	are.na does allow private collections
+00:58:38	charles blass:	@vincent destined for are.na
+01:01:03	vincent arena:	was so annoyed when i realized i could have that domain name hahahah
+01:02:48	charles blass:	it's ok,,, sounds like "are nahhh"
+01:03:48	Marc-Antoine Parent:	I have to show you IdeaLoom...
+01:07:04	charles blass:	pearltrees export/ import would be super
+01:12:37	Michael Grossman (he/him) Factr.com:	https://factr.com/g/village-voice-alumni/voice-covers
+01:12:54	charles blass:	thx!! very cool
+01:13:38	charles blass:	i didn’t exactly say that !!
+01:14:51	vincent arena:	refind.com
+01:16:06	charles blass:	nuzzel also very good
+01:16:27	Peter Kaminski:	+1 nuzzel
+01:16:41	charles blass:	and then there’s paper.li
+01:16:46	Peter Kaminski:	also https://www.techmeme.com/
+01:17:26	charles blass:	where is the wise button !?
+01:19:40	vincent arena:	i have to run in 10.
+01:19:57	Peter Kaminski:	and marc-parent before :30
+01:20:06	Peter Kaminski:	*marc-antoine, lol
+01:20:21	Peter Kaminski:	(sorry marc-antoine!)
+01:23:26	vincent arena:	could you define that?
+01:28:48	charles blass:	marc-antoine: “making data more atomic”

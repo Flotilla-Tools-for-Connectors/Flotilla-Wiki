@@ -1,0 +1,36 @@
+00:26:32	vincent arena:	Pete i added you as host of the event for the 4th :D
+00:31:50	Peter Kaminski:	thx :)
+00:34:19	Phil Kennedy:	There’s a lot of great work going in parallel, convergence would be great
+00:34:39	charles blass:	convergence is upon us :-)
+00:34:57	Mark Carranza:	yup -- the stuff of collaboration -- communication and coordination
+00:39:08	vincent arena:	the events format was inspired by and built on top of the schema.org schema… and facebook’s event schema (which sucks imo)
+00:39:57	Bill Anderson:	so i guess FOAF has been retired, right?
+00:40:57	Peter Kaminski:	just zombified, i think. i feel like the spirit of FOAF ended up in microformats2 , but maybe i'm misremembering
+00:41:46	Peter Kaminski:	XFN, too: http://www.gmpg.org/xfn/
+00:43:42	Peter Kaminski:	lol, the official FOAF status is "in stasis": http://www.foaf-project.org/
+00:44:27	Bill Anderson:	ok; i will migrate my foaf to … ? something
+00:44:36	Peter Kaminski:	murmurations, i think
+00:44:52	Peter Kaminski:	[Murmurations Network Fields and Schemas](https://github.com/MurmurationsNetwork/MurmurationsLibrary)
+00:46:10	Mark Carranza:	want to ask before I leave: why is murmurations.network part of the conversation?Asking from ignorance, not critique
+00:46:36	Mark Carranza:	i.e., what should I pay attention to?
+00:47:05	Peter Kaminski:	they're the folks most publicly working on interoperative schema (in JSON Schema) and syndication/aggregation right now
+00:47:58	Mark Carranza:	thanks! will follow up, gotta runhave a great weekend, all
+00:48:06	Peter Kaminski:	thanks, bye!
+00:51:00	vincent arena:	https://www.catalist.network/event/1623728632433x499591710528241660
+00:52:38	Peter Kaminski:	https://schema.org/Offer
+00:53:33	Peter Kaminski:	https://schema.org/Demand
+00:53:55	Bill Anderson:	“demand” the worst meaning; “request” is better
+00:59:18	Peter Kaminski:	Good Relations gr:Offering  Compatibility with schema.org: This class is a superclass to http://schema.org/Offer, since gr:Offering can also represent demand."
+00:59:25	Peter Kaminski:	http://www.heppnetz.de/ontologies/goodrelations/v1.html#Offering
+01:00:28	vincent arena:	https://airtable.com/invite/l?inviteId=invBTwODzOfE2ud1Q&inviteToken=12e8a6f2924e26d9c5f982cb95348d68e5fc070fffa3835234b9775c30b4a13f&utm_source=email
+01:00:43	vincent arena:	Here’s the airtable invite for you Bill/Phil
+01:02:41	Phil Kennedy:	Thanks Vince!
+01:02:59	Peter Kaminski:	"SPAR Ontologies - CiTO"
+http://www.sparontologies.net/ontologies/cito
+01:04:33	Peter Kaminski:	"Rise of the STUPID Network"
+https://isen.com/stupid.html
+01:06:03	Peter Kaminski:	"Is Your Company Having A Chocolate Conversation?"
+https://www.forbes.com/sites/brycehoffman/2015/02/20/is-your-company-having-a-chocolate-conversation/?sh=7eb50d5c508c
+01:16:40	Bill Anderson:	Excellent conversation here; I need to sign off. Thanks.
+01:27:40	charles blass:	Love thattriggering thoughts around pre- and post-event intentions in sensemaking, harvesting, curation
+01:28:18	vincent arena:	im going to hop off now probably, y’all can continue if you want?!

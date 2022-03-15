@@ -1,0 +1,38 @@
+09:18:37	 From Peter Kaminski : (not sure if that's useful)
+09:19:05	 From Peter Kaminski : if anybody still needs it, today's hackmd: https://hackmd.io/@peterkaminski/S1oFIRzwF
+09:21:51	 From Jack Park : https://github.com/forgefed/awesome-activitypub
+09:22:02	 From Jack Park : oops
+09:22:34	 From Jack Park : https://github.com/filiBit/abstraxo
+09:29:34	 From Peter Kaminski : and thence, https://abstraxo.com/
+09:29:43	 From Michael Grossman (he/him) Factr.com : OOOoooohhhh, I thought you meant meta but you meant Meta.
+09:33:29	 From Mark Carranza : deixis
+09:37:00	 From Mark Carranza : Or we’re co-building a frame of interpretation in real-time
+09:37:13	 From Mark Carranza : Based on past frames - shared or unshared
+09:37:56	 From Jack Park : Amazon starting to ask people to stop talking to their bot
+09:38:06	 From Mark Carranza : Sorry about muting
+09:47:08	 From Vincent Arena : if anyone wants to explore
+09:47:09	 From Vincent Arena : https://docs.google.com/spreadsheets/d/1vBJ8PePNB_oDe2sM0HNV00VPEfY9oziPYeMVyPLGaIc/edit?usp=sharing
+09:49:35	 From Peter Kaminski : the visual one is easier for me to parse :-)
+09:50:15	 From Peter Kaminski : "metaphor for social scale"
+09:52:40	 From Jack Park : have to run. great conversation
+09:58:49	 From Wendy McLean, NY : Is the type maybe on the z axis?
+10:00:24	 From Marc-Antoine Parent : There’s clearly a social axis; a type axis (which could be ordered by scale…); an activity axis (eg search vs edit vs share…)
+10:01:10	 From Wendy McLean, NY : And a privacy axis…. ;-)
+10:02:03	 From Peter Kaminski : Or perhaps a privacy (and access control) context.
+10:02:10	 From Vincent Arena : the search stacks though!
+10:02:28	 From Vincent Arena : sort of like sub filters
+10:05:00	 From Bill Anderson : nsuper interesting convo - we need to continue it.
+10:05:11	 From Bill Anderson : also vincent - great spreadh
+10:05:22	 From Peter Kaminski : +1
+10:05:22	 From Bill Anderson : spreadsheet. need to run. adios!
+10:11:39	 From Marc-Antoine Parent : Still around
+10:20:42	 From Marc-Antoine Parent : Spatial metaphors have their limits ;-)
+10:20:49	 From Vincent Arena : breaking space time LOL
+10:22:11	 From Vincent Arena : link to the same object?
+10:22:18	 From Vincent Arena : kinda NFT-ish
+10:29:11	 From Vincent Arena : oh man i have to run for a 1:30 meeting!!
+10:29:26	 From Peter Kaminski : see you!
+10:30:06	 From Peter Kaminski : claims: consensus, polarizing, fringe
+10:30:10	 From Michael Grossman (he/him) Factr.com : Bummer! Thanks Vincent for instigating
+10:30:35	 From Wendy McLean, NY : I have to go too!
+10:30:45	 From Wendy McLean, NY : Really want to continue this next week!

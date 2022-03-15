@@ -1,0 +1,28 @@
+00:21:18	Peter Kaminski:	https://docs.google.com/document/d/14pUbXIjeZyAkwrDsFoGdJmB0uCFXzevdPcPL0FttLTk/edit#
+00:23:23	Peter Kaminski:	Price: 1 USD, or your choice of amount (even zero!) and currency or value medium. Read more at "remittance". (link tbd)
+00:26:00	Eric Rangell:	Adjust price for hyperinflation
+00:26:29	Bill:	Michael: the long tail in your scenario goes in an odd direction
+00:30:56	Bill:	The overhead of frequent transactions is something real for me
+00:33:31	Peter Kaminski:	+1 Bill
+00:36:37	Mark:	Is there a recorded presentation?
+00:37:03	Stacey:	Pete said he just uploaded it
+00:37:09	Peter Kaminski:	last week's call, yes, although it's not posted yet.  it will be later today, watch the Flotilla channel
+00:37:34	Wendy McLean, NY:	https://docs.google.com/spreadsheets/d/1IsZXLoINP4WGHnPIDUUyPDHq9_uN9RCNcwcnoFIw6I0/edit#gid=1572950528
+00:48:15	Eric Rangell:	Eventually would each cell become a page in a wiki?
+00:55:52	Vincent Arena:	Yes you can do links!
+00:58:46	Mark:	Off to work! Thanks!
+00:59:58	Eric Rangell:	Multiple inheritance
+01:01:08	Eric Rangell:	The wiki page can have backlinks to the related cells of the spreadsheet
+01:04:51	Eric Rangell:	I am concerned about expectations when work is shared publicly and the group is not prepared for public inquiries and issues.
+01:10:26	Eric Rangell:	I think decisions about what goes public depend on what work has been done in each box
+01:11:43	Bill:	I need to leave this generous and generative conversation. Adios.
+01:11:53	Peter Kaminski:	Adios!
+01:13:11	Vincent Arena:	I’m in!
+01:14:17	Michael Grossman (he/him) Factr.com:	I’m good with being seen.
+01:16:05	Vincent Arena:	https://www.designscience.studio/
+01:16:22	Vincent Arena:	https://www.eventbrite.com/e/design-science-studio-salon-dissolve-bloom-tickets-250632788417
+01:20:53	Eric Rangell:	There is work going on about smart contracts that don’t require blockchain
+01:38:25	Michael Grossman (he/him) Factr.com:	Save locally, share globally.
+01:42:34	Peter Kaminski:	yt-dlp
+01:42:49	Peter Kaminski:	(an improved youtube-dl)
+01:43:08	Eric Rangell:	My videos: https://www.youtube.com/playlist?list=PLOW4_Hp8_9101YA30gGhV3AfjOEIJLw8Z

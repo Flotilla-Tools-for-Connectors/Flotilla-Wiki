@@ -7,14 +7,15 @@ We are an association of designers, makers, and others interested in tools for c
 ## Meet with Flotilla
 
 - [Flotilla Tools For Connectors](https://chat.collectivesensecommons.org/agora/channels/flotilla-tools-for-connectors) chat channel on CSC Mattermost.
+- Flotilla Friday calls are Fridays, 9am PT / 12pm ET -- check (or ask in) the channel for more details
+	- [Flotilla Friday YouTube playlist](https://www.youtube.com/playlist?list=PLADGyQqAcmip2lsSOKUlu7GWC1VqdkQo_)
+
+## Meeting Notes, Chats, Transcripts
+
+See the "Meetings" directory for meeting notes.
+
+See the "text-files" directory for meeting chats and transcripts.  These files could use more organization.
 
 ## Wiki Pages
 
 - [[Things To Talk About Some Day]]
-
-## Meeting Notes
-
-- [[Meetings/Flotilla Friday, 2021-04-02|Flotilla Friday, 2021-04-02]]
-- [[Meetings/Flotilla Friday, 2021-03-19|Flotilla Friday, 2021-03-19]]
-- [[Meetings/Flotilla Friday, 2021-10-01]]
-- [[Flotilla Friday, 2021-03-12|Flotilla Friday 2021-03-12]]

@@ -1,0 +1,77 @@
+09:09:04	 From Bill Anderson : warehouses and storehouses
+09:09:33	 From Bill Anderson : faster, easier navigation
+09:09:59	 From Peter Kaminski : in some recent call, i was talking about data warehouses, data lakes, datamarts, etc.  separate discussion, but sort of parallel language
+09:10:01	 From Bill Anderson : individual use -> better thinking -> collaboration
+09:10:47	 From Bill Anderson : i’ll supply the corn
+09:11:07	 From Bill Anderson : visual thinking
+09:11:35	 From Bill Anderson : but also visualizing thinking (this is meta)
+09:12:42	 From Bill Anderson : https://www.wisdomtree.app/ yes?
+09:15:07	 From Mark Carranza : https://obsidian.md/
+09:21:22	 From Bill Anderson : positive psychology
+09:22:10	 From Peter Kaminski : connections and creative thinking
+09:26:12	 From Bill Anderson : the three Rs are fundamental to education
+09:27:46	 From Bill Anderson : what is info? knowledge? primary Qs; links between info/context more important than hierarchy organization; improve capture first
+09:28:32	 From Bill Anderson : free-assocations
+09:31:55	 From Michael Grossman (he/him) Factr.com : Getting past the constriction of the library shelf.
+09:32:05	 From Michael Grossman (he/him) Factr.com : Using metadata and tagging to let things be in many “places”.
+09:32:13	 From Michael Grossman (he/him) Factr.com : Random access via search leads to exploring connections > finding related info > people > groups > movements
+09:32:31	 From Bill Anderson : oral cultures do not have a concept of information search
+09:33:05	 From Michael Grossman (he/him) Factr.com : Point taken :)
+09:33:53	 From Wendy McLean : Sometimes we want to just get the resource (individual learning), and sometimes we want to play with others in discovery (classroom or conference room) and sometimes we’re exploring something so new, we tell stories that need witnessing to help us make sense of it.
+09:33:54	 From Michael Grossman (he/him) Factr.com : Random access withOUT search, then.
+09:34:24	 From Wendy McLean : How can we mirror all three experiences in one platform or one UI?
+09:34:38	 From Bill Anderson : i am getting confused now about the meaning of the noun “story”
+09:35:49	 From Bill Anderson : pete asserts knowledge == stories
+09:35:52	 From Michael Grossman (he/him) Factr.com : Is a story a container?
+09:36:00	 From Bill Anderson : +1 michael
+09:37:30	 From Wendy McLean : A story could be a collection of connections and associations between info, to help us ‘hold’ the information.  OR. It could be a personal story of sharing something that happened in order to ‘find’ others with similar experiences to connect to another person.  OR you could combine ‘stories’ to sensemake the experience of a community and find needs/ holes/ benefits/ successes
+09:40:48	 From Bill Anderson : what is a fact before it is a fact?
+09:42:56	 From Bill Anderson : in science “without models there are no data” - so data is itself not so simple
+09:43:34	 From Mark Carranza : https://todayinsci.com/M/Maxwell_James/MaxwellJames-Quotations.htm
+09:44:38	 From Peter Kaminski : i like this, Bill: "oral cultures do not have a concept of information search"  my guess is that we'll become an oral culture for information, where we talk to AI bots instead of reading/writing/searching, and also a visual culture -- logos, emojis, video -- for things like awareness and grabbing attention.  i think reading/writing mostly goes away in 25, 50, 100 years, except for nostalgia geeks and super specialists.
+09:45:09	 From Peter Kaminski : "slow culture"
+09:45:19	 From Mark Carranza : A memorandum-book does not, provided it is neatly written, appear confused to an illiterate person, or to the owner who understands it thoroughly, but to any other person able to read it appears to be inextricably confused.
+09:47:45	 From Peter Kaminski : VRML
+09:49:36	 From Peter Kaminski : https://web.archive.org/web/20040319183204/http://www.kafka.org/briefe/Brod/1904/br04-003.html
+09:51:47	 From Bill Anderson : the oral culture notion is from Lewis Hyde, A Primer for Forgetting: getting past the past http://www.worldcat.org/oclc/1222828730
+09:51:54	 From Peter Kaminski : :-)
+09:56:03	 From Vincent Arena : Who do you curate for? Who do you wiki for? You? Others? Both?
+09:56:07	 From Bill Anderson : putting into a folder for later is “chunking”
+09:56:12	 From Mark Carranza : Alas, have to go!
+09:57:27	 From Peter Kaminski : +1 Vincent. the thing i want is "we wiki together, for one another and for the group, and for those who will come later."
+10:01:25	 From Wendy McLean : +1 Peter
+10:03:22	 From Vincent Arena : This is tangential but should we update the flotilla site? Seems it’s telling a story that we are gathered around a single berry bush not doing much, when we really have a whole forest we’re playing in :)
+10:03:26	 From Wendy McLean : +1 Michael!
+10:04:35	 From Peter Kaminski : yep, we should update the flotilla site.  i'll be on that team.  who else wants to work on it?
+10:04:53	 From Wendy McLean : Both are good: I’m in crises and can’t curate info right now, but I can trust that the community has already for me.  Or that I have the free time to curate and capture knowing that others will eventually use it.
+10:06:42	 From Michael Grossman (he/him) Factr.com : +1 Wendy
+10:06:51	 From Wendy McLean : Except for Nextdoor app!  Where people post similar things for their neighbors
+10:07:13	 From Michael Grossman (he/him) Factr.com : I’m game to help a bit on the Flotilla site
+10:10:50	 From Peter Kaminski : unless somebody else has super energy about a different way to publish the flotilla site, i'll make it a massive wiki that gets published to static html, and help Flotilla people interface with / edit the text of the site.
+10:13:26	 From Zeek : perspective, meaning, intent
+10:13:52	 From Zeek : resiliency
+10:14:32	 From Wendy McLean : +1 zeek!!!
+10:16:51	 From Wendy McLean : The limit of stories is that it doesn’t summarize or have a bottom-line conclusion in and of itself.  Rather, it’s more exploratory.
+10:19:13	 From Wendy McLean : Our thinking diverges to include stories and sense make, then we converge and put it into different forms to be able to act on it, then we expand into various stories again, then converge again.
+10:33:32	 From Vincent Arena : I have to run! Pete can a massive wiki static site have iframe embeds?
+10:34:11	 From Peter Kaminski : Vincent, yes
+10:34:20	 From Wendy McLean : Bye Vincent!!
+10:36:26	 From Zeek : i come from the scientific mindset of trying to prove things false rather than trying to ‘prove’ them “true” so the word fact to me is a bit confusing lol
+10:36:36	 From Peter Kaminski : +1 zeek
+10:42:50	 From Wendy McLean : Like TB-Lee’s Solid project
+10:43:09	 From Zeek : very similiar concepts yes
+10:51:53	 From Wendy McLean : For truth / fact checking with a line between tech and people input, check out Kinzen
+10:52:24	 From Peter Kaminski : random link about oracular AGIs: https://www.lesswrong.com/tag/oracle-ai
+10:54:26	 From Wendy McLean : https://www.kinzen.com
+10:56:49	 From Peter Kaminski : somewhere around here in AI, data, and awareness: https://www.zaliaflow.io/  We empower your data teams to rapidly assemble explanations of their work, so that you can get better utilisation, iteration and a stronger organisation-wide data culture.
+
+improve alignment between data investments and drivers of business value​
+
+understand the data projects driving your business faster and with less effort
+
+engage more of your team in data projects for a better organisational data culture
+
+encourage more diversely skilled teams to use and build data projects with less friction
+10:57:11	 From Michael Grossman (he/him) Factr.com : Wendy, was this the Time Tax article?
+10:57:15	 From Zeek : thanks!
+10:57:33	 From Peter Kaminski : time tax article: https://www.theatlantic.com/politics/archive/2021/07/how-government-learned-waste-your-time-tax/619568/

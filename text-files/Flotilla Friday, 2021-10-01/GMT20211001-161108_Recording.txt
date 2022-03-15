@@ -1,0 +1,29 @@
+00:14:24	Mark Carranza:	Split meetings, relatively, by tech/non-tech?
+00:17:03	Peter Kaminski:	https://hackmd.io/@peterkaminski/ByiBbnNNt/edit
+00:17:11	Bill Anderson:	tech and non-tech bleed into each other
+00:18:28	Bill Anderson:	if it’s boring i’m not looking close enough
+00:23:32	Bill Anderson:	friday nights for us is saturday morning in asia, am i right?
+00:28:50	Marc-Antoine Parent:	Right now I have meetings at 11AM every W-Th-F... which sometimes run over. It's the other reason I'm resisting this hour, otherwise I'd just eat before.
+00:29:07	Jack Park:	+1 to HyperKnowledge as regular as possible - also too, add a channel for it - perhaps private - at the wiki
+00:29:15	Bill Anderson:	ok we are going to get hyped up
+00:30:03	Bill Anderson:	+1 for Jack
+00:30:16	Bill Anderson:	’s suggestion for channel or wiki place
+00:30:40	Marc-Antoine Parent:	Tuesday 11EDT HK
+00:31:24	Mark Carranza:	I have meetings 11 MW 10-1 F Pacific
+00:33:18	Jack Park:	Might need an invite to that telegram channel
+00:33:53	Mark Carranza:	mwb?
+00:33:53	Jack Park:	tnx!
+00:38:13	Mark Carranza:	YAML frontmatter
+00:40:25	Zeek:	brb
+00:40:41	Peter Kaminski:	https://hackmd.io/@peterkaminski/ByiBbnNNt/edit
+00:45:47	Zeek:	back
+00:51:29	Mark Carranza:	Got to go to work meeting, thanks!
+00:52:30	Bill Anderson:	flotilla floatation
+00:53:56	Peter Kaminski:	https://projectmeta.substack.com/
+00:54:36	Marc-Antoine Parent:	https://lu.ma/community/com-mmvGpDTZoRDsxou
+00:54:43	Marc-Antoine Parent:	Tools for Thought Rocs
+00:54:50	Marc-Antoine Parent:	Rocks
+00:56:33	Michael Grossman (he/him) Factr.com:	https://www.betaworks-studios.com/events/how-can-we-build-tech-to-serve-the-public-interest
+00:56:52	Bill Anderson:	i can stay until 15 minutes after the hour
+00:59:13	Bill Anderson:	marc-antoine what is your matrix id?
+00:59:31	Marc-Antoine Parent:	maparent... not using it enough yet

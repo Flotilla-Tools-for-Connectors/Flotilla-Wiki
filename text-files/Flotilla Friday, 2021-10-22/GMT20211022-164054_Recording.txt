@@ -1,0 +1,23 @@
+00:46:25	Bill Anderson:	two concepts to capture: snapshot + event source
+00:47:53	Vincent Arena:	got asked about it today lol
+00:52:48	Marc-Antoine Parent:	that means one hackmd page per massive page...
+00:53:01	Vincent Arena:	yes!
+00:53:13	Vincent Arena:	question: how often do how many people edit these notes outside of the meetings
+00:53:20	Vincent Arena:	(for flotilla)
+00:53:47	Wendy McLean, NY:	+1 Vincent’s question
+00:54:33	Marc-Antoine Parent:	Tangentially related question: Massive vs https://www.netlifycms.org ?
+00:57:42	Wendy McLean, NY:	A related question: how much collaboration will happen during meetings vs after meetings?
+00:58:38	Wendy McLean, NY:	I’m more likely to collaborate during, rather than after.
+00:59:22	Vincent Arena:	I mostly agree ^^
+00:59:35	Wendy McLean, NY:	I love the idea of “integrating” or “mining” the notes during one meeting to make sure we bring forward the most important info into the dashboard and highlighting it for the repo.
+01:00:15	Bill Anderson:	I will be leaving at Noon; other scheduled activity coming up.
+01:09:04	Vincent Arena:	https://www.catalist.network/event/the-press-conference-sept-2021 Event page for anyone interested in cross-referencing
+01:18:39	Peter Kaminski:	looking at some javascript diagramming libraries...  https://www.npmtrends.com/diagram-js-vs-gojs-vs-jointjs-vs-jsplumb-vs-mxgraph  https://www.npmtrends.com/d3.js-vs-gojs-vs-jointjs-vs-jsplumb-vs-mxgraph  https://www.npmtrends.com/flowchart.js-vs-jointjs-vs-mermaid
+01:23:22	Marc-Antoine Parent:	I have a hard stop soon
+01:29:08	Zeek:	https://developer.holochain.org/concepts/
+01:29:59	Marc-Antoine Parent:	Zeek: I'd love us to have a conversation on graphs vs recursive hypergraphs one of these days.
+01:30:59	Zeek:	https://forum.holochain.org/t/acorn-technical-deep-dive-part1-architect-and-design-review-multi-dna-architect-electron-in-ui/6452
+01:31:53	Zeek:	sounds good
+01:59:21	Peter Kaminski:	https://graphviz.org/gallery/
+02:01:16	Zeek:	https://www.softwaretestinghelp.com/low-code-development-platforms/
+02:03:37	Vincent Arena:	https://us02web.zoom.us/j/595172819

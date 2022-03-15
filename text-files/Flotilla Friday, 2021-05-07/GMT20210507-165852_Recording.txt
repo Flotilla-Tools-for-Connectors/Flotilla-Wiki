@@ -1,0 +1,78 @@
+00:54:56	Samuel Rose:	Charles Blass https://app.thebrain.com/brains/3d80058c-14d8-5361-0b61-a061f89baf87/thoughts/8db1827c-d8f7-446f-981b-3dd341e8d642/attachments/5af9ea8f-213d-4191-b03a-b3b089a1ad3e
+00:58:35	Benjamin Life:	I’ve been excited about SourceCred for attribution / reputation for commons contributions
+00:58:49	Lauren Nignon:	Yes, us too
+00:59:08	Benjamin Life:	https://sourcecred.io
+01:02:13	Peter Kaminski:	https://climatesites.net/
+01:05:15	Benjamin Life:	I’d love to be on boarded as a massive wiki scribe / community activist!!! This is what I’ve been dreaming of. Thank you, Peter!
+01:05:21	Peter Kaminski:	+1 :-)
+01:06:00	Vincent Arena:	Human connectors again ^
+01:10:45	Samuel Rose:	This is my github profile fwiw https://github.com/samrose/
+01:11:19	Benjamin Life:	a coder friend is using GitLab, which is open-core, as an alt to GitHub
+01:12:01	Peter Kaminski:	yep, GitLab is great too
+01:12:25	Peter Kaminski:	i have a pitch why we started with GitHub instead of GitLab :-)
+01:18:19	charles blass:	chunking compost
+01:19:58	Peter Kaminski:	Ben and anybody else, i'd love to get you more onto Massive Wiki, just schedule time on my calendar: http://calendly.com/peterkaminski/60min or http://calendly.com/peterkaminski/30min
+01:22:35	charles blass:	lauren perhaps after vincent you could mention something on hashverse?
+01:25:35	Benjamin Life:	Is this the same or similar to RDF?
+01:26:20	Benjamin Life:	From Christopher Alexander
+Name:
+Context:
+Consider these patterns first:
+Problem:
+Solution:
+Consider next:
+01:26:31	Peter Kaminski:	RDF is a language for expressing the fact that you want semantic relationships, and the form they take.
+01:26:56	Peter Kaminski:	but even without RDF, you can describe semantic relationships and the forms they take.
+01:29:23	Peter Kaminski:	@ben, the pattern language i know of that best reflects the structure of Christopher Alexander's Pattern Language is Group Works:  https://groupworksdeck.org/
+01:30:42	Peter Kaminski:	so their site describes patterns in a pattern language:  https://groupworksdeck.org/what-we-mean-by-pattern https://groupworksdeck.org/template-pattern-writing https://groupworksdeck.org/pattern_seeds
+01:31:20	Turquoise [TaoTeTurquoise.Com]:	https://www.youtube.com/watch?v=m8GxdVzGY7w
+01:31:25	Turquoise [TaoTeTurquoise.Com]:	The HashVerse
+01:32:52	Samuel Rose:	Peter I started to explore more schema-less triple stores, that on a technical level can be more forgiving, but can still do inference across the data been exploring that with Crux DB https://opencrux.com/main/index.html + clojure
+01:33:08	Benjamin Life:	I love this! Reminds me of Distributed Hash Tables! Curious how IPFS might support this kind of meta-organizing.
+01:35:24	Benjamin Life:	We Stan Turquoise!
+01:35:31	Peter Kaminski:	+1 Sam and Ben  y'all would love to talk to Marc-Antoine Parent, about hypergraphs / graph databases / etc.
+01:35:43	Peter Kaminski:	maybe on a Free Jerry's Brain call
+01:36:03	Peter Kaminski:	"spread"
+01:38:03	Peter Kaminski:	btw, i have some fragmentary notes here, you're welcome to add/improve/share/etc.  https://hackmd.io/@peterkaminski/B15VPyQ_d
+01:38:48	Samuel Rose:	Thanks Peter!
+01:38:49	Peter Kaminski:	usually i'd make these public on Flotilla Wiki, but i won't unless we all agree that it would be okay
+01:42:56	Benjamin Life:	UX that would be great in my imagination: At onset of the meeting we share a hash address for the meeting notes. We all see a shared document but are only writing to local markdown files. We can merge notes from others that have signed permissions for merging. Merging adds the content to our local markdown database which can sync to any other markdown database we have federated with. Permissions would need to show which federations i am part of who would see the information merged.
+01:44:35	Lauren Nignon:	Benjamin: That would be FANTASTIC! In practice I find it difficult to find even one person who will take notes
+01:44:47	Benjamin Life:	At the end of the meeting we all upvote the contributions we feel are most valuable and accurate. A SourceCred score keeps track of who contributed to each document and could be added to a DAOs reputation score.
+01:45:02	Lauren Nignon:	I like that, Benjamin
+01:45:31	Peter Kaminski:	@Ben, i like it. it would be interesting to talk about the interpersonal and community dynamics systems in there.
+01:45:32	Benjamin Life:	Lauren: totally! The social layer is the hardest part :) I think it’s one of those “tragedy of the commons” issues that could become a “nobility of the commons” if we have reputation tracking!
+01:45:35	Lauren Nignon:	It is a shame that SourceCred just works on Discord
+01:48:10	Benjamin Life:	The most meta of them all!
+01:50:13	Samuel Rose:	This was the really great book that I learned most of my network science core concepts from fwiw https://en.wikipedia.org/wiki/Six_Degrees:_The_Science_of_a_Connected_Age big book but accessible
+01:50:23	Peter Kaminski:	thx :)
+01:50:45	Benjamin Life:	+1 thank you!
+01:54:04	Samuel Rose:	(Probably nowadays there are really good wikipedia articles on the same content in that six degrees book too)
+01:54:16	Peter Kaminski:	+1
+02:09:05	Benjamin Life:	What is the ontology of a biosphere?
+02:09:58	charles blass:	@sam LOL multisensory ontology as modulation of tone of voice
+02:11:54	charles blass:	control patterns jam monday
+02:11:55	Samuel Rose:	am I too loud sorry?
+02:12:00	Peter Kaminski:	nope
+02:12:04	charles blass:	nooo
+02:12:17	Samuel Rose:	sometimes my mic is literally too loud
+02:13:28	Peter Kaminski:	if you're on a mac, checkout this software: https://rogueamoeba.com/soundsource/  i use it mostly for amazing control of my audio outputs, but it does input as well
+02:13:41	Benjamin Life:	Digital v analog computing. Nature’s computer is State-based.
+02:13:48	Samuel Rose:	I am on linux but maube there is something out there for me
+02:13:51	charles blass:	essential roadmap https://www.youtube.com/watch?v=cXh4HqRpFt4&feature=youtu.be
+02:16:06	Benjamin Life:	I’m dancing in my room. This has been awesome.
+02:16:55	Benjamin Life:	Linked Open Wisdom Commons (main chat): https://t.me/joinchat/kE9j1BnztkkyMGRh
+02:17:49	Benjamin Life:	LOWC Cicolab Sub chat - I don’t have permissions to share a link
+02:18:01	Peter Kaminski:	where's the Linked Open Wisdom Commons backchannel?
+02:18:12	charles blass:	momentito
+02:18:45	charles blass:	here !!! https://t.me/joinchat/ghf8fXSvk9E5NTE8
+02:18:50	Peter Kaminski:	tx :)
+02:18:58	Samuel Rose:	thank you for the chat channel
+02:19:44	Peter Kaminski:	https://hackmd.io/0g3sZIwCScKPprKNiss64g
+02:26:19	Vincent Arena:	Flow is a Good thing to be addicted to
+02:29:45	Peter Kaminski:	Massive Wiki already has a utility to auto-build a static HTML version of the content onto Netlify's (free) servers
+02:31:26	Peter Kaminski:	https://massive.wiki/
+02:31:39	Benjamin Life:	So glad I stayed to hear you, Trudy! I’m hopping off now! Towards thriving! A l o h a
+02:33:16	Peter Kaminski:	Trudy (or anybody else), feel free to book time on my calendar: https://calendly.com/peterkaminski/60min https://calendly.com/peterkaminski/30min
+02:33:39	Peter Kaminski:	trudy@solutionista.com
+02:40:06	Trudy Miller:	https://www.canva.com/design/DAEPaO9DZ3A/xaPtzPuAL0wJGQ3SDu3o3g/view?utm_content=DAEPaO9DZ3A&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton

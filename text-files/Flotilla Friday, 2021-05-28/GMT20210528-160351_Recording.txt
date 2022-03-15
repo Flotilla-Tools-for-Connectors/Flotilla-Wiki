@@ -1,0 +1,64 @@
+00:07:56	Bill Anderson:	Deitzl, P., Ostrom, E., & Stern, Paul C., "The Struggle to Govern the Commons", Science 12 December 2003:  Vol. 302 no. 5652 pp. 1907-1912, DOI: 10.1126/science.1091015
+00:10:27	Bill Anderson:	Benjamin: can you put a link to the writing you were talking about here?
+00:11:43	Benjamin Life:	Linked Open Wisdom Commons White Paper (work in progress, thinking out loud, super vulnerable to share such an early stage doc, open for feedback):
+00:11:45	Benjamin Life:	https://roamresearch.com/#/app/CivHubxCivilizationOS/page/3MXAXzEPV
+00:11:53	Bill Anderson:	when we move from flotilla to armada we will really have a naming issue
+00:12:33	Peter Kaminski:	lol
+00:12:33	Benjamin Life:	I’d love to talk about integrating massive wiki and trove on this call
+00:12:52	Benjamin Life:	Also token curated registries, SourceCred, etc
+00:21:29	Peter Kaminski:	https://hackmd.io/@peterkaminski/BkuPXq0Fu
+00:25:04	vincent arena:	Charles is alluding to technologies that allow humans to use AI (transhumanism technologies that are in trials right now)
+00:25:17	Benjamin Life:	BCI 4 GOOD
+00:25:21	Marc-Antoine Parent:	Yes that's the been the transhumanist claim forever
+00:25:32	vincent arena:	(having google or trove or massive literally plugged into your brain)
+00:26:02	Benjamin Life:	I believe our organic capacities are exponentially more powerful when leveraged.
+00:26:20	Benjamin Life:	These rational materialists ain’t got nothin on non-dual Gnostic genius
+00:26:27	Marc-Antoine Parent:	I believe in augmentation, but I don't need it requires neural ink.
+00:27:36	Marc-Antoine Parent:	But there's a fact that even without the neuralink, there's a polarization in how we use information. some people thrive in the info-rich medium of the net, others become lazy because it's out there.
+00:30:32	Bill Anderson:	and Pete that is with AI that is not that “intelligent”
+00:30:53	charles blass:	cicolab monday howard rheingold in thee hot seat on smart mob politics
+00:30:58	Marc-Antoine Parent:	and breaking things
+00:31:07	Benjamin Life:	Propositional knowing is just one way of knowing. Semantic web is only propositional.
+00:31:19	charles blass:	then we discuss the blackpaper, after howard
+00:31:24	Benjamin Life:	We’re still in flesh suits on a living earth.
+00:31:27	Bill Anderson:	Benjamin - bingo!
+00:32:49	vincent arena:	(be right back)
+00:33:54	Michael Grossman (he/him) Factr.com:	The Gray Newell vid that Charles referred to:
+https://www.youtube.com/watch?v=35QvyaRn6OY
+00:34:44	Bill Anderson:	not quite everybody has access to what, say, I have
+00:35:11	Benjamin Life:	Human networks can beat the borg.
+00:36:17	Benjamin Life:	Machine learning permaculture 🤔😮😟
+00:36:35	Benjamin Life:	Cosmo-local networks
+00:36:40	Benjamin Life:	Grounded yet connected
+00:36:52	Benjamin Life:	What gets erased in the connection and abstraction?
+00:37:10	Benjamin Life:	Globalists derive power from erasure.
+00:37:48	Marc-Antoine Parent:	http://www.open-atlas.org/
+00:39:13	Marc-Antoine Parent:	https://www.communecter.org/#home
+00:39:23	Benjamin Life:	I think this conversation could ground a bit in the context of the link between trove and massive wiki
+00:39:38	charles blass:	+1
+00:40:58	Marc-Antoine Parent:	It has to be a federation effort!
+00:44:45	Marc-Antoine Parent:	Benjamin would love to talk about epistemological commons! maparent@acm.org
+00:45:58	Bill Anderson:	Benjamin and Marc-Antoine: me too.
+00:47:27	charles blass:	MessyWiki
+00:47:28	Marc-Antoine Parent:	as in Bruno Latour?
+00:47:31	Bill Anderson:	the big “O” Ontology
+00:48:16	Bill Anderson:	Bruno Latour
+00:50:17	Benjamin Life:	Finally found a decent link for my integral ontology reference.
+00:50:20	Benjamin Life:	https://integrallife.com/glossary/ontology/
+00:51:21	Peter Kaminski:	ohn Vervaeke's lecture series “Awakening from the Meaning Crisis”
+00:51:27	Peter Kaminski:	John Vervaeke's lecture series “Awakening from the Meaning Crisis”
+00:57:26	Bill Anderson:	move into information space (what is that?)
+00:58:54	Bill Anderson:	connective intelligence information spaces
+01:00:08	Benjamin Life:	Collaboratively generated source of truth contrasted with collaboratively generated clusters of sources of truth
+01:01:05	Bill Anderson:	the four sides to every story: your side, my side, the truth, and what really happened
+01:02:34	Benjamin Life:	I’m seeing the need for another tool that works with massive wiki to work through branching and integration. Thinking about SourceCred on Discourse forums for the dialectic process. Source of truth ie wiki represents the emergent consensus of the branches.
+01:02:52	Marc-Antoine Parent:	Benjamin we really should talk...
+01:04:29	vincent arena:	sorry everyone dealing with some issues right now have to run. have fun!
+01:08:53	Benjamin Life:	Including cognitive bias and emotional trauma response.
+01:10:51	Marc-Antoine Parent:	between public and private, the translucent/porous boundaries....
+01:11:27	Peter Kaminski:	"translucent" work
+01:15:20	Benjamin Life:	Permissions, attribution (value flows), and  identity are all hard problems associated with collective intelligence.
+01:16:26	Marc-Antoine Parent:	_uprtcl
+01:20:28	Peter Kaminski:	"the ephemerality of Flotilla"
+01:24:05	Benjamin Life:	Cicolab fam coming in 🔥 with the  constructive criticism 😂
+01:24:36	charles blass:	LOL

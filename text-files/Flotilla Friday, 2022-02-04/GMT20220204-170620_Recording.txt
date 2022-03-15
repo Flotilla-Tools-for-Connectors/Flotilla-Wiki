@@ -1,0 +1,31 @@
+00:10:31	Bill:	How does it manage new categories? Like when we discover or invent another distinction or facet?
+00:14:44	Vincent Arena:	https://www.catalist.network/frameworks
+00:15:08	Vincent Arena:	@Bill new categories can be added but there needs to be a consensus process probably
+00:19:36	Vincent Arena:	How do we know it’s interoperable:
+00:19:59	Wendy McLean, NY:	I love this Bill, thank you!
+00:29:31	Peter Kaminski:	some books about translating languages:
+00:29:52	Peter Kaminski:	Reading Rilke: Reflections on the Problems of Translation by William H. Gass
+00:30:22	Peter Kaminski:	Le Ton Beau De Marot: In Praise of The Music of Language
+by Douglas R. Hofstadter  (this one is really really good)
+00:31:25	Peter Kaminski:	not on translation, but touches on some of what we're discussing:  Surfaces and Essences: Analogy as the Fuel and Fire of Thinking
+by Douglas R Hofstadter
+00:31:29	Mark Carranza:	Is there a “question” relationship?
+00:31:39	Bill:	Very semantic webby
+00:32:41	Bill:	RDF triples for one of the wins
+00:33:11	Peter Kaminski:	huge bibliography on translation: https://forrester.domains.swarthmore.edu/syllabi/091/
+00:34:02	Michael Grossman (he/him) Factr.com:	Apologies for my tardiness!
+00:35:38	Vincent Arena:	(Subject) (relationship type) (type of response) (response) Ex) Vincent is requesting an artifact for testing taxonomies
+00:35:45	Michael Grossman (he/him) Factr.com:	Is this a shared doc?
+00:36:40	Wendy McLean, NY:	https://docs.google.com/document/d/1ejoTJnWzGFYqhTa2JuyV-FfZXj4MyaYjQBb-CC4IBSw/edit?usp=sharing
+00:45:03	Vincent Arena:	Something I’ve made
+00:46:03	Bill:	What I would like to share with a group depends, in part, on what the primary task with which the group is engaged
+00:46:31	Vincent Arena:	Where do I spend my time?
+00:53:54	Bill:	I have owed a Renault and a peugeot
+00:55:58	Peter Kaminski:	when i was little and learning spelling, i thought there were two suspiciously similar car brands, "Chevrolay" (from TV ads) and "ChevroLET" (pronouched with the hard T like "let"), from reading the backs of cars.
+00:56:23	Michael Grossman (he/him) Factr.com:	I want to share (and enable others to share) the mostly-static artifacts that might help/educate/entertain/connect them.
+00:56:28	Michael Grossman (he/him) Factr.com:	(Here are the articles I read about data privacy, my links about the evolution of governance, here are my eastern-mediterranean recipes, here is my curated collection of mid-century ephemera)
+00:58:43	Wendy McLean, NY:	I grabbed the stuff in chat.  Thank you everyone!
+00:59:49	Vincent Arena:	A resource of artifacts of resources
+00:59:52	Vincent Arena:	??
+01:01:44	Vincent Arena:	The edges actually do the connecting?
+01:02:12	Bill:	Important thread vincent

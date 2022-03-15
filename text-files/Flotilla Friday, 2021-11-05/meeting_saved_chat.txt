@@ -1,0 +1,88 @@
+09:07:14 From Peter Kaminski to Everyone:
+	https://hackmd.io/@peterkaminski/S1oFIRzwF
+09:07:50 From Peter Kaminski to Everyone:
+	https://hackmd.io/@peterkaminski/S1oFIRzwF
+09:11:53 From Jack Park to Everyone:
+	https://github.com/forgefed/forgefed
+09:13:27 From Jack Park to Everyone:
+	https://fediverse.party/en/mastodon
+09:16:24 From Jack Park to Everyone:
+	https://github.com/forgefed/awesome-activitypub
+09:17:37 From Peter Kaminski to Everyone:
+	https://dev.to/filibit/convert-wikipedia-articles-into-mind-maps-48n0
+09:18:37 From Peter Kaminski to Everyone:
+	(not sure if that's useful)
+09:19:05 From Peter Kaminski to Everyone:
+	if anybody still needs it, today's hackmd: https://hackmd.io/@peterkaminski/S1oFIRzwF
+09:21:51 From Jack Park to Everyone:
+	https://github.com/forgefed/awesome-activitypub
+09:22:02 From Jack Park to Everyone:
+	oops
+09:22:34 From Jack Park to Everyone:
+	https://github.com/filiBit/abstraxo
+09:29:34 From Peter Kaminski to Everyone:
+	and thence, https://abstraxo.com/
+09:29:43 From Michael Grossman (he/him) Factr.com to Everyone:
+	OOOoooohhhh, I thought you meant meta but you meant Meta.
+09:33:29 From Mark Carranza to Everyone:
+	deixis
+09:37:00 From Mark Carranza to Everyone:
+	Or we’re co-building a frame of interpretation in real-time
+09:37:13 From Mark Carranza to Everyone:
+	Based on past frames - shared or unshared
+09:37:56 From Jack Park to Everyone:
+	Amazon starting to ask people to stop talking to their bot
+09:38:06 From Mark Carranza to Everyone:
+	Sorry about muting
+09:47:08 From Vincent Arena to Everyone:
+	if anyone wants to explore
+09:47:09 From Vincent Arena to Everyone:
+	https://docs.google.com/spreadsheets/d/1vBJ8PePNB_oDe2sM0HNV00VPEfY9oziPYeMVyPLGaIc/edit?usp=sharing
+09:49:35 From Peter Kaminski to Everyone:
+	the visual one is easier for me to parse :-)
+09:50:15 From Peter Kaminski to Everyone:
+	"metaphor for social scale"
+09:52:40 From Jack Park to Everyone:
+	have to run. great conversation
+09:58:49 From Wendy McLean, NY to Everyone:
+	Is the type maybe on the z axis?
+10:00:24 From Marc-Antoine Parent to Everyone:
+	There’s clearly a social axis; a type axis (which could be ordered by scale…); an activity axis (eg search vs edit vs share…)
+10:01:10 From Wendy McLean, NY to Everyone:
+	And a privacy axis…. ;-)
+10:02:03 From Peter Kaminski to Everyone:
+	Or perhaps a privacy (and access control) context.
+10:02:10 From Vincent Arena to Everyone:
+	the search stacks though!
+10:02:28 From Vincent Arena to Everyone:
+	sort of like sub filters
+10:05:00 From Bill Anderson to Everyone:
+	nsuper interesting convo - we need to continue it.
+10:05:11 From Bill Anderson to Everyone:
+	also vincent - great spreadh
+10:05:22 From Peter Kaminski to Everyone:
+	+1
+10:05:22 From Bill Anderson to Everyone:
+	spreadsheet. need to run. adios!
+10:11:39 From Marc-Antoine Parent to Everyone:
+	Still around
+10:20:42 From Marc-Antoine Parent to Everyone:
+	Spatial metaphors have their limits ;-)
+10:20:49 From Vincent Arena to Everyone:
+	breaking space time LOL
+10:22:11 From Vincent Arena to Everyone:
+	link to the same object?
+10:22:18 From Vincent Arena to Everyone:
+	kinda NFT-ish
+10:29:11 From Vincent Arena to Everyone:
+	oh man i have to run for a 1:30 meeting!!
+10:29:26 From Peter Kaminski to Everyone:
+	see you!
+10:30:06 From Peter Kaminski to Everyone:
+	claims: consensus, polarizing, fringe
+10:30:10 From Michael Grossman (he/him) Factr.com to Everyone:
+	Bummer! Thanks Vincent for instigating
+10:30:35 From Wendy McLean, NY to Everyone:
+	I have to go too!
+10:30:45 From Wendy McLean, NY to Everyone:
+	Really want to continue this next week!

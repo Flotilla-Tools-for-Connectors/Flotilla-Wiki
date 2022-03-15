@@ -1,0 +1,29 @@
+00:13:55	Mark Carranza:	Hi and bye !
+00:21:07	CSC Zoom:	i like Vincent's fractal vision here, _and_, I would love to see a gallery of fractal scales.  in my previous call, we were looking at the fractal scales of biology from mitochondria, single-celled orgs, multicellular orgs, up to complex organisms like worms and dogs and humans -- and then fractal levels of social structures -- tribes, villages, cities, nations, multinational corps, etc.
+00:21:46	CSC Zoom:	another fractal scale is (i think) mandelbrot's example of coastlines, all the way from grains of sand to a whole coastline
+00:34:57	Peter Kaminski:	https://savvycal.com/
+00:35:39	Peter Kaminski:	the savvycal site has comparisons with:  Calendly
+YouCanBook.me
+Acuity Scheduling
+Meetingbird
+Doodle
+Woven
+X.ai
+00:40:09	Wendy McLean:	I like the balance too. Interesting to learn when it gets more technical
+00:52:01	Wendy McLean:	I’m picturing facebooks posting features
+00:52:09	Peter Kaminski:	yep
+01:01:33	Bill Anderson:	Annie Murphy Paul - The Extended Mind
+01:10:26	Peter Kaminski:	"The Extended Mind - The Power of Thinking Outside the Brain" book by Annie Murphy Paul  (just reposting Bill, but in a format a parser of the future will pick up as a book :-))
+01:11:03	Peter Kaminski:	and also a website:  https://anniemurphypaul.com/books/the-extended-mind/
+01:11:10	vincent arena:	Wendy and I spoke with tom!
+01:12:19	Peter Kaminski:	"... but they are limited by their assumption that thinking happens only inside the brain. Much less attention has been paid to the ways in which people use the world to think: the gestures of the hands, the space of a sketchbook, the act of listening to someone tell a story or the task of teaching someone else. These “extra-neural” inputs change the way we think; it could even be said that they constitute a part of the thinking process itself. "
+01:17:33	Bill Anderson:	https://band.trinket.io/scientific-data-informatics#/scientific-data-informatics/data-is-information
+01:23:32	Bill Anderson:	concept mapping can help with this, Pete
+01:25:52	Peter Kaminski:	+1 Bill :-)
+01:27:01	Peter Kaminski:	https://www.google.com/search?q=visual+thinking
+01:27:50	Peter Kaminski:	https://informationisbeautiful.net/
+01:28:16	vincent arena:	https://airtable.com/shreJ7NuwexfCw0WY
+01:28:35	Wendy McLean:	https://airtable.com/shreJ7NuwexfCw0WY
+01:28:42	Wendy McLean:	Ah. Beat me to it!
+01:33:08	Bill Anderson:	We need more than one word for “map”.
+01:33:20	Bill Anderson:	I have to go.

@@ -1,0 +1,47 @@
+00:07:11	Vincent Arena:	++ on Prototyping with Miro or graph commons!!
+00:09:31	Vincent Arena:	Should we brainstorm a list of use cases?
+00:09:53	Vincent Arena:	I have structured data for you to play with? XD
+00:12:00	Wendy McLean:	Thanks Vincent!  ;-)
+00:12:27	Mark Carranza:	Hacked please
+00:12:44	Mark Carranza:	Opps: HackMD
+00:12:51	Lauren Nignon:	We have bald eagles in our yard that made a nest. They are making a racket
+00:13:37	Vincent Arena:	Id love to share Troves most recent map - is actually pulling from a decentralized DB. 
+
+Wendy this data is available in Airtable if you want to use it in graph commons or maptio to play around?
+
+https://www.catalist.network/explore-organizations?view=Card&filtered=yes
+00:17:28	Peter Kaminski:	@Mark and everybody, here's a hackmd: https://hackmd.io/@peterkaminski/BJmdEx8ad
+00:20:26	Wendy McLean:	Thanks Vincent!  Yes!  I’d love to see the air table version.  I’d likely absorb it best that way!
+00:26:33	Phil Kennedy:	Be right back, someone’s at the door
+00:26:43	Bill Anderson:	how local is “local”?
+00:29:48	Peter Kaminski:	good question, Bill. i would imagine it's within a "sustainable" distance for transportation, whatever "sustainable" means...
+00:31:36	Lauren Nignon:	Bob Horn is coming to CICOLAB in September and is a good friend of Ken Homer
+00:33:06	Peter Kaminski:	CMapTools
+00:35:04	Lauren Nignon:	My dad just reminded me that I am on vacation! Doh! Old habits die hard. I am going to go play now!
+00:35:25	Lauren Nignon:	See you all on the 22! Let’s make a chat in Mattermost
+00:35:34	Michael Grossman (he/him) Factr.com:	We support you in that play!
+00:48:18	Bill Anderson:	i do that directions for different notions all the time; often in the same so-called map
+00:51:05	Mark Carranza:	And, now I have to prepare for my Internet Archive UX Team meeting every Friday at 10am
+00:51:12	Mark Carranza:	Thanks, bye!
+00:53:21	Wendy McLean:	Bill, what was that tool called?
+00:53:26	Peter Kaminski:	Scapple
+00:54:30	Vincent Arena:	++++ to miro
+00:56:57	Wendy McLean:	Thank you for that overview, Pete!  You’ve sold me on Scapple!
+00:58:54	Vincent Arena:	I had been wondering what you used to make this! the design is so simple I assumed couldn’t be a new tool XD
+01:08:51	Bill Anderson:	scapple nodes might work for drawing fat links
+01:10:50	Vincent Arena:	Make information great again
+01:10:58	Peter Kaminski:	lolol
+01:11:00	Wendy McLean:	Ha!
+01:11:10	Vincent Arena:	that could be flotilla’s slogan LOL
+01:11:16	Bill Anderson:	MIGAS - it’s a breakfast food
+01:13:01	Vincent Arena:	https://youtu.be/lkYrwbxCCHE
+01:13:09	Vincent Arena:	Wendy i would HIGHLY recommend the first 30 mins of this
+01:13:18	Wendy McLean:	Gotcha!
+01:18:28	Michael Grossman (he/him) Factr.com:	Vincent, is Murmurations a part of what you draw on? They are similarly oriented.
+01:19:09	Michael Grossman (he/him) Factr.com:	Customizable schema, so you could dictate what you want.
+01:26:29	Peter Kaminski:	"The Theory Underlying Concept Maps and How to Construct and Use Them"
+https://cmap.ihmc.us/docs/theory-of-concept-maps
+01:26:32	Bill Anderson:	the NSA is probably aware of many of these initiatives
+01:26:49	Peter Kaminski:	especially, "Constructing Good Concept Maps"
+01:32:18	Vincent Arena:	being ok with being wrong
+01:34:07	Peter Kaminski:	"seeing where the holes are" (cf. "seeing where the wholes are" :-)

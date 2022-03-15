@@ -1,0 +1,1049 @@
+WEBVTT
+
+00:00:07.000 --> 00:00:14.000
+Welcome all.
+
+00:00:14.000 --> 00:00:25.000
+I feel like I've been busy on other stuff this week so I haven't really even set up even less thought about what we talked about this week.
+
+00:00:25.000 --> 00:00:31.000
+Not that that ever. And the other thing by the way I'm gonna drop off at 10
+
+00:00:31.000 --> 00:00:34.000
+be too so maybe.
+
+00:00:34.000 --> 00:00:36.000
+Maybe that's the pattern for today.
+
+00:00:36.000 --> 00:00:39.000
+We can keep it open but yeah I have to go at the same time.
+
+00:00:39.000 --> 00:00:44.000
+Me too.
+
+00:00:44.000 --> 00:00:53.000
+I have I've been thinking about something relative to the tapestry that I'd love to talk to people about and get their feedback on if people are interested.
+
+00:00:53.000 --> 00:01:06.000
+I know you guys are already aware of the x and y, so I'm working on z, like what are those categories which is translates into. What kinds of things do we want to see in the tapestry, so I would love to just run that by everybody and see what they think
+
+00:01:06.000 --> 00:01:08.000
+at some point.
+
+00:01:08.000 --> 00:01:13.000
+Awesome.
+
+00:01:13.000 --> 00:01:27.000
+Cool after, when he shares about the tapestry, um, I'd like to give a brief update on the encyclopedia table. I've been working on that in terms of like the design and then also.
+
+00:01:27.000 --> 00:01:46.000
+I'm going to be planning a workshop and wanted to maybe pass by with you guys what would be the best way to set up a like ontology. I'm testing experiment, so like, in Kiko lab, Lauren had us do a lot of like card sorting activities where it'd be like,
+
+00:01:46.000 --> 00:02:02.000
+all right, like there's a bunch of cards here and there's a bunch of categories and like we're all going to like swarm and like move things around. And so, I was thinking of designing an experiment kind of like that which would test the hypothesis of
+
+00:02:02.000 --> 00:02:20.000
+like, Are these the right categories. And so it's very open ended, but I want to design something that's not going to like, yeah, it's basically like experiment design, like making sure it's not constraining people, but also not being to open where it's
+
+00:02:20.000 --> 00:02:23.000
+not useful.
+
+00:02:23.000 --> 00:02:34.000
+You wish I had for ontology says that you is that it would be cool if you could use different people's ontology is as kind of different overlays.
+
+00:02:34.000 --> 00:02:35.000
+You know I want to see.
+
+00:02:35.000 --> 00:02:49.000
+Vincent categories I want to see Pete's categories I want to see when these categories and and then I think so. And the other thing about ontology is it's maybe you're not looking for the best ones you're looking for any that are really bad, and you just
+
+00:02:49.000 --> 00:02:54.000
+want to print those out the ones that don't make sense. Yeah, that makes sense to one person but not anybody else.
+
+00:02:54.000 --> 00:03:14.000
+But I think the weird thing about categories is you don't really want a category that everybody understands you want a category that many people understand, but maybe some people want right so this would be to basically make sure that this category system,
+
+00:03:14.000 --> 00:03:30.000
+which is very useful for me, and is something that I've been using for a while and develop over a, like a large stretch of time is also useful for at least, other people so that it can be something that multiple people are are using and contributing to
+
+00:03:30.000 --> 00:03:44.000
+but it is just one set. So, you know, you could also use the tapestry might use the, the, Barbara Marx Hubbard wheel co creation sectors, and someone else might use SD Geez.
+
+00:03:44.000 --> 00:04:03.000
+This is another category system which needs to be user tested, but the, the only like other unique thing about this one that I'm working on is that each one of these categories like has to be connected to other categories and other ontology so there's
+
+00:04:03.000 --> 00:04:17.000
+no category in here that isn't connected to at least one other category in another ontology, and there's no category in another ontology that is not represented here.
+
+00:04:17.000 --> 00:04:28.000
+Right, so you're trying to create a universal chaotic not a universal just a always interoperable.
+
+00:04:28.000 --> 00:04:43.000
+Yeah, it's like, because if any, there can be a translation between any of the other ones. Yeah, yeah. Cuz that's slightly different. It depends on how you're going to use it. Right, if it just sits in the background is something interoperable, that's
+
+00:04:43.000 --> 00:04:50.000
+different. And I don't think you mean to just do that. Right. But that would be different than somebody actually trying to use it to categorize something.
+
+00:04:50.000 --> 00:04:56.000
+So that's something to consider it might be two parts of the workshop. Right.
+
+00:04:56.000 --> 00:05:04.000
+Or you might want to just focus on the front facing version of it where people are interacting with it, which case I have a suggestion but at some point you wanted to say something.
+
+00:05:04.000 --> 00:05:14.000
+So there's usability testing, and then there's interoperability testing or usability design and interoperability.
+
+00:05:14.000 --> 00:05:28.000
+Yeah, yeah. So, right, those are those are the really cool thing about Vincent I you're doing a really good job at both, you've got a very useful ontology and you're also super good at interoperability.
+
+00:05:28.000 --> 00:05:31.000
+It's hard to do though.
+
+00:05:31.000 --> 00:05:40.000
+Thanks yes and maybe focusing on one or the other for the workshop and it sounds like you are trying to do the usability side of it. I to people find it useful.
+
+00:05:40.000 --> 00:05:43.000
+Does it make sense to them.
+
+00:05:43.000 --> 00:05:56.000
+Because if people aren't categorizing things when they come to add something to Trove in a way that then can be interoperable because what they mean by you know what they were thinking when they put it in this category is not really what it maps to when
+
+00:05:56.000 --> 00:06:05.000
+it goes to the other things, then maybe that's, you know, something that, that, and then maybe that's part of what can be worked in, in terms of a test.
+
+00:06:05.000 --> 00:06:08.000
+If it were me, I would.
+
+00:06:08.000 --> 00:06:19.000
+A lot of the workshops I do if you present people categories and this isn't for tech This is just priming for people's minds. If you present them with something will try and think of things that fit into the category, in which case you're not really testing
+
+00:06:19.000 --> 00:06:34.000
+it in my opinion. If you want to come up with, say like kind of like we're doing for the tapestry where I'm saying, you know, hey, what's your Where's your expertise or where is your where your interests, and then see if it fits right then see people
+
+00:06:34.000 --> 00:06:46.000
+go Oh wait, this doesn't fit anywhere. This doesn't make sense, or if you know it's coming at it from that direction that I think really, really highlights the if people feel like the words means something to them or don't mean something to them.
+
+00:06:46.000 --> 00:06:50.000
+And that's what I think you're really after is the.
+
+00:06:50.000 --> 00:07:02.000
+If it all fits fine You're not gonna learn anything, right, saying if you. It's when it doesn't fit. Oh, there's a hole or oh this word doesn't mean what I think it means to every to enough people are.
+
+00:07:02.000 --> 00:07:18.000
+Yeah, so, like, I think one of the experiments, it could be like here. Everyone gets two articles, right like a random set of articles and then it's like okay, if you had to add this into one, which one would it be if you had to add it into multiple which
+
+00:07:18.000 --> 00:07:32.000
+multiple would it be, and then you can see the map, and you could see no one add anything into here, or here. And what I would probably want to do. I don't know if this is like framing it too much is like, pick an article that I think fits in each one
+
+00:07:32.000 --> 00:07:43.000
+of the categories, and then see the distribution of like, if it's like a very solid distribution or if like there, they get concentrated in certain categories.
+
+00:07:43.000 --> 00:08:03.000
+Um, so that's like one experiment design that I was thinking about but it could also be, like, it could Wendy we could do a version of it with the tapestry where it's like, Okay everyone like share one offer, and then see how people categorize them, so
+
+00:08:03.000 --> 00:08:10.000
+there's different yeah there's different ways of doing it, and that each experiment would kind of give you some slightly different information I would assume.
+
+00:08:10.000 --> 00:08:24.000
+Yeah, yeah and I bet we could come up with a way to design it that flows pretty quickly, for people, and then we can just repeat it a couple times and you'd get that those different angles on it, without it being too mentally taxing.
+
+00:08:24.000 --> 00:08:25.000
+Right.
+
+00:08:25.000 --> 00:08:34.000
+Yeah.
+
+00:08:34.000 --> 00:08:39.000
+Yeah, it's a good idea, Vincent to test it out that way.
+
+00:08:39.000 --> 00:08:55.000
+We could also preset it, like I've been meaning to do this with your with your with all the different sets that you've already curated and do a little research on which ones already.
+
+00:08:55.000 --> 00:09:12.000
+they hadn't even tested the set yet that they were proposing. Right. And so there's a different level of, you know, to me, we may want to look at this, do a little research do the do the 10 of the 27 that are really solid sets and make sure those 10 are
+
+00:09:12.000 --> 00:09:24.000
+really interoperable because those are going to be the ones that most other people are going to be interested in using to the ones, ones that are out there for a while ones that people are already familiar with STDs, right, things like that, whereas these
+
+00:09:24.000 --> 00:09:39.000
+other ones that are up and coming, you know, we can be curious about maybe they have offered up some extra category so we may want to look at it that way to and frame it a little bit for people simply by the way we construct the workshop.
+
+00:09:39.000 --> 00:09:52.000
+And I'm saying we because I'm more than happy you know I'll help you with us. I'm happy to know.
+
+00:09:52.000 --> 00:09:55.000
+right now, obviously, I'm.
+
+00:09:55.000 --> 00:10:06.000
+This is kind of the hard part about the interoperability and Bill your question of like how to add new categories is informations already tagged with a category.
+
+00:10:06.000 --> 00:10:24.000
+If a new categories added there needs to be a process of like, potentially re categorizing information that other people have tagged in the past. And so, I assume the edits would be this category is getting split into two or two are getting merged or
+
+00:10:24.000 --> 00:10:32.000
+a whole new one is being added in the whole new one being added that's easy because you just add a new one and then people can start adding information to it.
+
+00:10:32.000 --> 00:10:44.000
+The other two would require like making a workflow that would look at all the past data that's tagged with that thing and then like figuring out how to parse it.
+
+00:10:44.000 --> 00:10:50.000
+And, and my guess is by creating this you're trying to avoid that too much of that in the future.
+
+00:10:50.000 --> 00:10:53.000
+Can I share a couple of words.
+
+00:10:53.000 --> 00:10:56.000
+Okay, so my experience with tapestry.
+
+00:10:56.000 --> 00:11:16.000
+Although you made it really, really easy. I found that a little bit of a challenge, which I really enjoyed, because it made me reflect again on things, my own experience and stuff like that and how it might be communicated or written out.
+
+00:11:16.000 --> 00:11:18.000
+So I really enjoyed that.
+
+00:11:18.000 --> 00:11:20.000
+And I found it valuable.
+
+00:11:20.000 --> 00:11:24.000
+So I think when you say I wanted to just be easy for people to do blah blah blah.
+
+00:11:24.000 --> 00:11:30.000
+It's like if it's really really easy, then like you said when they will really not doing anything now.
+
+00:11:30.000 --> 00:11:34.000
+Because you don't want it to be that easy.
+
+00:11:34.000 --> 00:11:36.000
+We want to be challenged.
+
+00:11:36.000 --> 00:11:39.000
+It'd be that for me that's what I want.
+
+00:11:39.000 --> 00:11:45.000
+Because then we may actually come up with something new.
+
+00:11:45.000 --> 00:11:52.000
+Rather than going, oh yeah that's just like I don't want cooking thing, you know, even though I wasn't thinking of cooking.
+
+00:11:52.000 --> 00:11:52.000
+And the other thing I wanted to say, Vincent The, the thing that struck me both your a tapestry is like.
+
+00:11:52.000 --> 00:12:10.000
+And the other thing I wanted to say, Vincent The, the thing that struck me both your a tapestry is like MP what you said about ontology I mean, these kinds of things are like, it's like a, it's a thing where it's like it's like a kind of a technology
+
+00:12:10.000 --> 00:12:26.000
+that we used to, because it helps solve a problem or set of problems I mean I'm just starting to read about science from, you know, indigenous perspectives, but I gotta tell you, this is not like the chemistry history chemistry I learned when I was a
+
+00:12:26.000 --> 00:12:29.000
+graduate student.
+
+00:12:29.000 --> 00:12:37.000
+So there. I mean, and I think we just have to be clear that there was not going to be one ontology.
+
+00:12:37.000 --> 00:12:54.000
+These things are grounded in a context that actually supports a certain aim goal, culture, whatever, you know, or just, you know, today's meeting is going to be like, you know, crazy dark, whatever.
+
+00:12:54.000 --> 00:13:00.000
+So I think it's really, you know, expecting interoperability everywhere is.
+
+00:13:00.000 --> 00:13:12.000
+I don't know about that because you're just going to run into things where we're just not going to talk about that. My job is American anthropologist, so I see the setting sun, you know I'm thinking physics.
+
+00:13:12.000 --> 00:13:17.000
+Oh, she's not. It's the same sunset.
+
+00:13:17.000 --> 00:13:32.000
+We're holding hands is great. But, you know, it's at some at some intellectual kind of level it's not not exactly the same thing.
+
+00:13:32.000 --> 00:13:44.000
+So instead of universality you really want interoperability, you want to be able to answer the question of is how, how do you know what when you have it interoperability or yeah this is the thing that always come up with computer systems I've had guys
+
+00:13:44.000 --> 00:13:53.000
+tell me it's going to be interoperable, you know, and I'm the quality control guy, great, you know, how are you going to measure that you got a thermometer for that thing.
+
+00:13:53.000 --> 00:13:55.000
+I mean I'm a canvas right.
+
+00:13:55.000 --> 00:14:00.000
+If you don't have have monitor. What are you talking about, it's interoperable.
+
+00:14:00.000 --> 00:14:05.000
+How did you know I mean that's the question.
+
+00:14:05.000 --> 00:14:12.000
+I think when you go to claim the turnaround for both you have to, you know, because of the following.
+
+00:14:12.000 --> 00:14:19.000
+You know demonstrable evidence facts, something, some kind of measure.
+
+00:14:19.000 --> 00:14:26.000
+Yeah, so I think kind of the way that works if to take your, your sunset
+
+00:14:26.000 --> 00:14:39.000
+experience and kind of tease into it a little bit. I think you want to be able to for the participants in the interoperation you want.
+
+00:14:39.000 --> 00:14:46.000
+You want to look at the same thing, and then you know look at it one way and look at it another way, and then have those two people talk to each other.
+
+00:14:46.000 --> 00:14:53.000
+Okay, you're seeing, you know wavelengths of light blah blah blah. I'm seeing you know multiple experience or whatever.
+
+00:14:53.000 --> 00:15:11.000
+And there there are people who like maybe aren't fluent in the language but can at least kind of kind of follow along. So, you know, if somebody says okay well what I see when I'm looking at sunset and it's they start going through the atmospheric phenomena
+
+00:15:11.000 --> 00:15:23.000
+and stuff like that, a person who's not necessarily versed in science but can at least kind of follow along. So, I think, I think we're looking at the same thing I think you're talking about the same things that I see and, you know, and maybe some of
+
+00:15:23.000 --> 00:15:31.000
+the like the sunset is different from the last sense that because you captured some of that in your explanation of it, and vice versa, right.
+
+00:15:31.000 --> 00:15:50.000
+So, if you can do the translation between two to ontology, or to whatever's, and then have bridge people, people who are a little bit at least a little bit bilingual like actually kind of like translation right, you know, I can't read Spanish but I can
+
+00:15:50.000 --> 00:16:05.000
+I can kind of glance through something and get the gist of something in Spanish or French or whatever. And I can, I could kind of pick up you know, you totally missed the reference to the line that we saw right and just not in the text here.
+
+00:16:05.000 --> 00:16:14.000
+Or I could look over and go Yeah, it looks like I can't tell exactly that it's, you know, exactly accurate for the English one but I think it captures everything.
+
+00:16:14.000 --> 00:16:24.000
+So, that cross checking and Trent doing the translation and cross checking is somewhere in. How does that work. that's kind of a thermometer.
+
+00:16:24.000 --> 00:16:27.000
+Yeah, no, I agree. I think when people have to agree I mean this is.
+
+00:16:27.000 --> 00:16:39.000
+Well this is a little far fetched but you know the reason we have proofs and mathematical proof and mathematic, you know, it's not just, it happens because you're actually other people agree it's a proof.
+
+00:16:39.000 --> 00:16:40.000
+Yeah.
+
+00:16:40.000 --> 00:16:52.000
+It's not like it's a human thing, we actually yeah I'll go with you With you know I like you know whatever, but we both believe the equal sign is like a cruel, Master.
+
+00:16:52.000 --> 00:17:08.000
+Well, with words it is because whereas they're just complicated airflow but
+
+00:17:08.000 --> 00:17:15.000
+So, I want to answer those question after that. Okay, I'm talking the same thing for me.
+
+00:17:15.000 --> 00:17:29.000
+So we're staying on topic the. To me this is so interesting because to me, it's a shift in mindset, a bit from this feeling like everything has to be a one to one relationship like this leads to that and and that that's what I hear too when we're talking
+
+00:17:29.000 --> 00:17:43.000
+about interoperability perfect interoperability means this thing maps to this, this thing that's to this and. And it's the same old ways and life isn't like that and that's not the way we think about things and your example of a sunset is a perfect example.
+
+00:17:43.000 --> 00:18:00.000
+To Me too. And what I love about thinking about the tapestry more and the reason why I keep getting excited about it is because I think it allows us to say see the sunset sunset becomes a resource and one person puts it in one place and another person
+
+00:18:00.000 --> 00:18:16.000
+puts in another place. So one way we could look at that is, is completely missed the fact that this this resources into places because right now. The sunset is mapped to physics here and it's mapped to paintings here right our beautiful artistry here.
+
+00:18:16.000 --> 00:18:33.000
+However, if we if if we, if I can get the tapestry to work the way I'm hoping it will in my head, then you can also look at each individual resource right and see the multiple places in which it's mapped right so now it's not about trying to get it in
+
+00:18:33.000 --> 00:18:51.000
+the right place there's no one right place for this resource. So, we can put it, it's okay to have it be in 16 different places and then how interesting, is it when we take a look at it and say, Wow, this resources being that is has value and all these
+
+00:18:51.000 --> 00:18:58.000
+different ways. And then as individuals we can look at that and say, well, I've always thought about it as a physics thing.
+
+00:18:58.000 --> 00:19:10.000
+And I'd love to have more conversation with people who think of it like a physics thing. Or conversely, I always think about it as a physics things and I would love to understand it better from the perspective of people who see it from an as artistry.
+
+00:19:10.000 --> 00:19:26.000
+And so to me that's that's the juicy stuff and we not there because generally we categorize in a one to one relationship. So from my perspective, I'm hoping to provide categorization that allows people to just place it where it makes sense to them, but
+
+00:19:26.000 --> 00:19:34.000
+it isn't asking, it, it, most definitely is not asking them to pick the right place.
+
+00:19:34.000 --> 00:19:48.000
+Yeah, well I think that's perfect. I will say the one thing that your little tapestry that interesting tech Muslims, one of the more interesting things for me was, you have those set of definitions so that you know that you got, and I read the thing on
+
+00:19:48.000 --> 00:19:53.000
+science seven times and I'm like, I don't know about that one.
+
+00:19:53.000 --> 00:19:56.000
+I really do not know about that one at all.
+
+00:19:56.000 --> 00:19:58.000
+As it done like.
+
+00:19:58.000 --> 00:20:03.000
+But I, but I have an idea what the word means to me.
+
+00:20:03.000 --> 00:20:18.000
+But I have this definition, it's really very peculiar I found. Yeah it is. And it actually comes right for I didn't make it up it comes from our I went to I looked it up and I'm like yeah yeah and it's an infrastructure through me too because when I started
+
+00:20:18.000 --> 00:20:31.000
+I started thinking about technology I'm like what is technology in like I ended up putting some of my stuff in into infrastructure, right it's so in that case, it's almost like too big and umbrella right I kind of want to, but maybe that's the, maybe
+
+00:20:31.000 --> 00:20:40.000
+that's the joy of it right maybe that's that's pretty Oh, no I think you're right i think the idea the idea but you're thinking, here's the one thing for me.
+
+00:20:40.000 --> 00:20:46.000
+You're like pushing back you know we just can't have your people need to open up to the fact that there's not one to one.
+
+00:20:46.000 --> 00:20:54.000
+I mean, you must be talking to different people and I'm talking to him because I'm living in a world with nothing is wanting to one pretty much as far as I can determine.
+
+00:20:54.000 --> 00:20:59.000
+Now I know I'm an outlier from the general.
+
+00:20:59.000 --> 00:21:14.000
+A lot of general thinking, because, you know, I just, I don't, I can't. But it seems like the more natural thing is not to expect it is not to expect lineup, when you were talking about translation, this is always confused me.
+
+00:21:14.000 --> 00:21:23.000
+I mean I learned French in high school. So this is a phrase in French, like when you get something done you want to bring it out you know and you go, voila.
+
+00:21:23.000 --> 00:21:25.000
+There it is.
+
+00:21:25.000 --> 00:21:30.000
+Is somebody who the date of Spanish speakers so what's the term for that in Spanish to like,
+
+00:21:30.000 --> 00:21:33.000
+We don't have a one word term for that.
+
+00:21:33.000 --> 00:21:36.000
+We don't have a one word for that in English.
+
+00:21:36.000 --> 00:21:46.000
+It's like, so there are things like you know and it's, it's so interesting to me.
+
+00:21:46.000 --> 00:22:04.000
+And I think we might expect this in this kind of, you know, even what we build in tapestry or in Trove is going to be idioms that are available in one area community, kind of activity that may not be directly available in another.
+
+00:22:04.000 --> 00:22:09.000
+at least not as concisely,
+
+00:22:09.000 --> 00:22:13.000
+which would be like, cool.
+
+00:22:13.000 --> 00:22:29.000
+And the latest thing I've learned was Pete brought this up the other day about talking about things as pushing back against your materialist look at everything as a resource, this is kind of our materialist Neo liberal capitalist while since I've been
+
+00:22:29.000 --> 00:22:35.000
+reading some other perspectives, I was just thinking about, you know, the tree outside my window here.
+
+00:22:35.000 --> 00:22:55.000
+It's actually a companion, maybe I should think about it as my companion, living in this house rather than, you know, just this tree, which is a you know a different way of looking at things and as resources.
+
+00:22:55.000 --> 00:23:07.000
+Anyway, I think it's tremendous and I've had a lot of Vincent I feel like I have to go figure out what what it would feel like to actually stick, Bill Anderson, more into Trove.
+
+00:23:07.000 --> 00:23:13.000
+It seems daunting to me.
+
+00:23:13.000 --> 00:23:14.000
+Well see.
+
+00:23:14.000 --> 00:23:29.000
+That's the balance between yeah it being easier it's challenging, but I don't. I was trying to like sketch out what I think we're getting at here.
+
+00:23:29.000 --> 00:23:31.000
+And kind of how I see it is like.
+
+00:23:31.000 --> 00:23:37.000
+You can have a a tag.
+
+00:23:37.000 --> 00:23:41.000
+Let's just say this is a tag.
+
+00:23:41.000 --> 00:24:01.000
+So let's say circle is an object, and this square is like a tag, right so you can have a circle is tagged like a book is tagged with sustainability. And so, the first level, this top part is like inferred relationship.
+
+00:24:01.000 --> 00:24:21.000
+So right, you're not actually letting people decide what this relationship is you're saying if you're tagging this with sustainability, it means it's about, or it's related to.
+
+00:24:21.000 --> 00:24:44.000
+you're saying okay this book. And then you get to actually define and say this book, right, I'm critiques sustainability, so now there's a relationship type, which is not fixed, whereas here, this is simplifying it because all you have to do is tag this
+
+00:24:44.000 --> 00:24:47.000
+whereas this you have to put in the relationship type.
+
+00:24:47.000 --> 00:24:57.000
+And then the other way to do it, which is the most unstructured is actually, Everything is just an object.
+
+00:24:57.000 --> 00:25:04.000
+And then you define that this is a book.
+
+00:25:04.000 --> 00:25:09.000
+And this one is a tag.
+
+00:25:09.000 --> 00:25:20.000
+And then you get to choose what the connection type is too.
+
+00:25:20.000 --> 00:25:31.000
+So in the tapestry you're saying like you're creating a response. And then these relationship types there's only there's three sets you can say this is a need.
+
+00:25:31.000 --> 00:25:49.000
+This is an offer or this is suggestion. Right, so you can kind of, there's three options for the relationship type whereas like, um, intro, when you're tagging a book with, like, the high level network like one of these, the relationship is fixed.
+
+00:25:49.000 --> 00:25:54.000
+And so it's kind of like you're constraining a variable, you're saying like we're not going to.
+
+00:25:54.000 --> 00:26:08.000
+Everything is, how is related to, or about right so you're constraining that variable. And so, what I think this is trying to do is actually not interoperability.
+
+00:26:08.000 --> 00:26:13.000
+It's to make it easier to translate.
+
+00:26:13.000 --> 00:26:23.000
+And it's only when the context is fixed. So if there's a project database, and these projects are related to this topic.
+
+00:26:23.000 --> 00:26:34.000
+Then you can translate that topic database into this system, if it's using the SD G's but the relationship type is the same.
+
+00:26:34.000 --> 00:26:46.000
+Yeah, this is exactly where I've been thinking Vincent and I actually realized that taking doing it by needs and offers and suggestions was actually not helping.
+
+00:26:46.000 --> 00:27:07.000
+So what ended up what I've been thinking about is, is as we put in a piece, an interest, an area of expertise, a resource. What I started thinking about is the relationship of the person to the thing that they were putting in and taking out
+
+00:27:07.000 --> 00:27:23.000
+needs and taking out there basically all offers it all becomes offers right I'm trying to take out those extra layers and just be like, here's what I am bringing forward, this is what I have to offer to this community and however anybody wants to phrase
+
+00:27:23.000 --> 00:27:34.000
+it that way it could be I have a job offer a job, you know what I mean like, right, but putting it as as framing it as these things I offer so I'm going to show it let me share my screen.
+
+00:27:34.000 --> 00:27:42.000
+And I am on the wrong tabs. One sec.
+
+00:27:42.000 --> 00:27:56.000
+Because I'm, I think. This gets out the questions too.
+
+00:27:56.000 --> 00:28:01.000
+So I literally was just like writing it out I crossed out. We were like relationships.
+
+00:28:01.000 --> 00:28:18.000
+Right. And here's, so I had gone, here's interest, right, we've got that interest expertise artifacts, which is a word that Vince and I came up with, or actually, he uses in Trove, but I kind of like resources better I keep, I keep stumbling over artifacts.
+
+00:28:18.000 --> 00:28:22.000
+And then I realized there's others. There's a story we keep talking about stories.
+
+00:28:22.000 --> 00:28:30.000
+And then I felt too there's questions that should be in each in each cell or each segment as well.
+
+00:28:30.000 --> 00:28:42.000
+And then we also talked about like sources of funding or things like that so, um, or other sources of like other types of capital, we had talked about too so I'm still playing around with all this but as I started talking about okay well what would be
+
+00:28:42.000 --> 00:28:56.000
+the relationship with interest right and I realized what I'm really talking about is what is my relationship with my interest in this particular topic, right so I started writing it out as a question I wrote it out as a sentence because I know Vincent's
+
+00:28:56.000 --> 00:29:14.000
+also going in that direction like every answer within a cell could be written out as a sentence, so I'm trying to think of it that way and the way I'm freezing the drop down for people to select, so let's say you have an interest in gardening.
+
+00:29:14.000 --> 00:29:28.000
+And you're willing to throw that out, and then being able to say, my interest in gardening is like a mild curiosity, right or it's an occasional hobby, just spelled wrong, or it's a true excitement for me or so lifelong pursuit for me so I'm trying to
+
+00:29:28.000 --> 00:29:43.000
+come up with about four for each, and figure out that relationship and I'm finding that this it has a lot of richness to it and helps people if they wanted to me this would be like a tiered a tiered discernment right they could just put in the interest
+
+00:29:43.000 --> 00:29:53.000
+you don't have to necessarily put a relationship, although from a data perspective we would really like that, because it's going to enable a lot of other things, but I'm.
+
+00:29:53.000 --> 00:30:06.000
+To me this not everyone's going to want to go to that level, but if we can encourage them to then this would be like the next thing to kind of highlight for people like what kind of interest, do you have what level of expertise, do you have, what type
+
+00:30:06.000 --> 00:30:32.000
+of artifact is it right. What's your relationship to. So, this is where I'm playing, if anybody has feedback i'd love it.
+
+00:30:32.000 --> 00:30:40.000
+if you see in chat my class. This is a shared doc.
+
+00:30:40.000 --> 00:30:43.000
+When you're muted
+
+00:30:43.000 --> 00:30:47.000
+hadn't seen that. Thank you. I will share it.
+
+00:30:47.000 --> 00:30:50.000
+You don't mind Vincent right.
+
+00:30:50.000 --> 00:30:56.000
+No more the merrier.
+
+00:30:56.000 --> 00:31:08.000
+Oh, not even so much that I wanted to start typing but it's just, you can see it. Yeah, yeah. Yeah, no problem comes all seeing what I'm doing anyway.
+
+00:31:08.000 --> 00:31:15.000
+There comes all seeing what I'm doing anyway. The doctors basically.
+
+00:31:15.000 --> 00:31:25.000
+Yeah, we're playing on the back to like data structure for a response within the tapestry.
+
+00:31:25.000 --> 00:31:33.000
+Yeah, so what I was showing you were talking about the layers.
+
+00:31:33.000 --> 00:31:37.000
+Yeah, I'll put it over.
+
+00:31:37.000 --> 00:31:41.000
+So it's a little because it's gotten big anyway.
+
+00:31:41.000 --> 00:31:46.000
+Just going to move it over so that people can find out a lot more easily.
+
+00:31:46.000 --> 00:31:55.000
+Go.
+
+00:31:55.000 --> 00:32:06.000
+Um, you know when one thing that that came up for me, and I'm sorry I feel a little bad piping up just because something might.
+
+00:32:06.000 --> 00:32:11.000
+But when you were talking about artifacts and resources.
+
+00:32:11.000 --> 00:32:24.000
+The distinction. I don't know if we want to draw it to me is like, you know there's there's a
+
+00:32:24.000 --> 00:32:38.000
+remnant quality to artifacts that, you know, the, the archival vibe of that which i mean i think is a really great thing and it's definitely
+
+00:32:38.000 --> 00:32:46.000
+more, maybe a bit more of an emphasis in my work than.
+
+00:32:46.000 --> 00:32:51.000
+Then, In other you know players in this.
+
+00:32:51.000 --> 00:33:06.000
+This space, whereas resources to me is really alive, and, and, you know, like, where do we go, I mean not not that things can't be both artifacts and resources.
+
+00:33:06.000 --> 00:33:17.000
+I just wanted to throw that up just to see if it you know stimulator the idea of defining them as different things for using them.
+
+00:33:17.000 --> 00:33:20.000
+One as a tag on the other.
+
+00:33:20.000 --> 00:33:32.000
+You know, I'm not, I'm not sure where that leads but, but I do get from resources, and on tro, like, you know, we're engaged in activity.
+
+00:33:32.000 --> 00:33:48.000
+These people organizations, you know, funding sources that this is, this is a link to something that's alive and changing as opposed to the artifact being something that's
+
+00:33:48.000 --> 00:33:56.000
+not not necessarily frozen in the past but, you know, a reference point
+
+00:33:56.000 --> 00:34:06.000
+a kernel of information that you want to be able to go back to organize and make sure people can find
+
+00:34:06.000 --> 00:34:26.000
+on that out there. Hopefully not not making more of a mess. Now, that's, yeah thank you because what I hear you saying is that an artifact feels more like something that will stand the test of time and resource has more of a feeling of something alive
+
+00:34:26.000 --> 00:34:31.000
+and active and current.
+
+00:34:31.000 --> 00:34:44.000
+Yeah, and I mean you know that alive, active and current thing you could refer to as an artifact, you know like, the you know the minutes of the meeting.
+
+00:34:44.000 --> 00:35:03.000
+So, you know that that artifact is more stands the test of time that's not going to be probably changing a whole lot. Now, whereas a resource could be so much more and so much more.
+
+00:35:03.000 --> 00:35:10.000
+You know, vibrant, and, and, as you say, changing. Yeah.
+
+00:35:10.000 --> 00:35:25.000
+Yeah, I mean to me too when I think about going into a library, there's a resource room. Do you know what I mean like, to me it's a word that that is more common in our language but then again, right, it's, it's, it's more common in our language to refer
+
+00:35:25.000 --> 00:35:36.000
+to, to refer to a collection of things that could be of use to you, versus a versus a museum artifact.
+
+00:35:36.000 --> 00:35:54.000
+So, right, though I mean that's why Thanksgiving I mean the library thing is, to me, a library is is a collection of artifacts, you know the books, the words on the pages of the books aren't going to change.
+
+00:35:54.000 --> 00:36:15.000
+But the library itself is a resource and the interactions you have with, you know, in an existing brick and mortar library the resources that you have in different, you know, collections of artifacts are people who know those artifacts in a specific way
+
+00:36:15.000 --> 00:36:27.000
+whose expertise you want to tap or, you know, kind of multimedia assets that change.
+
+00:36:27.000 --> 00:36:30.000
+You know, those are.
+
+00:36:30.000 --> 00:36:31.000
+Yeah.
+
+00:36:31.000 --> 00:36:44.000
+Yeah, I mean, those making you're making the argument to me to lean towards the term resource especially for something like the tapestry where it's we're trying to offer up things that are going to be
+
+00:36:44.000 --> 00:37:04.000
+actively used, you know by the by the community. Yeah, I mean I would think, in, in what you're doing resources seems like a more writing room I mean it seems to me like resources on Trove seem right.
+
+00:37:04.000 --> 00:37:20.000
+And only seem a little odd to me when they're something static and archival and, you know, not that those things aren't resources but they're,
+
+00:37:20.000 --> 00:37:27.000
+you know when they're just like an object
+
+00:37:27.000 --> 00:37:33.000
+unchanging object, it seems a little like a mismatch of terms.
+
+00:37:33.000 --> 00:37:42.000
+And like I guess what I'm saying is you know maybe artifacts are a subset of resources that conjure up a different notion of what you'll get.
+
+00:37:42.000 --> 00:37:55.000
+Then resource as a whole, which seems more like, here's where I'm going to find, you know, fungible help.
+
+00:37:55.000 --> 00:38:13.000
+Yeah, that last part that you said that's how I was thinking about it was like capital is a resource. Right.
+
+00:38:13.000 --> 00:38:22.000
+something that hadn't been completed that in like the later stages of like it's out in the world it's like something that you can use. Um, yeah.
+
+00:38:22.000 --> 00:38:38.000
+And so I think the reason why I had suggested artifact was because it's a more specific term than resource and resource could technically be applied towards a lot of these other categories like I think.
+
+00:38:38.000 --> 00:38:53.000
+I think it'd be helpful to say like what are the examples of what would be within this category to actually define it right so the context, like what, like, Yeah, I was thinking, like, in this category would be like project, Wendy would this be like projects
+
+00:38:53.000 --> 00:39:01.000
+and groups or would it be like projects, and like, tools and stuff that people can use.
+
+00:39:01.000 --> 00:39:07.000
+That's a great question. What would people like to see in the tapestry.
+
+00:39:07.000 --> 00:39:14.000
+If you were, you can think of it two ways right so forget my list for a second. I'm going to stop sharing,
+
+00:39:14.000 --> 00:39:26.000
+forget my list for a second and just go, I think, I think we all kind of kind of agree I'd want to share my expertise, I want to share my interest I think that makes sense to a lot of people but what else, what else would you like to tell about yourself
+
+00:39:26.000 --> 00:39:27.000
+to a group.
+
+00:39:27.000 --> 00:39:35.000
+What else would you like to share that might be a value to other people.
+
+00:39:35.000 --> 00:39:44.000
+And then we can figure out later how to put it into categories but like what is it, what's the kinds of things that you would want to share with other people.
+
+00:39:44.000 --> 00:39:52.000
+And I'll just take, I'm gonna take notes on the side if people want to just throw stuff out.
+
+00:39:52.000 --> 00:39:57.000
+If I could, I don't mean to. Oh, sorry.
+
+00:39:57.000 --> 00:40:05.000
+Yeah, run the direction of the conversation, but I'm watching 11 kind of going.
+
+00:40:05.000 --> 00:40:06.000
+Hmm.
+
+00:40:06.000 --> 00:40:09.000
+I have a different problem.
+
+00:40:09.000 --> 00:40:14.000
+personalize it, I've talked to each one of you.
+
+00:40:14.000 --> 00:40:23.000
+Once on the phone, maybe one or two of you twice I don't think so, though. And I'm kind of going. Uh huh.
+
+00:40:23.000 --> 00:40:25.000
+At wants to help.
+
+00:40:25.000 --> 00:40:27.000
+Wendy with sigma.
+
+00:40:27.000 --> 00:40:33.000
+Stacey has made an offer to you know talk and and kind of explore ideas.
+
+00:40:33.000 --> 00:40:47.000
+Pete and I could talk for three more years and, but not, you know, and the conversation, and still be enthralled till same way Vincent probably and Michael the same way.
+
+00:40:47.000 --> 00:41:03.000
+And I'm trying to figure out. All right, where do I spend my time, because this is not in terms of finding people it's like okay I found people.
+
+00:41:03.000 --> 00:41:23.000
+What do I do next. I, you know, I think the work that Ben said, and Wendy you're doing and it, it thrills me I'm really interested in it and I can see you know the value of, of, you know, the introductions.
+
+00:41:23.000 --> 00:41:36.000
+But what do we do after the introductions, that's sort of where I'm at, you know, I found interesting people. How do I collaborate with them, how do I go to the next step.
+
+00:41:36.000 --> 00:41:56.000
+And, and, you know, I sorry I'm gonna have to leave in about seven minutes, maybe even about seven minutes but I just wanted to, as a sort of infrequent member of this group, bring this up because it's kind of been a silent.
+
+00:41:56.000 --> 00:41:57.000
+Question.
+
+00:41:57.000 --> 00:42:12.000
+Um, and, you know, I'm looking for help to articulate that and to kind of say, Aha, you know, each one of you is an incredible valuable person, I'd love to spend more time with.
+
+00:42:12.000 --> 00:42:14.000
+How do I do that.
+
+00:42:14.000 --> 00:42:25.000
+And, you know, certainly. Listening is contributing, in a way, and I'm happy to listen here. I don't want to derail, you know, the focus that you have.
+
+00:42:25.000 --> 00:42:46.000
+But, but thank you for listening to that. And I don't, I don't need an answer in the, in the present time but I want you to know personally boy I'm really looking forward to our next one on one, and and you know it's it's it's not you, it's me who can't
+
+00:42:46.000 --> 00:43:14.000
+figure out how to say, How do I have this plan or, you know, go deeper on some interests, and it's not actually looking at trolls troll, or tapestry that I think I'm gonna find more about Vincent, or Wendy, or or bill.
+
+00:43:14.000 --> 00:43:17.000
+And
+
+00:43:17.000 --> 00:43:19.000
+her.
+
+00:43:19.000 --> 00:43:32.000
+I love having questions that I don't have answers for I'm so sorry. I don't have a design framework for okay what's going to connect.
+
+00:43:32.000 --> 00:43:41.000
+Um, Michael and I together in a way that we're actually going to spend time together. That's productive for us both.
+
+00:43:41.000 --> 00:43:59.000
+Um, and I think you know the introductions are great and you know there's a world out there besides us. I'd love for them to get together and and do these things, but I asked myself, you know, do I need a artifact in some way, it says Hey Mark you haven't
+
+00:43:59.000 --> 00:44:02.000
+got Stacy and three weeks, got Stacey.
+
+00:44:02.000 --> 00:44:05.000
+Um,
+
+00:44:05.000 --> 00:44:07.000
+anyway.
+
+00:44:07.000 --> 00:44:11.000
+I'll be here for.
+
+00:44:11.000 --> 00:44:20.000
+If you'll forgive I forgive my interruption into I love your interruption thank you because you also had your hand up so I'm glad you just jumped in.
+
+00:44:20.000 --> 00:44:36.000
+As I started running away with with my own train of thought. No, I think I wrote down your questions I think that's exactly the kind of thing that's extremely helpful to think about, because what I do care about most is how, In the end, this being a tool
+
+00:44:36.000 --> 00:44:51.000
+for connection and collaboration it's, you know, if it's not, if it's not facilitating that next step for people, then, then, I'm not on the right track, and I want to scrap it and I want to change it and I want to do something else with it because that
+
+00:44:51.000 --> 00:44:59.000
+to me It can't just be a static another piece of information that people have to figure out and absorbing like no one needs any more of that we have enough of that.
+
+00:44:59.000 --> 00:45:17.000
+Right. And so that's what I hear, inherent in your questions is how does it help us make more connections or facilitate a collaboration or move the conversation forward or right How does it do that and if it's not doing that, let's look at that again.
+
+00:45:17.000 --> 00:45:27.000
+In my mind I'm seeing mark to use your example and see if this resonates with other people. Right now we come to these meetings and we learn a little bit about each other.
+
+00:45:27.000 --> 00:45:36.000
+What if you found out that surprise surprise you and Bill shared interest in 10 different spaces, and you've only ever been talking about one of them.
+
+00:45:36.000 --> 00:45:50.000
+That would make a priority might prioritize for you. Oh, the next person I really need to talk to is Bill, there's so much there that we share that could be a potential, right, it could be that there's some question that's really burgeoning for you in
+
+00:45:50.000 --> 00:46:03.000
+a particular area you all of a sudden became super curious about NF T's and how they work and you know you have your own little nugget of information about it but you really want to understand more well it turns out that in your communities there's 25
+
+00:46:03.000 --> 00:46:20.000
+people you didn't even know who are all interested in working in that space. Anyway, I'm just throwing out potential ideas for how it could help facilitate quicker connection, then the actual connection needs to come from the people right isn't it can't,
+
+00:46:20.000 --> 00:46:31.000
+right, you're still going to do what you would have done before is reach out to people, but now you may reach out and go hey, are the 10 people and say hey is anybody interested in having this conversation and it can be, you know, conversation of 10 people
+
+00:46:31.000 --> 00:46:47.000
+instead of the time it takes to meet each one of those people individually discover that each one of them is interested in that thing, then get a rap background and go hey maybe we could have a meeting might take months instead of weeks.
+
+00:46:47.000 --> 00:46:57.000
+I, I understand that I think that, you know, this is a incredible stuff for initial connections.
+
+00:46:57.000 --> 00:47:08.000
+I'm.
+
+00:47:08.000 --> 00:47:16.000
+read about Bateson and epistemology and cybernetics, and that there are.
+
+00:47:16.000 --> 00:47:39.000
+Besides, any other interest in birding anything around them, you know citro in the 50s cars, what have you, that the cybernetics history, and how do you apply cybernetics in the,
+
+00:47:39.000 --> 00:48:00.000
+in a unobtrusive way of designing systems for people that work. I think we can go there. They'll tell me if I'm right or wrong, and spend a heck of a lot of time there without, you know, having to know about the 50s cars or the, you know, eco sustainability
+
+00:48:00.000 --> 00:48:07.000
+side of that. And I'm just trying to figure out. Hmm, I have personally.
+
+00:48:07.000 --> 00:48:11.000
+One more minute.
+
+00:48:11.000 --> 00:48:11.000
+And how do I express this this need.
+
+00:48:11.000 --> 00:48:22.000
+How do I express this this need. Um, so that somehow gets heard, but you know I don't find it.
+
+00:48:22.000 --> 00:48:37.000
+And, you know, Trove or tapestry. Um, it's how do I go to the next level. And you know fig my boy I have that. Wendy on, you know, I'll write it, you know, and on the whiteboard.
+
+00:48:37.000 --> 00:48:52.000
+And it's like, yeah, I really want to pick up segment and I know Wendy wants to work with big mouth, and I haven't done anything before I don't know how many months that we've, we've talked about it and
+
+00:48:52.000 --> 00:49:02.000
+one is French practice. And the chat. I'm sorry to have to go I would love to stay longer. Thank you for listening.
+
+00:49:02.000 --> 00:49:16.000
+Please go back to your regular scheduled stuff, but just thanks for listening because I'm, I'm trying to figure this out. And, and I hope you know all of you that if I had.
+
+00:49:16.000 --> 00:49:18.000
+If I didn't have a job.
+
+00:49:18.000 --> 00:49:26.000
+I would be talking to. If you let me an hour each today.
+
+00:49:26.000 --> 00:49:29.000
+Bye bye.
+
+00:49:29.000 --> 00:49:37.000
+Park.
+
+00:49:37.000 --> 00:49:39.000
+I totally agree.
+
+00:49:39.000 --> 00:49:44.000
+Great point. You know, it's something definitely that.
+
+00:49:44.000 --> 00:49:53.000
+That is what I'm trying to do you know for sure. That's the motivator for me.
+
+00:49:53.000 --> 00:50:09.000
+Does it feel what do you guys like it's different steps, or, like, how I thought about it is like okay we need a directory of projects so that people could just find it, like, Oh, this is a project but then like, then you find a directory of products
+
+00:50:09.000 --> 00:50:22.000
+and there's no contact email, you're like, well, Craig, now I don't do anything so it's like okay yeah you need to have the directory and then you also need to have the way to contact someone, but then, then the next what Mark is saying is like one step
+
+00:50:22.000 --> 00:50:48.000
+further, in my opinion of like, okay, you actually have someone's contact you know the project but now it's like, what out of the realm of everything.
+
+00:50:48.000 --> 00:50:55.000
+Yes.
+
+00:50:55.000 --> 00:51:03.000
+Well, the thing that came up for me when you're saying is like okay I find a project, you know, but I can't find the Ghostbusters phone number so we're done here.
+
+00:51:03.000 --> 00:51:15.000
+But then it says at the bottom who you got to call, got a number. Terrific. Now, I'm interested. There's the project. Here's what I have to call now it's like you're going to do that bill.
+
+00:51:15.000 --> 00:51:19.000
+Are you just going to pick up a book, I mean, or look at this.
+
+00:51:19.000 --> 00:51:24.000
+I have a tendency, my wife may say you know I had the squirrel syndrome.
+
+00:51:24.000 --> 00:51:44.000
+Oh, that's interesting over there. So, so there isn't. You know there's a kind of like, you know, leading horses to water and then like from the Zen things, you know, the Zen teacher thing you know selling water by the riverside, but ever.
+
+00:51:44.000 --> 00:51:55.000
+I think then what I don't know I think I've said this before but I've been reading a lot of history, this is a this is a challenge for the 21st century.
+
+00:51:55.000 --> 00:52:10.000
+For Humanity is how to make these kinds of connections in a way that things happened in like the 1820s and 30s for the world. I mean literally the 1920s was just like a wrap up.
+
+00:52:10.000 --> 00:52:21.000
+Or, like we're just going to take you know capitalism, to the, to the extreme but now we're in another situation where it's like, well, that's not working as expected.
+
+00:52:21.000 --> 00:52:31.000
+So I think we're in kind of growing pains, this is exactly what
+
+00:52:31.000 --> 00:52:33.000
+you know.
+
+00:52:33.000 --> 00:52:41.000
+I think you're all doing fantastic. I just don't have as much energies I had when I was 35.
+
+00:52:41.000 --> 00:52:51.000
+I mean, literally, so
+
+00:52:51.000 --> 00:52:54.000
+the clock looks
+
+00:52:54.000 --> 00:52:56.000
+great.
+
+00:52:56.000 --> 00:52:58.000
+Thank you.
+
+00:52:58.000 --> 00:53:02.000
+Before, before we sign off tonight. That one thing.
+
+00:53:02.000 --> 00:53:06.000
+This.
+
+00:53:06.000 --> 00:53:18.000
+And I put one thing, chat but, and what Mark saying and what what we've been talking about a lot.
+
+00:53:18.000 --> 00:53:25.000
+I do feel like there is a place for.
+
+00:53:25.000 --> 00:53:33.000
+And this is what interests me and like I want to have and want to do.
+
+00:53:33.000 --> 00:53:42.000
+And, you know, find a way to interlock with with,
+
+00:53:42.000 --> 00:54:06.000
+you know, the Internet Archive on the one end and the, you know, I would put trophy Trove edits, and its desire to foment action at kind of the other end of life, you know, Trove is a resource of resources.
+
+00:54:06.000 --> 00:54:20.000
+The Internet Archive is is a resource of artifacts, you know, I mean you don't go to the Internet Archive to like, see what's happening, you go to see what happened.
+
+00:54:20.000 --> 00:54:27.000
+And, you know, and in the,
+
+00:54:27.000 --> 00:54:39.000
+in the space between, and, and the desire to take the stuff in the archive and a add to it and be curated.
+
+00:54:39.000 --> 00:54:47.000
+There is really really fertile ground for connection that then leads to action.
+
+00:54:47.000 --> 00:55:03.000
+Even though you're, you're dealing with inactive stuff. I mean, that seems like the space in which you discover. Oh, you know, I'm into this kind of activity and that kind of activity and this kind of activity and when I look at this object.
+
+00:55:03.000 --> 00:55:05.000
+I see the.
+
+00:55:05.000 --> 00:55:11.000
+The tagging and the and who did the tagging and you know you get.
+
+00:55:11.000 --> 00:55:29.000
+You can kind of work at this, this amorphous space from both ends, you know, Trove and, and, and tapestry and massive with the you know and and things you know spin off
+
+00:55:29.000 --> 00:55:53.000
+and cat about, you know, kind of spin off these, like, static artifacts, which can be grouped in all different ways. And, like, that's the stuff that you know I almost feel like it, you know I was gonna say, I want to put blinders on, but it's decidedly
+
+00:55:53.000 --> 00:56:00.000
+not blind it's decidedly open to things that go on external to it.
+
+00:56:00.000 --> 00:56:16.000
+But, you know, I don't, you know, want to want to find a way to work in that area, and not the either duplicating, what the Internet Archive is doing.
+
+00:56:16.000 --> 00:56:18.000
+God help us.
+
+00:56:18.000 --> 00:56:27.000
+And, and not be trying to do what you know you guys are doing.
+
+00:56:27.000 --> 00:56:38.000
+It's just like object curation as soil for the growth that's happening elsewhere.
+
+00:56:38.000 --> 00:56:45.000
+I don't know if that's too big, but you know that that
+
+00:56:45.000 --> 00:56:48.000
+that's that's what I want to contribute.
+
+00:56:48.000 --> 00:56:54.000
+So, yeah,
+
+00:56:54.000 --> 00:56:56.000
+it should be too.
+
+00:56:56.000 --> 00:57:03.000
+It's Michael.
+
+00:57:03.000 --> 00:57:04.000
+Yep.
+
+00:57:04.000 --> 00:57:06.000
+Cool.
+
+00:57:06.000 --> 00:57:25.000
+Yeah, Michael would love to continue the thread. Mm hmm.
+

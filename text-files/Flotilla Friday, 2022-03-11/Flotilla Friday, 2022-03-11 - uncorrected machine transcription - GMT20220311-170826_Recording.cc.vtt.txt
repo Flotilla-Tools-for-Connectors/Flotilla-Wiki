@@ -1,0 +1,2099 @@
+WEBVTT
+
+00:00:15.000 --> 00:00:19.000
+so till the Friday march. the eleventh 2,022.
+
+00:00:19.000 --> 00:00:37.000
+It doesn't feel like March, so in terms of villa updates as anyone else.
+
+00:00:37.000 --> 00:00:41.000
+I I have some things I could put on the agenda.
+
+00:00:41.000 --> 00:01:02.000
+But yeah, Wonder if Eric there's anything on your mind. Well, I know that we discussed a few things in the chat about zigzag and I am not sure i'm still trying to wrap my brains around
+
+00:01:02.000 --> 00:01:09.000
+it, and if you could see an application for it in Trove, or wherever we could talk about it.
+
+00:01:09.000 --> 00:01:24.000
+Yeah, I mean, I thought I would try something like taking the spreadsheet and organizing it in dimensions, but it's hard to think in those dimensions, and it takes time to come up with a good way of organizing
+
+00:01:24.000 --> 00:01:35.000
+it. so i'm doing. i'm back to just looking at my own use cases and testing like with the game of life. something simple.
+
+00:01:35.000 --> 00:01:45.000
+I can just experiment with So, But i'm also exploring an app called cosmic, and I could show a little dem of it later.
+
+00:01:45.000 --> 00:01:55.000
+If people were interested. I just got access to it it's being developed in France by Paul Rooney and his team.
+
+00:01:55.000 --> 00:02:07.000
+So Yes, that's where I am right now, so were were you able to.
+
+00:02:07.000 --> 00:02:13.000
+It's a completely different database structure right so it's not something that we could like put into a Google sheet and look at it there.
+
+00:02:13.000 --> 00:02:28.000
+It's just like not compatible yeah I mean it is What i'm looking at is just the data structure that can represent the data in a zigzag structure.
+
+00:02:28.000 --> 00:02:38.000
+So there's a prototype viewer the gz application for playing around with it.
+
+00:02:38.000 --> 00:02:44.000
+But yes, it wouldn't be like a Google spreadsheet or any.
+
+00:02:44.000 --> 00:02:51.000
+I mean it could be a database but it's would have to be mapped into a database.
+
+00:02:51.000 --> 00:02:57.000
+So you go with what you're working on now and see where it takes you.
+
+00:02:57.000 --> 00:03:09.000
+If you see a use case where you want to have dimensions and navigating across dimensions, copying from one cell to related dimensions, then we could think about that.
+
+00:03:09.000 --> 00:03:28.000
+Okay, see, I mean one of the one of the things that I think would be cool to do is make a list of the projects that are happening in flotilla and
+
+00:03:28.000 --> 00:03:34.000
+Then, once we have that list, maybe, Eric, if you want to try putting it in some sort of zvc structure.
+
+00:03:34.000 --> 00:03:38.000
+But I was thinking we could we we could continue on.
+
+00:03:38.000 --> 00:03:43.000
+I think we started talking about last week ways to structure projects and Pete.
+
+00:03:43.000 --> 00:03:52.000
+I know that's something that you're really interested in in in terms of like the ways that we actually represent different projects.
+
+00:03:52.000 --> 00:04:01.000
+I was hoping to test out the caterpillar tool which lets you take a database of things in air table.
+
+00:04:01.000 --> 00:04:10.000
+And then basically sync federated onto trove. Yeah.
+
+00:04:10.000 --> 00:04:18.000
+Curious if that sounds like a cool many tasks for us to work on today. But maybe we can go around and do kind of quick, quick check-ins, too.
+
+00:04:18.000 --> 00:04:24.000
+I think Eric would answer your question better than I can build.
+
+00:04:24.000 --> 00:04:41.000
+It really is up to you to define how you want to organize your stuff so like we could have a project to mention a person dimension, and these cells will intersect across different dimensions.
+
+00:04:41.000 --> 00:04:57.000
+I still am thinking through the right way to use it what's rather than the kind of the content that you would put in a dimension.
+
+00:04:57.000 --> 00:05:02.000
+How is the dimension? what's a dimension in zigzag space?
+
+00:05:02.000 --> 00:05:26.000
+Ok. Well, the examples so mathematically it's like a row of connected cells, or like an array, but each cell could only have a left or a and or a right neighbor in any one dimension, so like person, Eric kind, of a left
+
+00:05:26.000 --> 00:05:33.000
+neighbor and a right neighbor, the people to mention. But I could have 2 different neighbors in a project dimension.
+
+00:05:33.000 --> 00:05:45.000
+But what I find is sometimes you have to make clones of cells on a clone dimension in order to get some of the many to many relationships specified in there.
+
+00:05:45.000 --> 00:05:52.000
+So Yeah, a way I think of it and i'm sure i'm butchering the concept.
+
+00:05:52.000 --> 00:06:07.000
+But dimension! I kind of think of things similar to zigzag with tags kind of like hashtags, or something like that.
+
+00:06:07.000 --> 00:06:21.000
+So then a dimension would be a collection of tags in one or you. You could have I was going to say hierarchy, but that's not the right way to think of it.
+
+00:06:21.000 --> 00:06:31.000
+You could have people tags which are separate from place tags, and then you could have a place tag and a people tags that have the same name, but they wouldn't collide because they're in different
+
+00:06:31.000 --> 00:06:41.000
+dimensions. tags can be one way of implementing that meta structure on top of data.
+
+00:06:41.000 --> 00:06:46.000
+I think Ted slip more like spatial organization.
+
+00:06:46.000 --> 00:06:52.000
+Yeah. And yeah, he actually thinks of it as dimensions.
+
+00:06:52.000 --> 00:07:10.000
+So like is something about like a corner cell that's intersecting 2 dimensions, and then he has operations like chugging through like a circular list of items, until you find the one you want so he's also,
+
+00:07:10.000 --> 00:07:16.000
+thinking in terms of programming spatially and returning his also got a sequence.
+
+00:07:16.000 --> 00:07:20.000
+You said the left and right thing Tangs are just a bag, right?
+
+00:07:20.000 --> 00:07:25.000
+Yeah, there is a that there is a neg word and pause word.
+
+00:07:25.000 --> 00:07:34.000
+Direction. So it's a directed graph in a way the the the navigation system.
+
+00:07:34.000 --> 00:07:43.000
+I always wanted for a music player, was i'm listening to
+
+00:07:43.000 --> 00:07:58.000
+Listening to a blondie album, and so maybe the next song I want is another song on the same album, or maybe the next song is another song by Blondie, or the next song is she's doing rapture
+
+00:07:58.000 --> 00:08:04.000
+she's seeing rapture. So I want a song that's also Pop wrap right?
+
+00:08:04.000 --> 00:08:11.000
+Yeah, if you have those connections in your graph, you can get to those other songs or other things.
+
+00:08:11.000 --> 00:08:34.000
+Blondie the brownie right to help bill so sort of after that I mean it helps. but it doesn't help.
+
+00:08:34.000 --> 00:08:45.000
+I mean right? I mean Yeah, because really we're in this Lake Multi.
+
+00:08:45.000 --> 00:08:56.000
+That is complex soup of, or prints of things so the idea about it which you say you're going to organize.
+
+00:08:56.000 --> 00:09:06.000
+Your information is like okay? So now, you've already. security have something now in mind, we'll organize it you know like there is.
+
+00:09:06.000 --> 00:09:16.000
+You can't have any data if you don't have a model. Yeah, my other example, if there weren't humans there wouldn't be temperature a temperature scale.
+
+00:09:16.000 --> 00:09:26.000
+You know it just wouldn't be the only reason that we have temperatures, because, you know, we may or not built thermometers.
+
+00:09:26.000 --> 00:09:49.000
+So there's something really interesting, but I don't know this it's It's kind of a mathematically kind of kind of a mouth primitive, more than so the the the way to figure it out more is to play with
+
+00:09:49.000 --> 00:10:01.000
+one of the the navigators and and I don't know that anybody's done an amazing job of like, Oh, my God, we have to use exact here because it solves X y Z problem.
+
+00:10:01.000 --> 00:10:04.000
+We haven't quite got there yet. eric's trying pretty hard.
+
+00:10:04.000 --> 00:10:18.000
+Yeah, I guess that's either yeah i'd like them Well, I don't know you all were gonna be able to be more efficient, but i'd like to see you know our problem for which problem we have for which this is a
+
+00:10:18.000 --> 00:10:27.000
+solution. it's a decades old question. yeah well then because then you would actually have a solution. and you could determine what you know. New?
+
+00:10:27.000 --> 00:10:35.000
+Yeah, problems came along with, Yeah, you know. Yeah, could you do the annual solution like if you had index cards?
+
+00:10:35.000 --> 00:10:40.000
+And could you put string between index cards and make your own solution, or something like that?
+
+00:10:40.000 --> 00:10:45.000
+Well, I mean, i've sort of done that in the past I had all kinds of weird ways of organizing information.
+
+00:10:45.000 --> 00:10:50.000
+When I was using paper, I think what Bill? said is what's the so what's the use case?
+
+00:10:50.000 --> 00:10:53.000
+And if I understand the use case, then I can go. Oh, okay, I get it.
+
+00:10:53.000 --> 00:11:00.000
+I get? Why, like is better than yeah i'm still trying to figure that out as well.
+
+00:11:00.000 --> 00:11:13.000
+Well, I mean I just just it's not quite volatile it's flotilla jason but this massive wicking fun Project Peter and I, Iran would it's it's amazing.
+
+00:11:13.000 --> 00:11:25.000
+Well, no, that problem is for me is conceptually trying to understand how to what conceptual model will actually enable us to do.
+
+00:11:25.000 --> 00:11:36.000
+You know like, say easy on board to get use yeah and i've been experimenting with a wiki at work trying to see like if I connect several documents.
+
+00:11:36.000 --> 00:11:43.000
+Can I easily find what I need for a task and can other people find it, and it's not clear my experience.
+
+00:11:43.000 --> 00:11:47.000
+So I told us to Pete a long time ago, but I used to.
+
+00:11:47.000 --> 00:11:50.000
+I was really hot on Wikis when I first came out.
+
+00:11:50.000 --> 00:12:01.000
+I did all the stuff, and I discovered I was working at Zerox at the time, and I discovered oh, the wiki is a people disorder, you know, like like licorice bump set people shorter you either.
+
+00:12:01.000 --> 00:12:11.000
+Like it, or you don't thing with wikis it's like, but not my answer is, no I just so.
+
+00:12:11.000 --> 00:12:28.000
+Is anybody like evaluating various products out there and comparing them? or it's when they check Jack Park is comparing every product out there.
+
+00:12:28.000 --> 00:12:36.000
+Yeah, doing an amazing job, too, for zigzag or other just in general knowledge, organization tools.
+
+00:12:36.000 --> 00:12:46.000
+And here's our leader. Oh, yeah there's so I don't know, Eric, you on reddit only occasionally. Yeah.
+
+00:12:46.000 --> 00:12:56.000
+Well, There's a whole personal knowledge. information thread that's a little quiet now, but was really interesting and active about people just trying all these pki tools.
+
+00:12:56.000 --> 00:13:03.000
+Hmm! you know. So there was is what fits with your brains like.
+
+00:13:03.000 --> 00:13:18.000
+Jerry found his brain. i'm trying to find my brain obsidian is really good, and it's it's got a little bit of well, it's got very light structure based obsidian is basically a wiki.
+
+00:13:18.000 --> 00:13:24.000
+But but enough people have added different different Add-ons in different ways that you can find.
+
+00:13:24.000 --> 00:13:29.000
+You know you can kind of. you can kind of make it feel a lot better.
+
+00:13:29.000 --> 00:13:35.000
+If you add a few plugins here and there it's also very powerful.
+
+00:13:35.000 --> 00:13:46.000
+I've got a couple kind of check-in things one of them.
+
+00:13:46.000 --> 00:14:04.000
+Vincent, I am interested in, well, maybe interested is not the right word i'm i'm gonna frickin build the the Bpd project database, and i'm realizing I want to do a graph database
+
+00:14:04.000 --> 00:14:26.000
+and the reason I wanted a graph database was because because I ended up with this weird fractal project scale thing where you know you have bigger projects and smaller projects, and you I don't know the right way to do
+
+00:14:26.000 --> 00:14:33.000
+that is, with the graph database, so then the graph database. I'm thinking of it would actually be air table with one table.
+
+00:14:33.000 --> 00:14:47.000
+1 one thing that's you know that the link the link table. So then the question after that is I know that we've gone through a couple of different ways of visualizing graph data.
+
+00:14:47.000 --> 00:14:59.000
+So I guess i'm interested in that you know and actually, then the other check-in thing I wanted to do, Wendy, before you got here.
+
+00:14:59.000 --> 00:15:03.000
+Actually. And so now you can do a better one than I can.
+
+00:15:03.000 --> 00:15:18.000
+But a couple of us especially the 2 wendy's Wendy Maclean, and when they offer have been getting together for a couple meetings and kind of Wendy and Vincent are also moving Tapestry down the
+
+00:15:18.000 --> 00:15:24.000
+field, and wendy alfred's got some ideas she's kind of trying to help fold into all of that.
+
+00:15:24.000 --> 00:15:39.000
+And so that's that's a that's cool stuff is going on there, and and I think we've had a smaller work team working on that I think we'll start to see some of the kind of output or the thinking from
+
+00:15:39.000 --> 00:16:00.000
+that come out in the next week or 2 maybe 2 weeks, yeah it's up to give an update on that that would be great at some point other check-in quick chicken things and then we can dive into a deeper dive on
+
+00:16:00.000 --> 00:16:06.000
+stuff just to do a quick, a quick check-in on the on.
+
+00:16:06.000 --> 00:16:19.000
+What intersects with the project knowledge graph let's see. So this is the current state of affairs of the project.
+
+00:16:19.000 --> 00:16:23.000
+Catapult. So basically you can set up an air table database.
+
+00:16:23.000 --> 00:16:33.000
+You could name the fields, but you want so right Now I have pretty simple like Project name description url photo.
+
+00:16:33.000 --> 00:16:49.000
+There's some required fields here like a date field of when it was synced an object Id and then a field for the curator, which is the Id of the person in categora slash trove and i'll maybe I'll,
+
+00:16:49.000 --> 00:17:01.000
+just say quickly, I think we're changing the name to categora, and so I will probably be using that name, and unless I otherwise and decide that that name isn't working.
+
+00:17:01.000 --> 00:17:06.000
+But yeah, committing to like starting to use that name and see how it feels.
+
+00:17:06.000 --> 00:17:18.000
+And then, basically, how this works is that there's a script in air table air table has these 2 widgets.
+
+00:17:18.000 --> 00:17:21.000
+There's one called automations which is like you know this then that.
+
+00:17:21.000 --> 00:17:29.000
+So like if someone and it's a record then do something else, and they also have something called apps and the apps.
+
+00:17:29.000 --> 00:17:36.000
+You can go add an app, and they have this scripting block which lets you build code within air table.
+
+00:17:36.000 --> 00:17:51.000
+You can also use the automations in our table to run a script. So you can say if someone updates a record, run a script, or you know, if somebody if a record is deleted run a script, So Yeah, basically the code
+
+00:17:51.000 --> 00:17:59.000
+here is just mapping the field. so it's saying the topics field in categora is called topics.
+
+00:17:59.000 --> 00:18:04.000
+The title Field is called Name. We could change it to Project name.
+
+00:18:04.000 --> 00:18:17.000
+It could be what this project is called and then you would just kind of map the fields, and then there's also some additional like text fields that you can add which can be which don't have to necessarily map with this structure and
+
+00:18:17.000 --> 00:18:29.000
+it'll still sync and see how you just set up the kind of the the table, and the view that you want to sync. so you can like filter this table by like only the public projects.
+
+00:18:29.000 --> 00:18:37.000
+And then we run it on just that view and And so when you click run, then it basically will.
+
+00:18:37.000 --> 00:18:51.000
+If the project is not created it'll create it and if it is already in the database, then it will update it, and it will change the date here to be less synced like you know a second ago.
+
+00:18:51.000 --> 00:18:58.000
+And then I think I made a button here where you can view the project to make sure it worked.
+
+00:18:58.000 --> 00:19:08.000
+So I added a project here for Project Plan bake, and I tagged the group username flotilla and ogm.
+
+00:19:08.000 --> 00:19:12.000
+And so now it shows up in the flotilla.
+
+00:19:12.000 --> 00:19:24.000
+Project directory as well as the Ojm Project Directory, and then you could go and edit it on categorically, or you can actually make updates here like we can remove flotilla.
+
+00:19:24.000 --> 00:19:30.000
+Or you can, you know, edit any of the information here. hit run, and then it will basically overwrite
+
+00:19:30.000 --> 00:19:48.000
+The Directory, So that's my quick update on the project importer, and that could definitely work pete with the sort of graph database you just add another table for the relationships between the projects.
+
+00:19:48.000 --> 00:20:15.000
+The the ideas you're using they're bubble or yep, and it looks like a unix time. And then the letter, and then another big number, which is so the Id here I can zoom is doing this weird thing where
+
+00:20:15.000 --> 00:20:30.000
+It's not letting me get back I can share this database as well.
+
+00:20:30.000 --> 00:20:45.000
+If that's easier to be i'm gonna put a link that here's the link.
+
+00:20:45.000 --> 00:21:05.000
+Thank you. And yeah, So the how you how have they set up this?
+
+00:21:05.000 --> 00:21:15.000
+Iso time, day and time field and then this object Id here's an example of the object.
+
+00:21:15.000 --> 00:21:21.000
+Id I think it's the it always has an x in it.
+
+00:21:21.000 --> 00:21:26.000
+So it has like a probably app Id and then the object idea I'm.
+
+00:21:26.000 --> 00:21:35.000
+Assuming, and that first summer looks like unix time off offhand, and then the second one maybe, is date time or something.
+
+00:21:35.000 --> 00:21:48.000
+Okay, the world hasn't quite figured out time Yet we have the clocks changing. Yeah, and there was a Zulu time issue, or in my office.
+
+00:21:48.000 --> 00:21:55.000
+This did all this Id stuff, it'll all be in Utc.
+
+00:21:55.000 --> 00:22:25.000
+So yeah, this was this Oh, wow, okay, I didn't know that and all that is is seconds since the epic which is January, the first 1,970.
+
+00:22:31.000 --> 00:22:38.000
+If I don't if I don't forget yeah and it ends in 2038.
+
+00:22:38.000 --> 00:22:49.000
+Well, it overflows, so it's like exactly when it was created, and then a random id.
+
+00:22:49.000 --> 00:23:01.000
+The other one's not random date stamped 2 or something Maybe it's random milliseconds or microseconds since the epic.
+
+00:23:01.000 --> 00:23:09.000
+Yeah, that that one is just seconds. it's not microseconds?
+
+00:23:09.000 --> 00:23:25.000
+Is there a minus for expressing previous no it's just some excerpt on that, you know the universities expanding.
+
+00:23:25.000 --> 00:23:31.000
+It's just some like we'll just grab a distance and you know.
+
+00:23:31.000 --> 00:23:39.000
+Take some numbers out of it it's it's like the system time that it's that a unix system.
+
+00:23:39.000 --> 00:23:44.000
+It's the clock for unix basically and so it's not meant to be.
+
+00:23:44.000 --> 00:23:51.000
+It wasn't meant to be a date interchange format really, it's just what you know your computer thinks.
+
+00:23:51.000 --> 00:24:06.000
+Is that the correct time. So the other weird thing is it's seconds, which back in 1975 or 1,980, or whenever they decided to make that format second, seemed like a fine enough resolution.
+
+00:24:06.000 --> 00:24:19.000
+But nowadays everyone's like Oh, my God whole second I can stuff like, you know, a 1,000,000 events into a second. I don't know what you're talking about which microsecond Yeah, you see the main thing for cousin
+
+00:24:19.000 --> 00:24:23.000
+that. Yeah. see, they never asked a dog. How long is the second?
+
+00:24:23.000 --> 00:24:36.000
+I got time. So if you put all the Unix clocks on a rocket going towards the speed of light, they'll slow down, and then we won't reach it yep, but we'll be 1,000,000,000 years in the future.
+
+00:24:36.000 --> 00:24:47.000
+So it won't matter Ok. so thanks vincent i'll play around with that, and i'll play around with graph database.
+
+00:24:47.000 --> 00:24:55.000
+Yeah, I feel free to add on their other tables if you'd like hurting cats.
+
+00:24:55.000 --> 00:25:07.000
+Michael. I'm just seeing this so that's different from like gardening the data that's that's gonna be like, All right.
+
+00:25:07.000 --> 00:25:18.000
+We need to get everyone together right Well, with gardening you have to build fences to keep out the rabbits and other pests.
+
+00:25:18.000 --> 00:25:32.000
+That's No, that's great I did I tell you about my aspirations to create a nft project called Impact Cats.
+
+00:25:32.000 --> 00:25:45.000
+Second one there would be cats all with like each one right like has like a different persona, so like there's an astronaut cat, and that's like in the space industry.
+
+00:25:45.000 --> 00:25:51.000
+The impact cat would be like the Social Justice warrior. and then, if you buy it, then you fund projects in that space.
+
+00:25:51.000 --> 00:25:59.000
+Actually Star Trek is including cats in their shows. now.
+
+00:25:59.000 --> 00:26:24.000
+Oh, really, yeah, the discovery. So this expanding universe, I saw something interesting that the stars that are close to 13,000,000,000 years away, that light left 13,000,000,000 years ago.
+
+00:26:24.000 --> 00:26:31.000
+But that star is probably 39,000,000,000 years light years away from now, because the expanding universe.
+
+00:26:31.000 --> 00:26:43.000
+So, Wendy, do you want to share any updates on the tapestry?
+
+00:26:43.000 --> 00:26:51.000
+Yeah, do you guys feel complete with stuff you were talking about before, because all that kind of went over my head.
+
+00:26:51.000 --> 00:26:55.000
+So I want to clean it up for now. Yeah, all right.
+
+00:26:55.000 --> 00:27:01.000
+So I thought what I do earlier this week. We shared the first kind of little prototype.
+
+00:27:01.000 --> 00:27:06.000
+I guess that was just Wednesday, and then I did some updates in Phigma.
+
+00:27:06.000 --> 00:27:21.000
+So what i'm like to do is show you guys phigma and maybe get some. I If people are interested we can get a little conversation going around a couple of the questions that are a little bit different and your traditional questionnaire kind
+
+00:27:21.000 --> 00:27:24.000
+of questions. It also gives you a sense of kind of how we're organizing things.
+
+00:27:24.000 --> 00:27:31.000
+And just, we know. Do we feel like we're missing questions? Ultimately my goal is to create a prototype.
+
+00:27:31.000 --> 00:27:40.000
+That is on the simpler side. So I love if the conversation starts to cycle out like That's totally fine.
+
+00:27:40.000 --> 00:27:46.000
+But then, at the end i'm gonna want to go okay like What is the What are the questions We can do a little more quickly?
+
+00:27:46.000 --> 00:27:53.000
+If it seems like some of the questions are relatively complicated, or getting at complicated information and fills out.
+
+00:27:53.000 --> 00:28:01.000
+Are you fighting off your dog like hang not to pet him yeah then there's like dude.
+
+00:28:01.000 --> 00:28:06.000
+I don't know what you're doing playing with those that that box thing Play with me.
+
+00:28:06.000 --> 00:28:15.000
+I want him to basically just be on the floor next to me But he's. So I have to wait for him to like stop doing this, and then give him a treat.
+
+00:28:15.000 --> 00:28:21.000
+Thinking no right you can't give reinforcement for the bad behavior. Yeah.
+
+00:28:21.000 --> 00:28:32.000
+But in case I end up putting my hand on his head he's like genius at work all right here, i'll share my screen.
+
+00:28:32.000 --> 00:28:40.000
+So First, i've learned that I love float not flotilla.
+
+00:28:40.000 --> 00:28:48.000
+I love that, too, pigma but I love pigma it's so close to photoshop that I it took me maybe 5 min to figure out how to use it.
+
+00:28:48.000 --> 00:28:54.000
+So Vincent, i've been doing a lot of our our layouts and stuff, and and figma
+
+00:28:54.000 --> 00:29:11.000
+So this would be the open opening little little image just to Orient people, and we've been talking about making sure that people kind of are coming at answering the questions from the perspective of what we want to contribute or what we want to share
+
+00:29:11.000 --> 00:29:15.000
+or what sort of gifts we want to give to this community. later.
+
+00:29:15.000 --> 00:29:26.000
+I see the tapestry being a potential for matchmaking of the things. but I wasn't starting there. So we were starting with It's just the contribution side, and from a lot of angles.
+
+00:29:26.000 --> 00:29:30.000
+People were liking that just starting there. What do you guys think about that.
+
+00:29:30.000 --> 00:29:44.000
+So we're not necessarily going to be asking questions about sharing and meeting and contributing and requesting right. It's It's just on the side of what are you giving to your community.
+
+00:29:44.000 --> 00:29:53.000
+Does that any sense, Any thoughts about that right off the top, starting somewhere is great and and keeping it simple is great.
+
+00:29:53.000 --> 00:30:04.000
+Okay, can always make it more complicated. later. can always yeah then a little profile thing pops up that because i'm working with Vince. It's really nice. right?
+
+00:30:04.000 --> 00:30:16.000
+We can integrate with trove and now, categorically so if people have their information in categora, then it'll then it'll prefill, which is nice and so I think Vincent and I are gonna
+
+00:30:16.000 --> 00:30:29.000
+talk soon about. Is there any other information we might want to pull in from category and give people an opportunity to to maybe edit or change things if they know they're going to be sharing it with a particular community.
+
+00:30:29.000 --> 00:30:37.000
+Then i'm going to skip and go down here, and then I was thinking because of my conversations with Wendy Alfred.
+
+00:30:37.000 --> 00:30:49.000
+It might actually be nice to just have a separate section that's just for my story, and start. So you know, one way to do this survey is to really start with categories and help. help people frame their thinking and another way to start is to go
+
+00:30:49.000 --> 00:30:55.000
+with just a story like what would you like to contribute and kind of help them think about it a little bit?
+
+00:30:55.000 --> 00:31:03.000
+With this, with the with this section here, and then just let them tell a story or brainstorm.
+
+00:31:03.000 --> 00:31:08.000
+So I just if you would read that for a second and just tell me what you think of right.
+
+00:31:08.000 --> 00:31:12.000
+You, Haven't really contributed anything else. and What is this does this feel too open?
+
+00:31:12.000 --> 00:31:42.000
+Make it a bigger sorry. So Oh, I have an idea.
+
+00:31:52.000 --> 00:32:01.000
+Can you put in the chat for me like like a phrase or sentence of the kind of stuff that you would put in the open field like?
+
+00:32:01.000 --> 00:32:08.000
+Maybe you know 15 s of just typing something in and give me a sense of what your answer would be here.
+
+00:32:08.000 --> 00:32:23.000
+That would be very cool. Many you should type the question for a struggle. So i'm going to type it into chat.
+
+00:32:23.000 --> 00:32:30.000
+Yeah. So then, when we , oh, yeah.
+
+00:32:30.000 --> 00:32:33.000
+So that just even just describe what you would like to contribute.
+
+00:32:33.000 --> 00:33:03.000
+Yeah, yeah, thanks, Bell. Maybe just another minute. it looks like people are still typing.
+
+00:33:51.000 --> 00:33:58.000
+And if you're. didn't submit something but you're not planning on submitting something that's fine, just like, throw a finger up.
+
+00:33:58.000 --> 00:34:28.000
+So then I know. So hey, Bill, can I start with just asking you to say a little bit more about your response?
+
+00:34:45.000 --> 00:34:56.000
+So I found that very interesting. you want to say Why, you're even interested in this community, which I think is a great a great point.
+
+00:34:56.000 --> 00:35:06.000
+Well, I was just looking at this like, Okay, So here my question is which which which community are we talking about?
+
+00:35:06.000 --> 00:35:16.000
+Yeah, it looks like It's gonna be a general a more general question to somebody about trained in the concept of some community.
+
+00:35:16.000 --> 00:35:26.000
+Yeah, I was, I should have clarified that I was imagining this coming as an invitation from member of the community to the whole community. right?
+
+00:35:26.000 --> 00:35:35.000
+So whether it was the leader of a community of the administrator or right, they would be sending a communication out that said we'd love to get to know more about our about this community.
+
+00:35:35.000 --> 00:35:41.000
+So it would be from Ogm, or from flotilla, or flumb, from Osc or from you know.
+
+00:35:41.000 --> 00:35:46.000
+And then saying, And we would love to learn more about you.
+
+00:35:46.000 --> 00:35:52.000
+So I think you would in your mind. you'd already. know that you were speaking to a to one particular community over another.
+
+00:35:52.000 --> 00:36:03.000
+Yeah, I still don't know how to answer questions like this Yeah, I mean I really don't, especially if I don't.
+
+00:36:03.000 --> 00:36:09.000
+I just like that on a community that i'm new to yeah so I'm, I can.
+
+00:36:09.000 --> 00:36:20.000
+It could be a community that you're hey? bill how do you help out the massive wiki community right now.
+
+00:36:20.000 --> 00:36:28.000
+I'm trying to figure out how to wreck how to get some software running.
+
+00:36:28.000 --> 00:36:34.000
+I mean literally, and I you know I talk about the works people I'm: still trying to figure out how to make it work.
+
+00:36:34.000 --> 00:36:44.000
+Yeah, yeah, yeah, but I don't I mean this is the question i'll just put this out here because I don't know but I've been in a couple of other not here. but other places.
+
+00:36:44.000 --> 00:36:47.000
+Where people say, Oh, oh, what's your pet what's your superpower!
+
+00:36:47.000 --> 00:37:03.000
+I'm like I got nothing i'm just a human being Yeah, there's that old zen calling about some teacher, and he says, look, i'm just selling water by the river I resonate with that a lot of
+
+00:37:03.000 --> 00:37:17.000
+times I have kind of a similar reaction which is let's let's start doing stuff together, and find out yeah, because partial for me is like I'm each time I get involved with something.
+
+00:37:17.000 --> 00:37:34.000
+If I really, if it interests me i'm gonna actually learn something, some new piece about myself that I can actually put into practice, or that I need to erase from my list of you know don't do that anymore. Yeah, it's kind of like I could
+
+00:37:34.000 --> 00:37:38.000
+tell you what i've done in other projects but this is a new project.
+
+00:37:38.000 --> 00:37:46.000
+So we're gonna find out together what I can do and how I can help This could also be an optional.
+
+00:37:46.000 --> 00:37:55.000
+Oh, go ahead. Yeah. Sorry I did feel like this sort of calls for this sort of generalist like you know.
+
+00:37:55.000 --> 00:38:11.000
+What are you? you know, you know, I answered it in this sort of generic bio-way like I don't know what about what I do is gonna be useful to who you know. I was trying to do something.
+
+00:38:11.000 --> 00:38:33.000
+But like I would probably have an easier time answering if I was answering like with bullet points, or with you know or in way, I mean, maybe a question is, how would you?
+
+00:38:33.000 --> 00:38:39.000
+It's not it's not a story by wendy standards, but it might be useful in this case.
+
+00:38:39.000 --> 00:38:53.000
+How would you Tag yourself, you know, where you're like kind of compelled to just put some descriptors, some of which might be like, you know?
+
+00:38:53.000 --> 00:39:07.000
+Good listener, and others of which might be very specifically, you know, conversant in X programming language.
+
+00:39:07.000 --> 00:39:14.000
+So yeah, I don't know if that's helpful it is, Thank you.
+
+00:39:14.000 --> 00:39:28.000
+You're basically saying, throw down some adjectives, or something right, instead of trying to turn it into some story, right? If you felt like you could just go like almost like listing skills or listening strengths or listing you know something you could
+
+00:39:28.000 --> 00:39:35.000
+frame it how you wanted to, and just like write a couple phrases here, or instead of feeling like it needed to be some lengthy something.
+
+00:39:35.000 --> 00:39:53.000
+And you're not even sure what you're trying to reference right, and rather whether your prose style matters or whether you know I mean it's just, you know, Are you trying to be funny are you trying to be like provocative you
+
+00:39:53.000 --> 00:40:03.000
+know you sort of the there are all these tonal questions in this especially for something when you're not sure what it what it is, or what it's going to be used for.
+
+00:40:03.000 --> 00:40:08.000
+Somewhat be mitigated by saying, Give us a bunch of adjectives about yourself, I mean.
+
+00:40:08.000 --> 00:40:20.000
+I like your use of that term that's actually something I sometimes do like when i'm consulting on a project, and I just say, like, give me a bunch of adjectives about this thing.
+
+00:40:20.000 --> 00:40:38.000
+We're working on. And now give me some adjectives about what you wish it becoming, or mmm-hmm, and that like cuts so much through a lot of conversation.
+
+00:40:38.000 --> 00:40:46.000
+Yeah, Yeah, Yeah, I like that? as an option too, i'm wondering, too, We could give. I think, wondering what you guys feel of this concept.
+
+00:40:46.000 --> 00:40:51.000
+Is it possible that they're it's kind of 2 different ways to approach it right?
+
+00:40:51.000 --> 00:41:03.000
+One. Some people want to know the categories. that they're going to be applying later to frame what they're going to say, and some people just want to say it and then frame it put it into the categories later and i'm
+
+00:41:03.000 --> 00:41:04.000
+wondering if we give people an option, you know like.
+
+00:41:04.000 --> 00:41:08.000
+Would you like to tell us a story about yourself, or would you like to?
+
+00:41:08.000 --> 00:41:12.000
+Would you like to I don't know we'd find some you know, categorize it sounds a little.
+
+00:41:12.000 --> 00:41:21.000
+Would you like to see the categories that we're gonna be weaving, you know, and and Cuz Vincent and I, every time we play with this is like, well, couldn't we just give them like the sectors first
+
+00:41:21.000 --> 00:41:26.000
+or the you know, to help, or the type you know like whether they're gonna be doing an interest or an expertise.
+
+00:41:26.000 --> 00:41:32.000
+Can we give that to them first? and then it keeps flipping in my mind. I keep slipping back and forth to advantage.
+
+00:41:32.000 --> 00:41:34.000
+Maybe what we need to do is give people the option of both.
+
+00:41:34.000 --> 00:41:40.000
+But that's another option. to choose between and I don't know if that's just more friction than it's than it's worth.
+
+00:41:40.000 --> 00:41:47.000
+But what do people think about that? Some people might want to give a story first, and just tell people about themselves, and some people might want to go.
+
+00:41:47.000 --> 00:41:51.000
+Oh, no! if you tell me I need to give you interests that helps me.
+
+00:41:51.000 --> 00:42:05.000
+If I just want to push back a little bit a bit about the thing that we were just talking about being akin to like picking categories.
+
+00:42:05.000 --> 00:42:21.000
+Cuz to me that sort of that that's very different. it's like if you go in, you say somebody, you know, throw out some adjectives in whatever whatever kind of adjectives you want it's more like a story if
+
+00:42:21.000 --> 00:42:33.000
+you say, Okay, like here are the categories check them off you know, according to that's a really much more raining thing.
+
+00:42:33.000 --> 00:42:40.000
+So so I mean, I almost feel like in this opening. You can say like you can.
+
+00:42:40.000 --> 00:42:46.000
+You can string it together as a story, or just some adjectives with commas between them.
+
+00:42:46.000 --> 00:42:51.000
+Whatever you like, or some mix of the 2 you know.
+
+00:42:51.000 --> 00:43:10.000
+But but I mean keeping the free formness because I assume with with with whatever you know, wendy's sentiment analysis whatever the process that works on the stories that pulls out key terms I don't even know how how
+
+00:43:10.000 --> 00:43:16.000
+what what the process is, and what the you know the Nlp.
+
+00:43:16.000 --> 00:43:27.000
+But I assume that the key term, as opposed to the germs or the the linkages.
+
+00:43:27.000 --> 00:43:39.000
+What she looks for. so together the adjectives without them being coherent pros. it might even work the same way from her point of view.
+
+00:43:39.000 --> 00:43:47.000
+I don't know. Yeah, yeah, thank you for that clarification. I actually didn't mean that I would want to turn the adjectives into some sort of way of categorizing.
+
+00:43:47.000 --> 00:44:01.000
+I actually thought your suggestion to put in a list of adjectives, or something similar, as a way to phrase it, to people in this spot would improve this question a lot. And then I guess I was jumping ahead and saying for someone
+
+00:44:01.000 --> 00:44:06.000
+like Bill, who's like it? does maybe or people like that who look at this part list of adjectives or not, and go.
+
+00:44:06.000 --> 00:44:11.000
+This is not my kind of question. This does not work for me.
+
+00:44:11.000 --> 00:44:13.000
+This is not the way I like to think about myself or describe myself.
+
+00:44:13.000 --> 00:44:22.000
+So what is it you're actually looking for who end up in that of mind that maybe they would prefer skipping this and going right into?
+
+00:44:22.000 --> 00:44:30.000
+You know things where they can see how they're going to be categorizing things so that they feel like they're you know.
+
+00:44:30.000 --> 00:44:39.000
+So I was just we're gonna end up doing both we're gonna end up asking people about a story, and we're going to end up asking people to cat it you know, kind of synthesize it and categorize it a little
+
+00:44:39.000 --> 00:44:45.000
+bit, and and I was wondering if maybe it was wise to give them the option up front, and then they can do whichever they want to do.
+
+00:44:45.000 --> 00:44:55.000
+First it doesn't matter So Anyway, that's just we can play around with it, and maybe that's something we can also a B test as well so does anybody else.
+
+00:44:55.000 --> 00:45:01.000
+Have something they want else they want to say here before I move on because i'd love to show you a couple other questions.
+
+00:45:01.000 --> 00:45:11.000
+Vincent and I both. Yes, we really like what Eric said about like, yeah wanting to know
+
+00:45:11.000 --> 00:45:26.000
+What type of profile is it? And I think the power that we have here is that You know, we get to design the tool to be able to afford whatever type of interactions we will create and like when you go on Facebook and they say
+
+00:45:26.000 --> 00:45:41.000
+like you know what's on your mind that's like kind of guiding people to answer something in a very you know a certain way right like a status update, or something that you do like constantly for me what I would like
+
+00:45:41.000 --> 00:45:54.000
+to see is is more of like kind of combination between a now page where it's like a story about like someone's whole month of like what they're up to or like a project that they're working on
+
+00:45:54.000 --> 00:46:04.000
+that's just an idea stage that it's not far enough along that they're gonna let like create a project and, like you know, put it out there and like a directory.
+
+00:46:04.000 --> 00:46:14.000
+But they also are not at the stage where it's just an idea they like, have. There's some energy around it, and you want to be able to put it out there in the world so other people could find you and it doesn't feel like it's far
+
+00:46:14.000 --> 00:46:23.000
+enough belong that you could like posts on Facebook because it's yeah like or linkedin where those platforms are kind of all about, I mean, at least for me.
+
+00:46:23.000 --> 00:46:33.000
+It's like if I don't push something on linkedin that's like I feel like it needs to be polished to be it on Linkedin, because like I already said you're like putting your best foot forward like
+
+00:46:33.000 --> 00:46:45.000
+people are going to like. Look at that. And so they had the question about like, What do we want to actually see about each other, I think, should determine what how we actually design this. like?
+
+00:46:45.000 --> 00:46:56.000
+What sort of what are the ideal? responses that we would want to see about community that we're in that we don't have right now with the current tools.
+
+00:46:56.000 --> 00:47:11.000
+I think that's the question that for me would guide the design of the tapestry, and i'm imagining being able to kind of see like when you first start the tapestry almost some like kind of like those like
+
+00:47:11.000 --> 00:47:15.000
+testimonyial cards on a website where you can see what other people say about it.
+
+00:47:15.000 --> 00:47:20.000
+Like, and you can like click through them, except like you could see some people's responses like, hey?
+
+00:47:20.000 --> 00:47:24.000
+The answer what other people have responded and like, I would love to create.
+
+00:47:24.000 --> 00:47:27.000
+What are the like? You know what are like? 3 example responses.
+
+00:47:27.000 --> 00:47:34.000
+That would be really incredible. That would actually draw someone in to reach out to someone and actually collaborate.
+
+00:47:34.000 --> 00:47:52.000
+And, you know, going beyond the kind of like stream of information and like in kind of group chats, but also not as detailed as like a project listing somewhere in the middle, is where I think the I would like to to see it go But i'm
+
+00:47:52.000 --> 00:48:09.000
+curious what other people think. I I wanted to come back. to your question, Wendy, and about whether you know maybe it's one or the other for a particular person, and just let them choose.
+
+00:48:09.000 --> 00:48:25.000
+I think that makes sense. the the thing that it Chris me is the way that I would want to solve This is it's similar to the way that I think about people using directories.
+
+00:48:25.000 --> 00:48:48.000
+And it it makes me. What I would like to see is the way that you answer a question like this, or maybe even more of the questions is, you get teamed up with a community member who has a bunch of context.
+
+00:48:48.000 --> 00:49:05.000
+And you have a little bit of a conversation so in the same way that I recommend a human matchmaker for for doing matchmaking, using you know, a fancy database. It's kind of like you want a human
+
+00:49:05.000 --> 00:49:14.000
+to profile Helper So the profile helper would have more context than you do.
+
+00:49:14.000 --> 00:49:22.000
+People people just do things better. I mean we've gotten maybe let me back up.
+
+00:49:22.000 --> 00:49:35.000
+We've gotten into this habit, of saying if I give you the instructions you can fill out this form, and you know what's going on right, or or you're going to come into filling out this form with a couple guesses, of what
+
+00:49:35.000 --> 00:49:52.000
+I want because you've seen forms like this before right so that that whole self-service thing has I feel like It's poisoned the well kind of because it it's like the worst possible way to use humans in
+
+00:49:52.000 --> 00:50:01.000
+humanity, you know, and and the way that you get magic the way that you get context.
+
+00:50:01.000 --> 00:50:07.000
+You can. You can tell somebody, you know. Read this for context, or probably better.
+
+00:50:07.000 --> 00:50:12.000
+Hey, watch this 90 s Video: That kind of gives you some context.
+
+00:50:12.000 --> 00:50:23.000
+But the way that you really get context. to magic is by you know one or 2 or 3 people are sorry 2 or 3 people together, helping each other sense make through something right?
+
+00:50:23.000 --> 00:50:28.000
+So that's kind of where I would go with that yeah I I'm.
+
+00:50:28.000 --> 00:50:41.000
+Hearing something similar in both What You and vincent just shared, and that is, there's a richness in, and I guess it's what Wendy Alfred has been bringing up to right There's a There's a
+
+00:50:41.000 --> 00:50:45.000
+richness in understanding the context of what within which i'm answering a question Right?
+
+00:50:45.000 --> 00:50:56.000
+And I guess that's really where bill was coming from to right from right from the start. and I that I think that's and you're saying if we if we try to put all that context inside of a technical flow of you
+
+00:50:56.000 --> 00:51:05.000
+know question and answer you really still don't get there right and so we're losing something when we do that I'm thinking right I it.
+
+00:51:05.000 --> 00:51:10.000
+How do we? i'm not looking to replace I guess It's interesting.
+
+00:51:10.000 --> 00:51:15.000
+I hadn't thought about it. This way. but my true intention is not to replace that interaction.
+
+00:51:15.000 --> 00:51:24.000
+It's actually to enable. more. of that interaction right so that you and I, maybe for for the first time, discover that we both really are working on something similar.
+
+00:51:24.000 --> 00:51:30.000
+Now we can actually talk about it. So i'm it makes me want to go back to thinking.
+
+00:51:30.000 --> 00:51:34.000
+Okay, maybe this is getting too complicated. Maybe we need to simplify.
+
+00:51:34.000 --> 00:51:45.000
+And really ask people what they're already willing to share like what's already top of mind, what's already easy and and and and right, and we could do that.
+
+00:51:45.000 --> 00:51:51.000
+And so many different ways, and I I always imagined it as people would be confused right.
+
+00:51:51.000 --> 00:51:58.000
+They'd get to that to a certain degree. They do the best they could, filling out the questionnaire. they get to the tapestry, where they see how it all fits.
+
+00:51:58.000 --> 00:52:05.000
+They see how their piece fits and go. Oh, I see what other people are doing, or I see the framing of this. Better wait a minute.
+
+00:52:05.000 --> 00:52:08.000
+I want to go Change this piece. I want to add another here.
+
+00:52:08.000 --> 00:52:20.000
+I think that's naturally gonna happen no matter how good we make a question, or even if it's the best questioner we could have ever made, I think that's gonna happen and that's what I like.
+
+00:52:20.000 --> 00:52:24.000
+About it weirdly enough, i'm not because i'm not looking for one state of data.
+
+00:52:24.000 --> 00:52:25.000
+Then then we're never going to talk to you again.
+
+00:52:25.000 --> 00:52:33.000
+I'm looking for it to be an entry point and I think that's different than a lot of questionnaires in the sense most questionnaires.
+
+00:52:33.000 --> 00:52:36.000
+You collect the data and everyone moves on. This is going to be.
+
+00:52:36.000 --> 00:52:42.000
+This is really just an onboarding and it's not going to be perfect, and it's going to be a little bit fuzzy.
+
+00:52:42.000 --> 00:52:51.000
+And then you're gonna get into it and hopefully your community comes back to this tapestry on a regular this tapestry's constantly being updated. and so that's kind of what I was thinking in terms of
+
+00:52:51.000 --> 00:52:57.000
+how it could work, and that goes back to your point Vincent, about putting some samples on there.
+
+00:52:57.000 --> 00:53:08.000
+I think that's a great idea I think it would really help people if they could say, you know, over on the side click some samples from other people, and of course we could prefill them at the beginning right where they could stuff could pop
+
+00:53:08.000 --> 00:53:17.000
+up. Oh, that's what they're talking about like Oh, I could you know, and it would help spur me on to share similar things.
+
+00:53:17.000 --> 00:53:25.000
+I think another way to kind of help that process would be to have.
+
+00:53:25.000 --> 00:53:32.000
+Instead of answers, they get like burned into the into the tapestry.
+
+00:53:32.000 --> 00:53:44.000
+If the answers were something that got overlaid on the tapestry, and I could play around with them until they they feel like they fit, and then I could say, Oh, let's let's lock these in for a couple
+
+00:53:44.000 --> 00:53:50.000
+weeks. so you know. So then the the filling out the form is kind of like, you know.
+
+00:53:50.000 --> 00:53:56.000
+Here's here's some examples just Go to this pretty quick, and and write some stuff in quickly.
+
+00:53:56.000 --> 00:54:11.000
+Don't don't make it very dear you know just just hack it real quick, and then click preview see what your stuff looks like on the tapestry, and then click you know edit again on click preview and go back
+
+00:54:11.000 --> 00:54:16.000
+and change it and and keep doing that until you feel like you've you've made it, you know.
+
+00:54:16.000 --> 00:54:26.000
+Yes, so we had let me just show you our our review is gonna be this something similar to this?
+
+00:54:26.000 --> 00:54:39.000
+Wait. I can't oops need to zoom. out there we go where it was going to be a little bit like this, right where you get a chance to review what you've of course these are all repeating just I think you , Yeah,
+
+00:54:39.000 --> 00:54:43.000
+are you? Do you also thinking, because I love that, do you?
+
+00:54:43.000 --> 00:54:56.000
+Do you also think that it would be useful if it was you and with everyone else's answers, or just you how you and everybody else's answer Yeah, you get to see it all yeah here's here's me in context and most
+
+00:54:56.000 --> 00:55:02.000
+people, I think would actually like it if that's a view that only I can see right right?
+
+00:55:02.000 --> 00:55:07.000
+Okay, I've just made myself look really stupid I hope that's not public right?
+
+00:55:07.000 --> 00:55:12.000
+You told me that it's it's okay I can make changes, and nobody else sees them.
+
+00:55:12.000 --> 00:55:17.000
+I see them, and I see how the tapestry is changing because of me, and then I can lock it and make public.
+
+00:55:17.000 --> 00:55:27.000
+Yeah, I I think that's a great solution. I still don't want to get too far away from having 2 people do it together.
+
+00:55:27.000 --> 00:55:44.000
+No, I think that's an option. too and I think you know the the things like having having some having some examples or the top of mind thing is is kind of like saying tell me the things that you've told somebody else in the
+
+00:55:44.000 --> 00:55:54.000
+past week or 2, or you know what do you tell other people. it's It's a way of kind of by proxy having the the computers say, remember a time you were with another person. right?
+
+00:55:54.000 --> 00:56:05.000
+So I think I like even better let's get 2 people together, and do it rather than having a proxy for it.
+
+00:56:05.000 --> 00:56:23.000
+People just do things differently when they're you know when they've. if I like being with somebody else like turns on your community bit right as opposed to my i'm all alone at my desk thing yeah for me that would
+
+00:56:23.000 --> 00:56:30.000
+slow it down right like I would actually not do that especially if I was new to the community or early.
+
+00:56:30.000 --> 00:56:44.000
+Why, wouldn't she do it. I for the same reason I don't like talking to the bank teller, and i'd rather just use an ATM like I i've always been that way like it's not that i'm
+
+00:56:44.000 --> 00:56:46.000
+averse to having a conversation with somebody and for someone else.
+
+00:56:46.000 --> 00:56:50.000
+So I think that I think the the thing to do is to dig into that.
+
+00:56:50.000 --> 00:56:59.000
+Why, wouldn't you do it I am totally like you I will always take the self-check outline at the grocery, and I always i'll always take an ATM instead of a bank teller.
+
+00:56:59.000 --> 00:57:11.000
+But that's a different kind of situation i'm doing something where the bank teller and and the grocery checkout person are supposed to be robots, that they're not supposed to engage me and we're not supposed to
+
+00:57:11.000 --> 00:57:30.000
+have a conversation. it's supposed to be a rote interaction So i'm going to get faster. Better you know less I've got less problems with my empathy coming out less problems with me feeling awkward about when
+
+00:57:30.000 --> 00:57:33.000
+they ask a question? Am I gonna answer? You know, when they ask it?
+
+00:57:33.000 --> 00:57:36.000
+How you How are you doing? is a hard question for some people.
+
+00:57:36.000 --> 00:57:42.000
+Right, because it's like Well, I would tell you but then you don't want to know that you would just ask.
+
+00:57:42.000 --> 00:57:52.000
+Anyway, this is different. this is not any of those situations right It's not a situation where i'm talking to a robot helping me into the and into the community.
+
+00:57:52.000 --> 00:58:03.000
+I'm talking to a i'm talking to an auntie, who's going to help me join this?
+
+00:58:03.000 --> 00:58:11.000
+Yeah, I I right? And I would have no trouble doing that right? Personally, I think, if I was presented with a questionnaire, and it said, Would you rather talk to a part?
+
+00:58:11.000 --> 00:58:19.000
+You know. would you rather talk to somebody like it's the But that's that's the wrong setup right.
+
+00:58:19.000 --> 00:58:22.000
+Thinking, man like, how would you get into a person if you start with the questionnaire?
+
+00:58:22.000 --> 00:58:25.000
+Maybe you're not thinking about starting with a questionnaire.
+
+00:58:25.000 --> 00:58:30.000
+I want to. Then I wouldn't start with the questionnaire right, i'm kind of the same way you said.
+
+00:58:30.000 --> 00:58:39.000
+Oh, sorry, Bill, We're missing in the context I would have sat, sent out an invite that answered your questions about you know the context of the community.
+
+00:58:39.000 --> 00:58:41.000
+It's kind of the same thing right it's like hey?
+
+00:58:41.000 --> 00:58:46.000
+You want to join the community. It helps a lot if we can know who you are.
+
+00:58:46.000 --> 00:59:02.000
+Could you? Whatever the digital equivalent of, you know, he pierced, here are our community welcome wagon people.
+
+00:59:02.000 --> 00:59:05.000
+Could you set up a a date to have tea and cookies with?
+
+00:59:05.000 --> 00:59:11.000
+You know one of them Take, take, take your choice right however, that works I don't like that.
+
+00:59:11.000 --> 00:59:14.000
+That. you know, we want to get to know you as a community.
+
+00:59:14.000 --> 00:59:21.000
+Yeah, yeah, there's a questionnaire to fill out that that will go into our database right?
+
+00:59:21.000 --> 00:59:24.000
+Yeah. yeah, yeah, it creates a completely different kind of connection.
+
+00:59:24.000 --> 00:59:41.000
+Yeah. and maybe that's a way to do it I also was thinking: If if one of the and it could be by community too right like if the administrator of the community who sets this up let's say wants to run
+
+00:59:41.000 --> 00:59:49.000
+it that way. I could see that being one option right and then another option could be trying to set up.
+
+00:59:49.000 --> 00:59:59.000
+I'm just wondering how if one of the goals for me one of the goals that the tapestry was to try and help communities who don't have a lot of bandwidth through the administrators right
+
+00:59:59.000 --> 01:00:13.000
+And now the administrator needs to have a 101 conversation with each person in order to fill up a tapestry that would slow things down again as well, although it would create a much richer so I don't I don't
+
+01:00:13.000 --> 01:00:20.000
+think that this is this is an opportunity one of the questions I always get with This is but but, Pete, how do you scale that right?
+
+01:00:20.000 --> 01:00:26.000
+And it's like you you don't want this is something that you scale in a community way.
+
+01:00:26.000 --> 01:00:32.000
+You don't scale it through to you know leadership or admins, or anything like that, right?
+
+01:00:32.000 --> 01:00:42.000
+Anybody in the community should be able to help you join the community and maybe maybe maybe not everybody.
+
+01:00:42.000 --> 01:00:59.000
+But it's it's. not something that is something that you want to do a role specialization for really you're seeing it being an onboarding thing, And anyone in the community can help on board someone else did I is that a good
+
+01:00:59.000 --> 01:01:08.000
+summary. Okay, Yeah. And and then it helps both ways right It's a biological kind of help thing where the community is new.
+
+01:01:08.000 --> 01:01:17.000
+People come into it. People who are have been in the community longer can see their community with fresh eyes.
+
+01:01:17.000 --> 01:01:22.000
+They can see. You know what new people are thinking about. They can see, you know.
+
+01:01:22.000 --> 01:01:26.000
+It helps. It helps everything right. it's a it's a virtual.
+
+01:01:26.000 --> 01:01:30.000
+I love it. Thank you i'm seeing your vision now and that makes total sense.
+
+01:01:30.000 --> 01:01:34.000
+So I I guess I was thinking of the initial past like the community.
+
+01:01:34.000 --> 01:01:39.000
+There's a community of core people and they get to answer this right and then and then.
+
+01:01:39.000 --> 01:01:51.000
+But from there on out when you when you're bringing new people in. Oh, yeah, that's brilliant. Okay, I feel like I've taken up a bunch of our time can I just show you one other question.
+
+01:01:51.000 --> 01:01:55.000
+Though, just because it was a very wendy album now that we've done one question.
+
+01:01:55.000 --> 01:02:06.000
+Yeah, I will see it. The question was about like stage of co-creation which doesn't mean a lot to anybody, and we got into a bit of a discussion about it a couple days ago.
+
+01:02:06.000 --> 01:02:08.000
+So instead I ended up framing It this way and I'm.
+
+01:02:08.000 --> 01:02:13.000
+Curious what people think of this one without any framing at all.
+
+01:02:13.000 --> 01:02:25.000
+And this dot when the middle would be something you could drag, you know, to move, and it would answer the question differently, depending on how you move it around.
+
+01:02:25.000 --> 01:02:32.000
+I wonder if you can expand the the prompt question just a little bit, because it's It's got a couple generics in it.
+
+01:02:32.000 --> 01:02:36.000
+My interest in what and well, it would be the interest you already outlined.
+
+01:02:36.000 --> 01:02:42.000
+Yeah, that's true, the context of this would be let's say, you said you had an interest in software.
+
+01:02:42.000 --> 01:02:49.000
+Development. Okay? And then, in the evolution of new ideas around in in this community, in other communities.
+
+01:02:49.000 --> 01:03:01.000
+Yeah, that's a good point it's not clear but is it easy to to kind of just so make up an answer in your head to those.
+
+01:03:01.000 --> 01:03:11.000
+If you would give it your own context. and then and then Let's see if if you know this, this even become an interesting kind of question to answer.
+
+01:03:11.000 --> 01:03:21.000
+Is it just too confusing overall see the example I picked it's like right in the middle.
+
+01:03:21.000 --> 01:03:31.000
+It wouldn't move because the key framework is in fact, helping people discover new things and assess Swift.
+
+01:03:31.000 --> 01:03:39.000
+Well, actually I don't know maybe that can you explain it's totally fine if it's if it's directly in the middle.
+
+01:03:39.000 --> 01:03:46.000
+That's a that's an answer so then what you need is to make sure that you can. You can not answer.
+
+01:03:46.000 --> 01:03:52.000
+So almost like a check box. this doesn't apply or something yeah yeah, yeah.
+
+01:03:52.000 --> 01:04:01.000
+But I guess the bottom to feel really like they're in the way they get their word in a bit similar.
+
+01:04:01.000 --> 01:04:07.000
+Whereas can you expand on the bottom right one the bottom?
+
+01:04:07.000 --> 01:04:16.000
+This assists this one. Yeah, you just need it bigger. No, I mean like this assistant plan.
+
+01:04:16.000 --> 01:04:28.000
+I are making things for everyone's use like how is that different from being a key, something that's I guess a key framework.
+
+01:04:28.000 --> 01:04:41.000
+Yeah, I mean just verbally talking about it right. you can have a key framework that's literally something no one's actually tried using yet, right?
+
+01:04:41.000 --> 01:04:49.000
+It could be something that's a it can be a new concept, a new formula, a new that hasn't really been applied at all right, and still just emerging.
+
+01:04:49.000 --> 01:04:53.000
+Or it could be something that's been applied so often it's pretty well validated.
+
+01:04:53.000 --> 01:05:05.000
+Everyone's got a good sense of it right and so or It could be, have not formed at all as a key framework or system, and just be existing as a it's like not a framework.
+
+01:05:05.000 --> 01:05:13.000
+It's not really a system. it's really just a thing like it's an app, you know, or it's a module, or it's a
+
+01:05:13.000 --> 01:05:28.000
+It's a website right? It did what I wouldn't necessarily it's a framework or a system in and of itself I think I would. The The qualities, I think, I would make them a lot shorter and I would make them
+
+01:05:28.000 --> 01:05:45.000
+more more that I would bring out the the main concept of what it what it is that when it, when it gets to be a a sentence, you kind of want to qualitative sentence or paragraph, answer right So like the
+
+01:05:45.000 --> 01:06:05.000
+bottom left. one looks like innovation or something, and then the bottom right one is like helps everyone. and then the top one is, you know, solution for key key solution or something cool.
+
+01:06:05.000 --> 01:06:20.000
+Thank you any other thoughts Thanks I think it's just fun to play. This is one of Wendy Alfred's quite kinds of questions, and so I was trying to play around with I've never I've never played around with
+
+01:06:20.000 --> 01:06:29.000
+trying to come up with what the parts are for this type of response, and I know she's even said it's an art.
+
+01:06:29.000 --> 01:06:34.000
+It's a little bit of an art form to frame it and to and to write it properly.
+
+01:06:34.000 --> 01:06:37.000
+I just thought i'd play with it a bit on my own.
+
+01:06:37.000 --> 01:06:42.000
+So thank you, I think it's cool that you did thanks yeah, those sort of things.
+
+01:06:42.000 --> 01:06:48.000
+And I think, yeah, Wendy was saying, those sort of questions where you have to move the thing.
+
+01:06:48.000 --> 01:06:52.000
+It just kind of makes you think but if you make you think too much.
+
+01:06:52.000 --> 01:07:01.000
+The point where you're like. Oh, that think but not like things so much that you're like, yeah, you're overwhelmed, and you stop.
+
+01:07:01.000 --> 01:07:15.000
+Yeah, Yeah. Thanks. everyone. cool. yeah i'm curious and and high grace.
+
+01:07:15.000 --> 01:07:33.000
+Glad you joined me. Great When do you think it would be helpful if I shared the the graph, The chart view that I just actually got working in the live version so that way people could play with kind of where one
+
+01:07:33.000 --> 01:07:39.000
+potential output of the information. Yeah, I think that would be great.
+
+01:07:39.000 --> 01:07:43.000
+I also just want to check in with people since we've i've taken a lot of time on tapestries.
+
+01:07:43.000 --> 01:07:58.000
+See if there's other things that people want to talk about also wanted to just mention potentially what Gan and Gary are working on, and to see if that's a good topic for another flotilla that maybe we invite them
+
+01:07:58.000 --> 01:08:04.000
+to come and talk because they're working on something pretty big that I think could integrate with a lot of things we've been talking about.
+
+01:08:04.000 --> 01:08:07.000
+So. I just want to bring that up by the potential too.
+
+01:08:07.000 --> 01:08:15.000
+I i'd like to wrap in around the bottom of the hour. not a hard stop, but so and and then I don't know of anything else to talk about.
+
+01:08:15.000 --> 01:08:25.000
+It's cool to keep going. on. Okay, yeah okay I Think I would just want 5 min or so to talk about maybe 10 to talk about Gan and Gary
+
+01:08:25.000 --> 01:08:31.000
+What they're working on So you want to show the the tapestry. Vincent: that would be awesome.
+
+01:08:31.000 --> 01:08:35.000
+, yeah, we'll keep that here a little bit about what I'm working on.
+
+01:08:35.000 --> 01:08:40.000
+If people want to hear that would be great so Cool how about since we're on the tap, Mr.
+
+01:08:40.000 --> 01:08:48.000
+Dead right now. How about I? weave? that together, in 5 then we'll pass it to a grace for 5 and then Wendy could talk about Gears Project.
+
+01:08:48.000 --> 01:09:01.000
+Yeah, that sounds great. cool. So see how basically started just kind of playing around with some different ways of visualizing the responses like the contributions.
+
+01:09:01.000 --> 01:09:15.000
+I'll go onto the tapestry I found this yeah plugin where you can kind of make heat maps so so you can visualize how many responses are in each quadrant and right now,
+
+01:09:15.000 --> 01:09:20.000
+there's like just one response in each quadrant here, so they look all to be the same color.
+
+01:09:20.000 --> 01:09:23.000
+But i'll show you what it looks like if you have a lot more responses.
+
+01:09:23.000 --> 01:09:26.000
+That's where it kind of gets a little bit juicy.
+
+01:09:26.000 --> 01:09:33.000
+So yeah, in this case like this, this area has 6 at least have one and 2.
+
+01:09:33.000 --> 01:09:42.000
+So it actually will make the areas where there's more responses darker colors, and the ones where there's less responses, lighter color.
+
+01:09:42.000 --> 01:09:53.000
+And so, basically, when you click on, so you have the 2 axes is the same as the These are the sectors like software sense making our media.
+
+01:09:53.000 --> 01:10:08.000
+And then on the bottom the user the stages, there's also a section for unassigned. So you can see the ones so you can click on kind of each stealth, and it'll show the the response.
+
+01:10:08.000 --> 01:10:14.000
+And then it'll also show a link to the person's profile
+
+01:10:14.000 --> 01:10:32.000
+And then, in the case where there is more than one response it'll show multiple responses Better so like you know there's 2 responses that are in design that are in the kind of stage 2 like just starting to explore and so if
+
+01:10:32.000 --> 01:10:38.000
+you click on one of those. Then it will open up you know that the specific one
+
+01:10:38.000 --> 01:10:48.000
+And for ones where it's. unassigned I haven't figured out like what's the best way to yeah to actually visualize those
+
+01:10:48.000 --> 01:10:53.000
+Yeah. So that's the kind of visualization that I was playing around with i'll paste the Link.
+
+01:10:53.000 --> 01:11:05.000
+If anyone wants to explore all you have to do is when you go here, just click anywhere in the the black area, and it'll close this to pop up.
+
+01:11:05.000 --> 01:11:35.000
+And then the view is this: little chart right here heat maps Call: Yeah, I think one of the things about like visualizing the information is that once you get more than a few answers in a cell Oh, visually.
+
+01:11:44.000 --> 01:11:47.000
+It gets very overwhelming to like actually be able to show all them.
+
+01:11:47.000 --> 01:11:55.000
+And so I think this would be just a good, like high, level view to be able to then zoom in to like a specific cell.
+
+01:11:55.000 --> 01:12:03.000
+See the 20 responses it's in that cell and then really kind of dive into the individual stories. See?
+
+01:12:03.000 --> 01:12:24.000
+I don't. I I know I don't know Do we want to take a few minutes to to play with the the heat map?
+
+01:12:24.000 --> 01:12:35.000
+I think we just finished that prototype. so any feedback would be appreciated to kind of make a next iteration.
+
+01:12:35.000 --> 01:12:43.000
+But yeah, I think once we have some actual store more stories and then that that heat map you, I think, will be a better.
+
+01:12:43.000 --> 01:12:52.000
+It's kind of when you're doing design it's interesting because it's like you kind of have to keep building different versions for the scale of the information as it increases.
+
+01:12:52.000 --> 01:12:57.000
+So this one is kind of not as useful when there's not a lot of responses.
+
+01:12:57.000 --> 01:13:20.000
+I would say it's kind of what I realized this is clicking on the tapestry link, and you know the the onboarding process, and I was thinking how unusual it is like what an unusual way to collect
+
+01:13:20.000 --> 01:13:26.000
+data versus the way that data is collected right now.
+
+01:13:26.000 --> 01:13:45.000
+And boy, it really is it's an owner as process. So, for example, even just something like, can we import your linkedin data and have you highlight, some words would be a lot easier than tell us what you're interested in
+
+01:13:45.000 --> 01:13:49.000
+and what you're good at like i've got a lot of my linkedin profile.
+
+01:13:49.000 --> 01:13:59.000
+Right. So I get the move away from things that collect information on me without my knowing towards things that I get to say what I want to say about myself.
+
+01:13:59.000 --> 01:14:18.000
+But it feels like it's like saying Well, you know we don't like whatever it is like we're just gonna go back to knitting our own clothing, because we don't like importing all this stuff from china i'm
+
+01:14:18.000 --> 01:14:25.000
+not really for that like I don't think that whatever it is decentralized web.
+
+01:14:25.000 --> 01:14:36.000
+3 people. whatever you want to call yourself like people who are trying to break out of the current system that we should throw out the really intelligent things that we've got, that are much better at understanding.
+
+01:14:36.000 --> 01:14:47.000
+The what we want, and what we're interested in then like me trying to remember what it is that I wanted to say, and I also see, like the prompts are a little bit weak.
+
+01:14:47.000 --> 01:14:56.000
+Like. It might be fun to have a manual data collection process, but with kind of periodic prompts like, Have you seen this movie, or you know?
+
+01:14:56.000 --> 01:15:02.000
+And what did you think of it, you know, or like? Just tell us one short story about what I mean.
+
+01:15:02.000 --> 01:15:04.000
+Like the prompt of like, What would you like to be interested in?
+
+01:15:04.000 --> 01:15:12.000
+I just like, I just want to die when people ask you that like one more fish, one like one more system telling you what would you like to contribute to the network?
+
+01:15:12.000 --> 01:15:20.000
+I'm like you know that's like my career's pretty long man. Parenting advice is on the list too, mallet.
+
+01:15:20.000 --> 01:15:26.000
+I think of it like you know. Maybe the prompts need to be more.
+
+01:15:26.000 --> 01:15:37.000
+I don't know fun fun. I want fun you came to the right or wrong place.
+
+01:15:37.000 --> 01:15:48.000
+Any suggestions on how to do that, You can make a more simple like.
+
+01:15:48.000 --> 01:15:56.000
+What were the last 3 things somebody asked you to do for free That's a pretty good indicator of what I can contribute, you know.
+
+01:15:56.000 --> 01:16:02.000
+I just think, what are you trying to get at, and then ask a more specific question?
+
+01:16:02.000 --> 01:16:19.000
+When was the last. Sometimes somebody, thank you for something you didn't even know that you had done just got the last few things you got paid for, and what do I for?
+
+01:16:19.000 --> 01:16:36.000
+Sure, but but yeah, exactly what was the last 3 things you got paid a lot for Yeah, I don't like that last one at all.
+
+01:16:36.000 --> 01:16:47.000
+No, I don't like it. it makes the separation between who you are at your core, and what you do for money?
+
+01:16:47.000 --> 01:16:56.000
+Hopefully. we're getting to a place where those 2 things are not separate.
+
+01:16:56.000 --> 01:16:59.000
+It's a good question to to make optional I definitely agree.
+
+01:16:59.000 --> 01:17:13.000
+But I do some. What are the last things you you did for money that you that you also enjoy, or something like that.
+
+01:17:13.000 --> 01:17:19.000
+Maybe I did like the free question, though it would also be really interesting to have a list of, you know.
+
+01:17:19.000 --> 01:17:27.000
+Pick a pick, a question that you feel like answering right now, and that's also more information getting out of the person like which thing are they interested?
+
+01:17:27.000 --> 01:17:34.000
+Any answering answer a few of these questions and Then ? once, I yeah like, please answer one of these questions.
+
+01:17:34.000 --> 01:17:40.000
+Every time you log in, so that you know if the system gets to know you better, and then you'll see in what order people pick questions.
+
+01:17:40.000 --> 01:17:53.000
+I like the idea of sort of a a, you know. word cloud like bunch of bubbles.
+
+01:17:53.000 --> 01:18:08.000
+Then you know of questions that when you hover over them they zoom forward, and you can answer whichever ones you want, and it's just a little game to see which of these things strike your fancy and you can answer more later I mean
+
+01:18:08.000 --> 01:18:24.000
+i'm not saying this the whole process should be like this but that would be a good gameified with to to play this where you could come back and do more, and and make it more fun.
+
+01:18:24.000 --> 01:18:38.000
+Cats are dogs. Why, yeah, I like that idea of being able to add like lots of different lots of different questions.
+
+01:18:38.000 --> 01:18:55.000
+And yeah, Grace. I think so. One of the the context of the the task stream is like within a community or across multiple communities being able to have these kind of responses that can be visible to people in lots of different communities So when you
+
+01:18:55.000 --> 01:19:03.000
+go in to a group for the first time. You can kind of see, like, you know, where everyone is, and a different kind of map than geographical map.
+
+01:19:03.000 --> 01:19:19.000
+But a map of the kind of stories in a way that's not just like scrolling through a feed of posts, but that something that you can constantly be like building on top of and so and yeah, and we're working on
+
+01:19:19.000 --> 01:19:22.000
+building it to be integrated with categora.
+
+01:19:22.000 --> 01:19:29.000
+Previously trove. so you can I think if you're logged in It'll pull information from your your profile.
+
+01:19:29.000 --> 01:19:38.000
+So you don't have to kind of constantly fill out a lot of those main main questions, So that's just like 2 pieces of of context.
+
+01:19:38.000 --> 01:19:44.000
+There. And Wendy. Yeah, I think you have some. We want to add, Yeah, I was just gonna wrap, because.
+
+01:19:44.000 --> 01:19:49.000
+So I just want to say, thank you, everybody, for your for your feedback and for your thoughts.
+
+01:19:49.000 --> 01:19:59.000
+They keep weaving their way into other iterations and and i'm kind of going back to the beginning of all this, which is, we want it. I love all the ideas that came up.
+
+01:19:59.000 --> 01:20:07.000
+I even I want to acknowledge to Eric you put a ton. You didn't say anything you didn't voice things, but you put tons of stuff in chat and I loved that, too.
+
+01:20:07.000 --> 01:20:09.000
+And Stacey a couple comments and chat as well.
+
+01:20:09.000 --> 01:20:15.000
+I tried to grab everything. so thank you everyone for your comments both voiced and typed.
+
+01:20:15.000 --> 01:20:26.000
+And we'll keep working on it you know in the end I think I'm starting to separate in my mind like Here's the here's the vision of what i'd love it to be one day, and Then
+
+01:20:26.000 --> 01:20:34.000
+there's going to be the what what would be useful right out of the gate like what would just be right because I think we're still hearing from communities.
+
+01:20:34.000 --> 01:20:40.000
+It would just in the nice, But I just want to know what projects people are working on like we just get that in one place.
+
+01:20:40.000 --> 01:20:53.000
+So there's a little bit of that too is just trying to get what's the lowest bar we can set that provides value and get that piece done on, on, maybe a more quicker quit on a quicker piece, and then keep working towards
+
+01:20:53.000 --> 01:21:03.000
+the vision of Cuz. I. Gamification, I think, is is essential, for you know, managing knowledge at this kind of level and doing the sense making.
+
+01:21:03.000 --> 01:21:13.000
+I think some of us love it and that's why we're here, having these conversations, and for some people it's just a lot and they're tired of doing it over and over and over again, and so I that really resonated for
+
+01:21:13.000 --> 01:21:20.000
+me Grace, what you were saying about that I don't want to have to fill out yet another form for yet another community, either, or yet another profile.
+
+01:21:20.000 --> 01:21:27.000
+So. How do we strike a balance in the short term, and then shoot for a really good solution in the long term?
+
+01:21:27.000 --> 01:21:39.000
+Thank you everyone, Michael. I see your hand raise Yeah, I wanna wanna share something with it with the caveat that I i'm very conscious.
+
+01:21:39.000 --> 01:21:47.000
+The fact that I feel like you know a lot of the things we've said, or but make it more like this Do this.
+
+01:21:47.000 --> 01:22:01.000
+Don't do that. you know it's like you came in here with this like like pretty great prototype that you guys have done, and and and it's you know it's not you've been you've been enduring a lot
+
+01:22:01.000 --> 01:22:06.000
+of crossfire from different directions, and and you know it.
+
+01:22:06.000 --> 01:22:23.000
+It. it's great so like putting that aside I wanted to say something else, and didn't want to make it seem like all directed at tapestry, but bringing up almost another question that i've been thinking about a lot that
+
+01:22:23.000 --> 01:22:28.000
+speaks to Grace. what you were saying about I already did all this in Linkedin.
+
+01:22:28.000 --> 01:22:44.000
+There's there's a kind of decentralization goal of individuals, knowing everything that's known about them.
+
+01:22:44.000 --> 01:22:49.000
+I'm not saying this is a general decentralization goal, but
+
+01:22:49.000 --> 01:22:59.000
+The the idea that, like what you've already filled out in linkedin what you've already what Google knows about you.
+
+01:22:59.000 --> 01:23:10.000
+What Facebook knows about you. what the credit reporting companies know about you all the stuff, all the data that you've generated, that you don't have access to
+
+01:23:10.000 --> 01:23:19.000
+The idea that you could pull that into one place, and that involves cooperation with a lot of non cooperative entities.
+
+01:23:19.000 --> 01:23:40.000
+Right now. But but if you think about just the idea that on you know a Gdpr compliant level, you just have a little dashboard that shows you the info that you already have in you're linkedin and
+
+01:23:40.000 --> 01:24:06.000
+and exposed on Facebook or Twitter, or whatever, and if that could be pulled into one place as a profile, and then you edit that, you know you edit, that is, and and are able to in a tapestry or
+
+01:24:06.000 --> 01:24:19.000
+you know, in in a hopefully interoperable categorical factor, massive wiki ogm Hilo.
+
+01:24:19.000 --> 01:24:33.000
+Whatever whatever platform that mother, that mother profile information that's something that is for you, that only you can see all of put together something you can say.
+
+01:24:33.000 --> 01:24:41.000
+This is the stuff about me that I want to expose in this context, like, I don't want to put all my professional stuff on this platform.
+
+01:24:41.000 --> 01:25:00.000
+This is more about my passion for you know parenting you know, and and I don't want to put my parenting stuff on this platform, because this is more about like my cause related work around X and that sort of speaks to the thing that came
+
+01:25:00.000 --> 01:25:11.000
+up in one of our meetings that you Oh, guys, I guess when we were talking about tapestry and Eric, you brought this up in chat.
+
+01:25:11.000 --> 01:25:22.000
+The idea that you gather a bunch of information about yourself that you can look at, and you can learn from about yourself.
+
+01:25:22.000 --> 01:25:39.000
+And I was talking about how like in my years in the magazine business the one sure fire cover line was, Take our blah blah blah quiz, and you know, find out your data.
+
+01:25:39.000 --> 01:25:58.000
+Type, whatever it was, people love to learn about themselves, and if you could aggregate your information, add to it in it in a gradual way, where a new question would pop up. That could be as whimsical as Cats or dogs why you
+
+01:25:58.000 --> 01:26:06.000
+know vanilla or chocolate, whatever? that would be both fun and useful.
+
+01:26:06.000 --> 01:26:17.000
+And then the ability to choose how you want to expose yourself in different contexts would be yours, anyway end of thought.
+
+01:26:17.000 --> 01:26:30.000
+But I just want to just a quick comment. that's useful over. Time like to see how I was 15 years ago to today, and I've changed. Have I learned anything I don't think so.
+
+01:26:30.000 --> 01:26:49.000
+I would also say that it's a slightly naive view of what your data looks like, and how interpretable what the computer thinks of like what an Ai program thinks of you is to an individual and the usefulness of an
+
+01:26:49.000 --> 01:27:04.000
+individual's data detached from the comparison of that data to other people's patterns like like If you had to ask a computer, why did it show you a picture of that thing that you want the answer is not a human
+
+01:27:04.000 --> 01:27:19.000
+understandable Answer. But I agree conceptually with everything you're saying, and in particular all the facial recognition data and the biometric, you know, like being able to know who's got that and retract that that system that eric posted which
+
+01:27:19.000 --> 01:27:23.000
+made to go out. Oh, my goodness, you know. But I know those are the everywhere, Right?
+
+01:27:23.000 --> 01:27:49.000
+Every Yeah, I agree completely with what you're saying grace and it seems like the the simple stuff the you know you pop quiz, you know, just getting my information together, being able to see what I look like where is the gateway drug to
+
+01:27:49.000 --> 01:28:12.000
+really understanding, like all the data, and how it affects you know to be able to say, Oh, this thing about this platform, knowing the combination of my age and location and visits to X is determining that i'm getting these offers for this and
+
+01:28:12.000 --> 01:28:28.000
+I don't want that known and I don't want those offers. and I want to filter those you know you get get deeper and and and also get to the point where data trusts where people might
+
+01:28:28.000 --> 01:28:39.000
+fiduciarily. You know, delegate some of the responsibilities for their data around something to some trusted entity.
+
+01:28:39.000 --> 01:28:45.000
+You know the way they do a financial advisor or a lawyer, or a doctor.
+
+01:28:45.000 --> 01:29:06.000
+Would be in their power to do like I don't understand this. I want to hire somebody who works for for me to like manage location data by some standards that you know that we agree to that they're not working for
+
+01:29:06.000 --> 01:29:21.000
+anybody else. they're working for me hey? i'm just breaking in because I have a hard stop at 1 40 at 45 past the hour, and so i'd love to hear what grace is up to and then do a quick very quick
+
+01:29:21.000 --> 01:29:34.000
+like, and Gary do mind if we switch gears and all right so for now i'm just going to do so super quick what i'm up to I just completed cohorts 9 and 10 of my 6 week the future
+
+01:29:34.000 --> 01:29:45.000
+ain't what it used to be workshop which is the main reason why I didn't continue the money conversations with Ogm, because i'm like i'm busy, but I do want to do series for odm and
+
+01:29:45.000 --> 01:29:57.000
+whatever and at the end. of this A bunch of people got very pushy about, you know we don't want it to end, and we want you to create a community, and i'm like I do not it's not this is not a community.
+
+01:29:57.000 --> 01:30:00.000
+It's a workshop you know like you go to college.
+
+01:30:00.000 --> 01:30:03.000
+You meet some cool people, and you, you know you leave the campus.
+
+01:30:03.000 --> 01:30:10.000
+But what I am going to do is to add them to the Cfc. matter.
+
+01:30:10.000 --> 01:30:16.000
+Most there's a lot of the topics we talked about there's overlap, and i'm working on creating some kind of a campus.
+
+01:30:16.000 --> 01:30:22.000
+I just want to call it a campus where people and do workshops.
+
+01:30:22.000 --> 01:30:34.000
+Hold events. I'm going to probably use what you call it Vincent, you know what you call it, whatever that is where you walk.
+
+01:30:34.000 --> 01:30:48.000
+Oh, Utopia topia, and i'm actually thinking about moving all my meetings into there like moving in a little office where I sit in my office, and when the doors closed like i'm in topia and then I come out to the coffee
+
+01:30:48.000 --> 01:30:51.000
+house, and people can run other courses and other workshops and other stuff there.
+
+01:30:51.000 --> 01:31:06.000
+So kind of a Co. stewarded campus and yeah, and and putting my workshops also on a kind of a running basis where you can look at the do the curriculum at your own pace.
+
+01:31:06.000 --> 01:31:18.000
+And then come every week to the weekly group and then sit at the table for the week that you're at or the table with the coolest people which are, you know, you feel like nobody's gonna but anyway.
+
+01:31:18.000 --> 01:31:31.000
+So. yeah, So that's what i'm really working on is trying to think about how to use these some tools to come together. and maybe i'll just do a like a quick like what i'm trying to avoid i'm taking a spanish out
+
+01:31:31.000 --> 01:31:39.000
+of class right now. This is my centralized location, where I get all my information about my Spanish class.
+
+01:31:39.000 --> 01:31:48.000
+Well, not quite all. but let's just do okay here's. the events that are listed for me with my with my with my line.
+
+01:31:48.000 --> 01:31:52.000
+And then this is the app that i'm supposed to download on my phone and do.
+
+01:31:52.000 --> 01:31:56.000
+And then this Oh, this is the other app that i'm supposed to download on my phone, or click this like.
+
+01:31:56.000 --> 01:32:05.000
+Oh, it's not a clickable link I have to copy. and paste it. and then here's some theoretical stuff like about like Oh, I want to understand how language learning.
+
+01:32:05.000 --> 01:32:15.000
+Works. wait there's another another link for another app that i'm supposed to learn my stuff for and then oh, there's the 10 steps.
+
+01:32:15.000 --> 01:32:28.000
+These are actually related to the number 2. app and these are the steps, But I'm really only supposed to do it up to 5, but not up to 10 until later. and then here's my plan you can see on some days I do the
+
+01:32:28.000 --> 01:32:33.000
+Blues saying on other days I do the dark loosing and the light loose thing, and the yellow.
+
+01:32:33.000 --> 01:32:38.000
+I don't know what they are and then here in case I don't know what they are here.
+
+01:32:38.000 --> 01:32:45.000
+They are all written out, and I can check off the ones that i've done each day, and they like update i'm not up to week 3.
+
+01:32:45.000 --> 01:32:48.000
+It's an empty toggle and then Oh, wait there's one more thing.
+
+01:32:48.000 --> 01:33:00.000
+If I If I go here, then every time I do a lesson i'm supposed to type it in here, and then say how much percentage I understood at the beginning, and how you can see how excited I am about filling out this form,
+
+01:33:00.000 --> 01:33:15.000
+and just in case that wasn't enough there's another document which this is where my teacher for each session write down everything that we've been talking about, and as you can see none of the have how I paid my
+
+01:33:15.000 --> 01:33:21.000
+receipts, or any of that other stuff and that's what i'm trying to avoid on my campus.
+
+01:33:21.000 --> 01:33:40.000
+So i'm looking for tools. so you're saying you don't want to have a separate task manager project manager, password, manager, Crm: invoice, software, and Then you have to have another software just to manage all
+
+01:33:40.000 --> 01:33:50.000
+those software. Yeah. And then, as you could see by that thing that was manually put together by somebody for each student, he has to do that.
+
+01:33:50.000 --> 01:33:55.000
+Yeah, right like it's not like my program is copied to the next student.
+
+01:33:55.000 --> 01:34:00.000
+So i'm just that's just an idea of what i'm trying to avoid.
+
+01:34:00.000 --> 01:34:04.000
+And why I thought Slotilla might be a good place for me to hang out a little bit.
+
+01:34:04.000 --> 01:34:14.000
+I'm so glad you came. grace for that particular example, because you know, Vincent knows, and Grace No, I sent out an email that just went.
+
+01:34:14.000 --> 01:34:22.000
+Oh, my God, we have to talk because Jonathan sand who both Winston and I know, took your class Grace and Jonathan's been working with me.
+
+01:34:22.000 --> 01:34:26.000
+I've been working with jonathan to work on some user interfaces, and on the side he went.
+
+01:34:26.000 --> 01:34:31.000
+Oh, yeah, i'm taking this class. but I didn't know it was yours. and so it it was.
+
+01:34:31.000 --> 01:34:36.000
+It was by circumstance really, that he and I in a conversation oh, wait, no!
+
+01:34:36.000 --> 01:34:40.000
+You're talking about great, I know grace look at us one of those.
+
+01:34:40.000 --> 01:34:52.000
+And so it's just funny. so and I think he was one of the ones really asking for asking for a community to last afterwards, and is the way he phrased it to me.
+
+01:34:52.000 --> 01:34:58.000
+I know I felt the same way when I graduated from from one of my year-long courses and lots of people.
+
+01:34:58.000 --> 01:35:08.000
+They did summits once a year for years, trying to draw the community back together because we were the inaugural class, and the classes kept growing, you know, in the in the alumni kept growing.
+
+01:35:08.000 --> 01:35:19.000
+From this program, and there was no We were all applying research in new ways, and there was no way for us to share what those new ways were that we were applying the research, and there was no way to cross-pollinate and
+
+01:35:19.000 --> 01:35:25.000
+there was no way they synthesize and there's no, I mean, unless people made individual relationships and fall through on them.
+
+01:35:25.000 --> 01:35:31.000
+And that was not happening so much. We tried the group tried all sorts of different ways to do that, and it just kept falling apart.
+
+01:35:31.000 --> 01:35:47.000
+It's just too much time so I bring all that knowledge for 2 of my own experience, and wanting to create a space where people can do that knowledge repository knowledge, staring, and i'm hearing it repeat now and your story and i'm hearing it
+
+01:35:47.000 --> 01:35:51.000
+repeat, and some of the other people that vincent and I have been talking to.
+
+01:35:51.000 --> 01:36:00.000
+And so i'm that's what made me want to reach out to you, too, and i'm glad you brought it back to this to flotilla. I think there's definitely some things that could be done would it get to
+
+01:36:00.000 --> 01:36:06.000
+one unified thing that is for the discussion. but in my mind I see a flow emerging.
+
+01:36:06.000 --> 01:36:14.000
+That is starting to repeat itself of the people who do the teaching need to just do the teaching.
+
+01:36:14.000 --> 01:36:21.000
+You know. and then, when the community emerges from that teaching, they need a place to then almost separate from the teaching.
+
+01:36:21.000 --> 01:36:31.000
+But what weven back into the teaching when possible, then they need a place to share and collaborate and discuss more, and take the learnings even further.
+
+01:36:31.000 --> 01:36:35.000
+And then there may be as other connected universes as well in terms of that.
+
+01:36:35.000 --> 01:36:39.000
+But I see, i'm seeing a need for that and i'm really glad you're bringing it up.
+
+01:36:39.000 --> 01:36:44.000
+Thank you. They're also need to be a couple of other flows one of the flows that's interesting like they're like great.
+
+01:36:44.000 --> 01:36:53.000
+You create this great community in the space space and i'm like Yeah, but it's heavy handed right at the end of the facilitation.
+
+01:36:53.000 --> 01:37:00.000
+Then I want us to be equals, terms of what we have to contribute and teach to one another.
+
+01:37:00.000 --> 01:37:04.000
+During the film facilitation. I don't want to speak Wolf.
+
+01:37:04.000 --> 01:37:10.000
+You guys, you know. You sit down in your chairs and behave right, and you don't want that either.
+
+01:37:10.000 --> 01:37:22.000
+You want someone to create the space in which something happens and So there is that like that's a flow that's important who's delicating when and Vincent knows what happens.
+
+01:37:22.000 --> 01:37:26.000
+We were in like. I totally screwed that up the first day I sent the distance right like you.
+
+01:37:26.000 --> 01:37:30.000
+Do you need to have that understanding who's in charge right now?
+
+01:37:30.000 --> 01:37:42.000
+And then the second flow is the money thing which is i'm. I'm really interested in i'm not interested money, but I happen to teach in that right that's the realm in which I teach so I want to create a
+
+01:37:42.000 --> 01:37:56.000
+transparency around the compensation of the facilitation and the back end, and all that stuff as kind of an experiment In How do we create a transparency that would allow the community to understand if they are
+
+01:37:56.000 --> 01:38:02.000
+appropriately supporting their steward. they're jerry for the sake of argument.
+
+01:38:02.000 --> 01:38:15.000
+Right like is the Jerry of the group getting you know being taken care of by the group, because that's what happens to these groups is like they fall apart because the person who's putting in all the mud all the time is like
+
+01:38:15.000 --> 01:38:29.000
+burned out and so that's part of the the leg I was saying that invoicing it's not just the invoicing It's understanding the flow of the money and are we caring for our leader and there
+
+01:38:29.000 --> 01:38:41.000
+is this kind of like you know there's a weird there's a weird relationship with that right like they're the they're the person in they're like my mom i'll pay my mom you know I used to
+
+01:38:41.000 --> 01:38:53.000
+co-f facilitate, with the Guy and we were really really good friends, and it would always show up that people would be kind of treating us like parents, you know, in some kind of like they're you know like this in the background, they didn't know they were
+
+01:38:53.000 --> 01:38:59.000
+chewing it. But but you know and then and then you're like you mean, I gotta pay you're like you know, Grace is okay.
+
+01:38:59.000 --> 01:39:14.000
+She's doing fine so, there's an acknowledge a need for a flow that that feeds back to the people who are curating the space, or administering the space, or facilitating the space, or how it whatever word we want
+
+01:39:14.000 --> 01:39:26.000
+to use to acknowledge that the weaving, and the glue and the underpinnings, and the all the things that are going and making the community possible for everyone else to benefit from that they're somehow an
+
+01:39:26.000 --> 01:39:30.000
+acknowledgement or compensation, or something fed back to that person?
+
+01:39:30.000 --> 01:39:33.000
+Is that what I hear I don't know if jerry's burnt out.
+
+01:39:33.000 --> 01:39:47.000
+That's what i'm saying right I don't know how like I do know for Pete, but I don't know how Jerry makes a living right and I don't know when he's going to be like fuck this
+
+01:39:47.000 --> 01:39:56.000
+ogm thing and jerry's mind thing and i'm sick of it, and I can't you know like i'm working, you know 60 h a week, and then volunteering 20 or I don't know that right that's what
+
+01:39:56.000 --> 01:40:02.000
+i'm talking about it's not just acknowledgment. it's like we should care for our stewards.
+
+01:40:02.000 --> 01:40:11.000
+Yeah, Okay, thanks, Grace, I've been hoping to put together like a generic flow.
+
+01:40:11.000 --> 01:40:17.000
+And so I'll show it to you and to this group too, when I have that's definitely something that's next for me.
+
+01:40:17.000 --> 01:40:21.000
+I started working on it, but it's too. I showed it to Vince, and it's too complicated.
+
+01:40:21.000 --> 01:40:37.000
+I gotta simplify it a bit and and create it more like a flow. And I definitely want to follow up on A. on a further discussion, because one of the other piece that my friend Michael brings in is for those people who want to take a real
+
+01:40:37.000 --> 01:40:46.000
+deep dive and discussing, and aspect of something and they want to build a community discussion, or something around an aspect of, and try and see if something new and emerges from that.
+
+01:40:46.000 --> 01:40:51.000
+That's different than i'm the teacher you're the learner course right? and so that's what he does.
+
+01:40:51.000 --> 01:40:57.000
+He does facilitated conversations, and is and want and and does them around topics.
+
+01:40:57.000 --> 01:41:05.000
+So whether it's governance or technology, or economics and his pat, his personal passion is for economics.
+
+01:41:05.000 --> 01:41:10.000
+So he'd love to have a group that did a deeper dive around economics that's the practical side.
+
+01:41:10.000 --> 01:41:13.000
+But then it's also recognizing that in the flow of things we need both.
+
+01:41:13.000 --> 01:41:20.000
+We need the I have something that's already been thought through and I want to teach it to you person who wants to learn.
+
+01:41:20.000 --> 01:41:25.000
+Then there's a space community where we can share and collaborate a bit, and then provide opportunities and synergies.
+
+01:41:25.000 --> 01:41:28.000
+And then there is we've got something juicy here.
+
+01:41:28.000 --> 01:41:32.000
+We want to talk about with much more depth, with people who are ready to go to that deeper level.
+
+01:41:32.000 --> 01:41:35.000
+And I see those as 3 different things and that's why I got excited going.
+
+01:41:35.000 --> 01:41:46.000
+You all are trying to do the same thing. just from slightly different angles, and there could be a lot of synergy there and providing community engagement across across the board.
+
+01:41:46.000 --> 01:41:49.000
+Yeah. And then there's another thing which is like hey?
+
+01:41:49.000 --> 01:41:57.000
+Take a look at my fans please give me feedback, which I did this week in Kevin for me apart, and i'm like I've got to start all over again, and but you know and that's like i'd like
+
+01:41:57.000 --> 01:42:03.000
+to just i'd like to invite a session where you guys help me right on this particular topic.
+
+01:42:03.000 --> 01:42:20.000
+Yeah, especially once, you've gotten that group, of people who know are at the same level, and coming from the same knowledge base, or, on contrary, people with different knowledge bases right, or at least you know what you're asking, and you know which are
+
+01:42:20.000 --> 01:42:23.000
+you asking people from different disciplines or similar disciplines?
+
+01:42:23.000 --> 01:42:33.000
+Very cool. all right. Do you feel a complete and sharing that I really appreciated hearing it before.
+
+01:42:33.000 --> 01:42:39.000
+I, and then i'll jump in into the other the gan Geary Project sound good.
+
+01:42:39.000 --> 01:42:43.000
+Anybody else have anything they want to ask Grace before I switch gears.
+
+01:42:43.000 --> 01:42:55.000
+Now definitely excited to yeah hear more grace. One of the core kind of themes that we end up talking about.
+
+01:42:55.000 --> 01:43:06.000
+If virtualized interoperability and so trying to you know there's never going to be one software or one tool that rolls them all.
+
+01:43:06.000 --> 01:43:22.000
+And so the you know all of us here are working on different projects, and, you know, trying to build them in ways that we're maximizing the amount of interoperability which in the end will you know may get a lot better experience for
+
+01:43:22.000 --> 01:43:26.000
+both users right, reducing amount of time, filling out your profile.
+
+01:43:26.000 --> 01:43:37.000
+18 times, and also the ability to kind of you know, switch different platforms to export your data and not be locked in.
+
+01:43:37.000 --> 01:43:41.000
+And so yeah, we're doing a lot of we do a lot of experiments and a lot of prototypes.
+
+01:43:41.000 --> 01:43:51.000
+So you kind of came into the middle of one of those so Yeah, we'd love to, you know, if you have any ideas for like experiments that you might want to do
+
+01:43:51.000 --> 01:43:58.000
+Yeah, let us know we could. You know, we usually, in the beginning kind of go through an agenda like different things to talk about.
+
+01:43:58.000 --> 01:44:22.000
+So. So I was part of i'm I'm met Gary originally last year in conversations with Google Lab. and then I didn't really see him much until last fall, when I was in an inquiry class technology inquiry
+
+01:44:22.000 --> 01:44:27.000
+cluster a small group of people, deep diving into conversation around.
+
+01:44:27.000 --> 01:44:36.000
+How we want the world to be with New Tech. And so Giri was in that in that group, and so was Gian, who had not met before.
+
+01:44:36.000 --> 01:44:51.000
+He was new to me at that time and again, and gary continued to work together, even though our conversations changed as just stopped as a group. and then we got together again as a group to kind of see where what what each other were working on and so it was the first time
+
+01:44:51.000 --> 01:44:57.000
+i'd actually seen or heard about their work together so again is a person who's very philosophical.
+
+01:44:57.000 --> 01:45:19.000
+I would, I would say, very spiritual, and has a real eye for understanding how technology can be used to advance human transportation and community transformation into action, and to some some semblance of action for the betterment of the world and youary
+
+01:45:19.000 --> 01:45:30.000
+has been working on a platform that allows for the synthesis of knowledge and the dissemination of knowledge.
+
+01:45:30.000 --> 01:45:36.000
+And and around. I am around it kind of has a different structure.
+
+01:45:36.000 --> 01:45:44.000
+So the site is called indie lab They are looking to launch, and they their goals are huge.
+
+01:45:44.000 --> 01:45:55.000
+They're talking about billions. of people, to use this platform, and so when I when they demoed it, my first response was to fold, it was, Oh, my gosh!
+
+01:45:55.000 --> 01:46:05.000
+This is powerful. This is a lot of what i've been thinking and dreaming of as well. and I a lot of people have told me I need to meet Gary because he's basically doing a lot of what I was I've been thinking
+
+01:46:05.000 --> 01:46:15.000
+about. That's a lot of what we've talked about in these in these meetings as well, and the other thing so all that, and everything that again was saying philosophically, also very much aligned for me.
+
+01:46:15.000 --> 01:46:22.000
+And then The piece that seemed to be missing from my perspective was a little more of ease of use.
+
+01:46:22.000 --> 01:46:27.000
+User interface user experience design, I thought could be improved a lot.
+
+01:46:27.000 --> 01:46:29.000
+My guess. I have not talked to them at any great length.
+
+01:46:29.000 --> 01:46:37.000
+It was just a quick presentation. and so yeah it's gin, and it's a him, and his.
+
+01:46:37.000 --> 01:46:42.000
+He also goes by James, I believe, and I believe, is this last name.
+
+01:46:42.000 --> 01:46:57.000
+And then you have Perry and indie lab and so i'm Curious if other people know of connections to them.
+
+01:46:57.000 --> 01:47:05.000
+If this makes sense to maybe have them comment, to see how we can support their works, how what might integrate what we could.
+
+01:47:05.000 --> 01:47:12.000
+Maybe I just seem. I just resonated for me as patting potential impact and and connection.
+
+01:47:12.000 --> 01:47:33.000
+So wanted to bring it up. So jerry uses a something that connects to hypothesis, and it's a way of commenting on websites, and he gave me feedback on something I had written using that hypothesis and it
+
+01:47:33.000 --> 01:47:40.000
+was pretty cool. it's sort of like a word comments where you could direct it to a piece of your text.
+
+01:47:40.000 --> 01:47:58.000
+So I haven't seen every thing he's done I just know It's all his work his ideas coded and i'm surprised to hear about billions of scope I mean i'm not sure yet he how the
+
+01:47:58.000 --> 01:48:11.000
+scaling is working out it's. worth learning about him maybe like he used to come to Ogm, so maybe if Jerry could invite him to talk about his project.
+
+01:48:11.000 --> 01:48:20.000
+That might be a good idea to start. We could invite him to fotilla for them.
+
+01:48:20.000 --> 01:48:25.000
+I would love to see this demo that you were impressed with.
+
+01:48:25.000 --> 01:48:34.000
+Yeah, Yeah, I would love for them to show it again. Who who should invite them?
+
+01:48:34.000 --> 01:48:38.000
+Wendy, is that you or I can surely reach out to them.
+
+01:48:38.000 --> 01:48:43.000
+Yeah. yeah. if that makes sense, we could have them Come, just give them the name and sorry.
+
+01:48:43.000 --> 01:48:47.000
+Give them the time of week and see which week works for them best.
+
+01:48:47.000 --> 01:48:53.000
+Does that that makes sense Pete okay, and Then i'll just i'll let you know Pete.
+
+01:48:53.000 --> 01:48:58.000
+If they pick a particular date. if they're interested in particular pick a particular date.
+
+01:48:58.000 --> 01:49:06.000
+It it's me or vincent or both it's easy.
+
+01:49:06.000 --> 01:49:11.000
+We we could also pick another time if it's this this time it's probably up there.
+
+01:49:11.000 --> 01:49:21.000
+But yeah, Okay, then, i'll let them know that too thank you Sorry.
+
+01:49:21.000 --> 01:49:30.000
+Go ahead, Vincent. Then we should put that vent on the plaques.
+
+01:49:30.000 --> 01:49:44.000
+Yes, my my new replacement for a doodle is it's when to meet It's working pretty well, and Doodle got way.
+
+01:49:44.000 --> 01:49:58.000
+Ugly doodle was already ugly that's a bit of it.
+
+01:49:58.000 --> 01:50:05.000
+It was. Yeah, Why are you sharing that, Pete? separate meetings or something?
+
+01:50:05.000 --> 01:50:09.000
+No, I sorry. telescoping, you know, made me think of this.
+
+01:50:09.000 --> 01:50:14.000
+Maybe think about me if we end up having to schedule with curing.
+
+01:50:14.000 --> 01:50:20.000
+I wanted to preempt that I hate deal so much at this point that I wanted to preemptively.
+
+01:50:20.000 --> 01:50:25.000
+Heart of Doodle. It got so bad they they started putting ads and stuff.
+
+01:50:25.000 --> 01:50:30.000
+They got taken over by capitalist monsters. sorry.
+
+01:50:30.000 --> 01:50:34.000
+No, no, no offense to capitalists or monsters especially.
+
+01:50:34.000 --> 01:50:39.000
+But anyway, it got bad enough that I actually tweeted at some point, you know.
+
+01:50:39.000 --> 01:50:51.000
+Okay, I screen shot into all the crappy ads they've got at the bottom, which was some from some horrible ad network. and it's like, Really, this is you guys are proud of yourself with this you know it's bad
+
+01:50:51.000 --> 01:50:56.000
+when I have to complain and shame that's because you haven't compared it to like the list.
+
+01:50:56.000 --> 01:51:20.000
+But when you like, open that, I want to opt out but in comparison to that, it's something to be proud of like we have room for all the Logos front.
+
+01:51:20.000 --> 01:51:26.000
+Yeah, what do you guys say? We wrap very complete. thanks.
+

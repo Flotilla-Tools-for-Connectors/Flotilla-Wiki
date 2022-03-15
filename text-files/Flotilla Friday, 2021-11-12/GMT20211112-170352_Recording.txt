@@ -1,0 +1,85 @@
+00:08:29	Mark Carranza:	Found this two days ago, haven’t reviewed it:
+00:08:34	Mark Carranza:	https://hypothes.is/annotating-all-knowledge/
+00:08:45	Mark Carranza:	AAK: Annotating All Knowledge
+00:10:18	Bill Anderson:	mc: a newer alternative to hypothes.is: https://getmemex.com/
+00:10:45	Mark Carranza:	November DWeb video not up yet. Will poke.
+00:10:46	Bill Anderson:	i have been on hypothes.is for many years
+00:10:59	Jack Park:	hypothes.is is well-positioned to do something like AAK
+00:13:03	Mark Carranza:	Not a big fan of memex.garden so far. I like Oliver Sauter, met him several times
+00:18:46	Mark Carranza:	The measure of uncertainty?
+00:19:14	Mark Carranza:	Love a concept map of “entropy”!!!
+00:20:19	Mark Carranza:	What’s in a name?
+00:21:40	Jack Park:	Poirot: “little gray cells”
+00:22:28	Bill Anderson:	legendary conversations
+00:26:18	Mark Carranza:	Something went by too fast, but I’ll listen to the recording — as Pete gets it out
+00:26:54	Mark Carranza:	Is there something visually we can point to about topic map legends?
+00:27:41	CSC Zoom:	https://ontopia.net/
+00:28:24	CSC Zoom:	https://github.com/ontopia/ontopia
+00:31:39	Vincent Arena:	Good timing on joining Wendy 😄
+00:32:10	Vincent Arena:	Also, Pete: do you see all the different zoom settings on the bottom? Hosting a conference on Saturday with this account so I turned on breakout rooms 😄
+00:32:36	Wendy McLean, NY:	Yes!  So glad I’m here to hear this!
+00:33:08	CSC Zoom:	I see the breakout room button, and 3 “Live on …” items in the three-dot menu
+00:33:29	CSC Zoom:	And polls/quizzes
+00:34:59	Bill Anderson:	an older, related exploration is in this 1989 paper from Bill Kent: Anderson, William (2013): WKent: The many forms of a single fact.. figshare. Poster. https://doi.org/10.6084/m9.figshare.156473.v1
+00:35:42	Bill Anderson:	the one ring to rule them all
+00:35:46	CSC Zoom:	Upper ontology, _and_ umbrella as a verb! :-)
+00:35:54	Wendy McLean, NY:	+1 Bill
+00:38:37	CSC Zoom:	Speaking of engineers, a nice cover of Peggy Seeger’s song “I'm Gonna Be an Engineer”, by Reina Del Cid.  https://www.youtube.com/watch?v=m7_jhpvsFrM  (more about sexism than engineering. Although not many songs have “turret lathe” in the lyrics…)
+00:39:45	Bill Anderson:	CSC Zoom +100 on the Reina del Cid cover of Peggy Seegar’s song
+00:40:20	CSC Zoom:	Yikes! I haven’t changed my name. Fixing now…
+00:42:03	Peter Kaminski:	Conceptual Revolutions
+Book by Paul Thagard
+00:42:43	Peter Kaminski:	"Thagard examines the Copernican and the Darwinian revolutions and the emergence of Newton’s mechanics, Lavoisier’s oxygen theory, Einstein’s theory of relativity, quantum theory, and the geological theory of plate tectonics. He discusses the psychological mechanisms by which new concepts and links between them are formed, and advances a computational theory of explanatory coherence to show how new theories can be judged to be superior to previous ones."
+00:42:49	Jack Park:	Computational Philosophy of  Science - Paul Thagard
+00:43:08	Marc-Antoine Parent:	https://press.princeton.edu/books/paperback/9780691024905/conceptual-revolutions
+00:43:36	Mark Carranza:	https://www.degruyter.com/document/doi/10.1515/9780691186672/html
+00:43:46	Peter Kaminski:	Thomas Kuhn's The Structure of Scientific Revolutions (1962)
+00:45:58	Peter Kaminski:	https://en.wikipedia.org/wiki/Bruno_Latour
+00:46:05	Peter Kaminski:	(2013). An inquiry into modes of existence: an anthropology of the moderns. Translated by Catherine Porter. Cambridge, Massachusetts: Harvard University Press. ISBN 9780674724990.
+00:46:17	Marc-Antoine Parent:	http://modesofexistence.org
+00:46:24	Mark Carranza:	https://en.wikipedia.org/wiki/Mary_Midgley
+00:47:23	Bill Anderson:	I used Latour’s work in an attempt to enlarge my Xerox managers view of our socio-technical work.
+00:48:48	Peter Kaminski:	fyi, feminist and anti-colonial science https://civiclaboratory.nl/2017/12/29/feminist-anti-colonial-science/
+00:50:08	Mark Carranza:	Highly suggested, though pub. 1998
+00:50:10	Mark Carranza:	https://www.amazon.com/Artificial-Knowing-Gender-Thinking-Machine/dp/041512963X
+00:50:32	Mark Carranza:	Alison Adam
+00:50:55	Peter Kaminski:	and  "Pollution is Colonialism": Part 1 (ep 258) https://mediaindigena.libsyn.com/pollution-is-colonialism-part-1-ep-258  any effort looking to resist environmental harms must trace them back to their ultimate source—the violence of colonial land relations. A violence, the author argues, even well-intentioned environmental science and activism can reproduce. In this first of two episodes featuring the author, we discuss how the world became awash in plastics, with part two dedicated to how we might better grasp and grapple with the larger forces producing this toxic legacy.  "Pollution is Colonialism": Part Two (ep 259) https://mediaindigena.libsyn.com/pollution-is-colonialism-part-two-ep-259  "in the back half of this extended conversation, we find out why Land is not so much a noun as it is a verb, and why anti-colonial is not the same as de-colonial, especially when it comes to methods for pollution science, methods which foreground values of humility, equity, and good land relations."
+00:51:18	Marc-Antoine Parent:	l’acteur et le système
+00:51:41	Peter Kaminski:	L'acteur et le systeme
+Book by Erhard Friedberg and Michel Crozier
+00:51:58	Marc-Antoine Parent:	Yes that one
+00:52:19	Peter Kaminski:	Don't make me think is actually Steve Krug  Don Norman is The Design of Everyday Things and others.
+00:53:09	Marc-Antoine Parent:	Translated as “Actors and Systems”
+00:53:15	Mark Carranza:	https://resilientwebdesign.com/
+00:54:56	Marc-Antoine Parent:	On feminist history of science: I mentioned https://en.wikipedia.org/wiki/Evelyn_Fox_Keller
+00:59:30	Bill Anderson:	standards, formal and not, do slow down innovation. but they can enhance usability.
+01:02:17	Jack Park:	gotta run
+01:02:17	Marc-Antoine Parent:	That’s recent-ish, actually. I remember the early UX standards by Apple… they wanted their computers to be usable, not to advertise for someone else.
+01:03:11	Peter Kaminski:	this was reasonably early, too: Amiga User Interface Style Guide : Commodore-Amiga Inc. : Free Download, Borrow, and Streaming : Internet Archive https://archive.org/details/amiga-user-interface-style-guide
+01:03:20	Marc-Antoine Parent:	Who’s the target audience? If it does not match the user, you’re indeed in trouble.
+01:04:42	Peter Kaminski:	Human–computer interaction - Wikipedia https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
+01:05:07	Bill Anderson:	20-30 years from early Xerox PARC work on video-based work to today’s Zoom ++
+01:06:13	Vincent Arena:	Artisanship in software
+01:06:33	Vincent Arena:	Is Modern cookie-cutter architecture akin to google material design?
+01:06:38	Vincent Arena:	Or is it just “the best”?
+01:08:14	Marc-Antoine Parent:	Material design was such an interesting mix of very useful well-motivated form and pretty glitzy not-so useful form… more of the former, but still.
+01:09:33	Marc-Antoine Parent:	I don’t think it’s “the best”, but it’s the current local optimum in the fitness landscape… where familiarity of a common interface is a constraint, and sales are a constraint.
+01:09:52	Vincent Arena:	Iterate at scale (in terms of users) but also scale in terms of data?
+01:10:04	Marc-Antoine Parent:	Exactly Pete. Automated AB testing is a great way to get to a local optimum.
+01:10:30	Marc-Antoine Parent:	Which is not to say that there’s no space for major innovations outside of the local optimum.
+01:10:54	Bill Anderson:	engineers do like the statistics tools
+01:11:44	Wendy McLean, NY:	Agree that maps are not something easy for everyone, and meta / layered maps are even fewer people.  However, more people COULD than do.  If it provides enough benefit, reduce friction, increase connection, people learn.
+01:12:23	Bill Anderson:	wendy ++
+01:12:34	Marc-Antoine Parent:	indeed
+01:12:42	Wendy McLean, NY:	People used to know how to read street maps because it was essential, now they just use GPS so fewer people (younger set) know how to read a map.  Doesn’t mean they couldn’t easily learn.
+01:13:26	Bill Anderson:	i agree with the “easily learn” point
+01:14:13	Marc-Antoine Parent:	Can you give the paper url?
+01:14:19	Vincent Arena:	https://uxdesign.cc/the-vanishing-designer-6d3d999f9540
+01:14:26	Vincent Arena:	https://www.catalist.network/resource/the-vanishing-designer-ux-design-in-the-age-of%E2%80%A6-%7C-by-chu%C3%A1nq%C3%AD-sun-%7C-jul-2021-%7C-ux-collective
+01:14:30	Marc-Antoine Parent:	thanks!
+01:14:33	Vincent Arena:	Also on trove if you want to edit/add to it 😄
+01:15:05	Peter Kaminski:	one of my favorite explanations of local optima is by Neal Stephenson, Space stasis: What the strange persistence of rockets can teach us about innovation. https://slate.com/technology/2011/02/space-stasis-what-the-strange-persistence-of-rockets-can-teach-us-about-innovation.html
+01:16:53	Peter Kaminski:	_and_, https://www.spinlaunch.com/ is doing launches that aren't just bigger and bigger chemical rockets
+01:20:28	Wendy McLean, NY:	So important Marc-Antoine, yes!  BOTH familiarity and designing for flow are important
+01:22:39	Peter Kaminski:	https://www.flickr.com/photos/factoryjoe/
+01:23:51	Vincent Arena:	https://www.instagram.com/janm_ux/

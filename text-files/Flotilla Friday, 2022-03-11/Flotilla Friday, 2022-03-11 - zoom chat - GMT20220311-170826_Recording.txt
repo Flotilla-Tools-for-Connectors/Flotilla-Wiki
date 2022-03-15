@@ -1,0 +1,89 @@
+00:10:45	Bill:	What is a  zig-zag “dimension”?
+00:11:05	Eric Rangell:	Anything you want for organizing your data
+00:17:55	Michael Grossman (he/him) Factr.com:	…love that music use-case, Pete. “Other covers of this song”. “Songs that are sampled in this song.” “Songs that use a sample from this song”
+00:18:07	Pete Kaminski:	yes! :-)
+00:18:21	Pete Kaminski:	"songs that have the same producer" :-)
+00:18:56	Pete Kaminski:	that last one you can kind of do with Tidal, actually, which was a pleasant surprise when i moved from Spotify to Tidal
+00:20:00	Michael Grossman (he/him) Factr.com:	What’s the I in PKI?
+00:20:01	Vincent Arena (Catalist Commons):	Bill I think I was in that community, didn’t think anyone knew about it XD
+00:20:45	Wendy McLean, NY:	Hi everyone! Sorry I joined late today.
+00:21:25	Vincent Arena (Catalist Commons):	Lets do it!
+00:22:02	Michael Grossman (he/him) Factr.com:	Does PKI heavily overlap Second Brain? Or is there a conceptual difference?
+00:23:11	Pete Kaminski:	Pretty big overlap, I'd say.
+00:23:50	Eric Rangell:	As long as it has a cat in it
+00:25:28	Pete Kaminski:	a fair number of people use PKM and Second Brain sort of as synonyms: https://www.google.com/search?q=%22second+brain%22+pkm
+00:25:55	Michael Grossman (he/him) Factr.com:	There needs to be an action in the Catalist/Catagora/Cataport/Catabot universe called “herding”
+00:26:54	Eric Rangell:	It’s all about relationships, and relationships between relationships
+00:27:37	Vincent Arena (Catalist Commons):	https://airtable.com/invite/l?inviteId=invR2GovrfOVPL2iP&inviteToken=45dcc66cc37b9a6162f6127124865420cdaff6412dabc98485905d3b6a50d143&utm_source=email
+00:27:55	Vincent Arena (Catalist Commons):	1647019111944x938439941659016300
+00:28:47	Pete Kaminski:	1647019111944 = Fri Mar 11 2022 17:18:31 GMT+0000
+00:29:52	Vincent Arena (Catalist Commons):	1647019116670x134941651215547020
+00:30:01	Vincent Arena (Catalist Commons):	Another one created a few seconds apart
+00:33:12	Bill:	Eric: let’s talk sometime: the reduction of everything to relationships has its own ontological issue
+00:33:51	Bill:	Zander doesn’t want me to type
+00:34:23	Pete Kaminski:	typing is boring :-)
+00:39:26	Wendy McLean, NY:	What would you like to contribute?  Your contributions to this community matter!  What do you know, from your lived experience that could be of service to others?  Or know about in general, that others might find useful? Tell the community, in your own words, what you’d like to offer up or make sure they know about.
+00:39:46	Bill:	Before I can answer this question I want to say why I am even interested in this community
+00:39:57	Stacey Druss:	I know how to help identify what is at the root of someone's trigger
+00:39:58	Pete Kaminski:	I can help with helping people work better together, using both digital and person-to-person tools.
+00:41:05	Michael Grossman (he/him) Factr.com:	I’m a jack of many trades, master of a few. Have experience as a designer, and editor, an archivist.
+00:41:15	Eric Rangell:	Hi I’m Eric and I have various specific interests spanning music, computing, history, science, math, etc.  I’m looking to connect with people who are working towards goals that I value and where I can see myself fitting in.
+00:47:37	Eric Rangell:	I recently took a leisure interest inventory which had about 40 areas where you evaluate your interest and experience in each, and then when you score it at the end you see which general categories you best fit with.  The results were surprising to me because I would likely enjoy things I currently don’t participate in.
+00:48:41	Vincent Arena (Catalist Commons):	What do we want to see about each other?
+00:49:59	Eric Rangell:	When I think about filling in a profile I wonder is this like a linked-in profile where I want to present my best side, or is this a place where I can be myself?
+00:50:08	Pete Kaminski:	+1 Eric
+00:50:16	Bill:	+2 eric
+00:51:12	Michael Grossman (he/him) Factr.com:	Good point, Eric
+00:51:21	Vincent Arena (Catalist Commons):	++
+00:53:51	Bill:	Vincent: I need to re-find the short piece I needed to write for a very early Trove or Catalist entry. You encourage me to say something interesting.
+00:54:06	Bill:	Er “encouraged me"
+00:55:23	Eric Rangell:	When people search profiles they are going to search for specific items and make their own judgments about who these people are based on very limited information.  The psychology concept of open, hidden, blind and unknown self applies here.
+00:56:30	Eric Rangell:	One thing we tried in PKE was pairing up people to have a conversation to learn about each other on a deeper level.
+00:58:50	Eric Rangell:	Would people be more open if they made a video where they talk about something they really care about or are interested in?
+01:00:12	Eric Rangell:	Then let the person tag the video with topics, and let other people tag each other’s videos
+01:02:58	Eric Rangell:	A facilitator can help draw a person out in a video call and it can be edited before it is shared
+01:03:00	Stacey Druss:	+1 Pete
+01:04:23	Grace Rachmany:	You guys obviously live in a very different culture than I do.
+01:05:08	Grace Rachmany:	Last time I went to a bank the teller and I got into an involved political conversation. That's pretty normal here.
+01:05:39	Eric Rangell:	Some people grew up with the computer as their best friend
+01:06:09	Vincent Arena (Catalist Commons):	I think my preference for the teller or the ATM depends on my mood or how good I feel my hair looks that day XD
+01:06:34	Vincent Arena (Catalist Commons):	And hi Grace! Welcome to Flotilla!
+01:06:52	Grace Rachmany:	Floating
+01:06:58	Vincent Arena (Catalist Commons):	Not sure if you tried joining when you sent the email or at noon, but just letting you know we run from noon-1:30EST
+01:07:45	Eric Rangell:	Expressing boundaries up front is very important
+01:09:32	Eric Rangell:	Evolution, or revolution?
+01:10:49	Grace Rachmany:	I tried to enter at about 10 past noon, which was when I was free to call in but I wasn't able to send text at that moment
+01:12:34	Bill:	My comments are for the previous convo: (1) agree with Pete about pairing up for information entry - this fits with Eric’s insight about the importance of building relationships; (2) also can help Eric’s question about is this a place I can be myself (this is also my Q).
+01:12:54	Bill:	Also I need to leave this wonderful convo. Adios.
+01:14:57	Michael Grossman (he/him) Factr.com:	One thought about this onboarding: Go from simple/shallow to deep, so that you’re doing it before you run into deeper storytelling.
+01:15:14	Michael Grossman (he/him) Factr.com:	What do you call what do? (Sample answers: student, technologist, designer, researcher, social worker)
+01:15:27	Michael Grossman (he/him) Factr.com:	What are some of your skills? (graphics, coding, copywriting, project management, gardening)
+01:16:12	Michael Grossman (he/him) Factr.com:	Tell about a project you’ve worked on with those skills? (Story/description of project, job, gig, cause, hobby, passion)
+01:16:15	Pete Kaminski:	yeah, shallow to deep would be a helpful progression
+01:18:04	Vincent Arena (Catalist Commons):	https://www.catalist.network/tapestry
+01:18:26	Eric Rangell:	I think that’s useful - anything that gives immediate feedback to help people explore is great
+01:20:21	Eric Rangell:	Do you need a privacy policy?
+01:22:50	Vincent Arena (Catalist Commons):	What were the last three things that you did for free?
+01:23:05	Vincent Arena (Catalist Commons):	What was the last time someone thanked you for something you didn’t know you had done?
+01:24:51	Eric Rangell:	I find myself connecting on chats about specific topics, like Star Trek, the Webb Telescope, etc
+01:29:16	Vincent Arena (Catalist Commons):	The tapestry has some bullet holes in it, we have to patch them up XD
+01:30:25	Grace Rachmany:	and some of us actually live in Europe so we get to benefit from GDPR too.
+01:31:14	Eric Rangell:	Here is an example of tech that may become intrusive and hard to control how data is used - watch for it rolling out: https://www.flocksafety.com/
+01:39:34	Pete Kaminski:	fwiw, Robert Best has been doing open FedWiki co-working on Fridays in gather.town
+01:39:43	Eric Rangell:	Is this like a Getting Things Done method?
+01:40:21	Eric Rangell:	Grace is multidimensional
+01:40:32	Michael Grossman (he/him) Factr.com:	Looked like one of those was your Wordle score graphics.
+01:43:03	Eric Rangell:	Engelbart’s hyperscope concept is needed
+01:44:10	Eric Rangell:	Like when a lawyer told me to sit down and shut up
+01:45:41	Eric Rangell:	Boundaries again
+01:46:17	Stacey Druss:	What Grace is saying now, ties into the importance of what Pete was saying about having someone go through the Tapestry project with.
+01:46:43	Wendy McLean, NY:	Hey everyone,+1 Stacey
+01:48:06	Eric Rangell:	The course description is very important for people to decide if they want to participate
+01:53:11	Eric Rangell:	Can you put her name in chat?
+01:53:23	Wendy McLean, NY:	Gien (James) Wong
+01:53:27	Wendy McLean, NY:	Gyuri
+01:53:31	Wendy McLean, NY:	IndyLab
+01:54:27	Vincent Arena (Catalist Commons):	We could invite them to come and present and then be part of a discussion/experiment with social bookmarking?
+01:54:41	Pete Kaminski:	+1 Vincent
+01:56:17	Pete Kaminski:	https://www.when2meet.com/
+01:57:46	Eric Rangell:	Streaming services have become like cable TV

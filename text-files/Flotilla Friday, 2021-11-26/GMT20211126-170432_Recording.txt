@@ -1,0 +1,11 @@
+00:06:40	Peter Kaminski:	Concepts and Categories: Philosophical Essays - Isaiah Berlin
+00:06:52	Peter Kaminski:	https://press.princeton.edu/books/paperback/9780691157498/concepts-and-categories
+00:31:15	Peter Kaminski:	Marc-Antoine, that was Brooklyn Zelenka?
+00:31:23	Marc-Antoine Parent:	yes
+00:32:59	Michael Grossman (he/him) Factr.com:	“Materialize conflicts/discrepancies as objects”
+00:45:00	Peter Kaminski:	https://twitter.com/the_aiju/status/1464011403736633353  programming becomes much less interesting once you realise that 99% is the equivalent of this: "owning an old home is great because you get to fix 60 year old prior repairs. oh you want to change that light fixture? in 1957 some dude named Dick hotwired the current fixture and instead of using a junction box just nailed it all to a joist and filled the cavity with asbestos"
+00:47:17	Michael Grossman (he/him) Factr.com:	That sense was what kept me away from programming.
+00:49:33	Peter Kaminski:	a couple of follow-on messages in the thread:  - half the special characters in ASCII exist to be used with overprinting teletypes which no one has used in like 40 years now  a significant amount of design choices in modern operating systems are just down to ken thompson and dennis ritchie not having enough memory in their pdp-11  - a non-trivial amount of bugs are caused by & in C having lower precedence than = which was briefly convenient in like 1973 to avoid rewriting too much B code where this ordering made sense and has been a huge pain in the ass for everyone else ever since
+00:51:38	Michael Grossman (he/him) Factr.com:	Great stuff, thank you Pete!
+00:56:47	Peter Kaminski:	https://en.wikipedia.org/wiki/Conway%27s_law
+00:57:16	Peter Kaminski:	https://en.wikipedia.org/wiki/Duck_typing

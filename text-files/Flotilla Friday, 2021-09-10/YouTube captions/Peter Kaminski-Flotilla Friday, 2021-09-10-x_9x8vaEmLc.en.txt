@@ -1,0 +1,3182 @@
+this is a flotilla friday for 2021
+september 10th
+i
+i don't really like having the
+recordings but i mean i like having the
+recordings i guess but i don't like
+recording and feeling like there's
+somebody kind of hovering you know these
+feature watchers uh hovering over our
+shoulders
+but on the other hand um
+uh wendy alford is a big fan of of uh
+a big part of her job is uh you know
+text analysis and she's like well i
+can't have text if i don't have
+transcripts i can't and she when she
+talks about transcripts she actually
+means human corrected 100 correct
+transcripts
+and i can't have transcripts so i don't
+have recordings and so
+you know
+well here's a my wife's an
+anthropologist and ethnographer
+introduction so and then in the bc days
+when we used to go out to restaurants
+for eating
+occasionally she would get distracted
+because you know her anthropologist
+slammed like she'd be listening to the
+table
+yeah
+because
+it's what we do
+yeah
+reminds me of when my wife and i lived
+in southern california and uh sometimes
+we'd end up in
+in hollywood or right around hollywood
+having you know
+dinner out at a pizza place or something
+like that and all the tables around you
+were talking about scripts and script
+workshops and you know deals and all
+that kind of stuff it was weird
+yeah yeah
+we're being in silicon valley and all
+the tables around you are talking about
+uh which round they're trying to raise
+and you know whether the good vc is
+except for the small little
+python glen where they're still talking
+about scripts but they're different
+sorry i'm just moving on i think a very
+good week because i actually got some
+code to run and
+i kind of learned a lot and i actually
+like
+the way the code looks so
+yeah bill's coming off a little bit of a
+high actually being successful in
+running code
+which is a big deal
+um i wonder
+uh wendy or michael if you folks want to
+talk a little bit about um the clown big
+project
+and how it's going
+please
+i can take a stab at it
+um
+yeah so since michael vinson and i were
+able to get together last week
+we were
+[Music]
+basically brainstormed besides aligning
+our visions and direction and things
+like that we were brainstorming so how
+can we bring our visions together and so
+that's clambake how do we bring it how
+do we bring our visions together so
+trove right now this is going to be my
+summary it's kind of a warehouse of
+organizations projects people right and
+in an attempt to help connect all of
+those things and and reduce friction for
+people to find what they need and
+projects to find the people
+factor is a
+storehouse you might say of
+links and topics websites
+everything you can find on the web
+organized how you want it to be
+organized so it's easy to find it again
+later with the ability to talk about it
+discuss it and all that kind of good
+stuff
+and then my contribution is
+a vision of how we can visualize things
+better so that we can navigate to those
+pieces of information we're looking for
+faster easier
+and again reducing friction so i tend to
+be all about reducing friction to
+getting to what we need my view is also
+a little more on the personal side like
+the individual seeing a need to
+improve
+our individual
+use of technology
+so that we can enable individual
+um
+evolution i guess evolution towards
+better thinking more creativity more
+innovation so that we can then
+contribute collaborate like that the
+individual comes first in my mind and
+then it's then you come to the point of
+collaboration with others and then
+hopefully we come to the point of
+collaboration to the point of providing
+something for society so i'm just coming
+at it from the individual side
+so creating a ux ui experience that
+enables individuals to get to what they
+need solutions they need and then
+similarly scaling up to
+the same thing for organizations same
+things for groups same things okay so
+how do we bring all this stuff together
+that's clean that's clam cake sorry
+and that's so we're fumbling our way so
+far it's just a conversation
+but any input is totally welcome i hope
+i did that justice
+did great um how's i i wonder about some
+relationships how's that related to maps
+of mapping and collective intelligence
+and collective knowledge
+yeah so for me those are two different
+questions for me maps and mapping is the
+part of my thinking that says how can we
+use technology to visualize
+our thinking not necessarily data how
+can we use technology to help us say i'm
+thinking this and that leads to ten more
+things and oh that's interesting that's
+interesting instead of sending me down a
+rabbit hole pre-designed by someone else
+yes visual thinking thank you bill
+um instead of sending me down a rabbit
+hole designed by somebody else to keep
+me engaged and sell me something
+what's the direction that i want to go
+in so it's you know it's the brain it's
+um
+as we think it's i think some of this
+stuff is really a wisdom tree i've been
+playing around with um i think a lot of
+um napkin is trying to do that i think
+there's a lot of factors basically
+trying to do that in its own way
+um
+but following and enabling better
+thinking for the individual again as
+being my focus so for me i have a
+uh wisdom tree came the closest so far
+to fit to the visual version of what i
+want not necessarily take technical
+capabilities but visual
+version of what i'm thinking of um and
+yeah just just my background in research
+and creativity and um
+and connection in human connection uh
+has been a big piece of what's informed
+how this how the technical visual piece
+could work um
+knowledge networks to me it's just a
+natural extension right of
+i need to know i'm researching this now
+and i want to both store the knowledge
+that i know and i want to expand on it
+where i can and then i want to
+collaborate with other people on the
+parts i don't know yet and then
+eventually hopefully create something
+that benefits everybody and so to me
+that's the
+scaling scaffolding knowledge network
+piece with a personal version and a
+public version and maybe some hybrid
+versions for groups that want to work
+privately together
+again i hope
+i did that justice and it made sense
+yeah doing great so um when did
+[Music]
+i think there's a bit of um discussion
+about it in
+in
+the clambic channel too oh i gotta go i
+guess i gotta
+yeah yes that's the one okay all right
+oh that's the one yep
+and it's limited i mean
+i met the um
+i met the one of the founders and um
+there's just two guys they just did it
+for fun
+they're in the middle of working on
+other stuff
+so
+you know i'm i'm not sure how much
+development it's going to get anytime
+soon i was just super excited to see the
+visual version of it
+so
+yeah if i could if i could combine his
+visual the visual he's created in wisdom
+tree and put it on like
+the brain
+i would i would be happy i was wondering
+about that visual because
+it
+um i wonder if you've played around with
+obsidian and um
+their graph visualizer and there's
+actually two there's a there's the
+regular one and then there's a fancier
+one
+i have not yet
+and you're the third person to record to
+recommend that to me this week
+so obviously that's my next if if you
+want to get together sometime and and
+play with obsidian i'd be happy to do
+that
+yeah that'd be great
+um
+i also
+noticed that the brain has a new version
+version 12.
+i don't know how old that is or how
+familiar other people are with it but i
+was just posting in the clambake channel
+the
+that
+the enhancements they recently made to
+the brain and version 12
+really improved to the ui a lot
+and i'm loving all the stuff that i'm
+seeing because it just again brings it
+closer even closer to what i'm
+visualizing in my mind and the features
+that i've i've
+outlined for the development that i was
+planning on doing but now
+now i'm kind of collaborating instead
+um
+so i'm curious to know if if anybody
+else has been using the brain or you
+know what other there's
+jerry and ask him a bunch of questions
+uh we should we should uh have you over
+uh
+to visit um the frigerator's brain call
+where jerry
+it's people who are interested in
+um data
+graphic knowledge bases i guess but we
+talk a fair bit about the brain and um
+there's jerry often comes and then mark
+trexler who also has a very very large
+brain that he
+has uh somewhat commercialized um
+uh
+they you know they they know they know a
+lot about the brand they're they're
+power users super powers and that's the
+one who did the climate version one yeah
+yeah yeah yeah i was looking at that too
+yeah um i remember they were talking
+about uh version 12 coming out a couple
+months ago and they were you know
+there's some nice things in it oh so it
+is new okay
+yeah
+and you you can get stuff well actually
+um
+you can back up your brain
+to a reasonable data file but then
+the data file they don't really support
+or they haven't documented the you know
+export formats or anything or there's an
+api but it's kind of private it's not
+supposed to be public
+um
+uh we have code though that does parse
+both uh the api and the
+and the uh exports the the backups
+so it's possible to get data out of it
+um but it's not friendly
+yeah i know vincent that was my primary
+question you anticipated it because i
+know vincent uh did that once he did a
+portion of it yeah yeah
+okay
+um is the brain generally collaborative
+this is just one more question no it's
+not multiplayer either
+i i think
+that's a bummer that's the most sound
+making thing that jerry has right now
+that you know he's he's very um
+the brain is a really good tool for him
+but he really wants to play with other
+people and so
+yeah
+that would be that's the biggest barrier
+for me
+that in the data format isn't very open
+yeah bill
+i have questions for you know who wants
+to hear um
+when you talked about
+right well you you reacted when i typed
+visual thinking but i was typing too
+fast what you were really talking was
+about visualizing thinking
+and i'd like to hear more
+sometime or look at more or have maybe a
+time to actually talk about
+what
+you're getting at there
+because partially when i used to teach i
+used to
+well it was graduate students but i used
+to
+i used to assert
+that they all knew
+[Music]
+the best ways that they learned things
+or had some idea what they were
+and so this thing about visualizing
+thinking i
+i
+i would like to know what we're
+talking about
+because it's an actual activity then i
+think
+you know having some way of wandering
+through with a warehouse in the
+storehouse
+and making sense out of the two of them
+you call trova warehouse and factory
+storehouse
+and i'm like uh okay but
+when we're thinking
+what are we doing
+that you know it could be about i'm
+focused on a task but
+sometimes i'm just looking at the clouds
+and you know
+ruminating
+do you want to pick that up wendy
+yeah sure um
+it's a great question i i think
+it's interesting for me to have
+technical conversations around it so let
+me just
+kind of back up for a second and say
+i understand the nature of most of the
+questions i've i've been i've been asked
+from people who work with data
+are coming from a perspective where
+visualizing
+using technology to visualize something
+usually means visualizing existing data
+for me
+because i came at this project from
+a direction of positive psychology and
+that sphere
+i came at it from wanting to start from
+the place of the visual
+and have the database be in the
+background because i know the database
+needs to be there right
+rather than it being uh the visual being
+a way to better
+understand data that's already there i'm
+trying to use a visual interface to help
+me create one to help me see what i'm
+thinking right
+so
+yeah so if i'm
+it really the storing of the knowledge
+is really just baseline right because i
+haven't had this tool already if i'd had
+this tool already i would have been
+putting things into this user interface
+the whole time and the storage would be
+there as a default but because we i
+haven't had it up to this point then i
+need something from which i can maybe
+upload some some other documents or
+excel file csv files other things
+because i've been forced to store
+information that way so far
+but really i want to see it in this
+visual interconnected way because i have
+so many
+so much going on
+and have gone down so many different
+avenues of thought and started to
+realize how you know i i researched into
+this area of of positive psychology and
+then i researched over here into climate
+change and then i researched over here
+into helping my community through covet
+and some of those pieces connected to
+each other but it was impossible to
+connect them it would have been lovely
+if in the moment i could have gone soup
+like and just connected those two things
+for me i'm a visual person that's not
+everybody i get that but because yeah um
+you just wrote positive psychology and
+yeah it's i that's my that's my uh
+that's that's basically taking the best
+of how we think and what we do and and
+and
+doing it more often making it more
+common and doing it more often so i'm
+trying to use technology to enable that
+right so in my case it's we're creating
+these connections then that are really
+the essence of creative thinking
+and we are often at our best when we can
+be creative and that's where solutions
+start to come from so i think there's a
+bunch of low hanging fruit low hanging
+fruit being storing the knowledge
+low-hanging fruit being enabling people
+to get to solutions that have existed
+for a really long time but maybe they're
+not aware of it or they don't know about
+it
+and then it's
+then it's enabling people to be more
+creative more innovative again it's a
+visual version of that i'm not saying
+that's the only way to do this but i'm
+saying it's a big piece that's missing
+right now that technology could fill and
+for for those of us who would find a
+benefit in a tool like this i think we
+would usually benefit when i talked to
+vincent about it i we we've come to a
+and michael last week too it was there
+need to be different views right
+sometimes you need to see things in list
+form sometimes you want to see a map
+view sometimes you want to look at the
+database itself and i think those that
+would be a valuable interface is to have
+almost like toggles at the top where you
+could switch between views or different
+views being presented at the same time
+and again map you know the brain just
+kind of went there and the sense that
+you have the
+you have uh the
+the brain view on one side and you have
+the page view on the other so i think
+again some stuff like that's coming but
+circling back around
+my approach to it is from the visual
+view and not so much from the data view
+um if if i may i kind of wanted to pick
+up and and to do kind of a parallel um
+rant or chat or whatever um
+i've been for the for a week or two
+maybe a little bit longer i've been
+talking about organizing information
+especially as it relates to wikis
+and
+um
+and i have i've been making a couple of
+assertions and part of it i i have a
+fairly strong position which is
+i i strengthen a little bit just to to
+be able to articulate it i don't think
+it's the only way to think or the only
+way that i don't know if it's true but i
+like to take a strong position and you
+know and talk about that so my strong
+position is that
+um
+one one one thing is that the folks here
+people like us are all specialists and
+we're able to use uh specialized tools
+uh like databases or like lists or
+like
+visualizations um
+and most people
+aren't
+specialists they're kind of human
+journalists and they get through life
+without using a lot of the power tools
+that we kind of take for granted like
+like wikis or like databases or like
+lists of things or streams of things
+um i think that specialization even goes
+out to reading and writing to me reading
+and writing is a
+specialization um we all take it so much
+for granted that it seems like well of
+course everyone reads and writes but if
+you think about it in your life the
+people that you talk to
+how many of them have written you know
+10 pages how i haven't written 10 pages
+recently right how many have written how
+many have read 100 pages you know in the
+past you know week or month or whatever
+right
+um reading and writing is kind of a
+specialization and we we forget that i
+think
+so in the same way i think that
+information organization
+um
+uh you have a
+piece of paper that goes in a file
+folder that goes in a set of another
+file folders that goes in a drawer that
+goes in a particular cabinet or
+probably all of us are old enough to
+have used physical libraries
+um i i'm going to go look in the either
+the old physical card catalogs where i'm
+going to look in the computer card
+catalog i'm going to find a book about
+elephants
+and then it's going to give me an uh
+coded address for a physical location of
+a a floor and an aisle and a shelf
+and a section of that shelf where i can
+go and grab elephants and i can grab
+other books close to elephants
+um
+all of that so
+i think
+probably each of us grew up in an
+environment where that was kind of just
+obvious that was kind of just something
+that that everybody did
+so
+when i see people pick up a wiki
+i see them kind of recapitulating that
+thinking right
+of course
+of course everybody reads and writes um
+of course everybody organizes things by
+categories or by hierarchy
+um and that's
+and i i come up on you know it's it's
+fairly common people are going okay well
+i'm organizing information and here's my
+hierarchy right
+we don't start the conversation about
+what what information is what knowledge
+is how we communicate we just go
+straight to this hierarchy right here's
+my hierarchy i'm comparing it to
+somebody else's hierarchy mine is better
+than theirs or there's a better than
+mine and where i i want to figure out
+how to map hierarchies i'm like
+so the the pitch and massive wikiland is
+like yeah hierarchies and even
+categories and stuff like that aren't as
+interesting as connections links between
+um
+information
+um
+uh and context um
+so when i when i talk to people about
+you know uh they the question is how am
+i going to organize my information in my
+wiki i'm like well
+don't worry too much about organizing it
+worrying worry about capturing it and
+improving the way it has been captured
+moving up from kind of a stream of
+consciousness set of notes or thoughts
+you know improve that slowly over time
+and it could be like over weeks or
+months or years in a wiki you know where
+you start to cluster the information and
+you start to connect it to other things
+and then look for ways that you connect
+information this stream of consciousness
+oh this reminds me of other streams of
+consciousness i've had in the past and
+my wiki let me make a draw a link
+between them right
+um
+uh
+the the and then a way that wikis work
+especially when you get a number of
+people doing a wiki together which is
+something that we don't see anymore but
+we used to do it all the time 15 years
+ago
+there's an interesting thing that
+happens that people start thinking alike
+they think in a group brain way so
+i used to see this all the time
+somebody would start to organize
+something a certain way and then
+somebody else would pick up that
+organization and improve it a little bit
+or make it worse maybe a little bit
+they'd have some conversations around
+the edges in a chat system or in real
+life and they'd say oh i saw that you
+started putting headers this way or i
+saw that we started making links or i
+saw that we started having this
+convention of
+naming pages a certain way here's my
+idea about that or i like that and
+here's the thing that i'm going to do
+another thing that's similar to that or
+different than that and
+as we started working together in wikis
+we had this collective way of managing
+information organizing information and
+linking information and
+knowing kind of having body language
+around
+um you know you could you could end up
+looking at somebody's page and and kind
+of know what they were thinking about
+that page oh they kind of left it in a
+draft state and i know that i can
+improve it or
+you know this is a this is a page where
+they they obviously have a strong
+opinion about it this is a rant and i'm
+not going to touch their rant except
+maybe to fix some typos what i'll do is
+i'll make a link to it
+and i'll have a separate rant on a
+separate page the kind of body language
+of you know what this information space
+means and what we're doing with it and
+things like that it's something that
+kind of
+improves and
+evolves over time and
+one of the things i i
+notice about humans is that
+when we're doing culture together
+it brings people closer together it
+builds trust it builds relationships
+that we can rely on and then build upon
+those relationships to do a better job
+of keeping information things like that
+one of the
+some some people will look at kind of
+the chatter or the chit chat or the the
+slow process of organizing information
+kind of organically rather than
+you know having a library sciences
+person come in and say okay you've
+screwed up your information here's the
+way to do it
+that's not really what i i want out of
+my wikis the wikis i participate in
+right except you know sometimes you need
+that there are cases when you need that
+but in the main what you want
+is to have this culture
+forming that understands how the
+information is put together wants it to
+be better and works on that together
+and builds
+human relationships about how we're
+doing that
+and people are just slow that way and
+it's a good thing it's a really good
+thing when we go slow and we honor each
+other's
+trust and we honor relationships to one
+another and when we make jokes about
+things or we tell people that we're
+upset about things i can't believe you
+stomped on my page why did you do that
+you know and you can it's okay sometimes
+to be mad at somebody
+and you work things out right
+all of this stuff i'm kind of describing
+humans as they have been for thousands
+of years right tens of thousands of
+years if you think about humans and the
+way they communicate and the way that
+they do knowledge
+it's not written down it's not in file
+folders it's not in a library the way
+you human the way you culture
+is
+by
+having emotional connections with one
+another having trust bonds social trust
+bonds with one another
+and
+the way that you
+communicate information is in what i
+call stories and when i say story i mean
+probably something pretty small
+even as small as a single sentence is to
+me a story right subject verb object
+um uh uh
+last time grandma got too close to the
+bear cave she got eaten you know or
+um or
+uh auntie was out collecting berries and
+then she found this new kind of berry
+which is awesome
+or she found this new kind of berry she
+ate some and she got sick
+um
+those are the kinds of things that's i
+think so my another strong assertion i
+have is that
+people
+knowledge if i can use knowledge as a
+verb with stories
+and so all of the
+technical specialization tools that we
+have
+um are are largely not entirely but
+largely ways of
+of storing and
+maybe serializing a story into a form
+that you can pull out later so text when
+you write down a
+a piece of text hopefully what you're
+doing is
+essentially
+your brain is telling a story of how
+something happened to you and then you
+you actually tell a story about the
+story that happened to you you can't
+really relate the thing that happened to
+you but you related a story about it
+what it meant to you
+and
+we have this trick where we we serialize
+language spoken language into text
+and then later i can or somebody else
+can deserialize that back into speech
+and language and stories
+and
+it's not the text that is the
+communicator it's actually the story
+that i tried to serialize into text and
+the story that somebody deserialized out
+of the text so the story there is the
+interesting part
+um so then something like a map of
+visualization is kind of the same thing
+where you take um
+you take a bunch of stories and you can
+put them in a visual space and you can
+and and but then the way that you use
+the map is
+me later looking at my map or somebody
+else or me
+showing somebody else my map it's like a
+is connected to b this way
+b is connected as a c and d these ways
+and you you tell a story around the map
+and that's the the value of the map is
+it's a way to remind yourself of the
+stories that you can tell in that space
+and when you make a map and give it to
+somebody else
+if you did a good job what happens is
+that they can
+brainstorm over the map that you've
+created
+and tell stories
+they can't look at a map and get all the
+visual relation they don't get the
+relationships of all of that stuff
+in a flash what happens is they look at
+a map and they go okay
+if i need to get from the empire state
+building
+to
+uh
+to the the met
+what i have to do is find this station
+and use this line and then go to this
+station and make a transfer and then go
+to another station and get out right
+you tell yourself a story of how to
+navigate the map and that story again is
+the important part the map is just a way
+of giving you hints about what the
+stories are right and where the stories
+are it helps you remember how many
+stories that you can get it helps you
+synthesize news stories you know if
+somebody made a map of all the subway
+stations in new york
+maybe that's not super useful to them or
+to you but when you can turn it into
+something like i need to get from the
+empire state building to the mat
+then you've synthesized the story out of
+it that they didn't write down they
+wrote down all the possible stories with
+the subway stations but the story again
+is the the interesting and important
+part
+so then
+one of the things that i observe with
+these visualizations
+graph visualizations of of knowledge
+bases always look like junk to me
+if they're automatically done
+and it's i think what happens is that
+when you just have the machine say okay
+here's all the connections
+you didn't capture
+the ability to do you didn't capture a
+story there wasn't a human that said
+you know this is a is connected to b and
+b is connected to c and it's important
+because you just had a database query
+that said okay splat all the possible
+connections on the screen right
+and then maybe if you're lucky some
+gravity forces kind of organized it into
+a way that is least objectionable
+but
+the
+the process of just making a
+visualization doesn't make meaning and
+it doesn't make stories and things like
+that it's when somebody comes along and
+curates that and says okay
+so now i've got a picture of 200 nodes
+let me filter out the ones that aren't
+meaningful let me highlight the
+connections that are meaningful and
+here
+ms reader is a story that i can tell out
+of this mishmash of big data
+i've i've curated it into stories
+so my whole thing is is stories are the
+way people think the the way that people
+knowledge we use specialized tools to
+help us
+story
+but we don't want to get distracted by
+the fact that the tools that the tools
+aren't the story right um the
+the stories are still the story and the
+tools just help us
+serialize stories and deserialize
+stories
+so that's my pitch
+mark i think maybe you're up next except
+you're muted
+mark you're
+muted sorry um yes i am up next uh by
+hand uh signal but i'd love to hear
+responses to what peter just said
+i i asked a question i'm in the chat um
+about
+stories
+um it's funny i was in a conversation
+yesterday uh with um
+some uh
+um cta
+[Music]
+collaborative technology alliance
+folks about um
+[Music]
+ontologies and
+schemas and
+um
+and
+was thinking out of what they were
+saying about
+um
+trying to strip down to
+um
+people
+you know agents those that can be
+profiled um those that have agency
+um
+for lack of a better word
+data information
+nodes um
+[Music]
+a second category that is just stuff
+without agency but but information that
+gathers
+um metadata and stories i would say as
+well
+story elements as uh
+as it accumulates i mean things that
+stories can be told about
+um
+and then containers which is a much
+looser thing which i wonder if it might
+include stories
+um that when you
+um
+take all these
+random books in the library
+some of which were they not constrained
+by physical space might fit in multiple
+sections or
+might fit in together in different ways
+according to different people
+but you allow all these overlapping
+containers
+and stories
+to be created around them
+which
+um
+[Music]
+you know which
+of course their hair brain stories
+told about the same set of facts
+but there's there's an inherent
+vetting and building of reputation in
+seeing
+the gravity of
+the connection between certain facts
+data points pieces of information
+that different
+agents have drawn in a story or by just
+tagging them the same way or
+by
+just connections that they have drawn
+um
+and i don't know if those three elements
+uh
+i see bill
+just asking the question what is a fact
+before is a fact you know a data point
+an assertion which may be wrong
+which
+you know and yes
+incorrect
+data points can
+build some gravity um
+around a story that certain people are
+saying telling each other but if you
+also have
+as as metadata around that item other
+people saying this is wrong
+um and other people with with expertise
+in that area saying this is wrong
+that can be telling for people if you if
+you go to that piece of data
+in a random access way
+there's a little bit of a story that an
+individual piece of data
+tells
+that
+that has
+the information that different agents
+has the
+the containers um
+i.e stories tags
+um groupings
+that
+that different agents have put on it to
+say wow this this
+alleged fact
+is
+um
+is associated with some things that
+other people say are wrong and the
+people who are expert in this field
+seem to say that
+this is wrong it's there's at least
+controversy here
+um
+you know the the visualization of this
+can be
+done in many ways um
+sorry i'll i'll stop but i mean i just
+wanted to throw out the idea of
+um
+that that random access quality being
+sort of a leveler because anybody can
+just come upon
+whether digitally or in the world um
+an item of information
+and if part of our job
+and part of our job in creating
+interoperability
+is to
+associate as much
+metadata and as many
+stories and containers that have been
+put there by other people
+um
+to let somebody find something and let
+them
+use the
+all the spokes all the edges you know
+that come out of it to
+find people find
+related information
+dispute it
+um
+find the stories that are built around
+it
+um i think that's that's a little bit
+our job
+um thanks um michael and uh thanks peter
+um these are both great um
+notions i am fairly known um or at least
+unfairly known
+fairly unknown for uh basically
+um
+trying to
+take the position that it's not all
+stories
+it's context it's different types of
+elements statements
+oppositional
+propositions vague propositions
+questions
+and
+i find the story focused to be
+in the study of how we
+basically grow and understanding to be a
+limited kind of view um i just
+um
+i'll try i'll
+i'll i'll just put that out there and
+and come back to it later but i
+certainly appreciate um
+the
+slow culture
+vision of or
+story or example that peter told
+um
+i posted a
+james maxwell quotations
+and i'll just post the quotation
+in there
+basically
+and i'll read it out
+it's part of a 1978
+um
+i'm looking for the encyclopedia
+britannica where apparently this
+[Music]
+quote on entropy is but let me read it
+out a memorandum book does not provided
+it is neatly written
+appear confused
+to an illiterate person
+or to the owner who understands it
+thoroughly but to any other person able
+to read it
+it appears to be inextricably confused
+so we've all had the experience of being
+in class
+and sharing notes with other people and
+basically
+some people's notes are clear and
+understandable to us
+other people's notes are impenetrable
+and what i love about this quote is it's
+in the middle of
+available a discussion of entropy
+available energy and dissipated energy
+is heat and um
+this
+uh
+notion of organization
+is linked to
+the states of motion um of atoms um but
+anyway the this little chunk
+um really puts out a
+a case to tie back to what peter was
+talking about
+about some kind of collaborative culture
+where we learn each other's signs
+and organizational systems
+and adapt mutually to each other so that
+we can have an artifact that is mutually
+meaningful
+now
+whether that can be done on a website
+like factor or
+even wikipedia um
+people are actually doing that people
+are actually developing
+different ways of communicating
+um
+when i was involved with um
+uh 3d
+um
+vermo vrml
+um
+it was a idea to create 3d spaces on the
+web
+and like html you could cut and paste
+and make your own stuff
+but
+i went to architecture school and
+learned how to think in three dimensions
+people can
+do the writing
+of html
+and the reading of html in a browser
+very
+easily to actually create visual
+or at least i'll use the 3d example to
+create
+spatial 3d spaces that make sense
+it was an authoring problem you
+you could not author a 3d space
+as easily as you could
+the 2d web page
+and it it kind of fizzled out and
+and died so
+certainly what i'm trying to point out
+are the two aspects of creating these
+shared knowledge spaces
+the writing part and the reading part
+they're not
+always
+as clear as we might
+ourselves imagine when it comes to
+involving other people
+and um certainly
+um i loved what
+michael and peter were talking about
+and unfortunately i've got to go in
+about four minutes but
+thanks for listening
+thanks mark
+um along with the the maxwell code thank
+you mark um i wanted to share a kafka
+letter
+from kafka letter
+um it
+came up in the context of a smaller part
+of the quote of it but it's a fun
+[Music]
+um it's a fun letter it's in german so
+you have to
+you have to translate it but um
+[Music]
+uh the the small quote was
+um words or really a book a book must be
+the
+ice axe for the frozen sea within us
+but
+the whole letter is lovely
+and i won't
+i mean
+grab it and uh grab it and translate it
+that's not the that's the poll quote but
+that's not the best part of it
+vincent
+hello everyone
+i have like a
+half-baked thought
+um
+whenever i
+find information
+or stories that are really interesting
+um
+my one of my first
+kind of urges is to like save it in a
+place where i know i can find it later
+and
+i don't know
+if that's
+like
+almost like a bad learned habit because
+life is too demanding and we don't have
+the time when we come across something
+we like to actually like
+sit with it it's like you know you come
+across like a
+patch of berries but there's like a you
+know a wild tiger chasing you and so you
+can like look at it take a mental note
+of like where it is and then you have to
+keep running away
+and so i don't know if that's um and
+like a realistic
+uh
+analogy um because maybe we'll never be
+in a time where we can actually go
+through things but yeah i very rarely
+um
+there's this one tool i use called
+refined when i open a new tab and it
+shows me like really interesting
+articles and occasionally i'll like open
+up one of those articles and and read it
+but most of the times i'll save it for
+later and then when i do have the time i
+will open it up and read it
+but yeah like for me there's like almost
+two separate processes there's the
+process of like
+being emergent engaged in stories which
+is like the actual juicy stuff like
+that's like the berries that's what you
+live for but then there's like a whole
+other process which is like all right
+we're like hunting for
+the stories for the berries it's like
+and that's that time
+is kind of unknown you don't know when
+you're gonna come across something and
+so i feel like having an information
+system which actually can help me
+take that unknown and make it a little
+bit more known like when i search for
+something on google i'm not sure if it's
+going to be on the first
+result of the page or it's going to be
+on the like 107th page or i'm not going
+to find it at all
+um so having a way to like search and
+find information that's like reliable
+that when you do want to like sit down
+and and engage with a story you know you
+could find it um like last night i spent
+a half an hour looking on like you know
+four different websites for a movie to
+watch that was on netflix and that um
+wasn't over two hours because we didn't
+have that much time uh and that was not
+super action-packed because i actually
+got into a surfing incident i was like
+super adrenaline
+adrenaline filled and i wanted something
+relaxing uh ended up just watching
+planet earth because that was the only
+thing that i knew was
+i knew was there
+uh
+that met the criteria but i couldn't
+actually find what i was looking for
+and um yeah so that's kind of
+information management tools and wikis
+aren't just about the stories i think
+they're also about finding the stories
+and that process could be different
+um i'll jump in if nobody else is
+uh i would
+love to come back to that first thing
+you said vincent about about running
+from the tiger and uh
+and you know not having time to deal
+with the berries um
+i think the stories
+that we tell
+and the things the information that each
+of these agents
+gathers in the random way that they do
+like i'm running from a tiger there's
+some berries mental note
+i'm throwing that in the
+the food folder
+that that association of
+food and place
+where it like where it's something that
+you could look at where somebody else
+who was running from a different tiger
+you know
+in a different direction
+you would never go back maybe to that
+that
+berry tree
+um because there are tigers around there
+but uh
+um
+if that information were recorded if
+that metadata were recorded
+and
+layered on the metadata of other people
+doing different things some of whom
+weren't running from tigers and had time
+to stop and taste the berries and say
+these berries are really good
+and
+that were mapped in a way that said hmm
+there seemed to be a lot of these berry
+trees that a couple people have said
+were really good
+in this area the north part of it has
+lots of tigers in it but the south part
+of it you know this is the way that
+knowledge emerges and stories emerge
+from just one random bit of metadata
+that could be the metadata that is you
+putting it in a folder for later
+you know what i'm saying and and
+that
+kind of layered
+interactive
+non-storytelling just container
+placing
+um
+seems seems to me
+something
+there's something there so please please
+keep uh
+maybe it's not yielding much yet but
+please keep putting those things you see
+into a container or tagging them or you
+know i think we all should and then we
+have to figure out how we can all see it
+bye mark
+okay i'll jump in so
+i'm gonna go back to something i posted
+and then bring it back around to stories
+and everything everybody's talking about
+because i find this super interesting
+so i think
+what i'm hearing and what everyone's
+saying
+is
+we're talking about
+capturing and storing knowledge
+in different phases i guess i would call
+them phases
+where and so what i posted before was
+sometimes we want to just get to a
+resource right either it's a piece of
+information we need right now we don't
+really care about it at other times or
+just curious or a friend post you know
+pointed us to something but it's not
+really our thing or we just told we need
+to learn something for some reason or
+whatever right we just need we just need
+information it already exists we need to
+get it from a book or a website or
+something
+to me that's a very different process
+than i'm exploring something that i
+really love it's a new hobby or i'm more
+interested it the more i explore it and
+i want to go deeper and i want to go
+broader and i want to you know i want to
+remember what i thought of three months
+ago when i was researching this but then
+got sidetracked from researching this
+that kind of
+knowledge
+storing and learning and then we
+sometimes want to explore something that
+really no one knows yet or there's very
+little information about
+and then and that's a completely
+different thing i completely agree with
+the thread of stories i don't know that
+we always think about it
+but i do think you know all the research
+and psychology even points to the fact
+that we're always creating a story in
+our mind we have a story about how we
+feel about things we have a story about
+who we are we have a story about what
+what our origin is we have a story about
+how we see the world that provides the
+filters and the perspectives that we
+have on the world and whether we're
+consciously conscious of it sorry
+whether we're conscious of it or not we
+are forming those stories all the time
+and i i don't know yet whether
+technology
+would benefit us in pointing out that
+process or simply just presenting us the
+pathways with which to to to get to
+where we need to go but i think both are
+valuable and i
+i guess what i'm trying to say is
+all of these things are important all of
+them have value whether we're just
+passing something by and we need to put
+it you know the there we saw the berries
+and we were racing by
+and so
+we think we need to store it
+um for later when we're hungry and we're
+not being chased by a
+tiger but what if
+somebody else had already stored that
+knowledge for us and we could trust that
+our society had that knowledge stored
+for us so we didn't even have to waste
+the energy
+to store it that we could go find it
+when we needed it and we could trust
+that we could find it when we needed it
+when when it was important and it might
+even then be surrounded with the best
+time to go is in the spring when the
+tigers have moved away and there's no
+one around right and you can take your
+time gathering in fact and then here's
+how to
+process the berries so that the last
+through the winter so that when the
+tigers are there you don't have to write
+like
+that yes that to me is the ideal right
+is it's let's guess past the point where
+we're each curating for ourselves there
+will always be that piece but what we're
+also curating for each other
+simply because i already curated it for
+myself
+why not give it to you as well right
+it's common knowledge now so to me
+that's the juicy spots right whether we
+want to frame it in stories or not
+stories to me it's more valuable
+to frame it in what kind of
+phase i'm in
+am i in a phase of i just need some
+information and i'm am i in a phase
+where i'm really deep diving into
+something and i want to use use the
+interface or the
+community or the interaction or whatever
+to really learn something
+deeply
+am i in a phase of creating something
+brand new
+if i were to try to break it down into
+three
+but i think there's it's a continuum
+really
+any thoughts
+off of um what was being said in the
+chat here um
+what vincent was saying of who do you
+curate for
+um who are you working for you others
+both
+um
+that
+it's really interesting one of the one
+of the uh
+the use cases the user stories um
+that
+we imagined for factor in
+earl early days where when our
+orientation was more
+um
+un related ngo
+um gathering um
+[Music]
+gathering information
+so that
+you know people on the ground in one
+place were seeing the same things that
+you know somebody in new york was seeing
+um
+and realizing that some of the
+data that needed to be gathered
+would be gathered by people who didn't
+know what its significance was and that
+had to be
+surfaced
+like you know somebody in sierra leone
+takes a picture of
+somebody's arm and says you know what
+the hell is this this
+disease that's you know forming on you
+know not not being a part of a un team
+not
+being anything just just wanting to like
+say hey
+berries on this bush you know
+i don't know what it means where it fits
+i'm not sure this is for me or for you
+or for the greater world but just
+you know data point
+um
+and
+so you know that we don't really know
+why we're gathering you know not all of
+us are information gatherers but we're
+kind of all information gatherers and
+the easier it is for
+everybody
+to
+share their information
+if it's not something they need to keep
+private
+without knowing what its significance is
+without knowing where it fits i mean the
+the the the metadata on
+the berry photograph or the skin
+photograph could just be a date and a
+location and that's all there is but
+somebody who is researching because
+they're doing a deep dive and looking
+for examples of
+berries in this region
+you know can find that um
+yeah so um
+yeah
+um
+just to what wendy what you were saying
+about um
+i don't have to gather this information
+because
+um
+because somebody else has already
+gathered
+it i find the information that other
+people are have already gathered because
+i
+gather the same piece of information
+that i don't know
+i don't know where it fits
+but i find out where it sits
+from from the other people
+um
+you know picture of it
+at at a more mature state
+a picture of a berry in this place
+brings up
+all this information about you know
+recipes for how to cook that berry how
+to dry it for the winter as you were
+saying you know
+watch out for the tigers
+all kinds of stuff so
+yeah um
+i think we're
+we're getting some good stuff here
+shall we go
+okay so
+i'm having a bit of a hard time with
+this conversation because i don't really
+know how to think about it
+literally
+so i
+maybe i'll make some notes and send them
+out but i i'm a little confused about
+this word story which has now become so
+big that it has it's losing its meaning
+for me
+or the meaning i used to have so i'm a
+little confused there although i i
+actually believe everything you're
+saying
+i just i'm getting kind of unhinged here
+so in a way that
+isn't helpful
+and uh
+so i don't really
+i don't i don't know i have this is
+so it's quite generative you know this
+is a really rich conversation but i
+think
+for me at least it's going to take a lot
+of work to come up with
+to make sense of
+just what we've talked about
+and the idea of looking things up
+because oh i've seen this very what is
+it
+in the neighborhood i live in texas
+people just take pictures of snakes in
+their garden and post them on facebook
+you know and either my wife or the snake
+wrangler comes back oh that's just a
+that's just a rat snake you love those
+things they they
+they eat things you don't want around in
+your yard
+you know so people
+don't expect
+to find it online
+they expect some neighbor to go oh that
+thing just
+you know don't worry it's not interested
+in you
+like the rattlesnake which is like you
+want to come you want you want a piece
+of me come and take it
+right
+most snakes are like oh there's a big
+two-legged i think i'll i think i'll
+hide out
+so i'm just to say that i think this is
+super rich
+and i don't know how to make sense of it
+i'm not sure i agree with all the
+assertions
+so
+the way to make sense of it is to keep
+talking and obviously not necessarily we
+can do it asynchronously but then the
+other the other trick of that is to
+remember what we're talking about
+which is going to end up maybe in text
+yeah and i
+well
+yeah
+well
+i don't know maybe later this week i'll
+find out
+when i know that i'm actually thinking
+rather than doing something else
+that would help if i could say oh now
+i'm thinking
+as opposed to what bill
+uh
+daydreaming
+you know
+um it's it's super interesting so thanks
+thanks
+thanks for it
+yeah so as you were talking bill i think
+i might have an example that might help
+because it's in the um
+realm of education
+so i always pictured
+a
+visual interface let's say you're a
+teacher and the traditional model and
+you can please feel free to correct me
+would be
+i as the teacher know the body of
+knowledge that i need to cover in a
+semester i'm going to start here
+and i'm going to go through this path to
+get here
+we're going to take some branches if i
+think they're important tangents to help
+people understand of course i'll take
+questions and stuff but i basically have
+my curriculum mapped out i've got my
+exercises i've got my group work i've
+got my
+labs i've got whatever even maybe a
+field trip thrown in there to help
+integrate the knowledge right
+if
+i could take what i am visualizing and
+give it to a teacher this is how i can
+imagine it working
+i'm a teacher
+i plan a couple days in advance with a
+visual representation of the knowledge i
+plan to teach in its smallest
+beginner form
+of just say a node and a couple of
+connections
+on day one we talk intro we meet each
+other all that normal stuff and for
+homework the kids assignment are to add
+one thing
+to the tree collaboratively
+add one piece of information the
+discussion is why did you add that piece
+of information and how does it relate to
+the topic that we're talking about in
+class
+that could happen at a regular basis
+over the course of a semester at the end
+of every semester
+the tree of
+curated knowledge around the topic from
+which we've been learning looks
+different every single time right
+because
+of what different students will add
+and why they added it
+the why they added it is the story
+i added this piece because i was it made
+me think of la right so history but it
+made me one student think of how her
+family cooks and she ends up adding a
+recipe and a little story about how this
+particular recipe fits into history and
+where it came from either from her
+family or or from the food or whatever
+whereas another kid goes off into
+politics and talks about you know wants
+to integrate what's happening now with
+what happened then right and and that
+becomes the story and that storyline
+even if
+not only helps us
+learn because that's how we think
+even when we're not conscious of it we
+think in associations we learn much
+better when we connect a piece of
+information as you probably well know
+right to something else we already know
+than if it's a piece of information it's
+just kind of floating out around there
+and doesn't seem to connect to anything
+so
+it's helping literally build those
+connections in ways that are meaningful
+to the people in the room
+is that i don't know if that helps or
+not but it's the way i think of it yeah
+that's genius actually um
+and when i was teaching at the ut it was
+a graduate level course on scientific
+data informatics
+you know i've shared that big list of uh
+mind maps
+but that's exactly how the course this
+course started with a little scalpel
+diagram
+of
+now i didn't have i wasn't you know when
+we were trying to talk about what's this
+the you know the information
+what is that was the information
+properties of scientific data
+i just would tell the class i said look
+there's no textbook
+we are here on our own
+and i would say my goal for you is to
+have a worthwhile learning experience
+you know any hitches
+i can't do it for you
+you're going to have to do it for you
+i'm going to have a great one because i
+always do because
+i'm interested
+in that but
+so that's the way i didn't really have
+the idea of
+if i were doing it now i think i would
+have more technology to help people
+actually build an annotated kind of
+i don't know some monster i would
+actually build a wiki
+of
+the results of
+you know these whatever
+15 weeks of
+interacting
+but yes i mean i think that is
+you know
+yeah well so yes i agree
+i did that
+yeah so does that clarify
+story to you because that was where you
+were
+yeah that's a nice idea just but i don't
+know in this conversation it got super
+big like a pumpkin
+which is something lucy sletcher and
+derek's park used to talk to the tech
+people about interoperability she used
+to say that's like a big idea it's like
+it's like a pumpkin
+because
+you know
+my wife was there too so just to push
+back on the tech people they're like
+what what are you talking about
+yeah and i think again it's it's
+multi-layered right i have my individual
+story about myself i have the story
+about this classroom i have the story
+about the teacher the story about what
+i'm learning that either provides it
+meaning or makes me think it's stupid
+and then and to me it's the it's the
+scaling up version of that you know
+wendy alford's version of that would be
+we're
+we're we're a top we're trying to look
+top down on a very complicated situation
+and if we collect stories we can
+make sense out of the threads that exist
+and see into what other people aren't
+seeing within them you know within their
+own within their own frame of experience
+right so it's still be it sense making a
+larger story which until computers came
+along really the only way you could do
+that was sit around a fire and share and
+share stories right and see where the
+thread was now she's taught she's able
+to
+find the thread so instead of a thread
+of knowledge weaving through the
+semester of a classroom going slightly
+in one direction or slightly in the
+other direction depending on the
+students you now have an entire
+community a city an organization or
+whatever who are also going in one
+direction and if management thinks
+they're going in this direction but
+they're actually going in this direction
+that's worthwhile knowing because
+otherwise we're solving the wrong
+problems or putting our energy in the
+wrong ways
+yeah well i just want to add one thing
+i'm going to have to jump off in it for
+maybe another five minutes but
+so the one thing that i came up for me i
+didn't type it in the thing is that when
+we start using story the way i've been
+hearing it that almost things
+it sounds to me
+now we're gonna reduce almost every
+experience they have to like you're
+telling a story
+so once things get reduced i'm like i'm
+done now
+because that's an intellectual like
+model and sorry i'm a human organism
+i'm not sorry sorry not sorry well
+whatev but um so i think
+if it gets if the word gets to be
+everything is a story
+then after a while
+we we're not
+you know what i mean we're going to lose
+what it is we're talking about which
+actually needs
+depending on the task certain
+distinctions to be made
+bill i actually think you just got to
+something which was
+i was about to say that
+the
+if i'm hearing you right
+the
+the negative association
+um
+that you have with stories is
+kind of their
+you want them
+well i won't try and characterize what
+you're saying i'll just say what i was
+going to say which is
+that the
+people write stories about
+berries and tigers and legends and you
+know all kinds of mythology could be
+built around berries and tigers we're
+going to be talking about berries and
+tigers for a long time um
+but
+the disem disambiguated
+information there that led them to tell
+the story
+um
+is
+is what you want to get past
+like
+not that stories are bad but sometimes
+you don't want to hear somebody else's
+story you want to filter out the stories
+but just know that stories were
+told about this thing that information
+was attached to it that you may want to
+associate in different ways
+so
+like i want the benefit of the fact that
+this thing
+that somebody told a story about
+has these attributes
+that it's in this place that it's that
+this snake is in this yard in this
+city
+and that somebody else
+told a different story that happened to
+have another stake in this yard and
+before you know it hey i realized that
+these snakes are
+you know
+indigenous to this area
+and you know and the fact that
+that somebody you know that this this
+question and answer that you have on
+facebook
+which is
+um not the result of search
+not the result of true storytelling
+that we want to preserve that disem
+ambiguated information
+and let that be a part of other people's
+research and other people's knowledge
+right now it's siloed
+only on facebook perhaps you know
+privately only on somebody's or you know
+some
+friend groups
+um
+uh you know page
+that you know a dozen people have access
+to
+where they're not they might be private
+about the banter but they're not private
+about the fact that there's a snake
+in a photograph with this you know time
+and and location metadata
+if it was anonymized
+um
+yeah i just want to say one more thing
+before because you said something super
+critical
+you use the word
+um
+you had a
+either true storytelling or something
+you called some you had an adjective on
+storytelling that was different i don't
+have a negative
+association with the word story i'm just
+responding to how it seems to be being
+used as we have this conversation
+oh yes but something
+so if there's something called you know
+true storytelling then we better find
+out what that is
+before we start using the word story for
+all these
+about many other things
+i just think this is a longer more
+interesting
+conversation and
+i really do have to run and
+squeeze the dog as i like to say he
+actually does the squeezing but you know
+so i'm going to leave you all here and
+maybe i'll catch up on the video
+hey and i can use the little
+we can get the chat thing out of the
+video can't we
+we have tools for that
+adios everybody have a good week see you
+bill
+more thoughts
+yes
+yeah i really like what you had to say
+michael
+um i put a couple things in the chat
+as you were talking trying to capture a
+little bit of what you're saying and
+maybe add a little
+a little um extra too um
+yeah and i kind of agree with bill it's
+it's i'm not sure we need to
+continue to use the word story all the
+time
+but it is an interesting exercise to
+think about it
+and i do think there's a line between
+when
+we when we
+seek out stories
+either from each other
+in person or whether it's
+you know through technical means um
+in the traditional sense versus what our
+understanding might be of how we work
+unconsciously and like when we get into
+that i think
+um there's a value there to just
+understanding that that thread runs
+through everything but i think when we
+start talking about what features or
+what attributes or what characteristics
+do we want certain
+interactions and connections to have
+i think story needs to be kind of put
+back in where and to more of the
+traditional sense um you know if i'm if
+i'm creating a workshop there are times
+when i'm creating it and i have a very
+clear direction of where i want everyone
+to go and i know exactly how to get them
+there and and i'm going to walk them
+through
+that and get them where they need to go
+there's less story
+there but if i'm looking for for
+everyone to explore
+and we're all trying to figure out
+what's going on um then i'm going to be
+looking for stories i want to pull
+stories out so i think you know i think
+um
+i think we i just go back to using the
+word the traditional version is also
+fine but it's also helped us today to
+explore
+the different ways in which
+humans interact with each other and
+potentially could interact with
+technology and that's been really
+valuable
+uh zeke you want to say something
+i was just looking at the definition of
+story
+um
+i think it's funny how there's so many
+definitions that's why one of the qualms
+i have about the english language is
+it's just a little bit finicky um
+and uh
+you know i just think of story as like
+metadata
+i guess i've been so much in the back
+end of this stuff and thinking about it
+from a very technical
+perspective so
+i just think of like information about
+information
+and i just think of like overlap like
+hollandic overlap for shared meaning
+context
+but this is very interesting to me this
+is the kind of stuff that i've been
+exploring at great length for quite some
+time
+again how it relates to the backend for
+these different technologies using
+distributed
+web architecture and various frameworks
+for helping these different tools
+connect and interoperate so that's like
+this is the main thing i'm kind of
+diving into i'd say right now so this is
+cool that we're having this conversation
+i'm grateful to be a part of this um
+you know one thing that did come to mind
+for me was so when i was learning about
+history and i got into different
+religions and you know archaeology and
+things like that
+the word myth
+we intuitively a lot of us or at least
+me and the people i grew up with
+myth was like made up it was false or it
+was kind of
+elaborated or fabricated to some kind of
+context but when you look at the
+original
+epidemiology of it
+it just means story
+and so that's what's that's what kind of
+came to mind all this is just the mythos
+and
+um i think that that is inherently
+probably going to have meaning different
+meaning to each individual you know what
+their individual mythos is along with
+their perspective
+and you know their community so
+this idea of perspectives is quite
+interesting to me because you know
+having gone down the physics rabbit hole
+and stuff like that it's like
+you know you've said they've done
+different these like supposedly they've
+done these different stories like they
+have the brain games and all that and uh
+you know you can have 20 people see an
+event and you're getting 20 different
+accounts of that event and a couple days
+go by and now all of a sudden the
+details have changed
+so i mean that that kind of is a little
+more on the
+abstract theory side of things of like
+what is reality but
+um you know i just wanted to share like
+those were the things that kind of like
+came to mind uh when y'all were speaking
+i love i love that you just went to like
+mythos and
+that perspective and physics i mean for
+me that's
+i've gone to all those places too
+and it's fascinating how they kind of
+all land in the in in similar spots
+right that
+we shape our perspective our perspective
+is shaped by our past and our habits and
+everything that's around us and so
+the challenge i think for that i have
+tried to play with
+in creating something useful and
+imagining something useful made out of
+technology is how do we allow for all
+those possibilities in one interface
+which drives me crazy and at the same
+time that's why to me the networked view
+of things works so well
+because i can make it what i want it to
+be and it can be that three layered
+or 3d layered you know multi-layered
+things so i can make the associations
+that make sense to me where it gets
+dicey is where you know sometimes this
+group is i think it's been here
+talked before about okay there's my
+version of things because this is my
+beliefs or these are this is my
+background or this is my perspective on
+how i'd like to connect to this
+information
+and then there's a big gray area like
+i'm like okay i draw a circle around
+myself and then there's like this big
+huge swath of gray area that is
+what i think is opposed to what you
+think what i think is a variation on
+what you think what i think is you know
+it comes at it from a different angle or
+whatever right and that's a huge gray
+areas how do we play together in that
+space in a way that makes sense and
+isn't so complicated that nobody wants
+to be there ever and then there's this
+stuff on the outside of that yeah we
+pretty much all agree that this is
+either fact or truth or information that
+everybody the berries are still there a
+year later like it's still
+you know the berries and they're there
+and that's it right so
+the gray area is the interesting part
+and the hardest part to me um and how
+and that's the collaborative part
+and allowing for each of us to navigate
+our way through that gray area in a way
+that makes provides meaning to me my
+individual life or in the life of my
+family or my community
+is
+i think
+designing something that's flexible
+enough that doesn't have
+allows for
+those different perspectives i guess and
+doesn't you know and here's where we
+start to get into the realm of like
+where biases are and where and how do we
+visualize how do we help people by
+visualizing those differences in my mind
+i started to do crowdsourcing things i
+started to do
+you know going hey if there was a piece
+of information we could all even even
+here's the base in title of something
+and hear all the parts underneath
+could we all start to
+collaborate on yeah most of us think
+that this is a great definition and most
+of us think that this is a great
+resource and most of us think this is
+the best book and most of us write and
+and yet still allow for the fringe
+things to be there it's it's to me
+that's where i'm playing right now is
+trying to
+yeah and i knew that i could if i
+couldn't even get like baseline me
+collective knowledge that we all kind of
+agree upon if i can't even get that then
+the gray area is like you know we're
+never then
+we can't even we can't even start
+talking about the gray area
+zeke go ahead don't wait for me because
+um i've gotten plenty of air time and
+you're just getting to speak up
+okay thanks i just wanted to address
+back to that real quick um
+well the dream that had come to me was
+actually
+you can have multiple uis but it's a
+shared backend it's the shared
+distributed database
+um and really customizable uis so like
+uh
+where we're getting at is with these new
+types of technologies you can um
+you can you can kind of like move the
+pieces around as it makes sense to you
+uh initially of course until ai gets a
+little more advanced or at least
+integrated
+into this
+you know it could be a template so you
+could put the thing in the upper right
+hand corner upper left lower left lower
+right and those are options but you can
+still move it amongst those four pieces
+so because the way the different brains
+are wired the way culturally there's a
+lot of reasons that you know people are
+going to interact with things
+differently might even change according
+to mood
+so some people i know are playing around
+with kind of like
+bio field sensing technology
+and those kinds of things so that's kind
+of cool to think about how that might
+influence
+these different dynamics
+so i i envision really
+shared databases shared backends
+and but then it can be multiple
+different forms of presentation but at
+least you've now bridged those silos
+between you don't have to have 25 apps
+you you can have one app it's almost
+like
+downloading an os client i guess right
+yeah
+it's cool stuff to think about how this
+might you know
+come about
+and uh
+and then the other really important
+thing that i think
+this in my opinion is
+this idea of being resistant to civil
+attacks
+meaning multiple fake accounts i think
+that's a huge problem right now of
+accountability is the fact that people
+can go and just say a bunch of stuff or
+act a certain way and they can do so
+kind of behind this like scene of
+anonymity but as soon as you bring more
+of these things to light people are now
+much more highly incentivized to be be
+careful and scrutinize their behavior
+and the the information that they share
+so i think having um ways in which you
+can have you know verifiably unique
+accounts
+you know you don't necessarily have to
+share all the information about that
+underlying account you you can you don't
+necessarily know who they are you don't
+have to know who they are you can if you
+want that in the rules of your network
+but
+you at least know that they're
+verifiably unique like that that
+account's actions
+has meaning so if you could imagine
+you know your reputation or behavior
+whatever you want to call it an uber
+affects the grocery store affects the
+restaurant and then now you could filter
+reviews that you want to read based on
+those scores and you know it's more
+customizable if you want to go and
+search
+for things you can you know basically
+decide what's important to you what
+metrics
+of measurement you know matter and the
+information that you want to access
+i hope that's a
+good way to describe it
+yeah and i want it and and you know
+thinking about how
+um
+i mean we we talk about this in various
+groups of us just that that
+you know wanting the shared um
+the shared library of of
+um
+data and all the different ways of
+looking at it whether it's in a wiki and
+a map and you know by association with
+people
+by association with topics
+by you know
+um
+[Music]
+you know just being able to filter
+um in
+in different front ends and
+within different front ends in different
+ways
+um
+yeah
+that's the kind of interoperability i
+think you know we're
+all striving for um so you're gonna
+build the back end for us
+you got you got that you got that part
+knocked i'm working on it right now as
+we speak
+okay
+let's talk
+um
+i just also wanted to say something
+about the the um
+myth making
+um
+[Music]
+the myth
+i'll go back to container um for
+um for certain sets of facts
+that you know individually
+as when wendy as you were saying you
+know you come up with your own
+belief set
+and
+and as groups we do as religions we do
+you know the
+sun you know rises in east and sets in
+the west and the
+myth that's built around that of the you
+know
+um you know pick your you know uh
+aboriginal
+you know story of the wolf swallowing
+the sun and da da da da you know
+um
+that
+we do that and you know in modern day we
+also do that in a way where
+like oh these these facts
+don't fit with the
+mythology i already
+you know constructed and therefore i'm
+not going to include them
+um
+but if if
+everybody has
+access to all the
+i i'm
+you know i have the problem of do you
+call them facts even all the all the
+the
+the possible data points within
+somebody's story
+are
+and the metadata attached to them
+[Music]
+is all accessible to anybody who is
+looking at their own story constructing
+a story knowing what pieces of a story
+um
+[Music]
+you know
+are questionable i mean if you want to
+lead anybody you know we always have
+this problem of like can you really
+can you really change somebody's mind by
+attacking their story um you know
+they're going to want to defend their
+story but if anybody on their own
+can see
+what parts of their story
+have
+different stories attached to them
+that
+don't
+don't negate
+the fact that this piece of their story
+exists
+but provide
+other
+related explanations
+that might be able to bend their
+thinking a little bit or at least open
+themselves up to
+maybe this thing can be seen a different
+way you know maybe there's a scientific
+explanation for the sun coming up in the
+east and setting in the west
+i mean it's it it's
+yeah i don't know where i'm going with
+this but
+but i just like you know the story as
+container
+i i come back to and and like let's let
+um
+data points that don't have stories
+around them exist
+i i guess i guess part of what i'm what
+i'm trying to say is like
+trying to think of a framework in which
+it's okay for a fact to be
+a data point to be part of a story it's
+okay for it not to be part of the story
+it's okay for it to be part of multiple
+stories and we all get visibility on all
+of that
+um if if we
+want it
+and we can also filter out like you know
+i'm just interested in recipes for these
+berries i don't care about the the myths
+and the tigers and the location where
+they came i don't i don't want any of
+that please just show me recipes and you
+don't see all that stuff
+yeah i think you said it all i can't
+even remember what i was going to say
+now
+[Laughter]
+um
+yeah i think one of the things i was i
+was going to say somewhere in there is
+you know there's the myth of the hero's
+journey right and and with which is
+joseph campbell not your head if you
+know of joseph campbell and all this
+okay so everybody's familiar okay so
+when you start looking at how often the
+humans retell that story
+and it's
+million literally millions of versions
+of this story you know and here joseph
+campbell tried to break it down and put
+it into parts and give us give us a
+schema from which to follow along if we
+want to build this story or understand
+it better and it's really really useful
+and then to michael's point yeah but
+sometimes i just need some berries and
+do we need to go through a whole hero's
+journey to find the berries
+no right so again i think there's
+there's an opportunity if we're if we're
+in trauma
+we need to tell stories
+if we're in therapy we need space held
+for stories and how do we come oh yeah
+this is the other thing so when you have
+two people who who conflict on their
+version of truth
+and it seems diametrically opposed
+pretty much everybody agrees that the
+way to get through that is to find
+connection
+right so
+what if we had a platform that helped us
+to build connection right so it's the
+same database it's the same data
+it it's we are now but the visual then
+shows these two things are currently
+opposed and now here's a little
+intersection and people start working on
+well where's the intersection between
+those two things right here right here
+in between the in between space right
+and so even if these two sections
+seemingly get more and more
+diametrically opposed it turns out that
+everyone likes puppies right or whatever
+you know it's it's and i think that
+that's where
+um
+massive wiki is helping right like any
+time we're building connections it's a
+very human thing that brings us that's
+how we're wired right it brings us we
+don't always need a story or we need we
+don't always need to know that we're
+building a story even if we are we need
+to build connections to me that's the
+key stories do that really really well
+because they elicit emotion and emotion
+elicits connection but
+i mean the connection be built in and
+myriads of ways and um and it breaks
+down barriers it breaks down silos
+between people between information
+between it's about so to me it's about
+the connections
+in the end
+yeah and then and then back to what you
+were saying zeke one database helps to
+build connections faster
+by its very nature and my
+my estimation right because you're not
+now we're not all slowed down the whole
+system doesn't slow down and go okay but
+this connect this system doesn't talk to
+that system okay well two years of
+development and
+a million headaches later now we can
+finally send two pieces of information
+across to each other right it's not the
+point is right to facilitate all of that
+um yes
+how do we do that
+we needed that yesterday
+i'm sure that every single developer in
+the entire history of the internet has
+been saying how do we you know how do we
+get these two pieces of information on
+the same database are you familiar with
+uh self-hosting cloud hosting
+yeah
+just from a user perspective not from a
+tackle technical perspective right now
+our information
+you send a text to your family friend
+and that's now seen in 10 000 databases
+across the world
+so those are centralized servers giant
+big warehouse buildings with just stacks
+and stacks of servers and an it team and
+all that stuff so
+taking that
+and giving a slice to the individual
+allowing them to plug in a
+device that uses the same amount of
+electricity as your hard drive would on
+like full capacity or whatever so much
+less than mining
+crypto or anything like that but then um
+you're sharing different instances of
+these applications
+across
+a large range of nodes
+but now you have a distributed database
+i believe that that's
+one possible solution um potentially
+where
+you know um there's there's always going
+to be
+fractally divided i want to sit in silos
+but they don't necessarily have to
+function so much like silos it's more i
+think of them as like permissioned
+membranes permission servers right
+um but still like it's so cool because
+the the way that they can access the
+data it doesn't require global consensus
+but you could still find you can still
+very readily identify
+where
+where there's that overlap kind of how
+you were talking about there's the core
+and then there's the peripheral gray
+area but it
+should in theory i would think allow us
+to identify where we have the most
+overlap in our in our data in our shared
+data right
+i'm really uh
+um
+i really like
+permissioning
+um
+[Music]
+decentralization and permissioning
+you know coming up out of that i'm not
+sure i followed everything that you were
+saying but the idea
+that
+um
+well the the the holy grail that
+um we all have
+all of our own information
+on our own
+hard drives and the ability
+to
+permission it outwards in myriad ways
+um
+saying like i want this specific piece
+of information to be shared with this
+one person
+to
+i want this
+data i've gary gathered about
+you know berries in this location
+to be
+shared
+globally
+but without
+specific attribution to me
+except as somebody who was
+a first degree witness to the berries
+existing in that place
+as a as a for instance
+that just
+um
+you know that that that control of
+permissioning
+um and
+permissioning as container
+yeah what the internet was supposed to
+be she mentioned tim generously and his
+original dream what his original vision
+of the internet was supposed to be
+um so we we can self-host our
+applications so
+you know we're we are hosting we are
+hosting our own data it's not going
+through it's no longer going through
+that centralized
+database
+so that allows for
+i mean there's tons of challenges of
+course obstacles that come with that
+especially for security um but you know
+it
+should be much quicker in theory things
+could be a lot more lightweight you
+wouldn't need as many lines of codes you
+wouldn't need as many calls and things
+like that um so and also should open up
+the door for
+um just the ability to see the different
+perspectives so you can kind of like you
+know get a better idea of more of a
+compilation of
+what this server over here is seeing or
+doing and so on so you get a variety of
+the different perspectives as to what's
+going on
+and then ultimately you know once
+artificial super intelligence arrives
+sometime
+whenever that is um
+now you're talking about literally like
+a cloud you know like the robot sophia's
+brain like it's just the cloud is like
+in her brain whatever it is you know
+that part is scary maybe but
+just if you look at
+the idea of an intentional intelligence
+programmable intelligence it's the
+ability of what it can allow us to do
+with a lot of automated processing and
+handling of data so one of the things
+that the reason i'm sharing is one of
+the things i'm very interested in is
+this idea of oracles so oracle's is like
+a box like a black box you put an input
+and then it gives you an output so it's
+like basically an automated function
+and so i could see these different
+functions being able to kind of gather
+data so it's not like a human
+necessarily that has to like enter in
+this data in this database and organize
+it but it's it's more of a
+conglomeration i'm sure like big tech
+companies are already using that now i
+mean governments for sure have to be
+using it but allowing those same
+technologies that they have
+that's you know um proprietary and
+giving that to the people i think could
+really open up the floodgates for like
+for what we're talking about um i don't
+know how that's possible but that's just
+like
+what that's what i'm hoping can happen
+at some point
+yes so going back to the privacy piece
+for a second
+when i started to envision okay this is
+my store of knowledge and i started to
+talk to people about
+privacy issues around that
+it both
+frightens people but also
+open doors too right like if they're if
+we really could trust that the thing i'm
+creating for my curating knowledge for
+myself it can be private because i'm
+storing it here it's next to me i only
+give permission to people who i give
+permission to access it
+then a whole host of things becomes
+possible right now i'm not just storing
+knowledge like the berries right i'm
+stirring knowledge that is
+that i am
+extremely aware i want to keep private
+i'm working on something brand new
+someone someone could take it and run
+with it and i'm not ready to publish it
+yet could be one which is knowledge
+based but what about medical based what
+about financial based what about right
+all those other ways in which right now
+a lot of my data is sitting somewhere
+else which you know it has to sit with
+like a high wall around it and i i
+barely can get access to it what if i
+owned that and i could start making
+associations between
+the things that i already know about my
+own financial or medical situation and
+that uh the other space out there right
+where it's just the shared knowledge
+station i can dip in and out of those
+two and go oh wow this is a diagnosis
+that i just received or these are
+symptoms i have or this is my past
+history and what's you know what can i
+learn from the from the
+the the
+knowledge network from the public
+knowledge network sphere about myself
+and ooh that's interesting save it down
+oh that's interesting save it down ooh
+that's interesting save it down you know
+what and these five things over here are
+kind of interesting too but let me save
+them for later and let me curate it in a
+way that i can find it when i want it
+right so to me it
+opens the door to
+us as humans re-owning our own story you
+might say or our own knowledge and being
+able to use technology for that benefit
+of knowing ourselves better in a world
+that
+in in our lifetimes we come across
+i don't know what the factor is of the
+amount of information we now come across
+and have access to in comparison to just
+say two generations ago and
+we but our brains can't
+hold it much more than we used right so
+let's use technology to hold it and help
+us help facilitate that thinking really
+take advantage of all that's available
+to us it's super cool and i don't think
+it's really possible unless we can lock
+it thus we as individuals can trust that
+it's locked in a safe place i'll always
+be a little nervous
+right and i always won't want to put up
+the most important pieces of my life on
+this thing unless i know it's really
+safe and so this is to me this is huge
+it's foundation part of the reason why
+i'm struggling i struggled for years to
+develop it because i kind of want to
+wait for that technology to come up
+because i don't want to develop it twice
+i'm
+[Music]
+i'm hearing what you're saying and
+resonating and
+and um
+and also um thinking about the
+you know we want to feel secure
+and yet
+our
+our you know identities can be
+um stolen and our our you know our
+finances
+our financial records can be hacked and
+you know people probably don't want to
+get at our medical records but certainly
+you know when they're in somebody else's
+hands we're worried about that and um
+that security piece is
+you know what's under our control we can
+govern but there's so much that's not
+under our control
+um
+yeah
+and and just to circle back to something
+you were saying
+zeke
+actually i don't remember who was saying
+this but just about
+the
+yeah i think it was easy talking about
+um
+you know oracles and and um
+you know
+general intelligence when it comes to be
+um
+like
+being able to just the way that we
+construct
+mythologies and stories and and
+explanations and scientific theories
+around
+um facts
+to be able to
+loose
+um
+a general intelligence an oracle you
+know something on a set of facts
+that we don't even know what we want to
+make of
+um
+but just to like say
+you know maybe not be smart enough to
+have a point of view um but more say
+here's a possible explanation that fits
+all these facts together
+um or these data points which may or may
+not be facts
+um and and
+you know this one makes sense of
+like
+90 of the 100 facts you put in here but
+these 10 would disprove it so maybe it's
+worth concentrating on
+whether these 10
+are in fact
+you know accurate
+um because if they're not then then this
+all works but if you know those to be
+true then this whole thing falls apart
+um
+yeah i mean you know general access to
+all of those
+data points
+um in the same language you know
+including
+the snake photos in the garden on
+facebook
+want to get there
+and the cool thing with the internet of
+things we're going to have access to
+large amounts of data like never before
+so that hopefully will help this process
+because we'll just have access to
+they're going to have all these little
+sensors on everything you're just going
+to be uploading tons and tons of data
+constantly all the time about a bunch of
+stuff
+that's going to be really cool and then
+just having it so that we can compile
+that data and design
+algorithms in which the machine can you
+know start learning about it and trying
+to piece it together and then it
+presents us
+says hey you know got all this like
+these are the 90 these are the 10 and
+here's like some stuff and what it could
+mean and these are other people that are
+you know doing the same thing and
+reading and learning about this and so
+it just can present to you and then you
+can say like you can even you know
+teach it it's like machine learning
+human human guided machine learning
+makes a lot of sense so yeah that was
+helpful no that wasn't helpful let's put
+that aside for later and then it and you
+know tag it if something else comes up
+let me know pop up a notification
+stuff like that um so it's really cool
+to think about the fact that like right
+now we don't have yet all these sensors
+and all this like data get
+access to potential data but once that's
+available then that that i think can
+open up a lot of
+a lot of possibilities too
+and
+that brings me to the fears that we all
+have and that you know are are realized
+and true about um the monitoring of the
+data that we generate
+by
+third parties by you know the amazons
+and the googles and the you know the
+the ad targeting um algorithms that we
+feel uncomfortable about and we want
+control over
+um and when you think about you know iot
+stuff you think oh my god is you know my
+vacuum cleaner going to be eavesdropping
+on my conversation so amazon can like
+you know
+change the pricing on something because
+they know i really want it
+um and
+if
+if we
+felt confident that we all individually
+had
+you know control of that stuff on our
+own servers and shared it voluntarily
+like i'm fine with sharing
+you know the chemical analysis of the
+dust in my house
+um via my vacuum cleaner with you know
+academic institutions that are you know
+looking at
+the migratory habits of different
+animals and can tell from you know other
+there's all kinds of stuff that you'd be
+cool with if you knew yeah all right
+fine i'm i'm up for that i'm down for
+that here's my data you can you can have
+a constant
+monitoring of the flow of data from my
+vacuum cleaner you know
+this research program
+it would be a lot different than god
+don't let anybody see anything because i
+don't know what they're doing with it
+that's right yeah and it'd be really
+cool to know what people are doing with
+it to see how useful it's been it
+encourages you to write to then give
+more
+data to the right people too is key so
+yeah that's cool i agree
+if people are willing i just want to
+flip this on its head for a second so
+we're talking about the edges of
+where this could go which is super cool
+and then it's reminding me of an article
+i read yesterday which is
+the simple the simplest version of this
+and how it could be immensely useful
+right now
+which is reading this article and i've
+been thinking a lot about phantom work
+we were talking about this last week
+right michael can't remember okay so i
+read a really good article about um
+written by it was in the atlantic i can
+post it if you guys want to
+um
+want to read it um from a woman who
+writes often about um the social um
+the government's projects and um
+and solutions for
+supporting the social structure of
+society right so it could be like
+helping somebody with homelessness or
+helping somebody get
+money from the government who they were
+promised because of kova 19 issues or
+whatever right any any of those kind of
+programs and she's saying she got to a
+point where she you know obviously
+there's always red tape obviously
+there's always
+too many forms to fill out all the rest
+but she's got to a point where she
+started noticing after reporting on it
+for years and years maybe this was about
+i'm guessing now about five years ago or
+something she started to recognize that
+wow this has gotten to a whole new level
+of complicated and does it really need
+to be this complicated there's such uh
+so much friction for people who are need
+help to get the help that they need
+whether it's in healthcare and making a
+million phone calls to your insurance
+company when you're ill or it's you know
+not you know homelessness and making
+having to fill out forms with random
+questions that make absolutely no sense
+to anybody under any circumstances in
+order to just have a meeting with
+somebody and she pointed out some very
+clear examples
+of how this works and so i just think
+it's interesting i think that it you
+know just having a knowledge repository
+we're not even talking about personal
+now we're not even talking about the
+gray area and we're not even talking
+about the future of what's possible
+we're talking about that public
+knowledge store that could be and that
+with the time and attention of people
+who have the time and attention to give
+could be immensely useful to the people
+who don't have the time and attention to
+give who either you know are ill or
+don't have the money the resources the
+time the energy the whatever
+and she talked about how those things
+used to be done by a government agency
+there's really no quality control in
+anymore so now teachers are doing that
+work and social workers are doing that
+work and other you know nonprofit
+agencies are doing the work of trying to
+help individuals get to what they need
+and get through the system to what they
+need
+so it's just interesting to me um
+as a as a thought exercise and maybe
+also as a good
+test case too
+in terms of trying to get information to
+the right people
+at the right time in the right place
+when they need it um it's low-hanging
+fruit in terms of solutions
+solution finding you know here's the
+solution here's how to get through it
+here's an organization they'll help you
+navigate through it you know at least
+you have the information at the
+baseline
+just as a thought
+thanks peter that's the one
+was it you that posted it to mattermost
+so did someone post to mattermost is
+that how i ended up with it because i
+can't even remember um i i didn't start
+with it um i i grabbed the link i found
+the link after somebody had mentioned it
+i think maybe it was you
+and michael knows it too obviously
+so we're coming up on two hours this has
+been an awesome conversation
+maybe it's a good time to rap
+um i'll post i recorded this one
+[Music]
+yeah and i'll post a link to the
+recording there and then i'll get it on
+youtube
+publicly cool it's so nice to meet you
+zeke i'm so glad you were here today
+nice to meet you yeah i really
+appreciate this conversation this was
+amazing
+thank you all for doing what you're
+doing and being you
+it's great
+yeah you too i think um we'd all agree
+and i think i probably speak for
+everyone and that if you're interested
+in working with us on
+i'm trying to figure this out we are
+very much
+welcoming of your time and talents
+awesome thank you yeah and love to know
+what you're doing and and you know how
+we can support you
+cool thank you yeah
+very excited to um get connected so just
+let me know
+cool
+i think you know about madame rest and
+yeah you do
+yeah i'm not i haven't been using it but
+i'm familiar i can hop on there this uh
+i did this i'm the one that i'll hop on
+anything whatever app people are using
+i'll jump in there just uh i don't have
+experience with any of these things i
+haven't used social media in like a
+decade literally so
+um there's a lot of things i'm just not
+going to know about like current events
+and stuff so keep that in mind also like
+i just may struggle to like figure out
+how to use some of these things but i'm
+very curious to hear people's opinions
+on what they like and don't like about
+certain uh software and applications
+because
+i didn't realize i'd end up being in
+this where i am now designing it but i
+am so i need to kind of know now like
+what's what's out there so
+there's a uh so
+the mana most is um where this community
+uh kind of hangs out when we're not on
+calls
+um in the flotilla channel um there's
+another channel you might be interested
+in which is
+synergic social media
+which is kind of somebody who's
+working on
+a
+less
+unvirtuous uh
+social media
+um but it's it's also kind of a general
+you you might have some good
+conversations there about what's good
+and bad about different different social
+media
+platforms
+yeah yeah that'd be great just um
+yeah and go dm me that info and i'll hop
+in there
+and feel free again as michael was
+saying to post whatever questions you
+have to i found i'm pretty new to to
+this experience as well with everyone
+else and collaboration so
+i've found i can just speak to my own
+experiences saying i found that if you
+post a question there's plenty of people
+who will be willing to to chime in in a
+very supportive way to um to either you
+know
+bring your attention to resources you
+didn't know or
+you know answer the question directly or
+whatever so however we can support you
+is what i'm getting at yeah great thank
+you so much
+this is uh this is bigger than us you
+know
+it's really cool it's great it's really
+great to meet people like yourselves
+you're too my husband came down i had
+you guys on on you and i'm making my
+lunch and he's he just leans in he goes
+i can't even like
+you can say that but i just
+not everyone likes to have these
+conversations and i would try to have
+them with him and he'd be like please i
+have a headache like i just
+he runs he runs software in his day job
+too he's a vp of pimsleur which is a
+language learning you know he's
+developed their app and you know so he's
+like i can i can't i can't you know and
+um and i'm like please i really wanna
+this stuff is great
+it's just nice to have it have a forum
+talk about it with other people who are
+interested and we all see the potential
+because it's heavy topics we start
+talking about we get into and um you
+know i know at times it can really weigh
+me down and give me compassion fatigue
+so um it's nice to have be in an
+environment with people who feel like
+there's a path through
+so thank you thank you for always
+holding this space and
+it's been great
+thanks all have a great weekend have a
+great day great weekend see ya
+bye

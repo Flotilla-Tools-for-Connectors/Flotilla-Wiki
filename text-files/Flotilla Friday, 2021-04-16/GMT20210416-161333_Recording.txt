@@ -1,0 +1,4 @@
+00:32:17	charles blass:	https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Interior_of_Teatro_Olimpico_%28Vicenza%29_-_Gradinata.jpg/330px-Interior_of_Teatro_Olimpico_%28Vicenza%29_-_Gradinata.jpg
+00:35:33	Peter Kaminski:	https://github.com/openglobalmind/ogm-wiki
+01:33:23	Peter Kaminski:	git remote set-url origin git@github.com:OpenGlobalMind/ogm-wiki.git
+01:38:11	Peter Kaminski:	https://github.com/Flotilla-Tools-for-Connectors/Flotilla-Wiki

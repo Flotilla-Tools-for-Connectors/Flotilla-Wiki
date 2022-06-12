@@ -1,0 +1,48 @@
+00:19:23	Stacey Druss:	Question: Does starting with one approach in any way, block the goals of the other?
+00:29:05	Vincent Arena (Catalist Commons):	I think not having data to interoperate blocks everything.
+00:29:42	Brad deGraf:	auditing mostly but am listening
+00:32:31	Stacey Druss:	Is it possible that by doing the 2 approaches, some new energy will be brought in to replace any lost "energy"?
+00:35:12	Peter Kaminski:	@Stacey, there's something similar, doing them together helps each approach design better.  (But perhaps not so much that it pays back the overhead. :-)
+00:37:15	Stacey Druss:	@Pete "perhaps" indicates an interesting question to explore ;)
+00:39:05	Vincent Arena (Catalist Commons):	highlight this clip at 12:41pm EST
+00:45:38	Stacey Druss:	"Matchmaking is a specialist activity." At another time and place I'd like to dig deeper on this. How do we empower our inner matchmaker?
+00:46:18	Stacey Druss:	Brad's hand has been up for a while
+00:47:09	Vincent Arena (Catalist Commons):	Onboarding and documentation are the most neglected globally
+00:53:11	Vincent Arena (Catalist Commons):	database structure vs database objects
+00:55:27	Michael Grossman (he/him) Factr.com:	Simple standards that create the light, nimble network that can parse new nodes and new schemas easily. And have unexpected new purposes: (ie some non librarians coming in, per Pete) Love pointing back to how the Occupy Wall Street movement re-purposed itself in response to Hurricane Sandy relief efforts. FEMA ended up leaning on them.
+00:58:17	Michael Grossman (he/him) Factr.com:	“we’ve got Beta, it’s better than your VHS!”\
+01:01:49	Stacey Druss:	USC? MRI? ??? Too many 3 letter terms 😁
+01:02:29	Jonathan Sand:	usc = university of southern california?
+01:02:42	Peter Kaminski:	i was trying to rattle off the early internet nodes
+01:02:56	Stacey Druss:	Really? I thought it was computer related :)
+01:03:02	Peter Kaminski:	University of California, Los Angeles (UCLA), Stanford Research Institute (SRI), the University of California-Santa Barbara (UCSB) and the University of Utah.
+01:03:15	Stacey Druss:	Ahhh, thank you!
+01:11:12	Vincent Arena (Catalist Commons):	agreed that i can't be the only one!
+01:11:46	Jonathan Sand:	pete, I still do not get what you are suggesting
+01:11:55	Vincent Arena (Catalist Commons):	Can i try to clarify here?
+01:12:17	Gyuri:	very interesting take on how to think about data intetrchange formats https://hyp.is/uHlRRKGzEeumOy_bEvclhg/docdrop.org/video/pspy1H6A3FM/
+01:13:31	Gyuri:	It did not take off, but it can be made to work just fine
+01:20:04	Vincent Arena (Catalist Commons):	https://raw.githubusercontent.com/vincentivize/catalist/main/trove-transformational-communities
+01:20:08	Vincent Arena (Catalist Commons):	Here's an example of raw JSON
+01:20:34	Vincent Arena (Catalist Commons):	that I'm using in KUMU
+01:20:38	Stacey Druss:	"Vincentivize" love that :)
+01:20:55	Gyuri:	+1
+01:20:59	Vincent Arena (Catalist Commons):	https://airtable.com/appko2bcl1RgoQXsK/api/docs
+01:23:16	Vincent Arena (Catalist Commons):	yes for different implementations across platforms. But pretty tough to pull data from many airtables to another implementation, when each of those tables are prototypes and not really shaped up yet
+01:26:38	Vincent Arena (Catalist Commons):	@brad https://airtable.com/invite/l?inviteId=invEpKbbhsuXjky0G&inviteToken=2f803de861b9de28b772f7cea7b0636b28a39c10705294ad51d3dfccc4890cf1&utm_source=email like to be a creator of this airtable
+01:26:48	Vincent Arena (Catalist Commons):	should allow you the ability to go to airtable.com/api and then play around a bit!
+01:26:51	Gyuri:	Peter That is important
+01:26:58	Vincent Arena (Catalist Commons):	https://www.airtable.com/api
+01:27:24	Vincent Arena (Catalist Commons):	@pete i'm fine with commitments being more freeform
+01:27:35	Vincent Arena (Catalist Commons):	as commitments are by their nature a bit more freeform
+01:27:40	Gyuri:	But would not Kumu allow you to model your ideas about what cvommitment is etc?
+01:34:15	Brad deGraf:	have to sign ooff
+01:35:29	Michael Grossman (he/him) Factr.com:	Curious about what Pete and Vincent describe as “Not much data”? We (sovereigns associated with Flotilla, the metaproject, the Plex, the CTA…) have sooooo much data! Not to mention the many more with whom we have not made first contact. How do we parse them all without asking them to "do it our way”?
+01:36:26	Gyuri:	"How do we parse them all without asking them to "do it our way”?" very good question
+01:38:46	Peter Kaminski:	@Michael, we have a lot of data, but not much of it is the databases
+01:43:57	Michael Grossman (he/him) Factr.com:	Not in databases? Or not in OUR database(s)?
+01:53:37	Gyuri:	remember the Palm sweet spot
+01:53:48	Peter Kaminski:	+1 Gyuri :-)
+01:53:58	Gyuri:	People were ready to change the way they had to write just to be able to have that PDA
+01:55:06	Gyuri:	Markup proves that people are ready to change the way they write to be able to express some stracture and formatting
+01:55:49	Gyuri:	centralized dreccentralized

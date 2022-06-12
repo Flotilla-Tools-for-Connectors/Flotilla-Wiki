@@ -1,0 +1,85 @@
+00:09:00	Wendy McLean, NY:	+1 Kelechi. - creating spaces to let people find their own journey toward more connection and support
+00:10:23	Pete Kaminski:	https://interpossibility.com/
+00:15:17	Michael Grossman (he/him) Factr.com:	++++1 Kelechi, This is inspiring! It is so good to have you with us.
+00:20:58	Kelechi Erondu:	https://interpossibility.com/what-is-your-possibility
+00:24:48	Vincent Arena (Catalist Commons):	Kelechi this is how i've done API Requests in the past with zapier
+00:28:08	Marc-Antoine Parent:	Does typeform allow to go back? I find it sometimes go forward before I'm done answering.
+00:30:07	Vincent Arena (Catalist Commons):	I think you have to scroll up to go back
+00:30:30	Vincent Arena (Catalist Commons):	Flourish allows live data sources (auto updating) only on the paid plans I believe: https://help.flourish.studio/article/163-how-to-connect-to-live-data-sources
+00:30:45	Marc-Antoine Parent:	shift-tab works
+00:38:56	Pete Kaminski:	from Marc-Antoine: "expressing the plurality of viewpoints"
+00:49:09	Stacey Druss:	I just sent my stories in before coming here lol
+00:49:29	Wendy McLean, NY:	Is she looking for more, Stacey?
+00:49:40	Stacey Druss:	More the better
+00:49:45	Marc-Antoine Parent:	what's the ask exactly?
+00:49:59	Stacey Druss:	any and all experiences
+00:50:02	Wendy McLean, NY:	Can you share a link? or email or whatever... I'm happy to contribute.
+00:50:15	Marc-Antoine Parent:	that sounds broad...
+00:50:37	Stacey Druss:	I'll send a better example in MM later
+00:51:18	Marc-Antoine Parent:	tx
+00:56:02	Wendy McLean, NY:	Beautiful to hear these shares... I've known you all for a while now, and I'm learning new things.  Very much appreciate you all!
+01:00:19	Pete Kaminski:	https://factr.com/
+01:10:56	Michael Grossman (he/him) Factr.com:	BTW, forgot to say: I’m—as tech folks say—non-technical. I’m generally recognized as a designer or editor (past titles: creative director; editor-at-large; editorial/design consultant; chief content officer)
+01:11:04	Stacey Druss:	@Vincent did you see the video with Grant Sanderson that I posted in Lionsberg Town Square?
+01:11:23	Vincent Arena (Catalist Commons):	Stacey I'm not sure!
+01:11:35	Vincent Arena (Catalist Commons):	I don't think so...
+01:12:06	Vincent Arena (Catalist Commons):	We usually go about 90 minutes +- half an hour
+01:14:08	Stacey Druss:	BRB
+01:16:23	Stacey Druss:	CRDT?
+01:20:50	Marc-Antoine Parent:	https://josephg.com/blog/crdts-are-the-future/
+01:29:13	Stacey Druss:	Not to interrupt but since the topic of notifications came up, some of us are not getting notifications from MM and need help :(
+01:29:28	Wendy McLean, NY:	Yes!!!
+01:29:34	Wendy McLean, NY:	I'm having that issue too!
+01:30:33	Pete Kaminski:	Let's work on it!  I'm not sure if this is the right venue... but working on it over zoom would be the best way to figure it out.
+01:31:09	Stacey Druss:	Whenever is good. It can wait until your work flow slows down :)
+01:31:12	Vincent Arena (Catalist Commons):	YOu mean Olive Garden?
+01:31:18	Vincent Arena (Catalist Commons):	the best authentic italian restaurant in town
+01:31:24	Wendy McLean, NY:	Thank you Pete!  I'd love it.  I'm guessing I just don't have the notification settings right? but not sure…. Happy to wait too, as Stacey mentioned.
+01:33:36	Vincent Arena (Catalist Commons):	everything evolves until it has a chat system
+01:34:01	Wendy McLean, NY:	Hard to pull the sensemaking back from chat, into the file
+01:34:55	Wendy McLean, NY:	I think the comments in docs are more like annotations, rather than chat.  Comments are more about sensemaking.
+01:35:30	Wendy McLean, NY:	Data vs information vs knowledge sets vs wisdom conversation
+01:36:31	Vincent Arena (Catalist Commons):	I think reddit is a good in between
+01:37:34	Pete Kaminski:	i'm not sure if this is the original saying, but it might be: "Every mobile app attempts to expand until it includes chat. Those applications which do not are replaced by ones which can." LukeW, 2013   which was evolved from jwz's “Law of Software Envelopment”, “Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can.”  https://web.archive.org/web/20130321070327/https://www.lukew.com/ff/entry.asp?1696  http://www.catb.org/jargon/html/Z/Zawinskis-Law.html
+01:41:26	Wendy McLean, NY:	Thanks Pete for circling back to me!  Appreciate it!
+01:41:59	Pete Kaminski:	I'm sorry I talked over you in the first place! :-)
+01:42:13	Wendy McLean, NY:	No worries!
+01:42:14	Wendy McLean, NY:	Would love to get back to Meta stuff next…
+01:43:03	Michael Grossman (he/him) Factr.com:	Accretive, on point, chat/comments on post objects that are wiki pages 🙂
+01:43:47	Pete Kaminski:	http://worrydream.com/KillMath/
+01:45:30	Wendy McLean, NY:	“It was great.  We got to learn about differential equations" is not a phrase that comes out of many people... just saying.
+01:45:39	Michael Grossman (he/him) Factr.com:	Pete, did you like geometric proofs?
+01:46:00	Michael Grossman (he/him) Factr.com:	That was my jam.
+01:46:00	Marc-Antoine Parent:	When you love math, nothing is nicer
+01:46:22	Wendy McLean, NY:	I liked Trig and Calculus, but I don't remember much of it now.
+01:46:40	Marc-Antoine Parent:	I am a textbook case of the non-visual, language based math person…
+01:47:08	Stacey Druss:	@Michael, would it surprise you to know that I loved them?
+01:47:50	Michael Grossman (he/him) Factr.com:	Not at all, stacey! I thought I liked math when we did geometry, soon as we hit trig and calculus I was totally uninterested.
+01:51:18	Vincent Arena (Catalist Commons):	i may or may not do that...
+01:52:00	Michael Grossman (he/him) Factr.com:	Goes with sense of direction. Relationships.
+01:53:47	Marc-Antoine Parent:	mind palace
+01:53:56	Pete Kaminski:	https://en.wikipedia.org/wiki/Method_of_loci
+02:01:00	Pete Kaminski:	cf. Michael's "Home" and Christopher Alexander's "Intimacy Gradient" pattern
+02:12:57	Stacey Druss:	I don't want to go on a tangent but want to highlight Michael's story as an example of what drives the more sensitive, loving types of people that we need, away from leadership roles.
+02:13:11	Michael Grossman (he/him) Factr.com:	(my note: Everybody’s starting a different, competing bridge to be “the one” that makes it across.)
+02:13:11	Wendy McLean, NY:	+1 Stacey!  YES!!!
+02:13:30	Marc-Antoine Parent:	also seconding
+02:13:46	Michael Grossman (he/him) Factr.com:	Thank you stacey 🙂
+02:13:47	Marc-Antoine Parent:	(though I could see myself being one of the other characters in the story...)
+02:14:09	Stacey Druss:	Thank you all for the validation :)
+02:15:45	Wendy McLean, NY:	Seeing what everyone else is doing is what the biggest issue is for me right now.
+02:16:19	Wendy McLean, NY:	In trying to figure out where is the best use of my time in energy...
+02:20:01	Pete Kaminski:	from Wendy M.: "This magnetic field, where all this all this stuff from the sovereigns is being discovered, and being seen on a meta level, even if it's not being seen by individual sovereigns. We need mapping, for that and we need sense makers for that, and we need weavers for that."
+02:20:04	Michael Grossman (he/him) Factr.com:	Are individual identity, recognition, and agency a needed first step to collaboration, to governance, to matchmaking…?
+02:21:23	Michael Grossman (he/him) Factr.com:	Rhetorical question, sorry: I think that individual identity, recognition, and agency ARE a needed first step to collaboration, to governance, to matchmaking. ;)
+02:22:37	Stacey Druss:	+1Michael
+02:23:23	Pete Kaminski:	the conundrum there is that individual identity, recognition, and agency are VERY complex, and hard to represent well
+02:23:53	Marc-Antoine Parent:	I lack background to follow, so I'll let you enjoy. Cheers!
+02:29:03	Vincent Arena (Catalist Commons):	what is the purpose of the spreadsheet?
+02:33:11	Pete Kaminski:	- Map Weavers - Skills & Passions spreadsheet - Lionsberg Wiki - "Start Page" project - Story Sovereign - Social Dimensions
+02:34:12	Pete Kaminski:	- Massive Decentralizaton - Massive Coordination
+02:36:14	Wendy McLean, NY:	pieces from the spreadsheet:  (1) profile info with passions / skills.  allowing people to edit it (2) People who want to weave, taking the info and beginning to connect people more; people connecting themselves (3) Branding - using the info on a website or other public communications piece (4) Steps and Flow - starting to show how this info can be used to onboard and direct people's energy and time / both the tech and the interpersonal flows together
+02:44:26	Wendy McLean, NY:	https://miro.com/app/board/uXjVOuxqpFM=/
+02:45:56	Michael Grossman (he/him) Factr.com:	Where does Evel Knievel fit metaphorically here?
+02:54:56	Vincent Arena (Catalist Commons):	I'm going to run too!
+03:06:02	Michael Grossman (he/him) Factr.com:	https://uncomfortableconvos.com/

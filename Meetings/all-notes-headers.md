@@ -1,0 +1,223 @@
+- Flotilla Friday, 2021-03-12
+-    - Experiments
+-    -    - non-Webflow
+-    -    - Link Catalog
+-    -    -    - Syntax
+-    - Massive Wiki
+-    -    - Demo / Diagram
+-    -    - Git (protocol, hubs, etc.)
+-    - Flotilla
+-    -    - Federation/Syndication/Murmuration-ish Stuff
+-    -    - Catalist Status
+-    -    - Directories Editability Prioritization
+-    -    - Directories Rollout / Facilatation
+-    -    - OGM Needs Directories/Dashboard
+-    -    - New Idea: Agreements Hub
+- Flotilla Friday, 2021-03-19
+-    - Future Meetings
+-    -    - Browsers (and our Love / Hate of them)
+-    -    - Practicing Python-Airtable
+-    - Demo of Vincent's Airtable Task List
+-    - Agenda
+-    - Notes / Maps / Clutter Mgmt
+-    -    - Notes / Wiki
+-    -    - Project / Task Management
+-    - Calendar
+-    - Matchmaking and Conversations
+-    - Resources / Pointers
+- Flotilla Friday, 2021-04-02
+-    - Agenda
+-    - Calendar
+-    -    - Functionality
+-    -    - Testing and Getting Feedback
+-    -    - Make Calendar a First-Class Project
+-    -    - Resourcing
+-    - Other companies
+- Flotilla Friday, 2021-04-09
+-    - Possible Agenda Items
+-    - Calendar Update
+-    - Linking Organizations
+-    - Thinking About Directory Pages
+-    - Links / Quotes / Resources
+- Flotilla Friday, 2021-04-16
+-    - Trove Backlog / Changelog
+-    - Quotes
+-    - Massive Wiki
+-    -    - Questions
+- Flotilla Friday, 2021-04-23
+-    - Trove URLs
+-    - Reading a Massive Wiki with Bubble in Trove
+- Flotilla Friday, 2021-05-07
+- Flotilla Friday, 2021-05-14
+-    - People
+-    - Possible Agenda Items
+-    - Branding / Collaboration / Community Marks
+-    -    - Design Systems
+-    -    -    - Web Resources
+-    - Factr
+-    -    - Outreach
+-    -    - Questions
+-    - Quotes / Links
+-    - Notes On Dualities
+-    - Zoom chat
+- Flotilla Friday, 2021-05-21
+-    - People
+-    - MX
+-    - Other Stuff
+-    - Mark's MX entries for this meeting
+- Flotilla Friday, 2021-05-28
+-    - Agenda
+-    - AI, BCI, etc.
+-    - Commons and Governance
+-    - Flotilla
+- Flotilla Friday, 2021-06-04
+-    - Meeting Items
+-    - Link Harvesting
+-    - UN, SDGs, taxonomies
+-    - Taxonomization
+-    - Aggregating Organizational Metadata
+-    - The Commons / Generative Commons
+-    - Multi-Language CICOLAB Monday
+- Flotilla Friday, 2021-06-11 - Mapping The Plex
+-    - People Attending
+-    - Mapping and Creating Maps Together
+-    -    - Let's Do A Map!
+-    -    - Organizations
+-    -    - Potential Needs
+-    -    - Tools
+-    -    - Kinds of Maps
+-    -    - Visual Designs for Maps
+-    - Common Metadata Fields for Orgs, Individuals, and Other Entities
+-    -    - Specific Fields
+-    -    - Resources
+- Flotilla Friday, 2021-06-18
+-    - Topics
+-    - Intentions / Commitments
+-    - Notes
+-    - Metadata Syndication and Aggregation
+-    -    - murmurations website
+-    -    - microformats2 person
+-    -    - microformats2 event
+-    - Resources
+- Flotilla Friday, 2021-06-25 
+-    - Interoperability
+-    -    - Syndication Communication Channels
+-    -    - Objects
+-    - Links
+-    - Zoom Chat
+- Flotilla Friday, 2021-07-09
+-    - People
+-    - Topics
+-    - Use Cases
+-    - Tools
+-    - Links
+- Flotilla Friday, 2021-07-16
+-    - Topics
+-    - Trove Observations
+-    - Flotilla Goals
+-    - Microservices
+-    - Maps and Mapping
+-    - Zoom Chat
+- Flotilla Friday, 2021-07-30
+-    - Topics
+-    - Trove and Linkchainsaw
+-    - Resources
+-    -
+- Flotilla Friday, 2021-08-06
+-    - People
+-    - Topics
+- EES DS-3Q21
+- Flotilla Friday, 2021-08-20
+-    - Topics
+-    - Misc
+-    - Dashboard of OGM projects
+-    - Zoom Chat
+- Flotilla Friday, 2021-09-03
+-    - Topics
+-    - Factr
+-    - Zoom Chat
+-    - Topics
+-    - Hyperknowledge
+-    - MX
+-    - Project Clambake
+-    - Other 
+-    - sensemaking index, Mark C, always incomplete
+-    - Zoom chat
+- Flotilla Friday, 2021-10-01
+-    - Topics
+-    - How to Pick More Times for FF
+-    -    - Outcomes this meeting
+-    -    - Minimizing split-brain community
+-    - What Flotilla Is Thinking About
+-    - Ideas For Topics
+-    - Collaborative Knowledge
+-    - Flotilla Friday, 2021-10-01 video recording and notes:
+-    - Zoom Chat
+-    - 2021-10-08 MX notes so far 
+- Flotilla Friday, 2021-10-15
+-    - Topics
+-    - Hyperknowledge
+-    - Drawing
+-    - Prose / Poetry / Art
+-    - China
+-    - Books
+-    - Zoom Chat
+- Flotilla Friday, 2021-10-22
+-    - Topics
+-    - Project Clambake Maps
+-    - Where to collaborate
+-    -    - Resolved
+-    - Sync to/from HackMD
+-    - Some JavaScript Diagramming Libraries
+-    - Topics
+-    - Next Topics
+-    - Hyperknowledge
+- Flotilla Friday, 2021-11-05
+-    - Previous meetings
+-    - Topics
+-    - ActivityPub and ForgeFed 
+-    -    - ActivityPub
+-    -    - ForgeFed
+-    - Hyperknowledge
+-    - Victor's Trove scopes (0h38m)
+-    - Pete's OGM Thursday 2021-10-28 Hypertext Knowledge Workbook
+-    - Topics
+- Interfaces To Concepts
+-    - Topics
+-    - Other Groups of Interest
+-    - Pop-up Python Workshop / Learning Python Resources
+- Flotilla Friday, 2021-12-10
+-    - Topics
+-    - Interoperable Wisdom Commons
+-    - Unigraph
+-    - DMX
+-    - Topics
+-    - "Resource"/link/bookmark object standard?
+-    - misc
+-    - log4j
+-    - Hyperknowledge
+- Flotilla Friday, 2022-01-07
+-    - Topics
+-    - Imagine what Flotilla could achieve, do better, do more of in 2022
+-    - I Loved
+-    - I Wish
+-    - I Wonder
+- Flotilla Friday, 2022-01-14
+-    - Topics
+-    - Resources
+-    - Topics
+-    - Notes
+-    - Pete's updates
+- Flotilla-Massive 2021-04-14
+-    - People
+-    - Checking In
+-    - Markdown Questions
+-    - PERSON
+-    - YAML
+ -    - PROJECTS
+-    - PERSON
+-    -    - Fields / Complexity We Won't Use Now?  
+-    - Schemas and Tools
+-    - YAML Tools
+-    - Geocoding
+-    - Shortcuts For Later

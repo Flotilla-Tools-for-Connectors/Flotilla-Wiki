@@ -1,0 +1,693 @@
+
+- firebase 
+- flutter (bleah)
+- bubble (yay!)
+- Airtable
+- Telegram bot
+- idea: 'stripminer' script, to mine archives
+- :type:
+- like emojis in chat systems :-)
+- #topic
+- https://barelink.example.com/
+- has to start with https or www
+- git the protocol / tool
+- decentralized / peer-to-peer
+- hubs: GitHub, GitLab, BitBucket, gittea, etc.
+- really important
+- Massive and [federated document creation and revision](https://chat.collectivesensecommons.org/agora/pl/ji61en34yfnn9g1ge5mdwj7hyw) is cool
+- looks like we should get tools up first, then work on syndication/aggregation
+- Massive-Catalist coordination
+- Vincent and Pete to stay in close touch going forward
+- "leaf" schemas from Catalist to help set up wiki page templates
+- URL structure / format of wiki pages (both wiki-specific, and semantics/information architecture of directory wikis) for Catalist to interoperate
+- switching tech for scalability, but usable now at reasonable scale
+- other app named "Catalist" (Likewise copycat)
+- self-edit vs. admin edit
+- scope ("tag") to community
+- timeframe
+- amount of facilitation
+- dev effort
+- hard costs (e.g., Airtable Pro)
+- documentation
+- 1- or 2-minute how-to videos
+- demonstration / help meetings
+- barn raisings
+- "customer support" / helpdesk / facilitation team
+- people
+- projects / quests
+- guilds
+- dashboard
+- new Flotilla product quest
+- 2-way agreements
+- multiple-party agreements
+- security and privacy
+- browsers, cookies, scripts
+- passwords
+- tab management
+- Bookmark All Tabs
+- tab managers like One
+- Pinboard
+- social bookmarking / bookmark management
+- Diigo
+- Pinboard?
+- federate bookmarking with Massive Wiki
+- importing bookmark exports into Airtable
+- figure out how to distribute
+- calendar
+- notes/ maps/ clutter mgmt - emergency co-coaching segment perhaps? 
+- wedding tables
+- Obsidian.md
+- check back for syncing with mobile devices and massive wikis
+- how to use with / migrate from OneNote
+- Trello or Airtable
+- recurring meetings
+- relates mucho to calendaring+scheduling protocols
+- "Wedding Tables"
+- coordinate and plan like you would for a wedding
+- plan to put certain people for productive ...
+- focused, thematic, topical discourse
+- intentional discourse (ideally, harvested)
+- socialroots.io
+- hashverse
+- CICOLAB Roundtables
+- calendar
+- free-form profile/directory pages on OGM Wiki
+- should we have a Flotilla massive wiki?
+- Airtable multi-sync -- two-way sync with multiple Google calendars
+- very quickly input data into shared calendar
+- handle various events at various levels of openness and privacy
+- being able to update events
+- easy way to get people to use it and get feedback
+- how to resource it?
+- Pete's sharing picture of architectural "secret sauce" - [Slack notifications flowchart](https://miro.medium.com/max/1400/1*ZGZ9a-m8yNrliqppeU1qJg.jpeg)
+- say there's a straw budget need for first six months (dev, design, marketing) = $250k at retail salaries
+- pay half that for "non-profit" pricing?
+- sweat equity?  (but need a revenue model for that)
+- hybrid commercial / commons model?
+- wordpress model?
+- b2b product?
+- calendly
+- eventbrite
+- calendar update
+- massive wiki update
+- journaling thread from CICOLAB
+- getting attendees connected to Flotilla Wiki
+- creating directory pages in OGM Wiki
+- a (Catalist-Flotilla-Massive Wiki) templates meeting someday
+- what would be a good MVP for OGM and CICOLAB and similar clusters?
+- where should the data flow out to?
+- what are our user personas?
+- use cases
+- Mattermost/Discord/Slack (links sent)
+- Google Calendar (the stuff THERE)
+- Catalist Community Page (Open)
+- Catalist Community Page (Closed)
+- Catalist Network Page (Open/Closed)
+- Catalist Public Events?
+- Text/Email
+- 
+- by working style
+- by temperament
+- conversation with Tiberius, [CICOLAB \+ Sensorica Bridge \- YouTube](https://www.youtube.com/watch?v=KBYSr-TDRR8), activity maps for Massive Wiki
+- flotilla = rafts floating in the ocean, tying ourselves together
+- David Bovill and directory of MoUs
+- Attribution for contributing to resource directories
+- iOS?
+- Android?
+- what are the shortcomings of Obsidian that Massive Wiki overcomes?
+- besides Obsidian, what else do I need?
+- once I'm set up, what's the process of participating and maintaining my massive wikis?
+- simple GET to GitHub
+- converting Base64 content to text
+- LinkSDG
+- Factr
+- new Massive Wikis for CSC and OGM mainsites; collaboration thereupon
+- Branding/Collaboration
+- APIs (Flotilla, etc.)
+- information appliances sharing "information nuggets" - transclusion between applications
+- Zero Friction Community formation
+- [The Case for Community Marks](https://factoryjoe.com/2006/01/14/the-case-for-community-marks/)
+- [Why BarCamp is a Community Mark](https://factoryjoe.com/2006/05/29/why-barcamp-is-a-community-mark/)
+- MIT Media Lab, https://www.pentagram.com/work/mit-media-lab/story
+- Google design system
+- Adobe's "periodic elements" logo system
+- Trove
+- Atlassian's range of products (Trello to JIRA)
+- https://medium.com/designing-atlassian/behind-the-scenes-of-the-atlassian-rebrand-f6ba1592377e
+- logos
+- colors
+- typography
+- structural naming
+- "a tool for connecting"
+- [Design Systems Repo](https://designsystemsrepo.com/design-systems/) - _A comprehensive and curated list of design systems, style guides and pattern libraries that you can use for inspiration._
+- [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/) (invision)
+- [10 great design systems and how to learn (and steal) from them](https://uxdesign.cc/10-great-design-systems-and-how-to-learn-and-steal-from-them-4b9c6f168fa6) (UX Collective)
+- "social network", knowledge network
+- asynchronicity / always on
+- place for things to show up, and stay, and have value
+- true net
+- editing date on an item to help create chronologies
+- streams based on feeds -> daily or weekly newsletter
+- organization features
+- invited to CICOLAB Hot Seat
+- talk a little about how you think of "no push for engagement" as a commercial entity?
+- API?
+- uploading PDFs, sounds, videos, text files
+- import?
+- export?
+- differences from Facebook, Pinboard, Pinterest, Reddit, Trove...
+- tech stack?
+- marketing?
+- What user segment is most important/focused?
+- Who are the power users?
+- What feature is your favorite that you use most?
+- Do you think it's best to stay without an algorithm? What are your thoughts on https://refind.com/
+- How many subscribers
+- "double-edged sword" of not designing for engagement and hyper-engagement (this is hard)
+- continuous but not synchronous
+- don't need fancy fonts ... just "structure and collaboration"
+- pearltrees export/ import would be super
+- https://twitter.com/TrailHub1/status/1385553679126876164
+- I have to show you [IdeaLoom](https://www.idealoom.org/)...
+- [Village Voice Covers](https://factr.com/g/village-voice-alumni/voice-covers)
+- collaborative branding/seamless experience vs. sovereignty of brands
+- physical media, and the space it takes
+- lots of books to read, not enough time
+- [Kademlia's "distance" calculation](https://en.wikipedia.org/wiki/Kademlia#System_details)
+- [The Dead Milkmen \- Lesbian Eskimo Midget Albino \[aka Sarah Jane\] \[HQ\] \- YouTube](https://www.youtube.com/watch?v=TJnPRmjw68k)
+- "semantic distance"
+- "dynamic depth"
+- [decentralized reputation system](https://www.google.com/search?q=decentralized+reputation+system) (Google search)
+- [Collaborative Tech Alliance](https://www.hylo.com/c/collaborative-technology-alliance/join/doing-more-together)
+- integrating massive wiki and trove
+- token curated registries
+- SourceCred
+- LinkSDG
+- Coalition of Sovereigns
+- brain-computer interface
+- AI (ML)-driven 
+- Ben Roberts
+- http://www.open-atlas.org/
+- John Vervaeke's lecture series “Awakening from the Meaning Crisis” (0:49)
+- \_uprtcl
+- hyperactive vs. despondent
+- at the embodied level (0:30)
+- capital
+- knowledge
+- grounded in land, local
+- links between local
+- grounded yet connected
+- Generative Commons
+- Dietz, P., Ostrom, E., & Stern, Paul C., "The Struggle to Govern the Commons", Science 12 December 2003:  Vol. 302 no. 5652 pp. 1907-1912, DOI: 10.1126/science.1091015
+- Linked Open Wisdom Commons
+- epistemological commons
+- ontological commons (ways of being)
+- propositional knowledge
+- modes of existence
+- progressive partial formalization
+- Trove
+- Massive Human Intelligence Project
+- CICOLAB
+- Factr
+- directories
+- matchmaking
+- federated groups
+- csc mattermost bot / link harvesting for Trove
+- aggregating organizational metadata
+- Flotilla organization
+- LinkSDG
+- the commons/ generative commons piece as it relates to Flotilla, and others in our immediate + extended sovereign-sphere, in advance of monday cicolab multi-lingual roundtable on the commons
+- federate / share?
+- RSS feed
+- linkedin.com/in/laurel-patterson - Director UNDP SDG
+- "marketing" potential
+- interfacing with extremely large bureaucracies
+- [Pete's Ever-Evolving Action-Oriented Taxonomy](https://dynalist.io/d/oiw_r0vFa6Xkt1QyEDTlxtj6)
+- taxonomies in general
+- activating the UN
+- Dublin Core
+- [Library of Congress Classification](https://en.wikipedia.org/wiki/Library_of_Congress_Classification) (Wikipedia)
+- UN SDGs
+- things like Cyc
+- Wikidata
+- [Freebase](https://en.wikipedia.org/wiki/Freebase_(database)) (Wikipedia)
+- meta taxonomies
+- folders, tags
+- geotagging
+- topic modeling
+- murmuration, microformats, rss
+- discussion in "Lionsberg + OGM, 2021-06-03"
+- [FAQ, Entity Member Relationship](https://wiki.openglobalmind.com/ogm_operations/staff_meetings/FAQ,_Entity-Member_Relationship.html)
+- /now
+- Wendy McLean's everything
+- tru.net
+- jlinc.com
+- juggl.io
+- graphcommons.com
+- sum-app.net
+- [\[ogm\] Generative Commons](https://chat.collectivesensecommons.org/agora/channels/ogm-generative-commons) chat channel
+- how do people engage in the generative commons?
+- breakout design
+- tools
+- kinds of maps
+- interoperability
+- collaboration
+- establishing regular community practices of mapping
+- setting a time for the next call
+- Collaborative Ethical Tech Platforms
+- Trove
+- Massive Human Intelligence Project
+- CICOLAB
+- Factr
+- Collective Next
+- Open Global Mind
+- Lionsberg
+- Open Future Coalition
+- Solutionista
+- MetaCAugs
+- Flotilla
+- Peeragogy
+- WINfinity
+- interoperability
+- privacy
+- what is the "center"
+- multiple different maps from different perspectives
+- "filtering" a large set of nodes
+- easy to reuse the same nodes
+- the information for a node is always up-to-date
+- dynamic generation of a map
+- collaboration on a map
+- aggregation of data from various web endpoints
+- syndication of data, hosting of data
+- search metadata
+- going from viewing a map to being able to add to the map things that i know about
+- a unique (distributed) identifier for each organization and individual
+- Airtable
+- Scapple
+- Graph Commons
+- Kumu
+- Miro
+- Whimsical
+- diagrams.net
+- CMapTools
+- build a visualizer tool
+- graph networks
+- force-directed graphs
+- [hyperbolic tree](https://www.google.com/search?q=hyperbolic+tree&tbm=isch) (Google image search)
+- smiley faces
+- stick figures
+- animal icons
+- [emoji mashups](http://louan.me/EmojiMashupBot/)
+- goal: help toolmakers aggregate information
+- specific fields and formats
+- [microformats2](http://microformats.org/wiki/microformats2)
+- [Murmurations](https://murmurations.network/)
+- [json2yaml](https://www.json2yaml.com/)
+- [sqale](https://www.sqale.co/)
+- Mapping II
+- Metadata Syndication and Aggregation
+- add five connections between our org and others
+- Nora Bateson, data and context (0:34)
+- "fat edges" (0:34)
+- "intentional event planning" focused working session (1:24)
+- [microformats2](http://microformats.org/wiki/microformats2)
+- [Murmurations Network](https://murmurations.network/)
+- [FOAF](http://www.foaf-project.org/)
+- [XFN](http://www.gmpg.org/xfn/)
+- [json2yaml](https://www.json2yaml.com/)
+- [Reverse domain name notation](https://en.wikipedia.org/wiki/Reverse_domain_name_notation) (Wikipedia)
+- [Citation Typing Ontology (CiTO)](http://www.sparontologies.net/ontologies/cito)
+- [Rise of the STUPID Network](https://isen.com/stupid.html) (David Isenberg)
+- [Is Your Company Having A Chocolate Conversation?](https://www.forbes.com/sites/brycehoffman/2015/02/20/is-your-company-having-a-chocolate-conversation/)
+- [JSON-Schema.org](https://json-schema.org/)
+- [JSON Schema Miscellaneous Examples](https://json-schema.org/learn/miscellaneous-examples.html)
+- [JSON Schema, Schema\.org, JSON\-LD: What’s the Difference?](https://medium.com/@dashjoin/json-schema-schema-org-json-ld-whats-the-difference-e30d7315686a) (by Andreas Eberhart) (Medium)
+- [JSON-LD.org](https://json-ld.org/)
+- [JSON-LD Playground](https://json-ld.org/playground/)
+- [Schema.org](https://schema.org/)
+- mapping objects between systems
+- start with "thick" objects or "thin" objects
+- API pull
+- RSS feed
+- something like [pingbacks / trackbacks](https://en.wikipedia.org/wiki/Pingback)
+- Person
+- Organization
+- Event
+- Web URL (as lightweight resource; i.e., a bookmark)
+- how to decentralize (and coordinate) IDs?
+- Keybase as an example: using online artefacts as representations of me; and others can use them to make a judgement about the particular ID used.
+- [Lumpers and splitters](https://en.wikipedia.org/wiki/Lumpers_and_splitters) (Wikipedia)
+- [“Real Names” Policies Are an Abuse of Power](http://www.zephoria.org/thoughts/archives/2011/08/04/real-names.html) (danah boyd)
+- [Who is harmed by a "Real Names" policy?](https://geekfeminism.wikia.org/wiki/Who_is_harmed_by_a_%22Real_Names%22_policy%3F) (Geek Feminism Wiki)
+- [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) (by Patrick McKenzie)
+- [[Lauren Nignon]]
+- [[Mark Carranza]]
+- [[Peter Kaminski]]
+- [[Michael Grossman]]
+- [[Vincent Arena]]
+- [[Bill Anderson]]
+- [[Phil Kennedy]]
+- [[Wendy McLean]]
+- Elsa the Storm
+- Concept maps
+- Klaus Mager and Food Systems Realignment needs concept mapping
+- Innovation broker role
+- Bob Horn
+- Vergence
+- CICOLAB Knowledge Repository and "organized group agreements"
+- CICOLAB appreciations in Airtable
+- Food System Realignment's need
+- Concept mapping
+- Miro
+- Graph Commons
+- Diagrams.net
+- [Scapple](https://www.literatureandlatte.com/scapple/overview)
+- Mind maps
+- Hyperbolic graph visualization
+- Kumu
+- ConceptDraw
+- [Procreate](https://procreate.art/)
+- InDesign
+- Figma
+- [Sketch](https://www.sketch.com/)
+- [Your Personal Linked Data Graphs with Solid](https://www.youtube.com/watch?v=lkYrwbxCCHE) (Ruben Verborgh) (YouTube) (via Vincent at 01:12)
+- [The Sketch vs Figma Dilemma](https://miro.medium.com/max/2560/1*dxgCEVLIqnh186x7erhNUg.jpeg) (Ami Ballo) (Medium) - _a reflection on tools_
+- which next steps? milestones?
+- maps and mapping
+- interoperabilty
+- ~20 orgs
+- could be seen in three networks (cf. [17 SDGs](https://sdgs.un.org/goals))
+- outreach?
+- working sessions?
+- back end and front end
+- a "behance for maps"
+- maps and mapping tools: https://airtable.com/shreJ7NuwexfCw0WY
+- Trove and LinkChainsaw
+- use our own tools and HONESTLY show how we use them
+- [ActivityPub](https://www.w3.org/TR/activitypub/)
+- Emergent Event Sensemaking, COVID edition
+- [clip together a little flotilla video](https://chat.collectivesensecommons.org/agora/pl/pf8cqef6g3rmirz1uhbq9jb3by) 
+- GDM
+- Email/sms to (wiki, factr, trove, etc.)
+- LinkChainsaw status: https://chat.collectivesensecommons.org/agora/pl/hqj7uawwr3ytzebzej8x1a7u1o
+- [ZoomChatter](https://github.com/KeysAndValues/zoomchatter) - experimental code for transforming zoom chat files; parent code of LinkChainsaw
+- Bentley's [Zoom Chat Formatter](https://www.youtube.com/watch?v=UIgsRYabkWY)
+- Trove Event + Linkchainsaw Integration [Event Page Example](https://www.catalist.network/event/flotilla-fridays-7-30-21)
+- perhaps related to the discussion of IDs, a previous Flotilla Friday discussion about "taxonomization"
+- Admining Factr streams
+- EES DS-3Q21
+- "scanning"
+- Flotilla website
+- API access to CSC Mattermost
+- Python
+- Dashboard of OGM projects
+- Distributed Directory Project
+- EES DS3Q21
+- IoT may be a game changer for sensemaking
+- how can you add something like a hashtag to a web page and then find new instances of it using a web search engine
+- Trove!
+- OGM Wiki? (does Massive Wiki have an API?)
+- sibling of Distributed Directory Project?
+- What is a project?
+- Who speaks for it?
+- "ambassador" vs. "leader", "leadership"
+- "leaderless"
+- in group dynamics there is a vocab of distributing authority such as ambassadors, decision makers, observers, plenipotentiary, etc.
+- How do they keep the directory entry updated?
+- How does it syndicate more detail (project roadmap, task list, resources needed)
+- Into the directory?
+- Into the world?
+- How do people know how to find the directory?
+- How do people know how to use the directory?
+- rain from Hurricane Ida in New York
+- Beth Sawin
+- San Antonio
+- Dripping Springs, city in Texas
+- Zoom Chat Easy Reader
+- Emergent Event Sensemaking
+- Factr
+- "music i like to listen to"
+- "Long Term" Event Sensemaking
+- wiki-ing the Wiki Wednesday (US-EU) meeting this week
+- Bob Stein, improving The Internet Archive
+- maintenance coding
+- VS Code
+- "Fail early and often"
+- Four stages of problem solving
+- "Factr-y" :-)
+- [Delta Surge 3Q2021 Stream](https://factr.com/u/peterkaminski/delta-surge-3q2021)
+- multiple people writing to a stream
+- what is hyperknowledge?
+- what is Project Clambake?
+- what is Flotilla?
+- when shall we meet?
+- what is MX?
+- [The Press Conference](https://www.catalist.network/event/the-press-conference-sept-2021)
+- `[flotilla]` prefix for Flotilla mattermost channel
+- Flotilla website
+- IdeaLoom
+- usually "last edit wins"
+- [MixedInk](https://en.wikipedia.org/wiki/Mixedink)
+- Mark and his MX in my Brain: https://bra.in/4pxJxK
+- [Mark Carranza \- Conference 2013 on Vimeo](https://vimeo.com/85016624)
+- [flotilla] Project Clambake channel](https://chat.collectivesensecommons.org/agora/channels/flotilla-project-clambake)
+- _how_ to pick a time for more FFs
+- ees dsq321, real quick
+- updates about other communities
+- debrief last week
+- partition the problem of interoperability
+- decentralization and web3
+- hyperknowledge
+- geographic coverage
+- friendly for people who have jobs
+- some options
+- goals
+- stick with current time until Daylight Savings time settles down
+- do the actual time picking asynchronously
+- be good about agendas beforehand
+- be good about reporting out afterwards
+- be good about recording meetings (automate?)
+- make sure at least a few people can attend both meetings and cross-inform / cross-connect the meetings# Flotilla Friday, 2021-10-08
+- notes for last week, 2021-10-01: https://github.com/Flotilla-Tools-for-Connectors/Flotilla-Wiki/blob/main/Meetings/Flotilla%20Friday%2C%202021-10-01.md
+- hackmd for next week, 2021-10-15: https://hackmd.io/@peterkaminski/Sy5cYxR4t/edit
+- What Flotilla Is Thinking About
+- Ideas For Topics
+- Collaborative Knowledge
+- Flotilla Friday, 2021-10-01 video recording and notes
+- Zoom Chat
+- 2021-10-08 MX notes so far
+- we need a Flotilla website
+- we need a static site for the Flotilla Wiki
+- we like interoperability! (what does that mean?)
+- we want to try syndicating data more
+- Project Clambake (what's that?)
+- we should talk more about what Flotilla is and isn't
+- Hyperknowledge meetings, Tuesdays 10am PT
+- Collaborative knowledge / collective knowledge
+- Vincent collaborative event curation updates
+- Wendy McLean updates on my project of weaving a knowledge network
+- Mark - are ads ok?
+- suggestion about collaborative knowledge vs meeting notes.
+- 2 most useful repo items for me: video recording posted, notes with take-away or next steps to help guide our next meeting
+-
+- meeting notes
+- need a current state of the system
+- different kinds of artifacts
+- cost of getting transcription accurate enough for sensemaking
+- Flows vs stocks
+- collaborative wiki-ing
+- https://demo.idealoom.org
+- [Flotilla Friday, 2021-10-01](https://youtu.be/L9nsUfm0Rbk) (YouTube)
+- [Flotilla Friday, 2021-10-01](https://github.com/Flotilla-Tools-for-Connectors/Flotilla-Wiki/blob/main/Meetings/Flotilla%20Friday%2C%202021-10-01.md) (markdown on github)
+- notes for last week, 2021-10-08: https://github.com/Flotilla-Tools-for-Connectors/Flotilla-Wiki/blob/main/Meetings/Flotilla%20Friday%2C%202021-10-08.md
+- shall we make a "permanent" hackmd for FF (let's pick a url)
+- What living content objects do we want to maintain during our meetings
+- Review/improve/evolve the "What Flotilla Is Thinking About" section from last week
+- Hyperknowledge
+- Reputation, identity, pseudonymity
+- Marc-Antoine's seminar from earlier this week: https://hyperknowledge.org/hyperknowledge-seminar-1.html
+- chat channel: https://chat.collectivesensecommons.org/agora/channels/hyperknowledge
+- atoms of knowledge
+- text and other kinds of knowledge
+- semiotics, sign relations
+- _Principa_, Russell / Whitehead
+- Russell's critque of Leibniz
+- [FrameNet](https://framenet.icsi.berkeley.edu/fndrupal/)
+- [IEML](https://intlekt.io/ieml/)
+- Schank, Minsky, Lenat's Cyc
+- denotative cloud, connotative cloud
+- "global knowledge cartography"
+- Tetlock's Superforecasting - reputation based on _uncertain_ projections
+- Illustrator on iPad
+- Procreate on iPad
+- ink on paper :-)
+- Jefferson Airplane's "White Rabbit" in the new Matrix Resurrections trailer
+- the "old" San Francisco(s)
+- "cloud" of connections / connotation
+- does it create a new connection between concepts?
+- using a symbol as an attractor which ends up creating another reality
+- "fake it till you make it", and sometimes hitting reality (eg Theranos)
+- Evergrande et seq.
+- "Handbook of Walkthroughs, Inspections, and Technical Reviews: Evaluating Programs, Projects, and Products", book by Daniel P. Freedman, Gerald M. Weinberg
+- "The Society of Text - Hypertext, Hypermedia, and the Social Construction of Information" , edited by Edward Barrett
+- Radicle
+- Vincent's back from Europe!
+- FedWiki Phototelling
+- firming up the Flotilla infrastructure and organization
+- Closing Some Flotilla Open Loops
+- Netlify CMS?
+- Project Clambake Maps
+- one or several HackMD pages? a massive wiki?
+- should allow editing from a phone
+- Git on phone:
+- Massive Wiki for persistent, async collaboration
+- HackMD "Flotilla Friday" for realtime collaboration during meetings
+- HackMD "Flotilla Dashboard" for easy-to-use/find Flotilla
+- native HackMD GitHub sync
+- HackMD API-based sync, with a microservice we find/write
+- Hedgedoc modifications to make GitHub sync more reasonable
+- shortest path may be to control sync from tools we control (MassiveWiki, Trove)
+- Most abstract idea: sync service
+- https://www.npmtrends.com/diagram-js-vs-gojs-vs-jointjs-vs-jsplumb-vs-mxgraph
+- https://www.npmtrends.com/d3.js-vs-gojs-vs-jointjs-vs-jsplumb-vs-mxgraph
+- https://www.npmtrends.com/flowchart.js-vs-jointjs-vs-mermaid# Flotilla Friday, 2021-10-29
+- Hyperknowledge
+- Zapier zap to grab Meet and Zoom videos to Google Drive, and thence to YouTube
+- shared names etc for data/boundary objects
+- up-to-date list of things discussed/to discuss, action items, etc.
+- Flotilla website
+- recording started a number of minutes after the hour, while timestamps in this doc start at the hour
+- [Flotilla Friday, 2021-10-15](https://github.com/Flotilla-Tools-for-Connectors/Flotilla-Wiki/blob/main/Meetings/Flotilla%20Friday%2C%202021-10-15.md)
+- privacy
+- ActivityPub and ForgeFed
+- git centralization (and decentralization)
+- Mindnode - wikipedia article -> mindmap
+- Hyperknowledge
+- Pete's OGM Thursday 2021-10-28 Hypertext Knowledge Workbook
+- Eric Rangell's ZigZag demo on OGM Thursday 2021-11-04
+- used in Solid (and Fediverse?)
+- https://github.com/forgefed/forge-fed
+- https://notabug.org/peers/forgefed.git
+- https://forgefed.peers.community
+- social scope
+- local default scope
+- translation tables at context boundaries
+- massive conversations and massive agreements (00h30m)
+- context switches can happen even down to **one sentence**
+- standoff notation
+- anaphora, deixis
+- priming effects
+- cf. ZigZag ([Eric Rangell's ZigZag demo, OGM Thursday 2021-11-04](https://youtu.be/QwQaKZiljG4?t=2122))
+- cf. Christopher Alexander's A Pattern Language (spatial hierarchy)
+- cf. [Ross Mayfield's social group scales](https://web.archive.org/web/20061019095921/http://radio.weblogs.com/0114726/2003/02/12.html) ("Ecosystem of Networks")
+- vs. schema, type
+- Interstellar bookshelf
+- situating yourself in a territory is different from exploring a territory
+- [OGM Thursday 2021-10-28 workbook, website version](https://ogm-thursday-2021-10-28.openglobalmind.com/colophon), (pro tip, use the nav buttons at the top)
+- [OGM Thursday 2021-10-28 downloadable zip](https://github.com/OpenGlobalMind/ogm-thursday-2021-10-28/archive/refs/heads/main.zip), download and unzip
+- ephemerality of hackmds for meetings, as front-ends to massive wiki
+- DWeb meetups (November, December)
+- https://hypothes.is/annotating-all-knowledge/
+- https://getmemex.com/
+- interfaces to concepts
+- tools for thought
+- claims, propositional sentences
+- attributes
+- https://twitter.com/jessmartin/status/1458808823997779970
+- [Topic Map Reference Model](http://www.isotopicmaps.org/TMRM/TMRM-7.0/tmrm7.pdf)
+- Distinct from (broader than) the data model used by [Ontopia](https://ontopia.net) and most topic map systems out there (vs what Jack is building.)
+- Upper ontologies# Flotilla Friday, 2021-12-03
+- pop-up python workshop / learning python resources
+- [Need Apple Silicon support for Tensorflow](https://github.com/tensorflow/text/pull/756)
+- flotillaproject.xyz coming up for renewal (or replacement)
+- other groups of interest
+- Fission's Tools for Thought meetup
+- Open Futures Coalition's Interoperable Wisdom Commons
+- res1={x for f in filelist for x in f}
+- [How to frame two for loops in list comprehension python](https://stackoverflow.com/a/18551476)
+- another option is jq, which is both command-line, and also `import jq`
+- Scratch
+- [Glitch](https://glitch.com/)
+- https://www.pythonanywhere.com/
+- DMX
+- Unigraph
+- Interoperable Wisdom Commons
+- jamaica@openfuturecoalition.org
+- https://unigraph.dev/
+- https://discord.gg/vDTkKar5Vz
+- log4j
+- migrating to new mac
+- flotillaproject.xyz domain
+- meta-community currency
+- obsidian vault on dropbox
+- hyperknowledge
+- Bentley's video weaving editor project
+- flancian and Agora and Anagora
+- need a file-based chat system
+- Catalist Catabot
+- Question:
+- opengraph? but not flexible enough
+- rss?
+- [h-item](http://microformats.org/wiki/h-item)?
+- mix in a crypto-token to help track and reward who contributed
+- playing with hazardous materials, and wisdom or idiocy thereof
+- [programming languages you should be able to read](https://twitter.com/ceejbot/status/1471708049958051841) thread on twitter
+- patch for log4j patch: https://arstechnica.com/information-technology/2021/12/patch-fixing-critical-log4j-0-day-has-its-own-vulnerability-thats-under-exploit/
+- frames vs. triples
+- maybe using the wiki via Syncthing this year
+- https://en.wikipedia.org/wiki/Stag_hunt
+- Community currencies, etc.
+- 
+- i loved
+- i wish
+- i wonder
+- means we know what we need ourselves! :-)
+- getting credit for what we do
+- token discussions
+- discovering what others have and what others need
+- matchmakers who help others match haves and needs
+- mutual design sprints
+- OGM roundup
+- Garden Crew
+- Flotilla website
+- Link Chainsaw
+- Bubble privacy/auth settings
+- Business models
+- [The Prince of Evolution: Peter Kropotkin's Adventures in Science and Politics](https://www.scientificamerican.com/article/the-prince-of-evolution-peter-kropotkin/) (Scientific American) (2011-09-13)
+- [Stag hunt](https://en.wikipedia.org/wiki/Stag_hunt) in game theory
+- "cooperation wins in the meta bracket :-)"# Flotilla Friday, 2022-01-21
+- connection, appreciation
+- “Appreciate the good, and the good appreciates"
+- www.viacharacter.org - language for appreciation
+- feedback sandwich
+- [Flotilla Friday, 2022-01-07](https://github.com/Flotilla-Tools-for-Connectors/Flotilla-Wiki/blob/main/Meetings/Flotilla%20Friday%2C%202022-01-07.md)
+- Donna Haraway
+- danah boyd
+- 
+- "Biweekly Plex Dispatch"
+- NFT profile pics on Twitter
+- OGM Forum
+- CTA (Collaborative Technology Alliance) starting to use CSC Mattermost
+- project by Wendy Elford and me to post a website for a panel talk about water in Australia
+- inter-community community currency ("Sprig")
+- where conversations go / where they happen
+- [A “Ring” Theory of Social Media & Closeness](https://medium.com/@dweekly/a-ring-theory-of-social-media-closeness-93e9deeb681d) (David Weekly) (2022-01-14)
+- gardening
+- composting
+- carefully harvesting sprouting seeds out of the previous winter's compost
+- information overwhelm
+- conversation vs conversations vs The Conversation
+- various types/ orders of conversation
+- collective intelligence
+- humans are too messy and computers are the norm
+- computers are too rigid and humans are the norm
+- balance between structure and flexibility/emergence
+- Project Directories
+- ambiguation of grammar and terms
+- e.g., dbdesigner.net
+- also see [relational schema](https://en.wikipedia.org/wiki/Relational_schema)
+- also see entity-relationship diagram
+- https://jsonformatter.org/yaml-formatter
+- http://www.yamllint.com/
+- https://www.convertjson.com/yaml-to-json.htm
+- https://developers.google.com/maps/documentation/javascript/examples/geocoding-simple

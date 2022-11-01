@@ -1,0 +1,21 @@
+00:07:02	Marc-Antoine Parent:	url?
+00:07:14	Pete Kaminski:	https://crab.fit/
+00:10:46	Marc-Antoine Parent:	Eco calls this hyperreality
+00:11:25	Marc-Antoine Parent:	from Beaudrillard
+00:11:31	Stacey Druss:	@Marc-Antoine what is Eco?
+00:11:49	Marc-Antoine Parent:	Umberto Eco: Travels in Hyperreality
+00:12:00	Marc-Antoine Parent:	(author of Name of the Rose)
+00:12:05	Stacey Druss:	Thank you!
+00:13:21	Pete Kaminski:	https://en.wikipedia.org/wiki/In_the_Beginning..._Was_the_Command_Line
+00:13:59	Pete Kaminski:	you can buy ITBWTCL, but you can also find it on the web, like this: https://web.stanford.edu/class/cs81n/command.txt
+00:14:50	Pete Kaminski:	a quote from it i love, "If you are a professional writer--i.e., if someone else is getting paid to worry about how your words are formatted and printed--emacs outshines all other editing software in approximately the same way that the noonday sun does the stars."
+00:16:36	Pete Kaminski:	https://hackmd.io/@peterkaminski/rJheQD795
+00:20:00	Stacey Druss:	f2f?
+00:20:08	Pete Kaminski:	face-to-face
+00:38:46	Stacey Druss:	To be answered at another time: What happens to the things that get pulled out during composting?
+00:41:32	Pete Kaminski:	Thanks, Stacey, i added that to the notes
+00:41:48	Stacey Druss:	Thank you.
+00:45:15	Pete Kaminski:	http://www.cognexus.org/schoolboarddm.htm
+00:54:18	Pete Kaminski:	@diegodlh, https://chat.collectivesensecommons.org/agora/pl/rxx6rhmebibsixf4fmubqa6bte - Content repositories (whether they are web servers, Mastodon instances, annotation servers, personal notes repositories) would have a FOTL gateway to them.
+00:55:17	Pete Kaminski:	https://diegodlh.conversodromo.com.ar/
+01:04:58	Michael Grossman (he/him) Factr.com:	Zoom. Just like this, during OMG. And you IGNORED me. 😂

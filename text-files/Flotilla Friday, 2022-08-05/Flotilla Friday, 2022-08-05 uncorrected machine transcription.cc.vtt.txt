@@ -1,0 +1,1082 @@
+WEBVTT
+
+00:00:07.000 --> 00:00:12.000
+so till a Friday, August, Fifth, 2022.
+
+00:00:12.000 --> 00:00:22.000
+Vincent was thinking we could go back through our our notes and kind of pull out needs and requests and solutions and things like that.
+
+00:00:22.000 --> 00:00:34.000
+So. I think a happens to be I have upsetting up because we might need that.
+
+00:00:34.000 --> 00:00:37.000
+I don't think I have a vault actually even for flotilla.
+
+00:00:37.000 --> 00:00:50.000
+But
+
+00:00:50.000 --> 00:01:01.000
+So I think where the notes are is
+
+00:01:01.000 --> 00:01:06.000
+They get logged into foot over here
+
+00:01:06.000 --> 00:01:36.000
+Decide get home.
+
+00:01:39.000 --> 00:01:44.000
+Okay.
+
+00:01:44.000 --> 00:01:51.000
+So this is where I think we've got notes so all of those right Damn yup!
+
+00:01:51.000 --> 00:02:00.000
+That's it. So then I should have this on my computer someplace.
+
+00:02:00.000 --> 00:02:18.000
+So let me log in There.
+
+00:02:18.000 --> 00:02:23.000
+Make sure it's up to today
+
+00:02:23.000 --> 00:02:42.000
+All kinds of cool stuff.
+
+00:02:42.000 --> 00:02:55.000
+So, my just to kind of look and see what we got what i'm thinking is to concatenate all the all the meeting notes and you could run a group to do that.
+
+00:02:55.000 --> 00:03:02.000
+Yeah, and then pull it up and just kind of scroll through it and go like, Okay, what have we got?
+
+00:03:02.000 --> 00:03:21.000
+Could you add a header at the top of each one, so you could see the the Oh, they all have that, and my notes are ready
+
+00:03:21.000 --> 00:03:29.000
+The transcript and the chat hello let's Let's see those out for now.
+
+00:03:29.000 --> 00:03:38.000
+Yeah, we could leave this out so see and actually they're text files, anyway.
+
+00:03:38.000 --> 00:03:49.000
+So that's just a list of
+
+00:03:49.000 --> 00:03:59.000
+So i'm gonna
+
+00:03:59.000 --> 00:04:03.000
+So i'm gonna
+
+00:04:03.000 --> 00:04:12.000
+I'm gonna do this a turkey way because michelle scripting isn't great and this these have spaces.
+
+00:04:12.000 --> 00:04:17.000
+The file names have spaces that are going to do a weird way.
+
+00:04:17.000 --> 00:04:47.000
+Okay.
+
+00:04:48.000 --> 00:04:59.000
+Okay. So now fire up, Taikora
+
+00:04:59.000 --> 00:05:03.000
+That pour on my m One has this an annoying thing where it crashes a lot.
+
+00:05:03.000 --> 00:05:25.000
+I don't lose stuff, but I I can't leave it lying around in the background, and it sooner later crashes which is fine to
+
+00:05:25.000 --> 00:05:29.000
+Okay.
+
+00:05:29.000 --> 00:05:38.000
+So this is what it looks like these are that's Mx.
+
+00:05:38.000 --> 00:05:51.000
+Actually. Yeah. So we have a few. These, These great things are like chats.
+
+00:05:51.000 --> 00:05:58.000
+And the the next thing from cool actually.
+
+00:05:58.000 --> 00:06:11.000
+So that one there was a zoom chat. Yeah, this one got cleaned up by either me or at least tool.
+
+00:06:11.000 --> 00:06:19.000
+Oh, nice!
+
+00:06:19.000 --> 00:06:32.000
+This is This is probably a belly's tool here yeah Okay, sure, and probably with a little bit of cleanup afterwards.
+
+00:06:32.000 --> 00:06:43.000
+So the good news is we have notes I don't know kind of the bad news is they're kind of all kinds of weird, all kinds of weird formats.
+
+00:06:43.000 --> 00:06:49.000
+Our Our note taking, you know, has been I? I do it once in a while.
+
+00:06:49.000 --> 00:06:53.000
+Probably a lot of it to kind of meet pushing for notes we don't do it a lot also.
+
+00:06:53.000 --> 00:06:59.000
+But then we don't have a a decent I guess this is pretty common.
+
+00:06:59.000 --> 00:07:10.000
+I'll use this so this is this size is a new file, and then this size is like the top level things in the in the notes.
+
+00:07:10.000 --> 00:07:20.000
+So i'm pretty consistent about using topics so we could find all the topic things and find stuff in here.
+
+00:07:20.000 --> 00:07:25.000
+So I'm. almost 13 there's some report on projects.
+
+00:07:25.000 --> 00:07:38.000
+I think we have a lot of like tools. Yeah, like San Francisco
+
+00:07:38.000 --> 00:07:46.000
+Yep it would be easy to i'm gonna use a unix term here.
+
+00:07:46.000 --> 00:08:07.000
+Grab graph means search So graph works line by line it would be really easy to find all the all the bullet points something really easy to do, and so some of them would be single single words, or something you know single things like this some
+
+00:08:07.000 --> 00:08:17.000
+of them would be kind of a note thing some of them wouldn't be noise, but that would be kinda interesting Just pull out all the bullets.
+
+00:08:17.000 --> 00:08:23.000
+I like that some. So something else that occurs to me.
+
+00:08:23.000 --> 00:08:33.000
+Not for this meeting, but as a bookmark to ourselves for the future.
+
+00:08:33.000 --> 00:08:41.000
+It would be really cool there's there's some decent structure here is not not well.
+
+00:08:41.000 --> 00:08:50.000
+There's some decent structure in here and what is what occurs to me is that if you took this Markdown and turned it into Json
+
+00:08:50.000 --> 00:08:59.000
+There's a a tool called Jq. where you can do I think the queue stands for query, and J.
+
+00:08:59.000 --> 00:09:07.000
+Stands for Jason in a structure in a in a Json document.
+
+00:09:07.000 --> 00:09:13.000
+You can do things like. Give me all of the the bullets, or give me all the headers.
+
+00:09:13.000 --> 00:09:25.000
+If if the markdown to Jason deserves like some some of the the metadata of what each of these lines was, you could use J.
+
+00:09:25.000 --> 00:09:32.000
+Query Jq. to pull out I I can pull out the
+
+00:09:32.000 --> 00:09:36.000
+I can pull out the bullets just with grap. but
+
+00:09:36.000 --> 00:09:39.000
+And but that is a simple text matching thing it doesn't really understand the structure.
+
+00:09:39.000 --> 00:09:47.000
+The mark down to Json to Jq. could actually understand some of the structure of the pages.
+
+00:09:47.000 --> 00:09:54.000
+Then, you know, pull out all the second level headers although I can do that too, You know that's a Let's do that first.
+
+00:09:54.000 --> 00:10:04.000
+I like that. there's another funny thing I always spell grap with e grap for extended group.
+
+00:10:04.000 --> 00:10:12.000
+But you don't need to anymore. but I do so if you do.
+
+00:10:12.000 --> 00:10:26.000
+Okay, that's all the second level headers
+
+00:10:26.000 --> 00:10:38.000
+Oh, above from from this whole the all of the concatenated
+
+00:10:38.000 --> 00:10:54.000
+You could actually do a thing where
+
+00:10:54.000 --> 00:11:02.000
+That's first and second level, so you can see what pages and then the headings.
+
+00:11:02.000 --> 00:11:17.000
+So that's pretty cool yeah let me save that to something on that h one h 2
+
+00:11:17.000 --> 00:11:24.000
+And then let me
+
+00:11:24.000 --> 00:11:32.000
+Yeah shoot I got. I got all the headings. I wasn't quite careful enough what the went matching.
+
+00:11:32.000 --> 00:11:36.000
+But maybe that's okay.
+
+00:11:36.000 --> 00:12:06.000
+Yeah, that's maybe even better so let me change these 2
+
+00:12:07.000 --> 00:12:15.000
+So now that's like an outline
+
+00:12:15.000 --> 00:12:18.000
+This is a non-duplicated outline, right?
+
+00:12:18.000 --> 00:12:23.000
+So topics you can search how many times we had something.
+
+00:12:23.000 --> 00:12:33.000
+Yeah, if if I pulled this up I don't think I pull this up, and i'm sitting instead.
+
+00:12:33.000 --> 00:12:40.000
+This turns into like a or cloud. No, although you could do you could do that, too.
+
+00:12:40.000 --> 00:12:45.000
+You could make it so that you can collapse.
+
+00:12:45.000 --> 00:12:52.000
+Clouds, things that open
+
+00:12:52.000 --> 00:13:04.000
+Okay, so kinda got a syntax, or I I didn't do my well with a little bit more work. I could make it.
+
+00:13:04.000 --> 00:13:17.000
+So it doesn't have these bullets but you can still see what's going on so
+
+00:13:17.000 --> 00:13:24.000
+We could try pulling out all the topics sections or do the same thing.
+
+00:13:24.000 --> 00:13:30.000
+But I just what I just just did was headers so let's do the same thing for bullets.
+
+00:13:30.000 --> 00:13:43.000
+And I think i'll end up being top level bullets could you could you send that All note H* to me somehow.
+
+00:13:43.000 --> 00:14:13.000
+What i'll do is
+
+00:14:23.000 --> 00:14:29.000
+I'd presume it's okay if they're mark down files
+
+00:14:29.000 --> 00:14:46.000
+So i'll i'll do all notes and all that's h one h 2 although actually i'm gonna rename this one because it's Peters
+
+00:14:46.000 --> 00:15:02.000
+In in related news. I met with Jonathan, and we decided to just blurge and spend $7 a month on a markdown plugin for Bubble that Io.
+
+00:15:02.000 --> 00:15:16.000
+So now, catalyst can display Markdown yeah, before when I was importing rich texts, mark down from air table like an air table.
+
+00:15:16.000 --> 00:15:29.000
+You can add links and headers within a cell. If I, When I was syncing that there was no way to actually display it, it would just show up as like, you know, the raw like, with the half tags and stuff, and
+
+00:15:29.000 --> 00:15:35.000
+so that was the easiest solution could figure out.
+
+00:15:35.000 --> 00:15:45.000
+That's cool I I I wonder if
+
+00:15:45.000 --> 00:15:48.000
+I I bet it wouldn't be too hard to write one of those.
+
+00:15:48.000 --> 00:15:59.000
+So we should. We should take all our chainsaw stuff and make make a little business of
+
+00:15:59.000 --> 00:16:04.000
+No code plugins and Api stuff. I I agree.
+
+00:16:04.000 --> 00:16:14.000
+This one is $70 one time and $7 a month that's a lot, I think, and it's the only one on the market has like 2.5 star ratings.
+
+00:16:14.000 --> 00:16:17.000
+I think you could definitely make a better one. Yeah.
+
+00:16:17.000 --> 00:16:29.000
+For less money, too, because like that's kind of Yeah that's like one of the more expensive plugins that like I would have bought it if it was like box like a year ago.
+
+00:16:29.000 --> 00:16:34.000
+So. So that's the thing for our our needs or something right needs project.
+
+00:16:34.000 --> 00:16:42.000
+Yeah, i'll add that as a project I like this cool all the all the bullets.
+
+00:16:42.000 --> 00:16:49.000
+Oh, wow! so right now it's in chronological order!
+
+00:16:49.000 --> 00:16:54.000
+But I could I could sort it and be deep it that's probably a worthwhile thing right?
+
+00:16:54.000 --> 00:17:21.000
+I think it's kind of interesting to see how many instances of something right like if if thing is said 20 times versus 2 times, I feel like that's helpful information for us to like yeah
+
+00:17:21.000 --> 00:17:34.000
+So not saying don't deny it but saying we should all so figure out a way of potentially, leaving it duplicated to see the number of times.
+
+00:17:34.000 --> 00:17:40.000
+Something was mentioned.
+
+00:17:40.000 --> 00:17:52.000
+I the if we did some
+
+00:17:52.000 --> 00:17:59.000
+Yeah, there you go. If if we did some cleanup we'd get better counts.
+
+00:17:59.000 --> 00:18:09.000
+But this this number here is account of how many times this happened. So there's 4, and faster right up there.
+
+00:18:09.000 --> 00:18:18.000
+Man chosen. Michael's flying highs today miro kind of makes it cool.
+
+00:18:18.000 --> 00:18:24.000
+Kind of makes it Kika lab. So then the rest of these are all ones.
+
+00:18:24.000 --> 00:18:41.000
+But if we if we did a little bit more like maybe we'd want to, we need a flotilla website is like, yeah, or you see that 4 times
+
+00:18:41.000 --> 00:18:51.000
+So let me Let me i'll publish this one actually after I put the numbers at the end of the lines. So hang on.
+
+00:18:51.000 --> 00:19:10.000
+Let me do that real quick and then these can st bullets It'd be interesting to see the one thing about I mean It's it's for sure useful and and interesting to see what gets mentioned. a lot.
+
+00:19:10.000 --> 00:19:17.000
+But I wonder about losing the
+
+00:19:17.000 --> 00:19:26.000
+The access to the sequence, I mean, and ideally the time stamp of when things come up.
+
+00:19:26.000 --> 00:19:32.000
+Yeah. This is what this this meeting, this meeting was mostly about.
+
+00:19:32.000 --> 00:19:45.000
+X, you know but I I I could do I could do some more fancy stuff, and you know, and and tag each line with what?
+
+00:19:45.000 --> 00:19:49.000
+What meeting, You know what what file it was in, or something like that.
+
+00:19:49.000 --> 00:20:05.000
+And now, and that contains also the date, so you could do some cool stuff where you could grab everything, and then clustered into when you know when it was let me.
+
+00:20:05.000 --> 00:20:30.000
+I I grabbed the the way, I grabbed bullets there's some dashes and some stars, and and let me change these all the dashes and with them all the left
+
+00:20:30.000 --> 00:20:37.000
+And then this will be a better, better, dude thing. What are your thoughts, Stacy?
+
+00:20:37.000 --> 00:20:59.000
+Is it possible to see this in a venue diagram There's yeah the there there are lots of items right now, and there aren't many clusters, if that makes sense So right now there's like 6
+
+00:20:59.000 --> 00:21:05.000
+150 different different things. So if you had 650 different balls, you could kind of see that.
+
+00:21:05.000 --> 00:21:22.000
+And then you did that. I think it would be really useful.
+
+00:21:22.000 --> 00:21:27.000
+The And do you mean having things inside the circles?
+
+00:21:27.000 --> 00:21:35.000
+Or just yes, but because then you then, what I think would be useful is seeing the things that were outside.
+
+00:21:35.000 --> 00:21:46.000
+Yeah I don't like the the notes don't support that we'll have a mention of Kiko lab, but then we'll have a mention of other things and you can't there there isn't a good way to
+
+00:21:46.000 --> 00:21:57.000
+tie the No, I don't mean to mention of Kiko lab I mean a mention of a knee.
+
+00:21:57.000 --> 00:22:08.000
+He go there so we don't have we have needs But you you can't see from this data very well that it's a kick lab need, or a factor need or something like that.
+
+00:22:08.000 --> 00:22:20.000
+So and I think that would require that would require putting this into a a database, and then doing what like Wendy Maclean did for the Lionsburg Zoom, going to the message and Then tagging it
+
+00:22:20.000 --> 00:22:25.000
+with certain groups, And then you could do that vend diagram like clustering.
+
+00:22:25.000 --> 00:22:52.000
+Yeah, you could totally do that. Thanks. and and that's a lot of work, which is, Yeah,
+
+00:22:52.000 --> 00:23:12.000
+Hey, you're like a wizard with this yeah Been doing a long time it would be cool to like it'd be cool to do more of this like stripping out the quotes and stuff like that and we could get it clustered. better but i'll i'll leave this
+
+00:23:12.000 --> 00:23:35.000
+for Now this is getting pretty good. it's Okay, so let me put the numbers on the back again.
+
+00:23:35.000 --> 00:24:05.000
+And
+
+00:24:20.000 --> 00:24:30.000
+This is well air table just twice. So a next. a good next thing to do would be to pick out some of these like kick.
+
+00:24:30.000 --> 00:24:40.000
+11, and then find them in. like Brian mentioned. Some people have, or find mentions of flotilla.
+
+00:24:40.000 --> 00:24:59.000
+Transcript. No, even just in like just just clustering these because because I did a simple, a simple, unique function.
+
+00:24:59.000 --> 00:25:03.000
+Yeah, I did look for all the flotilla things and then put them all together.
+
+00:25:03.000 --> 00:25:09.000
+It's just everywhere, it says flotilla website exactly it it bubbled up together.
+
+00:25:09.000 --> 00:25:25.000
+But bet effect, my terminal if we took
+
+00:25:25.000 --> 00:25:42.000
+So if we look for all the flotilla mentions in the bullets, So this is all of them that we get, and that's probably like 50 of them.
+
+00:25:42.000 --> 00:25:50.000
+Some of them are the titles I didn't do a good job taking out the titles
+
+00:25:50.000 --> 00:26:05.000
+Or same thing with like Kicklow. That would be interesting
+
+00:26:05.000 --> 00:26:15.000
+Or factor.
+
+00:26:15.000 --> 00:26:34.000
+Factory that's pretty good
+
+00:26:34.000 --> 00:26:43.000
+Wendy, Alfred, and Lexie Mancer could do a little bit more with us.
+
+00:26:43.000 --> 00:26:48.000
+Lexie, manager works best on like Mike.
+
+00:26:48.000 --> 00:27:00.000
+Full sentences and stuff like that. but it it it it might be able to do things like it understands parts of speech and and and English.
+
+00:27:00.000 --> 00:27:11.000
+The way English is structured so it can tell where there's nouns on where there's verbs and stuff like that, so you might be able to tell it to find all the nouns in here so
+
+00:27:11.000 --> 00:27:16.000
+that wouldn't like I think it would just try to ignore stuff like this, because there's no language there.
+
+00:27:16.000 --> 00:27:29.000
+But it could find you know this as a noun, and it might find something like that as a now
+
+00:27:29.000 --> 00:27:37.000
+We could do the parts. Press speech is a generic thing too, you Can there's tools that do that Does it have to be like some answer.
+
+00:27:37.000 --> 00:27:50.000
+Oh, another good one would be a air table
+
+00:27:50.000 --> 00:28:05.000
+So then that's just bullets with their table in it If we search all nodes, and i'll clear the screen
+
+00:28:05.000 --> 00:28:15.000
+We don't. we don't have air table much in the notes really I I feel slighted.
+
+00:28:15.000 --> 00:28:24.000
+I'm kidding how about you
+
+00:28:24.000 --> 00:28:32.000
+Yeah. Okay, Can you do the word project project or projects?
+
+00:28:32.000 --> 00:28:57.000
+Yeah. in the bullets, or in the full text the text or wait Let's try text, Yeah.
+
+00:28:57.000 --> 00:29:17.000
+For 55 good That's interesting and then so that's the the thing to do now is to go back to this text, and just search down for a project right
+
+00:29:17.000 --> 00:29:31.000
+Yeah, because then you can go. You could pretty quickly go through this and find
+
+00:29:31.000 --> 00:29:39.000
+See if you wanna grab these and into something right
+
+00:29:39.000 --> 00:29:49.000
+Yeah, Another good one might be Task.
+
+00:29:49.000 --> 00:30:00.000
+Scroll back up to the top
+
+00:30:00.000 --> 00:30:06.000
+Yup. There you go 2110 15 that's the project.
+
+00:30:06.000 --> 00:30:18.000
+I I feel like times when tasks is mentioned It's gonna be a project about creating a task .
+
+00:30:18.000 --> 00:30:31.000
+That was a good one. Yeah, yeah you're good good call you're totally right.
+
+00:30:31.000 --> 00:30:41.000
+But there's probably some other words that would like to do, or
+
+00:30:41.000 --> 00:30:48.000
+That would probably get closer if we did. Yeah, to do this and get it.
+
+00:30:48.000 --> 00:30:55.000
+If if we had been hashtagging, Hashtag here knows we could find things like to do.
+
+00:30:55.000 --> 00:31:18.000
+Is How about about later list of
+
+00:31:18.000 --> 00:31:30.000
+Or just list.
+
+00:31:30.000 --> 00:32:00.000
+Yeah, actually, just the just the topic. sections would be pretty good to
+
+00:32:03.000 --> 00:32:18.000
+Does that not working? Oh, there it is!
+
+00:32:18.000 --> 00:32:28.000
+So there's not many times I use topics hmm i'm surprised by that.
+
+00:32:28.000 --> 00:32:34.000
+I it was something I maybe agenda's got more I used to use.
+
+00:32:34.000 --> 00:32:39.000
+Hey, C is agenda, and I switched the topics
+
+00:32:39.000 --> 00:32:51.000
+So there's like 5 or 6 hits on agenda
+
+00:32:51.000 --> 00:33:02.000
+I think a lot of the a lot of times i'll put stuff in the agenda items, and they're not necessarily other people's.
+
+00:33:02.000 --> 00:33:14.000
+This one is pretty good
+
+00:33:14.000 --> 00:33:22.000
+I So then said you should play around with some of these files and see what you see.
+
+00:33:22.000 --> 00:33:27.000
+Okay, Is there one where it's just the whole thing all those?
+
+00:33:27.000 --> 00:33:37.000
+Yeah, thanks. I haven't opened that one yet yeah i'll definitely play around with this. This is what I've just started doing with
+
+00:33:37.000 --> 00:33:56.000
+The all notes headers is I pasted it here, and then I went through, and I started. so are kind of the main types that I started to see.
+
+00:33:56.000 --> 00:34:10.000
+So commitments, updates, experiments, ideas, resources, people, tools, projects, open loops, question solutions, topics, needs.
+
+00:34:10.000 --> 00:34:29.000
+And then these are So then I was kind of going through like filter, where notes contains project or filter where the notes contains, like, you know.
+
+00:34:29.000 --> 00:34:38.000
+Task. although yeah, like I was when I was doing this, I was like, Oh, wait a minute. it's gonna come up with test lists and not the actual instances of tasks.
+
+00:34:38.000 --> 00:34:47.000
+This is just the header. So also but it would be cool to yeah play around with importing.
+
+00:34:47.000 --> 00:34:54.000
+Maybe the whole notes file in here and do some filtering line is filterable.
+
+00:34:54.000 --> 00:35:01.000
+Then you can kind of yeah, do you wanna try that real quick now or sure.
+
+00:35:01.000 --> 00:35:06.000
+I mean the only thing I would wanted to figure out how to do is if I could like, Michael was saying.
+
+00:35:06.000 --> 00:35:11.000
+We? wanna If we're doing a lot of stuff to these we wanna be able to see what meeting it came from.
+
+00:35:11.000 --> 00:35:16.000
+So I would What I would want is a line item just like this for every like.
+
+00:35:16.000 --> 00:35:26.000
+Well. but then, next to it would be a like a date, and so that way, if this one was fluttered.
+
+00:35:26.000 --> 00:35:34.000
+Friday here. all the all the things from that date would be there.
+
+00:35:34.000 --> 00:35:44.000
+That would be the ideal format to be able to to like change the sort, and filtering and and still kind of preserve where the stuff came from.
+
+00:35:44.000 --> 00:35:53.000
+Then you could do things like, Look at display it at some point, you know, as as trends like Hmm!
+
+00:35:53.000 --> 00:35:57.000
+We totally used to talk about this and we don't talk about this anymore.
+
+00:35:57.000 --> 00:36:06.000
+And then there's a big uptick in talking about x that's That's probably about 20 min of python.
+
+00:36:06.000 --> 00:36:19.000
+I i'll do them 20 min, of type blog is that you said so I I can make that so i'll make a like a Csv.
+
+00:36:19.000 --> 00:36:23.000
+Or maybe a Tsv
+
+00:36:23.000 --> 00:36:33.000
+Okay, cool. Yeah, that would be awesome if yeah, if you did that, Pete, I would definitely go through it and and add some tags and stuff before the next meeting.
+
+00:36:33.000 --> 00:36:43.000
+So the is it okay to do the full text one, I think the full text would work.
+
+00:36:43.000 --> 00:36:47.000
+Would you be able to the if it was a header?
+
+00:36:47.000 --> 00:37:06.000
+Or yes, it yeah, I The easy thing to do is just leave it the way it is, and then, if it starts off with you know one hash or 2 hashes, those are different headers or a dantra star at the front his
+
+00:37:06.000 --> 00:37:16.000
+bullets. to be a little bit fancier and I probably I This this is doable, but I won't do it right right away.
+
+00:37:16.000 --> 00:37:34.000
+You could actually It's this is actually a pretty cool utility, though you could go through each line and and and then in the output, Csv you could have this is an H.
+
+00:37:34.000 --> 00:37:39.000
+One h 2 h 3, you know, or a bullet level, one bullet level to a bullet level 3.
+
+00:37:39.000 --> 00:37:51.000
+So you could actually add that as metadata you can do that usually in Eric table, though with just a a bunch of it's like if hashtag it's header one if it's 2
+
+00:37:51.000 --> 00:37:55.000
+hashtags
+
+00:37:55.000 --> 00:38:04.000
+The
+
+00:38:04.000 --> 00:38:08.000
+The.
+
+00:38:08.000 --> 00:38:18.000
+The the tricky part of that is is kind of the corner cases Sometimes we'll have hashtags, you know, in a bullet, or something like that, and it's not a header even though it has a an
+
+00:38:18.000 --> 00:38:30.000
+octo thorp in it. have to be the like yeah, we could do like search.
+
+00:38:30.000 --> 00:38:45.000
+Yeah, an air table. They do like left and right so you can isolate the first 2 or great characters, and then do a search within that There's also rejects
+
+00:38:45.000 --> 00:38:52.000
+It. wouldn't be that hard to do that it would be kind of it would be easier to do that kind of stuff in the python script.
+
+00:38:52.000 --> 00:39:09.000
+It's just a little bit more work. Yeah, and that would be a good next next thing if we want to cool good topic, Vincent: thanks to yeah, that was that was pretty cool.
+
+00:39:09.000 --> 00:39:18.000
+See how that happening, Pete.
+
+00:39:18.000 --> 00:39:22.000
+I'm kind of good well i'm kind of feeling lazy today.
+
+00:39:22.000 --> 00:39:27.000
+So now that we're about 10 10 o'clock i'm like yeah
+
+00:39:27.000 --> 00:39:40.000
+I'll i'll take us back to our our off topic from before I was looking around for other ai art generators, and stumbled on Wambo have you tried one though, I think that's the one I put in
+
+00:39:40.000 --> 00:39:46.000
+chat is Was it this chat another chat today?
+
+00:39:46.000 --> 00:39:55.000
+Maybe was actually really good. it's cool works Well, it also looks much less like it.
+
+00:39:55.000 --> 00:40:06.000
+Looks much I don't know, for for me I I kind of the idea that it I see less artifact of other things.
+
+00:40:06.000 --> 00:40:25.000
+And it really seems like a I like I was just trying it's line elephant and elephant flying, and you know, in etching style or steam clock. you know just different things, and no there's no I don't look
+
+00:40:25.000 --> 00:40:33.000
+in anything, then say, Oh, I see this could be could share some of these things.
+
+00:40:33.000 --> 00:40:43.000
+Yes, always bum that you can't drop images in the zoom chat you can.
+
+00:40:43.000 --> 00:40:58.000
+You could attach. Thanks, I don't think it's Dragon drop, but you can click through it all attach
+
+00:40:58.000 --> 00:41:22.000
+I've got a whole bunch of almost stuff some place on my computer
+
+00:41:22.000 --> 00:41:41.000
+Hmm, hmm.
+
+00:41:41.000 --> 00:41:53.000
+So this looks like it might let me
+
+00:41:53.000 --> 00:42:10.000
+Looks like it does drag and drop.
+
+00:42:10.000 --> 00:42:18.000
+But then we have to open up let's say
+
+00:42:18.000 --> 00:42:35.000
+It it's just interesting that it's is here's one of mine
+
+00:42:35.000 --> 00:42:45.000
+That one's pretty cool. So it knows what a trading card looks like, yeah, the file name.
+
+00:42:45.000 --> 00:42:52.000
+Yeah.
+
+00:42:52.000 --> 00:43:05.000
+And dream is, I guess it's the the name of the app and Wambo is oh, Okay,
+
+00:43:05.000 --> 00:43:27.000
+Here's a good one. What was your what was your splendid like
+
+00:43:27.000 --> 00:43:32.000
+The the normal ones are are definitely more they're they're art see looking
+
+00:43:32.000 --> 00:43:38.000
+The thing about Dolly is that you can get you could get things kind of like are small.
+
+00:43:38.000 --> 00:43:43.000
+I don't know there's a a certain like to one, but stuff like like there's a certain look to to mid journey.
+
+00:43:43.000 --> 00:43:52.000
+Stuff. but Dolly can look like anything kind of
+
+00:43:52.000 --> 00:44:07.000
+Yeah, Yeah, it's also really good at mashups you know the the mix of 2 things did you give any with your prompts.
+
+00:44:07.000 --> 00:44:13.000
+You didn't offer any style I I do a fair amount of style.
+
+00:44:13.000 --> 00:44:19.000
+Yeah, I mean like stone closet on you know clearly wasn't old engraving.
+
+00:44:19.000 --> 00:44:24.000
+But what? what? the so the the theamma ones?
+
+00:44:24.000 --> 00:44:31.000
+They, you know the one ones have a bunch of preset styles you know. there's 20 styles or something like that.
+
+00:44:31.000 --> 00:44:35.000
+So that was one particular style. I don't know what what it was.
+
+00:44:35.000 --> 00:44:50.000
+But then dali died doesn't have built-in styles, but it has, it knows a lot of style and it can do kind of weird mixes. You know mashups to the styles
+
+00:44:50.000 --> 00:45:12.000
+meshes mesh it ups of styles and mashups of of subjects
+
+00:45:12.000 --> 00:45:14.000
+I'm also down to i'm feeling a little busy as well.
+
+00:45:14.000 --> 00:45:26.000
+So down to end early. But I did have one quick thing I wanted to share today before we end
+
+00:45:26.000 --> 00:45:35.000
+Not sure if now, it's our time but let's see we find the tab.
+
+00:45:35.000 --> 00:45:46.000
+Okay. So This is a feature that I had come up with and implemented a while ago.
+
+00:45:46.000 --> 00:45:49.000
+But it was never possible to actually see the output of it.
+
+00:45:49.000 --> 00:45:57.000
+So this is the lines we've met a project group on capabilities. And right now i'm in the events Tab.
+
+00:45:57.000 --> 00:46:04.000
+And so I added this filter here to see basically right now it's showing kind of all the events.
+
+00:46:04.000 --> 00:46:23.000
+But you can see the past ones or you can see future ones only and then there's a new one here for ideas, and so you can submit an event.
+
+00:46:23.000 --> 00:46:30.000
+And then you could close. We do. Okay, you can submit event and then make an event idea.
+
+00:46:30.000 --> 00:46:45.000
+And so this event idea means that when you set a date it's just a date range in which the event should happen, and then a minimum number of attendees And so basically I propose an event idea for a video reporting process
+
+00:46:45.000 --> 00:46:52.000
+session to go through the process line or use for archiving, processing video recordings and zoom, chat files.
+
+00:46:52.000 --> 00:46:58.000
+And then I put 3 as the minimum threshold for like if 3 people are interested in it.
+
+00:46:58.000 --> 00:47:06.000
+Then let's schedule it and so this has its own page says it's like an event idea.
+
+00:47:06.000 --> 00:47:12.000
+And then within the group, people can select that they are interested in it.
+
+00:47:12.000 --> 00:47:19.000
+And then I was cons Yeah, so right now it's a 0 to 3 people that you said I can express interest in my own meeting.
+
+00:47:19.000 --> 00:47:24.000
+So then it says i'm interested in it says one out of 3
+
+00:47:24.000 --> 00:47:27.000
+I was thinking of leaving the rest like after it gets to 3.
+
+00:47:27.000 --> 00:47:30.000
+I was thinking of sending a notification to the person who created it.
+
+00:47:30.000 --> 00:47:37.000
+But then otherwise leaving it up to that person to do whatever they want.
+
+00:47:37.000 --> 00:47:45.000
+So like, Hey, here's the list of emails all the people that said they were interested like, create a calendar, or send out a one is good or right?
+
+00:47:45.000 --> 00:47:51.000
+Have some process of here here, maybe some recommended tools to schedule.
+
+00:47:51.000 --> 00:48:00.000
+Yeah. that's the that idea feature like actually Oh, yeah, at all out of state, where I feel like it actually might be able to be used.
+
+00:48:00.000 --> 00:48:09.000
+It's brilliant good one thanks
+
+00:48:09.000 --> 00:48:25.000
+And i'm interested in that meeting too and i'm I'm, You know i'm i'm trying to think like, Do you have the the link I guess you use emails and you can use crap chip whatever let's
+
+00:48:25.000 --> 00:48:30.000
+see like it would also be nice to Yeah, Exactly.
+
+00:48:30.000 --> 00:48:44.000
+Yeah, what's that we would just crap It is is like is the the latest scheduling tool that we're using?
+
+00:48:44.000 --> 00:48:54.000
+Oh, okay, and it's open source Oh, interesting okay
+
+00:48:54.000 --> 00:49:04.000
+Yeah. every time it was mentioned in the chat the transcripts, I said, crap fit
+
+00:49:04.000 --> 00:49:10.000
+I got a list of these tools in place, so we also use.
+
+00:49:10.000 --> 00:49:17.000
+We use when to meet, but then we switch to ground set and then I I actually, I think I picked up crabs it from spirit.
+
+00:49:17.000 --> 00:49:24.000
+But then he's off to another thing now I think I started making a list.
+
+00:49:24.000 --> 00:49:32.000
+Now I think about. I think i'd have a list started of these, but none or an air table, maybe, or something.
+
+00:49:32.000 --> 00:49:39.000
+Is an air table
+
+00:49:39.000 --> 00:49:50.000
+Yeah, that's the really smart idea thanks yeah I i'm I'd like to propose it to be used at a future Linesburg meeting.
+
+00:49:50.000 --> 00:50:00.000
+So if people like, I know it happens a lot where people are like, you know, I really any like Stacy in this meeting mentioned like, I think we should have a meeting about this other red topic.
+
+00:50:00.000 --> 00:50:13.000
+Or so to be able to actually put that down and then let other people say like, Oh, yeah, i'm interested in that like, yeah, i'm hoping that can actually catalyze right get some get some things rolling that otherwise wouldn't
+
+00:50:13.000 --> 00:50:20.000
+happen
+
+00:50:20.000 --> 00:50:24.000
+I clicked, interested on your video recording process session.
+
+00:50:24.000 --> 00:50:41.000
+Sweet the between doesn't quite work between let's see it says
+
+00:50:41.000 --> 00:50:46.000
+Maybe you didn't set up the date or maybe it's just playing a weird
+
+00:50:46.000 --> 00:50:53.000
+Oh, yeah, it says proposed between Friday, August fifth and one.
+
+00:50:53.000 --> 00:51:02.000
+Pm: So I need to. Yeah, need to make that show the
+
+00:51:02.000 --> 00:51:15.000
+The second date. Yeah, Yeah, that's that's a shortcut only if only if the start and the end they are the same thing.
+
+00:51:15.000 --> 00:51:24.000
+It won't say, between Friday august the 2022 at one and Friday, August
+
+00:51:24.000 --> 00:51:31.000
+Sweet. I really like it. I'm. thinking to add the person who proposed it as well.
+
+00:51:31.000 --> 00:51:49.000
+Yeah, And yeah, you definitely should do that, although in in the description of that one it says, Vincent at the end, is that I added that because I realized there was no way for me to on that card show that it was me who
+
+00:51:49.000 --> 00:52:04.000
+proposed it. I mean you'd probably open ups some possibilities, both good and bad.
+
+00:52:04.000 --> 00:52:12.000
+Within an image. but it does seem like you at least would want the option to let people know
+
+00:52:12.000 --> 00:52:18.000
+That's probably better going to be a responsibility here's my list of tools.
+
+00:52:18.000 --> 00:52:24.000
+So far.
+
+00:52:24.000 --> 00:52:31.000
+I don't know why. I don't know I don't know how I didn't get farther than this.
+
+00:52:31.000 --> 00:52:47.000
+I I don't know I guess I got far enough to write this down, and and it's a pretty good Let me share this that will be
+
+00:52:47.000 --> 00:52:51.000
+Feel feel free to steal everything and make it better, or something like that.
+
+00:52:51.000 --> 00:52:58.000
+I will. I will add, if I make it better, I will do it in here, so you you can bet it from that.
+
+00:52:58.000 --> 00:53:07.000
+Is editor good enough, or should I give you a creator or since it's only this table a creator works cause that way.
+
+00:53:07.000 --> 00:53:25.000
+I can add other fields
+
+00:53:25.000 --> 00:53:35.000
+Awesome.
+
+00:53:35.000 --> 00:53:43.000
+Too many ads. Yes, that was I, you know. Doodle was okay for a long time.
+
+00:53:43.000 --> 00:53:47.000
+You know the the frustrating thing is I really early days.
+
+00:53:47.000 --> 00:53:53.000
+I I've social media and stuff. I I had written one a scheduling poll tool, and
+
+00:53:53.000 --> 00:53:57.000
+It was as good as Doodle at the time.
+
+00:53:57.000 --> 00:54:01.000
+And then I I lost it. I lost the source code, or something like that.
+
+00:54:01.000 --> 00:54:06.000
+So every time I looked at doodle it's like dang I could have had that.
+
+00:54:06.000 --> 00:54:11.000
+But I ended up using dual instead. but then finally it got so bad that I actually tweeted about it.
+
+00:54:11.000 --> 00:54:24.000
+It's like doodle seriously you know like I have to wade through all these crappy ads, it's like no way man i'm out of here.
+
+00:54:24.000 --> 00:54:32.000
+So some of the open source ones, if spirit was was likely from a date, apparently.
+
+00:54:32.000 --> 00:54:38.000
+But it's it's more complex than like crap crap fit is like when the meeting they're both easy.
+
+00:54:38.000 --> 00:54:49.000
+But anyway, one of these open source ones I i've been thinking Cs could run one of them was one of them.
+
+00:54:49.000 --> 00:54:56.000
+So that would be fun. Yeah, the calendar one i'm gonna add, is actually quite good.
+
+00:54:56.000 --> 00:55:06.000
+Is it? Do you have to be a countly person or Yeah, But you don't have to be a county person to participate just to create it.
+
+00:55:06.000 --> 00:55:16.000
+So it's you click there's a browser extension, and then you can do create meeting Poll.
+
+00:55:16.000 --> 00:55:26.000
+Nice. I don't know if you could see the pop up. Let me try re-sharing, however.
+
+00:55:26.000 --> 00:55:36.000
+Now I yes, so it has my calendar, and then select times like this.
+
+00:55:36.000 --> 00:55:39.000
+Yup, and then it says, like 1010 times selected.
+
+00:55:39.000 --> 00:55:42.000
+I can also change the duration to be like an hour.
+
+00:55:42.000 --> 00:56:00.000
+I could overwrite like, you know and then basically hit next, and then it will create a, you know, 9 times on 2 days you can put a location and the name and then publish it.
+
+00:56:00.000 --> 00:56:05.000
+You can also have it schedule all those slots on your calendar, so no one else on those times.
+
+00:56:05.000 --> 00:56:20.000
+So yeah, there is reserve time, is cool and then i'm not actually gonna publish it, but it has a pretty nice Ui for when it publishes it, and it has a thing where you can actually send it in
+
+00:56:20.000 --> 00:56:27.000
+an email and it within the email you could click the button time you want, and then it will scheduled that one.
+
+00:56:27.000 --> 00:56:34.000
+So it's pretty cool sweet
+
+00:56:34.000 --> 00:56:42.000
+I I have challengedly and never use just by the bullet and do it is that that that looks really convenient.
+
+00:56:42.000 --> 00:56:54.000
+Add the browser extension. Yeah.
+
+00:56:54.000 --> 00:57:02.000
+Good meeting folks. How I done was. Was it fun, Pete?
+
+00:57:02.000 --> 00:57:19.000
+I like you're you're muted Michael just just share one other other thing that is is kind of unrelated.
+
+00:57:19.000 --> 00:57:25.000
+But I I had a a great conversation with Johannes Ernst.
+
+00:57:25.000 --> 00:57:40.000
+Have you guys interacted with recognize the name I I haven't talked to yeah he you've been working on some hardware and and kind of software.
+
+00:57:40.000 --> 00:57:51.000
+Geared toward basically possessing and being able to look at all the data that you generate.
+
+00:57:51.000 --> 00:57:58.000
+But they have legal access to under, you know. Ceasing
+
+00:57:58.000 --> 00:58:07.000
+I was, forget what it is Cc. A. What's the California Rdp.
+
+00:58:07.000 --> 00:58:14.000
+Ccpa. I think Cc. something, you know
+
+00:58:14.000 --> 00:58:17.000
+You know that like, Okay, you got access to all that data.
+
+00:58:17.000 --> 00:58:24.000
+But then, what do you do with it? and you know it's like at the at the ideal.
+
+00:58:24.000 --> 00:58:42.000
+He's like making or has made a box it's something he's doing, I think, with next cloud and pull all the stuff onto it, and then it kind of gives you a way to look at it and you know and
+
+00:58:42.000 --> 00:58:46.000
+flips the dynamic it's it's just very close to my heart.
+
+00:58:46.000 --> 00:58:57.000
+Just the idea of everybody having all the data that matters to them and sharing it proactively, intentionally.
+
+00:58:57.000 --> 00:59:04.000
+Not 5 or 2 of existing. and the digital world
+
+00:59:04.000 --> 00:59:10.000
+And yeah, I was. It was. It was a good conversation, just kind of first conversation, but I was curious.
+
+00:59:10.000 --> 00:59:18.000
+If you guys, if any of you or new app, yeah, no of them
+
+00:59:18.000 --> 00:59:29.000
+Interesting to hear more i'll tell you more
+
+00:59:29.000 --> 00:59:35.000
+Alright, I was gonna say, Michael, you should. I did tell him about the Cta.
+
+00:59:35.000 --> 00:59:41.000
+Yeah, yeah, he was actually at the last cta meeting I i'd seen him a couple of times at a couple of different events.
+
+00:59:41.000 --> 00:59:46.000
+Then he he was that the Cta meeting? he
+
+00:59:46.000 --> 00:59:50.000
+He also had shared at a mile data. Canada events.
+
+00:59:50.000 --> 01:00:11.000
+About those things working on steve vicka who's also, and cta I don't know their their connections between him and Doc Circles, who is you know Pm.
+
+01:00:11.000 --> 01:00:28.000
+World. and yeah, it's it's always it's always interesting to see who does and doesn't know if each other but yeah, he's he's onto the cta front
+
+01:00:28.000 --> 01:00:30.000
+Kind of we. we were having a little bit of debate, I mean.
+
+01:00:30.000 --> 01:00:42.000
+He was partly pooing interoperability as like if You're not interrupt interoperating by default with everyone.
+
+01:00:42.000 --> 01:01:06.000
+I'll email and text does it really make sense to work hard, uninteroperable ability between a few platforms that cumulatively only have a fraction of the you know, the the potential consumers out there as opposed
+
+01:01:06.000 --> 01:01:10.000
+to building something anybody can use adversarily interoperating with.
+
+01:01:10.000 --> 01:01:20.000
+So, but for dropbox or stuff it's upset anyway, longer conversation, I guess.
+
+01:01:20.000 --> 01:01:28.000
+Then I should have brought up at the very end but What's that keep it posted?
+
+01:01:28.000 --> 01:01:46.000
+Yeah, yeah.
+

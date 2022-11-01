@@ -1,0 +1,3 @@
+02:15:14	Vincent Arena (Catalist Commons):	https://www.catalist.network/trove-guide/collaborative-tech-alliance?view=Card&filtered=yes
+02:22:59	Pete Kaminski:	https://github.com/Flotilla-Tools-for-Connectors/Flotilla-Wiki/blob/main/Sample%20Trove%20Export%2C%202022-08-12.md
+02:23:11	Pete Kaminski:	https://raw.githubusercontent.com/Flotilla-Tools-for-Connectors/Flotilla-Wiki/main/Sample%20Trove%20Export%2C%202022-08-12.md

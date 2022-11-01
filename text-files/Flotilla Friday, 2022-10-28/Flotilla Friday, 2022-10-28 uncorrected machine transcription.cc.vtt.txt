@@ -1,0 +1,1751 @@
+WEBVTT
+
+00:00:08.000 --> 00:00:13.000
+so this could be useful for other people who are just thinking to join the screen.
+
+00:00:13.000 --> 00:00:18.000
+A little introduction. Yeah, exactly. I figured yeah if we're gonna give a we.
+
+00:00:18.000 --> 00:00:22.000
+We're. gonna give an intro we get to to have it on the record.
+
+00:00:22.000 --> 00:00:40.000
+Describing the other one vincent i'll go first. So Vincent's working on Catalyst, which is kind of a multi-directory community, events and communities and people so it's like
+
+00:00:40.000 --> 00:00:55.000
+a i'm going to say something which actually really underplays. It it's kind of like a massive roll-odox of like like if you wanted to get stuff done to make the world a better place you would look at
+
+00:00:55.000 --> 00:01:00.000
+vincent's roland x except it's it's like a 100 times better than a roll of X.
+
+00:01:00.000 --> 00:01:04.000
+Because Vincent does magic stuff to interrelate everything.
+
+00:01:04.000 --> 00:01:22.000
+And so, and he keeps adding stuff to it i'm helping him. He's doing the work there's a tiny little part where I can help a little bit, which is something that keeps track of just like zoom chats that are
+
+00:01:22.000 --> 00:01:27.000
+going on for a call, and all the links in them, and who said What and stuff like that?
+
+00:01:27.000 --> 00:01:38.000
+So for each event that a group is having convinced it has a page for each event, each meeting, and then there's all the things about that meeting.
+
+00:01:38.000 --> 00:01:42.000
+You know what Links got brought up, what resources got mentioned.
+
+00:01:42.000 --> 00:01:50.000
+You know the organizers can put additional information. Other notes like from a Hackham D.
+
+00:01:50.000 --> 00:01:58.000
+Or something like that really really amazing and cool. so relationship to flotilla.
+
+00:01:58.000 --> 00:02:03.000
+Flotilla is largely It's kind of me and Vincent and another guy.
+
+00:02:03.000 --> 00:02:09.000
+Charles Bloss was also one of the original founders of flotilla. I like Charles. Yeah.
+
+00:02:09.000 --> 00:02:28.000
+He's a good guy we've we've Got common interest in both helping people organize information or organization getting organized for people, and then helping people use that information to learn about each other.
+
+00:02:28.000 --> 00:02:35.000
+Find out. How can I help? How can I get help what can I do So That's kind of the gist of Flagello.
+
+00:02:35.000 --> 00:02:50.000
+And then for interoperation. we're talk talk Each talk about our tools, and how they could interoperate with each others tools, and then with other things outside of that too very cool. amazing.
+
+00:02:50.000 --> 00:02:59.000
+I I can tell you that I I think what i'm doing will add something interesting to this Mix bet we'll see as we go.
+
+00:02:59.000 --> 00:03:11.000
+So, Vincent, are you gonna yeah i'm gonna take on the massive task of So So massive wiki
+
+00:03:11.000 --> 00:03:18.000
+So there are a lot of different Wiki software and platforms.
+
+00:03:18.000 --> 00:03:21.000
+I would say the thing that differentiates massive Wiki is.
+
+00:03:21.000 --> 00:03:38.000
+It's also a protocol for having a Wikipedia that by its design can host the data and pull data from different repositories.
+
+00:03:38.000 --> 00:03:47.000
+So, for example, you could you could set up a massive wiki and decide to host it on obsidian.
+
+00:03:47.000 --> 00:03:50.000
+Using the massive Wiki protocol and have the data starting.
+
+00:03:50.000 --> 00:04:00.000
+Github, and so in essence, it is like a protocol that can be kind of applied towards lots of different tools.
+
+00:04:00.000 --> 00:04:11.000
+So people kind of have their own tool they like using whether It's Rome notion, and so I think one the kind of mission of massive Wikipedia correctly. if i'm wrong is like to be able to let
+
+00:04:11.000 --> 00:04:24.000
+people have the way of pick their platform, but be able to have this like shared protocol for setting up Wikis in a way that allows for interoperability across different rules.
+
+00:04:24.000 --> 00:04:31.000
+So. does that mean that from my obsidian I could connect with your notion of Rome?
+
+00:04:31.000 --> 00:04:40.000
+Or does it mean that I would go to a wiki and see my notion, my obsidian, your notion, his room, that kind of thing?
+
+00:04:40.000 --> 00:04:48.000
+It it means this is a really cool exercise by the way Vincent: Yeah.
+
+00:04:48.000 --> 00:04:57.000
+And i'm sorry I maybe I put you on this bottle of it. But she did a great job, so I don't know and welcome to whoever this mark this.
+
+00:04:57.000 --> 00:05:05.000
+Is yeah, Michael, Another another regular Hey, Michael, Hello, it's classes.
+
+00:05:05.000 --> 00:05:12.000
+We we talked a little bit about catalyst now we're talking a little bit about mass of Wiki, and it would be interesting to talk about factor.
+
+00:05:12.000 --> 00:05:35.000
+And then Sam's projects. So the the the the the it's basically the idea of massive Wiki is is to use really standard and really basic things to to host A wiki, And then also those things just by
+
+00:05:35.000 --> 00:05:39.000
+nature will end up being interoperable with a bunch of stuff.
+
+00:05:39.000 --> 00:05:50.000
+So if up city and is, is maybe the main tool we like to use as a massive, wicked client, and if you had stuff in notion, and what you would do is export Markdown. so massive wiki is
+
+00:05:50.000 --> 00:06:00.000
+all about markdown and interchanging, sharing, sharing work down files and versioning them and things like that I could get with.
+
+00:06:00.000 --> 00:06:02.000
+Yeah, why Wiki is sort of a kiddish, anyway.
+
+00:06:02.000 --> 00:06:12.000
+So Yeah, it's. it's a markdown Wiki with, Okay, get is the the sharing and versioning protocol. we like best. But we've tried a couple different ones, too.
+
+00:06:12.000 --> 00:06:17.000
+Okay, yeah, yeah, yeah, I I i've become a fan of Markdown.
+
+00:06:17.000 --> 00:06:23.000
+Since I started up. Obsidian: So yeah, very cool, very interesting.
+
+00:06:23.000 --> 00:06:32.000
+And he also has other projects like massive human intelligence project and the collective sense commons which that's how we connected.
+
+00:06:32.000 --> 00:06:35.000
+And I'm. Curious how you found your way into the csc matter most.
+
+00:06:35.000 --> 00:06:47.000
+But that's one of the things that pete is the super admin of, and is set up and kind of provides that as a service to like and goes system of different communities.
+
+00:06:47.000 --> 00:06:53.000
+It's. It i've been i've kind of run into so many groups in the last couple of weeks like last month.
+
+00:06:53.000 --> 00:07:02.000
+Maybe collective sense. commons and like even just kind of getting out to highlight and matter what?
+
+00:07:02.000 --> 00:07:10.000
+And the yeah. All these groups the Ogm: the
+
+00:07:10.000 --> 00:07:15.000
+Yeah, a bunch of them catalyst yeah so i'm like swimming in.
+
+00:07:15.000 --> 00:07:18.000
+Oh, I you know it's it's so much information and I'm.
+
+00:07:18.000 --> 00:07:31.000
+Also very focused on what i'm doing so but these are all like so integral to this sort of mission that i'm also on which is like about harnessing human intelligence.
+
+00:07:31.000 --> 00:07:44.000
+Height. Hmm! like allowing us like you know a lot of people. I don't know this a lot of people are just like, well, just you know, artificial intelligence will solve this problem.
+
+00:07:44.000 --> 00:07:50.000
+Like we we can't do it we gotta like hand it off like we just we haven't tried we just haven't really.
+
+00:07:50.000 --> 00:08:02.000
+We haven't really put our minds to this democratic in sense, making collective collaborative sense making project that you know you guys are all, you know, part of it.
+
+00:08:02.000 --> 00:08:08.000
+And i'm also working towards so so it's great It's just great to see that other people are like picking.
+
+00:08:08.000 --> 00:08:17.000
+They're all you guys all have like grab different strands of this challenge that we're face facing.
+
+00:08:17.000 --> 00:08:26.000
+I mean if we don't figure this out we're gonna die. you Know It's like we're all gonna die if we don't figure this out so that's how I see it Anyway, i'm not everyone
+
+00:08:26.000 --> 00:08:31.000
+agrees with me. but so this says to me like this is what it's about.
+
+00:08:31.000 --> 00:08:45.000
+So do you have when, when, you're helping human intelligence Do you have How do you do that processes tools? you know.
+
+00:08:45.000 --> 00:08:59.000
+If you want, I can jump in and tell you about what i'm building So what it is is it's it's, you know, like so many of these things, you can explain it from many different angles.
+
+00:08:59.000 --> 00:09:04.000
+But in many ways. One way is to say that it's a liquid democracy platform.
+
+00:09:04.000 --> 00:09:10.000
+Another way is to say, it is that sir collaborative sense speaking platform
+
+00:09:10.000 --> 00:09:17.000
+So the the concept is that Oh, hello! do it, Jonathan.
+
+00:09:17.000 --> 00:09:24.000
+So what it is is it's it's at its core it's it's like proposals, you know.
+
+00:09:24.000 --> 00:09:31.000
+Challenges our request for proposals proposals are you know statements about what you'd like the group to do.
+
+00:09:31.000 --> 00:09:39.000
+And then and then there's a voting system on top that combines so score voting rank choice and approval voting.
+
+00:09:39.000 --> 00:09:55.000
+And so there's voting on every statement like on proposals. and then within the proposal, our substatements that are designed to help people understand why the statement understand detail like workout details of the statements understand why people like
+
+00:09:55.000 --> 00:10:01.000
+it, or don't like it like Why, or why not type statements, and then all of those are votable.
+
+00:10:01.000 --> 00:10:06.000
+So someone proposes something. people will vote on it. and say why they like it, or don't like it.
+
+00:10:06.000 --> 00:10:10.000
+And then you can propose alternate statements. alternates.
+
+00:10:10.000 --> 00:10:15.000
+Sit in the same holders this as the prop, like an alternate proposal or an alternate. Why not?
+
+00:10:15.000 --> 00:10:20.000
+If you think you could state the same, why not better, or whatever it is?
+
+00:10:20.000 --> 00:10:33.000
+And so the alternates sit alongside the original ones and then once there's more than one then it turns into a right choice or a you know approval type voting otherwise it's well, it's still approval.
+
+00:10:33.000 --> 00:10:49.000
+That's just one but it gets into more interesting voting types. So it's a way of of of iterating on ideas to find solutions that are synergistic satisfiers ultimately.
+
+00:10:49.000 --> 00:10:59.000
+So it's it's. meant to be in a political arena it's also meant to be a storage of the thinking that went into the final decision.
+
+00:10:59.000 --> 00:11:04.000
+So you can understand when you can see the statements that were made.
+
+00:11:04.000 --> 00:11:07.000
+Help the amount of agreement that each Stephen has had on.
+
+00:11:07.000 --> 00:11:14.000
+You know, in the process like if if I said you know what's you know it's build a dam, and you know, people said, you know.
+
+00:11:14.000 --> 00:11:19.000
+Now it could cost this problem like what's this damn building for why?
+
+00:11:19.000 --> 00:11:24.000
+Why are you building it? Well, because we want to gain energy, and we want to store water.
+
+00:11:24.000 --> 00:11:29.000
+K. Why don't we here's an alternate proposal why don't we set up you know how swales?
+
+00:11:29.000 --> 00:11:37.000
+And you know storage things, and to store the water, and, you know, altering proposal swells, and you know why or what you know.
+
+00:11:37.000 --> 00:11:49.000
+So you can kind of follow the trail of the thinking that went to the into the final decision
+
+00:11:49.000 --> 00:11:58.000
+Calls with any of like the topic quest or reason score any of them.
+
+00:11:58.000 --> 00:12:03.000
+Yeah. Yeah. So I had a had a really great meeting with
+
+00:12:03.000 --> 00:12:14.000
+Bentley Davis and he actually he's the one who told me about how you guys, so I would not have found this group Hadn't, if it hadn't been for him and I I can't even remember I found him
+
+00:12:14.000 --> 00:12:30.000
+but but yeah, and and what they're doing is similar turn generally similar, like it's it's also you know, wipedia. is that what it's called or reason pedia yeah it's related and this
+
+00:12:30.000 --> 00:12:39.000
+is like, I think like I could probably find a way to integrate what he's doing into what i'm doing.
+
+00:12:39.000 --> 00:12:49.000
+It's a little bit different. but this the thing i'm doing is a little bit more governance oriented. Since speaking of governance, it has a sense making also reasons why and why not?
+
+00:12:49.000 --> 00:12:56.000
+But this is more like people trying to decide what actions to take or it's not just actions.
+
+00:12:56.000 --> 00:13:14.000
+It could be like a group of climate scientists trying to decide on the wording of a an official statement like an official group of climate scientists trying to come up with their statements like, and they could propose alternates and explain why present evidence attachments you know
+
+00:13:14.000 --> 00:13:20.000
+links, stuff and vote on the quality of the links and the quality of the attachments and the quality of this.
+
+00:13:20.000 --> 00:13:33.000
+You know all those things, and and as you kind of see what what everyone's positions are like how much agreement there is with each of the sub statements, and you could perhaps make a better proposal like a better statement and and
+
+00:13:33.000 --> 00:13:44.000
+then with enough vote from a group of official climate scientists, for example, kind of a stamped official statement.
+
+00:13:44.000 --> 00:13:57.000
+And then you know, the public could go in and look at for B and C. All of the reasoning that went into that statement, for example, like it could be viewable, and the evidence all the attachments, all the links everything.
+
+00:13:57.000 --> 00:14:11.000
+So another thing you'll bump into at some point is mark and twom peril and hyper knowledge. I need to start a I need to start a list here.
+
+00:14:11.000 --> 00:14:20.000
+Actually, I have a list. But yeah, actually, if we let me, let me share that.
+
+00:14:20.000 --> 00:14:30.000
+How come D Page again? And if we type things there world would be a better place. Okay, yeah.
+
+00:14:30.000 --> 00:14:32.000
+I need a I think I tried to go to that but I wasn't able.
+
+00:14:32.000 --> 00:14:38.000
+There, you don't need to sign in Oh, actually I I muffed.
+
+00:14:38.000 --> 00:14:41.000
+I saw screwed up the sharing settings on my first go.
+
+00:14:41.000 --> 00:14:55.000
+So it said that said that you weren't allowed or something, but it's who went to bread and puppets. Is that that's in Vermont right I went to there?
+
+00:14:55.000 --> 00:15:03.000
+I want The person who talked about that was Mark Caranza, and he works at the Internet Archive, which is in San Francisco.
+
+00:15:03.000 --> 00:15:09.000
+They must be a traveling troop and okay that's cool. Okay.
+
+00:15:09.000 --> 00:15:11.000
+I'm, looking at some code you have marked it looks like topic.
+
+00:15:11.000 --> 00:15:18.000
+Quests reason. P. kilobat Okay, and is this the reason Pdf.
+
+00:15:18.000 --> 00:15:22.000
+Page that i'm looking at this the page that you're looking at.
+
+00:15:22.000 --> 00:15:31.000
+Is It's on a editing Breakdown editing collaborative market editing server called Hackham D.
+
+00:15:31.000 --> 00:15:36.000
+Okay, And this is something that we in in these communities we use.
+
+00:15:36.000 --> 00:15:46.000
+How can be often to take notes? Okay, slightly less evil empire than Google documents. Yes.
+
+00:15:46.000 --> 00:15:57.000
+Well, okay. so had her hand raising. I missed it.
+
+00:15:57.000 --> 00:16:01.000
+I'm going to write a hyper-knowledge of Mark and Twin Prom in here, Jonathan.
+
+00:16:01.000 --> 00:16:06.000
+Is that your way of saying you want to have something to say, or just I have a question.
+
+00:16:06.000 --> 00:16:14.000
+Yes, d is your the thing you're describing is.
+
+00:16:14.000 --> 00:16:19.000
+Can someone play with it yet? Yes, Do you have a link, or I do?
+
+00:16:19.000 --> 00:16:29.000
+Yeah, it's 4 b io I I have 40 dot org for me that Io they're both going to Amazon web server.
+
+00:16:29.000 --> 00:16:43.000
+Can you put that in? Yes, sorry I do. Links, oops.
+
+00:16:43.000 --> 00:16:50.000
+Pete put it in. There is that the right I just set up the routing for 4 bio.
+
+00:16:50.000 --> 00:16:55.000
+But you're gonna need you guys can have i'm kind of trying to.
+
+00:16:55.000 --> 00:17:00.000
+I guess, to limit the access to people who I know so because it's still certain data.
+
+00:17:00.000 --> 00:17:08.000
+But you guys are all good in my book so i'll send that. And when I get that there's a code you're gonna need.
+
+00:17:08.000 --> 00:17:24.000
+Is that clicking on join, there's so when you go to sign up. There's there's gonna part of the setup process is you're making an account, and you'll need a code Yeah, The a
+
+00:17:24.000 --> 00:17:33.000
+placeholder text is so close to the background color it's not interval.
+
+00:17:33.000 --> 00:17:43.000
+Okay, Okay, I'll fix that access code. I got it i'll put it right in the document.
+
+00:17:43.000 --> 00:17:52.000
+Oh, thanks, This document will end up being public at some point.
+
+00:17:52.000 --> 00:18:06.000
+Okay, I did check out w w what is the Can you spell the code? it's a little ugly it's in that document I can spell it out for you
+
+00:18:06.000 --> 00:18:16.000
+Oh, the hack Okay, i'll just read it from there
+
+00:18:16.000 --> 00:18:30.000
+Yeah, lowercase and Gotcha: Yeah.
+
+00:18:30.000 --> 00:18:43.000
+So it would be a little interesting to hear from Wendy about what she does, and Michael about what he does, and Jonathan about what you do.
+
+00:18:43.000 --> 00:19:04.000
+If if you want the flip thing did Vincent and I did a thing where we described each other's projects which is entertaining and illuminating, you could do like a 3 way rotation Yeah.
+
+00:19:04.000 --> 00:19:17.000
+Paper, rock scissors, paper, rock scissors, lizard, spock.
+
+00:19:17.000 --> 00:19:23.000
+I'll introduce so who hasn't introduced them Jonathan Michael, I don't know, I think, that are in introducing myself.
+
+00:19:23.000 --> 00:19:31.000
+I guess i'm a little bit nurse introducing because I don't always feel like I have a good grasp.
+
+00:19:31.000 --> 00:19:39.000
+So i'm gonna do myself. so Hi Sam nice to meet you glad you're here.
+
+00:19:39.000 --> 00:19:48.000
+Oh, thanks, Let's see so what do I do of the many variations on a theme. I have been very interested.
+
+00:19:48.000 --> 00:19:58.000
+I come from the world of positive psychology mostly, and I have been interested in using technology to help people thrive.
+
+00:19:58.000 --> 00:20:04.000
+So to that end I had an idea 10 years ago for a new platform.
+
+00:20:04.000 --> 00:20:08.000
+It sounds very similar to what you were talking about definitely had ratings as part of it.
+
+00:20:08.000 --> 00:20:20.000
+I saw everything being in more of like a graph database although I didn't have that terminology back then, and where everything's nodes and relationships for me, I was I was visualizing more of the front end of it rather than
+
+00:20:20.000 --> 00:20:36.000
+the back end of it. modeling it somewhat after ancestry dot com, And the ways that we map knowledge and then include knowledge from a global map onto our own personal map.
+
+00:20:36.000 --> 00:20:46.000
+Once I started getting into this group, I would thought I would be meeting people where I would network and build a team and start to build out the platform.
+
+00:20:46.000 --> 00:20:55.000
+I was at that stage when I started realizing that everybody here has pieces of the larger, the larger vision.
+
+00:20:55.000 --> 00:21:09.000
+And so I decided, made a conscious decision, not to develop something new, and rather to come in and be a weaver of the pieces and try to help knit things together or make introductions or support the work of other people So
+
+00:21:09.000 --> 00:21:22.000
+that's what i've been doing right now I think i'm finally getting down to a nugget of something that can be done, and i'm trying to facilitate the doing of that and that piece right now
+
+00:21:22.000 --> 00:21:29.000
+is something i've called the compass which is essentially the profile version of the knowledge network.
+
+00:21:29.000 --> 00:21:35.000
+So just starting with the first cornerstone of the larger knowledge network, which is, how do we ask people?
+
+00:21:35.000 --> 00:21:41.000
+The right questions and gather the information for their own personal shift towards greater thriving.
+
+00:21:41.000 --> 00:21:50.000
+And so obviously, you know, as soon as you start interacting with information from other people, all the things that you just talked about are very much front and Center will.
+
+00:21:50.000 --> 00:21:55.000
+Who gets the authority to you know where, where does the authority come from?
+
+00:21:55.000 --> 00:22:01.000
+That my idea rises above your idea. And what if we disagree, or what if we have a different version of it?
+
+00:22:01.000 --> 00:22:05.000
+Do. I always make a different version from my own personal tree, and then we would go on our merry way.
+
+00:22:05.000 --> 00:22:09.000
+No, what would be better is if we start collaborating on one thing.
+
+00:22:09.000 --> 00:22:14.000
+But we could see what everybody's thoughts. are and that was for me always in the back of my mind.
+
+00:22:14.000 --> 00:22:19.000
+I've rarely talked about it in these spaces because it it was one of those things that we get added on later.
+
+00:22:19.000 --> 00:22:29.000
+So i'm really excited to meet you and i'm really excited to hear what you're doing, and to hear that you've you've essentially built a lot of that, if not most of it out already.
+
+00:22:29.000 --> 00:22:34.000
+So I would love to see how we can weave what you have with the pieces that other people are doing.
+
+00:22:34.000 --> 00:22:39.000
+And I think the the list that pete has put up is is really the right place to start.
+
+00:22:39.000 --> 00:22:49.000
+I don't have much to add to that and that part of it from my perspective, I think i'm still in the right place of doing the pro.
+
+00:22:49.000 --> 00:23:03.000
+The work on the profile and individual first, and then building in from my perspective building in the collaboration part as we go along into the larger network of all information, all the time for everyone, everywhere.
+
+00:23:03.000 --> 00:23:13.000
+The dream, the ultimate dream. Okay, that's great very cool we need Is there a link that you would put in the Hackham D.
+
+00:23:13.000 --> 00:23:25.000
+Or Yeah, I think just my website, though, I need to update it with my latest chosen area focus a big mirror board.
+
+00:23:25.000 --> 00:23:29.000
+Yeah, Okay, I'll put a couple do you want you want them on the hack in Dp. or do you want them on chat?
+
+00:23:29.000 --> 00:23:35.000
+Hack indeed. Probably better. Okay, i'll do that
+
+00:23:35.000 --> 00:23:52.000
+Keeper of the knowledge, the records, the the mammals, the the cache record, the
+
+00:23:52.000 --> 00:24:09.000
+Michael jonathan i'm helping mark and twon and Jack Park work on since craft which sounds a lot like what you're working on.
+
+00:24:09.000 --> 00:24:14.000
+I would love to have a one-on-one with you to.
+
+00:24:14.000 --> 00:24:22.000
+Yeah, Compare candidates. They since I have them that was what you're doing.
+
+00:24:22.000 --> 00:24:35.000
+I I did record a bug for you Oh, there's There's yeah there's a bunch I've got a There's a whole list that the i'm not really much of a developer I saw that I just
+
+00:24:35.000 --> 00:24:43.000
+thought you'd like that I am actually love it i'm a programmer.
+
+00:24:43.000 --> 00:24:51.000
+Been programming for 40 years. Hi loathe corporate technology.
+
+00:24:51.000 --> 00:25:01.000
+I think it's just drive the human race crazy I think it's making it's saving the bottom line.
+
+00:25:01.000 --> 00:25:07.000
+Of corporations at the sacrifice of being useful for anybody.
+
+00:25:07.000 --> 00:25:16.000
+So i'm gonna get off that bandwagon No, I I just I I totally agree that there's like
+
+00:25:16.000 --> 00:25:21.000
+It's pushing the card in the wrong direction like you know anyway.
+
+00:25:21.000 --> 00:25:40.000
+So kind of starting from that. And I have a sibling hate for money, because I think the profit motive makes us open to the idea of flying crime.
+
+00:25:40.000 --> 00:25:49.000
+All kinds of things. So money is not an ethical system it's not unethical.
+
+00:25:49.000 --> 00:25:53.000
+It's just absent any kind of feedback match mechanism.
+
+00:25:53.000 --> 00:26:11.000
+So I invented a thing called civilization. Tudor tries to tackle this problem by inviting people to crowds horse what they want for civilization.
+
+00:26:11.000 --> 00:26:16.000
+In other words, soilization has come into being the way it is.
+
+00:26:16.000 --> 00:26:21.000
+In an arbitrary way, on an arbitrary path.
+
+00:26:21.000 --> 00:26:28.000
+It wasn't designed pure see it for what it is and notice, hey?
+
+00:26:28.000 --> 00:26:34.000
+I can make a lot of money if I cheat, or whatever
+
+00:26:34.000 --> 00:26:42.000
+So designing civilization. you know, what do we really want?
+
+00:26:42.000 --> 00:27:00.000
+What would it look like, and what would it feel? like that's My goal in life is to build a game where people can experience those things designing and and then playing in it Can I
+
+00:27:00.000 --> 00:27:08.000
+Okay, sorry. Kyle padlock and map the city.
+
+00:27:08.000 --> 00:27:19.000
+He's he's building a game that isn't really my game, but he read my white paper and he loves it.
+
+00:27:19.000 --> 00:27:29.000
+So we're working together. nice lately. my thing has been non-technical writing.
+
+00:27:29.000 --> 00:27:46.000
+Because well, explaining things as hard and explaining things in a way that almost everybody gets is kind of my thing, and has been since I was a kid.
+
+00:27:46.000 --> 00:27:53.000
+The other thing I do is alpha and beta test.
+
+00:27:53.000 --> 00:28:12.000
+Oh, okay, so and I'm so the writing part I'm helping right the onboarding for sensecraft, and for this project that Wendy Mc.
+
+00:28:12.000 --> 00:28:18.000
+Clean introduced me to I haven't started the latter one yet.
+
+00:28:18.000 --> 00:28:24.000
+Well, I guess I I started it today right Wendy.
+
+00:28:24.000 --> 00:28:27.000
+So onboarding is is a big deal for me.
+
+00:28:27.000 --> 00:28:39.000
+I love to make people more productive through information so I think that's good.
+
+00:28:39.000 --> 00:28:43.000
+If if you wanna know more about the white paper, I can put that in the hack.
+
+00:28:43.000 --> 00:28:48.000
+Md: yeah, better. Now, I would love to have a one on one was very open to that.
+
+00:28:48.000 --> 00:28:56.000
+Definitely, of course, of course. Okay, Thanks. Yeah.
+
+00:28:56.000 --> 00:29:09.000
+I I just wanted to say i'm sorry I just like sometimes. kids i'm like an oldest child, so i'm just used to talking over all the little it's like a bad habit, right but I just wanted to
+
+00:29:09.000 --> 00:29:16.000
+say that this thing that you're talking about about the the Okay.
+
+00:29:16.000 --> 00:29:22.000
+I'm reading a book called the nordic ideology it's a meta meta-modern, you know.
+
+00:29:22.000 --> 00:29:36.000
+But i'm really enjoying it. But one of the types of politics, like the last stage of political politics, he describes is called Democratization of the politics of
+
+00:29:36.000 --> 00:29:45.000
+There. So it's basically like the brainwashing that we all undergo as members of our culture.
+
+00:29:45.000 --> 00:29:56.000
+Let's like get a hold of that and democratically decide how we're gonna bring and watch ourselves. You know the Echo Chamber and the wrong people.
+
+00:29:56.000 --> 00:30:02.000
+Have the microphone. They have the yeah, the the crooks are running the show.
+
+00:30:02.000 --> 00:30:14.000
+But yeah, yeah, so like like but and and like the the There's this little group i'm in like a forum around this book that are reading, and I've just proposed hey?
+
+00:30:14.000 --> 00:30:21.000
+Let's start like talking about this politics of theory politics? of narrative like what?
+
+00:30:21.000 --> 00:30:25.000
+What do we want to say about Ai? What do we want to say about genetic modification?
+
+00:30:25.000 --> 00:30:29.000
+What do we want to say about pollution and about you know gender and race?
+
+00:30:29.000 --> 00:30:35.000
+And you know like what what what's the net what's the How should we brainwash ourselves more or less?
+
+00:30:35.000 --> 00:30:53.000
+So you know It's great very interesting stuff, yeah I also should say that i'm working a lot with Vincent every week, and with Wendy Mcclain, and with Peter, and I would work with Michael if he
+
+00:30:53.000 --> 00:30:58.000
+had the time
+
+00:30:58.000 --> 00:31:05.000
+Oh, cool, that's great thank you Michael said he's he's a half, and half out today.
+
+00:31:05.000 --> 00:31:13.000
+But smart and friendly person also and he's got a project called Factor Dot Com.
+
+00:31:13.000 --> 00:31:29.000
+Without without the factor is a you could call it a social bookmarking tool. but basically it's a way to You could also call it a way to catalog resources and resources like links and things like that.
+
+00:31:29.000 --> 00:31:36.000
+And you can do that with a feed. you can do it together with different people.
+
+00:31:36.000 --> 00:31:43.000
+You could be doing that in Facebook and be part of the evil Empire where you could do it on factor and factor is not evil.
+
+00:31:43.000 --> 00:31:50.000
+And isn't trying to make money off of you and not trying to share everything everywhere.
+
+00:31:50.000 --> 00:32:05.000
+Yeah, and influence your behavior so that you become a better rat on a cage wheel
+
+00:32:05.000 --> 00:32:12.000
+So usually. So this is this is usually we talk about a metal level above this.
+
+00:32:12.000 --> 00:32:19.000
+I guess how these various things are working together. that's so exciting how we can work together.
+
+00:32:19.000 --> 00:32:23.000
+Okay, let's do that. What What what problems that we've got into referee.
+
+00:32:23.000 --> 00:32:35.000
+I I have to ask you real quick some that this this particular meeting can get a little bit more technical than some of the other meetings.
+
+00:32:35.000 --> 00:32:40.000
+And so i'm going to ask you a question which I wouldn't usually ask you in our other meetings.
+
+00:32:40.000 --> 00:32:45.000
+It sounds like you're maybe not the programmer part of your operation, anyway.
+
+00:32:45.000 --> 00:32:52.000
+Do you know anything about your tech stock? yeah yeah so yeah So it's It's all javascript more or less.
+
+00:32:52.000 --> 00:32:58.000
+It's node react we've got mongo.
+
+00:32:58.000 --> 00:33:14.000
+Db we're, using graph ql and we're using fastify, which is kind of a I guess I think it's an api man. but and that's that's more that's super helpful
+
+00:33:14.000 --> 00:33:30.000
+massive wiki doesn't really have a tech stack because it's it's kind of it reuses a lot of tack, so it's it's mark down and whatever markdown editor you
+
+00:33:30.000 --> 00:33:34.000
+want get, and what are the whatever? get forage and get software you want?
+
+00:33:34.000 --> 00:33:40.000
+But there's a thing called Massive wiki Builder, which is written in Python.
+
+00:33:40.000 --> 00:33:48.000
+I used to do some node stuff and lately i'm doing python stuff, and i'm the coder along with another guy.
+
+00:33:48.000 --> 00:33:53.000
+So I do python stuff. and then we host on nullify.
+
+00:33:53.000 --> 00:33:59.000
+I actually do a lot of aws stuff, too, although not so much in this community matter.
+
+00:33:59.000 --> 00:34:05.000
+Most, for instance, is running on an aws server yeah, we're on.
+
+00:34:05.000 --> 00:34:18.000
+We're on awesome, maybe that's just good then part of the evil Empire at the same time. what's like Yeah, it's good
+
+00:34:18.000 --> 00:34:27.000
+I mean what other choice is there there's choices but they're not really Vincent.
+
+00:34:27.000 --> 00:34:30.000
+Uses a tech stack called Bubble Bubble.
+
+00:34:30.000 --> 00:34:38.000
+Io, which is a no code or local, maybe, is a better way to say a low code tool for developing
+
+00:34:38.000 --> 00:34:51.000
+Usually fairly simple. I've seen that huge and really complicated and Vincent is still managing to do it with bubble, which which is really cool.
+
+00:34:51.000 --> 00:34:58.000
+Yeah, about catalyst, and they were like we wanna feature it, and I was like, I don't know.
+
+00:34:58.000 --> 00:35:05.000
+Yeah, I watch him change things in bubble and it's like I love fuck.
+
+00:35:05.000 --> 00:35:18.000
+Do you remember where everything is yeah he's Yeah, my I just just to give you a little background.
+
+00:35:18.000 --> 00:35:27.000
+I was building a platform called I. I was working on a a school called the Peacemaker Academy.
+
+00:35:27.000 --> 00:35:40.000
+Just before the Covid hit and I was building some software, and I I I hired this developer like I met somebody in India and and hired this him to do some design.
+
+00:35:40.000 --> 00:35:49.000
+And I I use this this company called daffodil to find somebody who's who could really code I mean I Yeah, i'm crappy coder I I can do it a little bit.
+
+00:35:49.000 --> 00:35:56.000
+But not that's Well, then, so like like a year or 2 into the the design of this development of this thing, and I was, I launched the school.
+
+00:35:56.000 --> 00:36:00.000
+I had my first students and Covid hit, and I had to shut it down.
+
+00:36:00.000 --> 00:36:05.000
+I mean. I was teaching in the park. I brought mats out to the park, and then it was all shut down, and you know, and then
+
+00:36:05.000 --> 00:36:12.000
+And I was just sitting on my butt and like kind of wondering like what's the universe trying to tell me?
+
+00:36:12.000 --> 00:36:17.000
+And and I was like listening to a lot of Daniel Schmachtenberger and A.
+
+00:36:17.000 --> 00:36:24.000
+You know, a bunch of other people, and just like, you know, concerned about the world.
+
+00:36:24.000 --> 00:36:29.000
+And and you know kind of realizing that it's really about coordination, like we're having a problem with coordination.
+
+00:36:29.000 --> 00:36:33.000
+That's really what it is. We need to coordinate at a higher level, like a much more level.
+
+00:36:33.000 --> 00:36:40.000
+It. We need to do like a a phase shift sort of a leap and
+
+00:36:40.000 --> 00:36:48.000
+So I just was looking at all the stuff, you know. I was researching at a democracy, and I was, you know, found liquid democracy. I was like, okay.
+
+00:36:48.000 --> 00:36:55.000
+This makes a lot of sense, and looking at the different platforms out there. and I just thought, you know, I think I can do this like I think I can design this.
+
+00:36:55.000 --> 00:36:58.000
+You know more simply, like, more straightforward, like more universally.
+
+00:36:58.000 --> 00:37:03.000
+You know, and but I stopped with the coding.
+
+00:37:03.000 --> 00:37:17.000
+I stopped building this other thing, and the guy that was coding was, I found out he was like being mistreated like, and being paid really poorly, like 200 bucks a month, and I was paying like way more than that and
+
+00:37:17.000 --> 00:37:31.000
+then So my friend from India the designer like found this guy like he wasn't allowed to talk with me. but somehow we got a hold of him, and so I became this guy and I hired him so he's like you know i've been working with him for like 4 years
+
+00:37:31.000 --> 00:37:34.000
+now, so that's how i'm able to do these things because i'm paying a hell of a lot more than they were.
+
+00:37:34.000 --> 00:37:46.000
+But it's still within my budget and so that's kind of how I ended up being the developer of things without actually doing any code. I know some, but not that much.
+
+00:37:46.000 --> 00:37:54.000
+I wonder I wonder if You've I wonder if you know about Doug Engelbart and augment and things like that?
+
+00:37:54.000 --> 00:38:03.000
+You'd be interested probably to to read about him and it is ideas.
+
+00:38:03.000 --> 00:38:11.000
+He was really early in the early sixtys doing collective intelligence, collective human intelligence.
+
+00:38:11.000 --> 00:38:28.000
+Actually and you can. You can either look at what he where he got to, and said he succeeded, and a lot of the stuff that we use nowadays are still things that he came up with, or you could say.
+
+00:38:28.000 --> 00:38:41.000
+That he failed because we're still not very far better to fail at something that will eventually succeed than to succeed at something that will eventually fail.
+
+00:38:41.000 --> 00:38:52.000
+Sort of well I he's I I met him once or twice, and have friends who worked with him a little bit post.
+
+00:38:52.000 --> 00:39:03.000
+His career. his life was coming to an end. It became clear that you know a few people should try to grab what they could and move it into the next generation.
+
+00:39:03.000 --> 00:39:17.000
+So I one of those people is one of my friends I I feel like he must have had a really tragic feeling life, because literally in the early sixtys he could see all of the stuff that we're doing.
+
+00:39:17.000 --> 00:39:29.000
+Now, you know, with network computers and screens, and video sharing and mouses and tablets, you could see all of that and say, Ok, and we've got a big problem.
+
+00:39:29.000 --> 00:39:47.000
+We need to solve it together. We need to have collective intelligence, and you know, and and literally it was 20 or 30 years later before the first copycat computers started coming out. and then it was another 40 years before we got even close to the
+
+00:39:47.000 --> 00:39:52.000
+stuff that he was doing in the early Sixtys you know it's like, Why is this so hard?
+
+00:39:52.000 --> 00:40:02.000
+Why, can't we do it so well it's you know everybody's scrambling around trying to get their piece of cheese, you know, and it's just you know hard to see It's hard.
+
+00:40:02.000 --> 00:40:11.000
+To see the future. Not not everybody can do that or it was a really easy for him to see the future, and really obvious.
+
+00:40:11.000 --> 00:40:22.000
+And it's like and the rest of the world. is like what I've got to deal with my punch cards today. I don't know what you're talking about.
+
+00:40:22.000 --> 00:40:30.000
+Well, I mean I just I kind of got to the stage of my life where I just was like I don't have that much longer here like I should.
+
+00:40:30.000 --> 00:40:34.000
+And things are kind of a problem like Shitty like this is a crisis.
+
+00:40:34.000 --> 00:40:37.000
+And alright, what do I gotta do let's roll up the sleeves?
+
+00:40:37.000 --> 00:40:43.000
+I gotta figure this out. so. yeah, So it sounds like he was at that stage.
+
+00:40:43.000 --> 00:41:01.000
+Maybe quite earlier in life, so I maybe not so much earlier in life, but but certainly 6 years ahead of his time, which is kind of a curse
+
+00:41:01.000 --> 00:41:08.000
+Even just being one year ahead. is the curse the other thing to look for when you're looking for Dugano Bart is the mother of all Demos.
+
+00:41:08.000 --> 00:41:17.000
+It's called and if you find some video of that it's it's a trip, Okay.
+
+00:41:17.000 --> 00:41:23.000
+I'll pipe up since i'm since and then it's it's quiet at the moment.
+
+00:41:23.000 --> 00:41:29.000
+And say, hi! and thank Pete for for giving that nutshell.
+
+00:41:29.000 --> 00:41:35.000
+I I figured if I stayed with well away long enough, somebody would describe Factor probably do it better than I would say.
+
+00:41:35.000 --> 00:41:42.000
+You know. pizza good at but I will say just Sam just for for your interest.
+
+00:41:42.000 --> 00:41:51.000
+I I mentioned in the chat that our stack very much overlaps yours.
+
+00:41:51.000 --> 00:41:55.000
+And similarly, I am not the the coder of it.
+
+00:41:55.000 --> 00:41:59.000
+And have worked with outside developers, so what good we can do each other.
+
+00:41:59.000 --> 00:42:06.000
+I don't know, but interesting time happy to compare nets
+
+00:42:06.000 --> 00:42:20.000
+I was also gonna say that one of the key starting points of factor, that isn't currently live is something called the Hunch, which was basically
+
+00:42:20.000 --> 00:42:31.000
+You know we were. We were trying to create a way for people to post something as a hypothesis, particularly with orientation toward
+
+00:42:31.000 --> 00:42:38.000
+You know things like disaster relief. just dealing dealing with crises.
+
+00:42:38.000 --> 00:42:45.000
+My co-founder, and I started working on this around the time of Sandy.
+
+00:42:45.000 --> 00:42:49.000
+So like 10 years ago, hurricane, Sandy and
+
+00:42:49.000 --> 00:43:03.000
+And it was really interesting to see that the a lot of the response a lot of the online network response on the ground.
+
+00:43:03.000 --> 00:43:20.000
+Sandy was spontaneously handled by the occupy Wall Street folks, because they had the the web working to to deal with things and
+
+00:43:20.000 --> 00:43:29.000
+And there were some other, you know. does disasters around that time earthquake in Haiti.
+
+00:43:29.000 --> 00:43:45.000
+And, you know. i'm trying to remember what I Guess I think it matter also have been an earthquake in in Nepal that we were kind of paying attention to to the Way Ngos were dealing with stuff like
+
+00:43:45.000 --> 00:43:57.000
+that, and what you really wanted was to end for Ngos to have access to a common place where somebody could say
+
+00:43:57.000 --> 00:44:04.000
+I think you know this happened here I don't know how it connects to anything else.
+
+00:44:04.000 --> 00:44:25.000
+But you guys all should know that this bridges out, or you know, this hospital does have power, cause they have a generator, and you know, and other things that people that are less factual and more like people suppose that this might be a good idea
+
+00:44:25.000 --> 00:44:33.000
+to deal with it, so that other people can comment on it add evidence that does or doesn't support it.
+
+00:44:33.000 --> 00:44:43.000
+And give a confidence score to that supposition so that you might have like one person's brand new hypothesis.
+
+00:44:43.000 --> 00:44:54.000
+That's not corroborated by anybody and doesn't have much evidence behind it, or maybe has a lot of evidence, but just an odd, not a lot of visibility yet.
+
+00:44:54.000 --> 00:45:03.000
+And you can see how that comes on. and you know people can at mention others to say, Hey, keep a look at this.
+
+00:45:03.000 --> 00:45:12.000
+So people developed. both hypotheses get ratified and people develop reputation around their activity on platform.
+
+00:45:12.000 --> 00:45:18.000
+So is is this: is this How factor is working it's not it's actually built.
+
+00:45:18.000 --> 00:45:36.000
+We prototyped and built and it was such and edge use case, I mean something we could you know, but it's it's it's the it's kind of like the best thing that happens on social
+
+00:45:36.000 --> 00:45:39.000
+media in some ways like you know the arab spring and the you know like
+
+00:45:39.000 --> 00:45:43.000
+It's a huge yeah, it's like kind of what it should be, for, in a sense.
+
+00:45:43.000 --> 00:45:55.000
+But anyway, sorry. keep going. Yeah, no, I mean, I just, you know, have done a lot of of thinking and and and you know a little bit of prototyping around this
+
+00:45:55.000 --> 00:46:16.000
+And and then kind of breaking it down to the idea of like well, those bits of evidence we realized we're more universally applicable, and that, you know, having being a person who observes something you know maybe maybe you're
+
+00:46:16.000 --> 00:46:31.000
+in again i'm i'm dating the reference but but but you know maybe you're in Sierra Leone, and you like see this skin lesion on somebody's arm and you don't have you don't
+
+00:46:31.000 --> 00:46:38.000
+have a hypothesis about what it is. It just is and you want to put it up, and you want somebody else to be able to discover it.
+
+00:46:38.000 --> 00:46:42.000
+Maybe all you can do is tag it location and time.
+
+00:46:42.000 --> 00:46:53.000
+And so that lends itself to many more uses that can be, you know, dire life and death stuff like that, or it can be you know. just hey?
+
+00:46:53.000 --> 00:46:57.000
+Here's something I found in this place at this time What is it?
+
+00:46:57.000 --> 00:47:05.000
+I think it's cool it's nice architecture in flour, or anything.
+
+00:47:05.000 --> 00:47:12.000
+It it it called to mind the the taiwan's response to Covid.
+
+00:47:12.000 --> 00:47:21.000
+A little bit. Yeah, it's interesting like and i'm just trying to think of how that could be like, you know.
+
+00:47:21.000 --> 00:47:29.000
+Would you tag you, would tag up? you'd make a statement and sort of tag it with a variety of possible like, who would want to find this?
+
+00:47:29.000 --> 00:47:36.000
+Or what context would someone want to find this little message in a bottle?
+
+00:47:36.000 --> 00:47:43.000
+And yeah, yeah, it's it's a good it's a really important thing.
+
+00:47:43.000 --> 00:47:57.000
+Yes, anyways try. That would be a fun one to kind of figure out how to how to, how to make a 1 million dollars.
+
+00:47:57.000 --> 00:48:11.000
+No, I mean how to how to make it useful, you know yeah Unfortunately, the the how to make a 1 million dollars with it is sort of the easier course, you know, in terms of getting funding, and if you don't wanna do that and unfortunately, you know at
+
+00:48:11.000 --> 00:48:17.000
+the beginning. We We started as a as a Vc.
+
+00:48:17.000 --> 00:48:21.000
+Fundable, you know Delaware, Ccorp, and thought that was.
+
+00:48:21.000 --> 00:48:34.000
+You know where we were going and it does not does not wanna be, and does not jive with so so just for for full disclosure.
+
+00:48:34.000 --> 00:48:47.000
+I've been coming i've been I i'm not funded. i'm self funded and bootstrapped, and I've been really trying to figure out like cause my intention here is to like fully
+
+00:48:47.000 --> 00:48:56.000
+saturate the the the public mind with the concept of liquid democratic, collective intelligence.
+
+00:48:56.000 --> 00:49:02.000
+You know the technology of voting, and like a rank choice voting.
+
+00:49:02.000 --> 00:49:13.000
+And and you know, like I I want this to permeate the consciousness of you know the world and allow us to sort of jump up a level.
+
+00:49:13.000 --> 00:49:20.000
+And so i'm just thinking about how to do that and one of the thoughts, and came to my mind was well, what if I just went the Vc.
+
+00:49:20.000 --> 00:49:26.000
+Route and like, created something that would be useful to a lot of people.
+
+00:49:26.000 --> 00:49:32.000
+Right. So I did come up with a an alternate governance system.
+
+00:49:32.000 --> 00:49:38.000
+So normally. when you give money you get governance right.
+
+00:49:38.000 --> 00:49:47.000
+The the the the the yeah, Exactly. The the company is run by the by, the people who have put money in right.
+
+00:49:47.000 --> 00:49:57.000
+It's run by money you know the the fiduciary responsibility to maximize profit to share shareholders.
+
+00:49:57.000 --> 00:50:09.000
+Right fuck that exactly So but but what but but but I may need some money at some point like i'm not rich.
+
+00:50:09.000 --> 00:50:17.000
+I'm not a rich man at this moment so and so I kind of came up with this alternate system, because Forb should be.
+
+00:50:17.000 --> 00:50:32.000
+We should be able to eat our own dog food in a sense of manage, of governance, of being able to govern an organization. And so, looking at like, okay, shareholders are gonna want to maximize they're gonna want to keep this thing
+
+00:50:32.000 --> 00:50:36.000
+alive. Not only that, but they're gonna want to make it grow and make as much money as possible.
+
+00:50:36.000 --> 00:50:42.000
+That's their motivation right users are gonna want to have this thing really work.
+
+00:50:42.000 --> 00:50:48.000
+Well really be useful and meet their needs and be something that is like great right.
+
+00:50:48.000 --> 00:50:55.000
+And there's another group of people that would potentially care about the impact that this thing would happen.
+
+00:50:55.000 --> 00:51:06.000
+Society like people who could care about democracy and care about public comments, the the the epistemic comments, and that you know all this stuff.
+
+00:51:06.000 --> 00:51:18.000
+And that would have to be like a board it would have to be a group of people that were sort of elected to care about that stuff, or had to prove that they cared about it, because that's not something that everybody cares about
+
+00:51:18.000 --> 00:51:27.000
+so, or can think about. Well, so looking at like you know having the shareholder thing take up like roughly a third the governance.
+
+00:51:27.000 --> 00:51:44.000
+So if there's like a 100 investors or if there's a 100 shares, or a 1,000 shares every share that you own gives you 1 one thousandth of one third right and similarly, every user say there's a 100,000
+
+00:51:44.000 --> 00:52:01.000
+users every if you're a user you get 100,000 of one third of a vote, and then the board, including like employees and People who are elected to care about the actual impact of it, would get like say there's 12 board members or
+
+00:52:01.000 --> 00:52:04.000
+whatever. it is, one twelfth of one third more or less.
+
+00:52:04.000 --> 00:52:10.000
+So i've been kind of playing with this model in my head trying to figure out how to like.
+
+00:52:10.000 --> 00:52:20.000
+I'll allow for investment. Allow for money to come in Give investors, some control, because, indeed, they will promote the survival of this thing, you know.
+
+00:52:20.000 --> 00:52:25.000
+That would be their intention, and and the and the growth of it.
+
+00:52:25.000 --> 00:52:33.000
+You know, and then, but then that's that shouldn't be the end of the you know.
+
+00:52:33.000 --> 00:52:36.000
+Discussion. No it's just it's just about growth it's just about money.
+
+00:52:36.000 --> 00:52:41.000
+Sorry. I know you wanna do something good. so too bad I got a good question for you.
+
+00:52:41.000 --> 00:52:52.000
+Yes, So this is about waiting about. Yeah. and each voter has.
+
+00:52:52.000 --> 00:53:01.000
+And the proposition being voted on, be about this one through one, through one, through division.
+
+00:53:01.000 --> 00:53:08.000
+Good question and the I. It could be, could potentially be, or it could not be.
+
+00:53:08.000 --> 00:53:17.000
+There was another proposal that I had, which was that depending on the profitability of the company that percentage could change.
+
+00:53:17.000 --> 00:53:26.000
+So if the company was extremely profitable, the amount of say that the shareholders have would shrink.
+
+00:53:26.000 --> 00:53:32.000
+So we would want to keep the the profitability at a certain level.
+
+00:53:32.000 --> 00:53:48.000
+Enough that the investors get their growth but not enough that they're getting 40 fourx return like they could get some growth, but their amount of say would shrink, depending on how close we were to our goal of profitability of just
+
+00:53:48.000 --> 00:53:54.000
+enough profitability enough to hey? everybody, you know, not going to debt like not, you know, that kind of thing.
+
+00:53:54.000 --> 00:54:00.000
+And having it like a flexible percentage thing, something like that.
+
+00:54:00.000 --> 00:54:07.000
+What crazy investor would invest in I just don't know.
+
+00:54:07.000 --> 00:54:10.000
+I have no idea, no clue somebody would have to.
+
+00:54:10.000 --> 00:54:23.000
+You should talk to grace rock money aye she's she's raising Her plan is surveys that got off on the amount of money.
+
+00:54:23.000 --> 00:54:39.000
+Actually she knows a lot about raising money especially in crypto money, which isn't she's not, is not a crypto person, but she's worked with and her plan instantly is an ungodly amount of
+
+00:54:39.000 --> 00:54:45.000
+money based on Is there? Is there a godly amount of money like?
+
+00:54:45.000 --> 00:54:51.000
+Does such a thing exist? Sorry? Good question. also I wonder if you know about
+
+00:54:51.000 --> 00:54:58.000
+I'm going to put I'm gonna put in notes I'm gonna put Grace grace's name
+
+00:54:58.000 --> 00:55:04.000
+Do you know about a thing called slicing the pie or dynamic equity?
+
+00:55:04.000 --> 00:55:11.000
+You should you should look at those it sounds like what i'm probably like what I've yeah invented in my head.
+
+00:55:11.000 --> 00:55:19.000
+But somebody's already done it. Yeah, they've gone through it and you know, at least you can look at their models, and there's a lot of writing about it.
+
+00:55:19.000 --> 00:55:34.000
+The original great. the original person who wrote the book is slicing the pie, But it's also called dynamic equity, and it answers you kind of get the that idea and then you go Then there's a bunch of questions the
+
+00:55:34.000 --> 00:55:39.000
+more important thing is not the solution, but the questions to it.
+
+00:55:39.000 --> 00:55:57.000
+So so then, of course, you've probably heard of dows, and what you're talking about is kind of like a dow too. and Grace would be a good person to talk to about raising money so she's raising
+
+00:55:57.000 --> 00:56:08.000
+money essentially to like promise to investors is more or less you're going to help fund the commits.
+
+00:56:08.000 --> 00:56:12.000
+And what do I get from that? Well, the capitol funded that's a good thing, right?
+
+00:56:12.000 --> 00:56:20.000
+What is that? A metaphor is that like a literal Kabuz?
+
+00:56:20.000 --> 00:56:32.000
+Maybe kind of both i'm I just just you know like I I my parents were hippies, and like I grew up in this like really slightly dysfunction.
+
+00:56:32.000 --> 00:56:37.000
+But really fun, like really enjoyable community of like draft dodgers.
+
+00:56:37.000 --> 00:56:55.000
+And you know you know, do wells, you know, artists and whatever and like. and I was sort of pulled out of that community very tight community, actually into like public schools and dragged around like school after school, school, by my dad and I have this.
+
+00:56:55.000 --> 00:57:05.000
+like, you know. nostalgic yearning for community and like you know. Yeah, there's a whole lot of the project that i'm interested that I've been iding around around that.
+
+00:57:05.000 --> 00:57:09.000
+But i'm getting another time for what it's worth she did not use that word.
+
+00:57:09.000 --> 00:57:13.000
+I've invented the word into use for what she's thinking of doing.
+
+00:57:13.000 --> 00:57:20.000
+But it actually kind of fits
+
+00:57:20.000 --> 00:57:30.000
+Funding. have you heard of mark tain I don't like hmm.
+
+00:57:30.000 --> 00:57:47.000
+I don't know how I can get you in touch with them, but he's he's trying to an ai that makes money off the stock market, and then use that to fund cool projects like just like put a poke a hole
+
+00:57:47.000 --> 00:57:50.000
+in the beast, and then, like hook it up to like good things.
+
+00:57:50.000 --> 00:58:02.000
+Yeah, I I highly recommend you who who is that from Jonathan.
+
+00:58:02.000 --> 00:58:16.000
+I didn't mark Kane k a n e he has a thing called Oh, well, old age!
+
+00:58:16.000 --> 00:58:22.000
+Oh, fintech it! and there already is another thin tag out there.
+
+00:58:22.000 --> 00:58:28.000
+So I thought that was like a category of tech.
+
+00:58:28.000 --> 00:58:35.000
+But yeah, yeah, I may have. I may have misunderstood his naming convention.
+
+00:58:35.000 --> 00:59:02.000
+Okay, but He claims that investors. can receive 200 X and people who you'd have to talk with him about the details. but it's it's well, I think it's a real thing.
+
+00:59:02.000 --> 00:59:05.000
+There are also, I mean, there are a lot of structures.
+
+00:59:05.000 --> 00:59:15.000
+That, you know, involve a for profit that is owned by a nonprofit.
+
+00:59:15.000 --> 00:59:38.000
+And they're like co-ops that are that when you set a third or third, there are co-ops which can be for profit and can be governed by some combination of member users and
+
+00:59:38.000 --> 00:59:47.000
+and then have board, you know. There, there there are a lot of things very much like what you're talking about.
+
+00:59:47.000 --> 00:59:52.000
+I'm. i'm I just finished this course by it was funded by the A. A. Rp.
+
+00:59:52.000 --> 00:59:57.000
+It's like startup dot co-op or something like that I thought, Yeah.
+
+00:59:57.000 --> 01:00:02.000
+But anyway, start co-op, and I just took their quarters shows you I wasn't totally paying attention.
+
+01:00:02.000 --> 01:00:06.000
+But and they have an incubator and i'm a big fan of co-op.
+
+01:00:06.000 --> 01:00:12.000
+I feel like, for every essential human need, there should never be a for profit.
+
+01:00:12.000 --> 01:00:15.000
+It should always be a co-op. I mean cops can be for profit.
+
+01:00:15.000 --> 01:00:21.000
+But you know, but it should be a co-op that runs it, you know.
+
+01:00:21.000 --> 01:00:24.000
+And so i'm i'm interested in that and I feel like this.
+
+01:00:24.000 --> 01:00:37.000
+Software would be a great service to cops where there's already a democratic body or process, or you know the governance is is somehow democratically organized as well.
+
+01:00:37.000 --> 01:00:44.000
+So yeah, you might also want to join. I mean, you may already know about this.
+
+01:00:44.000 --> 01:00:57.000
+But if you are in the Csc. matter, most there's a channel for the collaborative technology along which yeah, yeah, high low.
+
+01:00:57.000 --> 01:01:11.000
+And I mean everybody everybody here just about has been at a Cta meeting at one time or another, and it's basically a group of people who were all doing you know what what we're doing.
+
+01:01:11.000 --> 01:01:19.000
+I mean it, you know it's it's a constant thing of we we actually had a very literal discussion.
+
+01:01:19.000 --> 01:01:39.000
+At the last meeting, which I think among us I might have been the only one at which was tibet from high low was saying, that's great.
+
+01:01:39.000 --> 01:01:46.000
+Yeah, was saying. Oh, you know we're talking with zebras unite, which is, you know I know them?
+
+01:01:46.000 --> 01:01:51.000
+Yeah i'm a member of that and we're talking about.
+
+01:01:51.000 --> 01:02:12.000
+They're we're we're talking to them about using high low instead of mighty networks, which is the commercial platform that they're using now and and and we were talking about like basically okay, let's let's be
+
+01:02:12.000 --> 01:02:29.000
+candid about the reaction of everybody in this meeting to the news that that's happening and doesn't it feel a little bit like, Oh, I wish that had been my platform. And how do we make it so that we create some co-op of
+
+01:02:29.000 --> 01:02:39.000
+co-ops or co-op of our entities, so that any like positive development for any, any one of us is a good thing for all of us.
+
+01:02:39.000 --> 01:02:49.000
+And so the financial incentives, even even among you know it's like you, come from a world of Ngos, which we were working with a lot.
+
+01:02:49.000 --> 01:02:52.000
+The ngos compete with each other it's it's not.
+
+01:02:52.000 --> 01:03:00.000
+It's not all about you know whether it's for profit or of course it's much worse. if you're in a four-profit winner. Take all situation.
+
+01:03:00.000 --> 01:03:08.000
+But you know, cooperation between nonprofits because they're competing for funding from the same foundations.
+
+01:03:08.000 --> 01:03:14.000
+And and the same public is can be kind of cut throat.
+
+01:03:14.000 --> 01:03:23.000
+And how do you set up the the economies that like make us?
+
+01:03:23.000 --> 01:03:42.000
+You know we we we all talk about the idea that we should be interoperable, and and you know, and and and work together, and that that's the way to scale rather than one of us, you know catching lightning in a
+
+01:03:42.000 --> 01:03:47.000
+bottle, and being the thing that you know does a tick talk to.
+
+01:03:47.000 --> 01:04:03.000
+You know, Facebook, and Instagram, and Youtube as opposed to us all, rising as a as a web of of interoperable platforms.
+
+01:04:03.000 --> 01:04:17.000
+I think ridiculous competition is. how many different remote meeting software store, and how many different chat system, sir.
+
+01:04:17.000 --> 01:04:22.000
+And I have I don't know 5 or 6 of them constantly running.
+
+01:04:22.000 --> 01:04:37.000
+And I often miss things respond to have a date so there's There's there's there's there's these like, I think about this a lot in biological terms anyway.
+
+01:04:37.000 --> 01:04:53.000
+Practices a doctor for 12 years, saying always in kind of biology mind but like there's there's this ben there's the benefit to competition.
+
+01:04:53.000 --> 01:05:13.000
+And then there's like the downside of it right and like But the thing is that we're kind of like getting to the point where we have to coordinate past our biological tendencies a little like a little bit you
+
+01:05:13.000 --> 01:05:26.000
+know like like my son. loves fortnite you know, and I've been playing this shooting game, right, and it's just like you know it. it.
+
+01:05:26.000 --> 01:05:32.000
+It instills the worst, because you land on this place. You just destroy everything you can with a pickaxe.
+
+01:05:32.000 --> 01:05:39.000
+Shoot everybody you can see you Try and get all the stuff you know, and it's just like no regard for anything.
+
+01:05:39.000 --> 01:05:46.000
+But it's really fun, it's really fun and why is it so fucking fun?
+
+01:05:46.000 --> 01:05:54.000
+Why it's the same reason, sweet taste good because it was of benefit to our animal ancestor animal ourselves.
+
+01:05:54.000 --> 01:06:03.000
+Our Dna, you know, but at some point like to do that, to just go in and take what we could and and like, you know, shoot it.
+
+01:06:03.000 --> 01:06:11.000
+Anybody that you know disagreed with us and whatever but like we just have to coordinate. We have to learn how to coordinate at another level.
+
+01:06:11.000 --> 01:06:16.000
+And it'd be great if we could figure out how to do that here.
+
+01:06:16.000 --> 01:06:21.000
+I mean here we're a bunch of people. you know trying to drink the cooling. We're all sitting around the Coulomb.
+
+01:06:21.000 --> 01:06:24.000
+We should be drinking, you know, like or how do we drink this stuff.
+
+01:06:24.000 --> 01:06:29.000
+You know we're like I mean yeah I mean it'd be great.
+
+01:06:29.000 --> 01:06:33.000
+It would be really great for us to figure that I think wendy. You're like, you know.
+
+01:06:33.000 --> 01:06:48.000
+You're explicitly like you know the kool-aid vendor, you know of like coordination in this group, I would say, i'm actually trying to come up with a brand new drink, and see if we can all like put
+
+01:06:48.000 --> 01:06:51.000
+in the ingredients, so that we have something even better.
+
+01:06:51.000 --> 01:07:02.000
+Yeah, please. Well, I mean, I can just say like you know, I would prefer, you know I prefer a smaller piece of a bigger pie, you know.
+
+01:07:02.000 --> 01:07:09.000
+The problem, though, is, of course, coordination like we all we're all like, you know, visionary.
+
+01:07:09.000 --> 01:07:16.000
+You know. idea. People who are, you know, have, you know? it might be hard to coordinate like it.
+
+01:07:16.000 --> 01:07:24.000
+And you know, and we might you know otherwise we're gonna try to just out platform each other, or whatever you know like.
+
+01:07:24.000 --> 01:07:42.000
+Why, and why should we do that like But but then, then again, the process of like hurting the cats into, you know, like something that could be like easy to use, useful like, Maybe not all of these things will fit into something You know they
+
+01:07:42.000 --> 01:07:49.000
+might, all the parts might not fit together. Maybe maybe they will, you know.
+
+01:07:49.000 --> 01:08:02.000
+Maybe they would. But what what would it look like I mean it's It's a it's a challenge, and and it would, I think, probably part of the problem that you guys are facing I can imagine is that you know we only have so much gray matter here we only have
+
+01:08:02.000 --> 01:08:16.000
+so much attention. We can only focus and we're all focusing on our own thing like i'm i'm like such a cognitive nicer these days, because i'm really trying to get this thing to work and and then for me to
+
+01:08:16.000 --> 01:08:23.000
+go. Okay, let's put that aside and like let's think about like 6 other parts, And how do those fit together?
+
+01:08:23.000 --> 01:08:29.000
+And how are we gonna like that's like you're too big Ask like you're asking me to like you know.
+
+01:08:29.000 --> 01:08:36.000
+Put down the weapon, you know, like Go put out my hand and you know more than that, like you know.
+
+01:08:36.000 --> 01:08:50.000
+It's like Yeah, invest you're asking me to invest in something that sort of feels like it's against my interests in some way, you know.
+
+01:08:50.000 --> 01:09:11.000
+And yes, if I can interject I I I think one of the keys is that we try to figure out a way that we can come at this, and I and I think in in many ways we have with with specialization in the things that we
+
+01:09:11.000 --> 01:09:37.000
+each want to focus on. I mean, if you think about the distribution of information and the form of you know, books, documents, Mp: threes, video files, you know, newspapers, email that all basically have common formats that come into
+
+01:09:37.000 --> 01:09:47.000
+somebody's home and transpose that into a digital space where you think about
+
+01:09:47.000 --> 01:10:03.000
+Okay, i'm gonna I have an idea for the way that people who are responding to disasters might want to utilize that.
+
+01:10:03.000 --> 01:10:21.000
+That stuff and organize it. it's sort of like and and and somebody else is like, I have an idea about how people who are just making governance decisions might wanna do that and I have an idea about people who are wanting to
+
+01:10:21.000 --> 01:10:26.000
+collect old artifacts might want to do that.
+
+01:10:26.000 --> 01:10:34.000
+People who are working with regenerative agriculture, etc., etc. And just like our homes are different and personalized.
+
+01:10:34.000 --> 01:10:49.000
+And we might say, Okay, I want to. have you know an apartment in a big space with a bunch of other people, and we're gonna share the this facility in that. And this other person wants to do this other thing and like I want
+
+01:10:49.000 --> 01:11:01.000
+to be stylistically this way, that these kinds of lenses that you can switch between on the same building blocks.
+
+01:11:01.000 --> 01:11:04.000
+And that this you know we're we're Pete you know.
+
+01:11:04.000 --> 01:11:08.000
+Takes things down to the level of. You know this is a markdown file.
+
+01:11:08.000 --> 01:11:21.000
+It looks this way. here seems on point to me about like, how do we all agree on the formats in which we can exchange things?
+
+01:11:21.000 --> 01:11:27.000
+The way that email or or image viewing has come to be like you know nobody.
+
+01:11:27.000 --> 01:11:42.000
+It doesn't, if you use like if you have your photos in Hi Cloud, or you have your photos, you know on your hard drive, or whatever it doesn't mean that you can't take one from the other and look at it and
+
+01:11:42.000 --> 01:11:52.000
+you can't decide. Oh, I think i'm gonna move to you know, to Google for this and whatever I mean it's not It's not a silo.
+
+01:11:52.000 --> 01:12:09.000
+It is a silo. They are competitors but it's not siloed in the same way, and you know figuring out ways that we can work together to provide different lenses even simultaneously on the same stuff like Oh, you know i'd really
+
+01:12:09.000 --> 01:12:15.000
+like to look at this as you know, a massive wiki or a factor stream, or you know what.
+
+01:12:15.000 --> 01:12:38.000
+How would this on an a mirror board or you know that that let us compete in in certain ways, but that aren't winter take all there are, and that aren't and anti-interoperational right
+
+01:12:38.000 --> 01:12:54.000
+right. the good the good form of competition. I I would like to comment on your point, Sam, that why don't we coordinate better?
+
+01:12:54.000 --> 01:13:01.000
+And why Can't groups that are doing the same thing just murder?
+
+01:13:01.000 --> 01:13:14.000
+And my experience as a guy trying to merge here and there and everywhere, is that sometimes the chemistry is right, and sometimes today.
+
+01:13:14.000 --> 01:13:22.000
+And unfortunately that seems to be the prevailing factor.
+
+01:13:22.000 --> 01:13:35.000
+So I do a whole bunch of work thinking this will really help the people, and it's ignore or i'm told it's not time for that yet.
+
+01:13:35.000 --> 01:13:54.000
+So v natural inclination that I have to hey? i'll i'll go underneath what you're doing and support you, and help you lift it up, and the thing i'm lifting is not part of what they're
+
+01:13:54.000 --> 01:14:13.000
+building, so that's my bad I didn't learn what their timeframe is, or I didn't learn what they're trying to do, and that leads to those descriptions don't often don't exist
+
+01:14:13.000 --> 01:14:18.000
+descriptions what we're trying to do what we're building.
+
+01:14:18.000 --> 01:14:23.000
+Now what exists here? I see right it's not codified.
+
+01:14:23.000 --> 01:14:27.000
+We haven't codified it. Yes, not decided upon
+
+01:14:27.000 --> 01:14:46.000
+I know a software that can help with that. I love the idea of a needs driven organization that needs driven world. the idea being the well think of advertising.
+
+01:14:46.000 --> 01:14:51.000
+You see a truck with a beautiful babe. Sorry, Wendy.
+
+01:14:51.000 --> 01:15:12.000
+And you think Oh, I want the track just because you know it's shiny and reproductive instinct gets engaged, which is very strong, of course, and that creates a need for a truck on top of all my other
+
+01:15:12.000 --> 01:15:29.000
+needs and society isn't built to serve my needs it's built to make money and money generates advertising which generates needs nobody really wants
+
+01:15:29.000 --> 01:15:42.000
+It's, but you know have you ever seen run into nonviolent communication like Yes, one of the needs lists what I mean. But there's no the need it's they they give you funny
+
+01:15:42.000 --> 01:15:50.000
+strategies for needs They don't give you needs like the babe on the track is not a need.
+
+01:15:50.000 --> 01:15:55.000
+It's a funky strategy, you know for like you know connection.
+
+01:15:55.000 --> 01:16:12.000
+And like, you know. Yeah, I I some that up by saying most people don't know what their needs are and as a result they have these unfolding needs which drives their emotions.
+
+01:16:12.000 --> 01:16:18.000
+Those emotions trigger a strategy that does not fill the need.
+
+01:16:18.000 --> 01:16:27.000
+So you know the the upset. The motion is still there.
+
+01:16:27.000 --> 01:16:32.000
+So how alcoholic strength a lot and consumeritis happens.
+
+01:16:32.000 --> 01:16:52.000
+And so if we if we orient towards the needs like the real needs. it might inform the strategies better like. If we're keep an eye on the ball, you know, which is the actual need not the funky strategy and then
+
+01:16:52.000 --> 01:17:00.000
+there's, you know, if let's see right now everybody needs money, and it's all they need.
+
+01:17:00.000 --> 01:17:17.000
+And that's it creates all kinds of problems But if we withdrew that need from everybody's need list, they'd be able to focus on getting their needs met
+
+01:17:17.000 --> 01:17:23.000
+I I wonder, though for me I feel like the the the the problem.
+
+01:17:23.000 --> 01:17:29.000
+So the money is like the the universal exchange media, you know.
+
+01:17:29.000 --> 01:17:34.000
+And if you focus on that, you might do silly things.
+
+01:17:34.000 --> 01:17:40.000
+But if you learn how to focus on the needs, then the you know, we can figure out different exchange media.
+
+01:17:40.000 --> 01:17:49.000
+We can figure out different ways of like you know managing the flow of resources right like It's it's a it's a resource flow thing.
+
+01:17:49.000 --> 01:18:02.000
+But like like we're we're missing the the like we're, you know, my team of our teachers say don't pick up the sesame seed and forget the water mound like we're we're missing
+
+01:18:02.000 --> 01:18:18.000
+the thing like the real thing. which is the needs you know the the real needs for connection, for you know safety for you know long term feeling good about like you know the path we're on, and and we're you know how our future generations
+
+01:18:18.000 --> 01:18:25.000
+are gonna you know what the going to inherit and you know they're all this stuff, all this like real stuff.
+
+01:18:25.000 --> 01:18:31.000
+Yeah. And yeah, we're just focused on the exchange current media and totally ignoring the actual needs.
+
+01:18:31.000 --> 01:18:43.000
+Yeah, I just I guess my point here, is hey? you're totally right.
+
+01:18:43.000 --> 01:18:52.000
+And yes, but people are distracted bye that need for profit.
+
+01:18:52.000 --> 01:18:57.000
+Even if all their needs are met, they still need more money.
+
+01:18:57.000 --> 01:19:13.000
+So that's only one problem among many But I figure if to your statement, if if we focused on our needs and we looked at strategies for getting filled, we'd be better off.
+
+01:19:13.000 --> 01:19:18.000
+And my counterpoint to that is, how are you gonna convince them?
+
+01:19:18.000 --> 01:19:25.000
+And on I I don't know the answer and I Well, I only have one extremely crazy.
+
+01:19:25.000 --> 01:19:29.000
+I should be taken up behind the barn shots.
+
+01:19:29.000 --> 01:19:48.000
+Get rid of money What are we with what What are we replacing with that's the 64 million dollar question like a time bank or something or like What
+
+01:19:48.000 --> 01:19:54.000
+Benefit to anybody increases your wealth if you create it well.
+
+01:19:54.000 --> 01:20:19.000
+But well again, you're talking about some kind of a measure, right right. But instead of basing money on services rendered or or mind from a mountain right, you you do it in terms of benefit to the the world terms, some
+
+01:20:19.000 --> 01:20:29.000
+mining like you could have a currency that's called like I call it regard feel good Yeah, regard Yeah, that's a good one.
+
+01:20:29.000 --> 01:20:47.000
+Yeah like, I say, drag me up behind the barn yeah That's that's not a bad idea at all. Jonathan having an exchange.
+
+01:20:47.000 --> 01:20:59.000
+Economy is is kind of the problem yeah it's it's so hard to like It's it's this thing of exchange is integral, though it's like it's in biology.
+
+01:20:59.000 --> 01:21:03.000
+It's like you know. glucose you know the universal fuel, you know.
+
+01:21:03.000 --> 01:21:06.000
+You get too much of it. You get diabetes you know you don't get enough.
+
+01:21:06.000 --> 01:21:10.000
+You die, You know it's like how do you how do you How do you?
+
+01:21:10.000 --> 01:21:21.000
+How do you manage the exchange? of energy you know of of of of how do you coordinate work without someone's? Here's Here's your bread?
+
+01:21:21.000 --> 01:21:27.000
+You know. here's your salt for the day you know like yeah, it's it's yep, it's a time.
+
+01:21:27.000 --> 01:21:32.000
+It's a tough nut to crack that's exactly what i'm experiencing.
+
+01:21:32.000 --> 01:21:44.000
+They're all kinds of problems with a regard based economy. I I want people who are smarter than me to help.
+
+01:21:44.000 --> 01:21:49.000
+I I just I I would I Yeah, I would love to see that problem solved.
+
+01:21:49.000 --> 01:22:13.000
+Also I I feel like maybe it can be solved like other ways like maybe the the exchange medium can like become something that's secondary to the the coordination practice of coordination that's happening like it can be
+
+01:22:13.000 --> 01:22:18.000
+like operating it could be managed as as as a a substrate.
+
+01:22:18.000 --> 01:22:28.000
+That's not the focus anymore, you know, somehow but it's still like there's some way of saying, Okay, you did you know you you did a lot of work, you or you you know.
+
+01:22:28.000 --> 01:22:36.000
+You contributed, and you made a difference here. You did this, you know you, you know you dug the ditch, or whatever you know like that this exchange happens.
+
+01:22:36.000 --> 01:22:45.000
+But but that somehow we transcend the focus on that thing we're getting pretty physical software.
+
+01:22:45.000 --> 01:22:53.000
+But I it it is about that it's ultimately about what you're saying yep there's time bank issues.
+
+01:22:53.000 --> 01:23:01.000
+There's. What's that time to go when Wendy's leaving Yep I don't have to go soon, too.
+
+01:23:01.000 --> 01:23:09.000
+But I was going to I was gonna suggest, or at well first ask, Have you read the dawn of everything?
+
+01:23:09.000 --> 01:23:16.000
+I am reading it. I I was gonna and and sam too. just in terms of sauce.
+
+01:23:16.000 --> 01:23:33.000
+It's awesome yeah, and and your thoughts about the necessity of money and and different media of exchange kick in the ass.
+
+01:23:33.000 --> 01:23:45.000
+And look at examples of societal structures yeah it's an ioener very valuable eye opener.
+
+01:23:45.000 --> 01:23:51.000
+Interesting. Yeah, i'll check it out
+
+01:23:51.000 --> 01:23:57.000
+I I I guess it's it's 1130 pm here, so I should probably get jump off to you.
+
+01:23:57.000 --> 01:24:03.000
+But i'm in amsterdam Netherlands cool cool.
+
+01:24:03.000 --> 01:24:09.000
+I still wanted to do one on one with you. Man, how do I do that?
+
+01:24:09.000 --> 01:24:18.000
+I have like a link where you can look at my account And do you just link on the with that, although there's been problems with that Sp.
+
+01:24:18.000 --> 01:24:38.000
+Will a test, or you just just ping me wherever the pinging is happening, and i'll send you my email you guys wanna set up something right now not in there.
+
+01:24:38.000 --> 01:24:41.000
+Do you know how to add a hack amid in the heck of do?
+
+01:24:41.000 --> 01:24:47.000
+I'll put it in there. I don't care i've got a jump great to meet you.
+
+01:24:47.000 --> 01:25:04.000
+Nice to look to talk to you share my my experiences, and maybe of use sounds like we've had some a little bit of a similar path.
+
+01:25:04.000 --> 01:25:10.000
+And it's good i'm looking forward to it nice to meet everybody. Oh, i'll put my hab like a scheduler.
+
+01:25:10.000 --> 01:25:25.000
+Yeah, I can't vouch, to it's I wouldn't recommend it right? i'm sorry we didn't connect earlier today, yeah, even though I I think we're due to meeting 28 min But
+
+01:25:25.000 --> 01:25:31.000
+Yeah, maybe not. Yeah. But I sent you an email with the emails I got.
+
+01:25:31.000 --> 01:25:35.000
+You might want to look at them. Okay, okay, I don't know if that'll help or not.
+
+01:25:35.000 --> 01:25:40.000
+But it might Yeah. might help me figure out why it's not working correctly.
+
+01:25:40.000 --> 01:25:56.000
+So I put together a list. So one of the things that catalyst does is lets you create like a collection like a curated collection of different objects.
+
+01:25:56.000 --> 01:26:02.000
+So I made this one after hearing like talking about like How do we actually create, like the right structure for new startups.
+
+01:26:02.000 --> 01:26:06.000
+And it's funny because I put I was like putting in zebras.
+
+01:26:06.000 --> 01:26:12.000
+United and the start co-op, and then those are mentioned in the call, like a few minutes after I put them in here.
+
+01:26:12.000 --> 01:26:22.000
+And I was like game. It beat me to it slicing my I put exit community, which is an interesting concept.
+
+01:26:22.000 --> 01:26:29.000
+If you haven't heard of it I I know of it. Yeah, I do like it. Where you you re buy the equity of the yeah Yeah. Yeah. platform.
+
+01:26:29.000 --> 01:26:33.000
+Dot co-op is also a pretty good looked into them.
+
+01:26:33.000 --> 01:26:48.000
+Yeah, for sure anyways, i'll share this with you in case you want to help it out in the hack, I need to do more of this like all of my stuff is in random like up city and documents and stuff.
+
+01:26:48.000 --> 01:26:53.000
+and it seems like a nice way to kind of group.
+
+01:26:53.000 --> 01:26:59.000
+Oh, I want to align the concepts So Hmm.
+
+01:26:59.000 --> 01:27:02.000
+Okay, for what's worth the way that we use the Hackham D.
+
+01:27:02.000 --> 01:27:09.000
+Is to write on it and then move it all into an obsidian, which will then get published to the web.
+
+01:27:09.000 --> 01:27:11.000
+Okay, so we don't usually keep stuff on an on a Hackham.
+
+01:27:11.000 --> 01:27:16.000
+Do you like this? What web will you put this on?
+
+01:27:16.000 --> 01:27:24.000
+I will leave it here for a while. The flotilla notes go into the flotilla.
+
+01:27:24.000 --> 01:27:28.000
+Wiki which doesn't get published to the web unlike most of them.
+
+01:27:28.000 --> 01:27:41.000
+It just ends up accumulating in github We don't have a web front end to it. i'm but I really want i'm like there's a part.
+
+01:27:41.000 --> 01:27:48.000
+Of me that's really rooting for figuring out how to integrate all this stuff. I don't know what it would look like.
+
+01:27:48.000 --> 01:27:54.000
+Yeah, but I think like Wow, be interesting. that's my area of expertise.
+
+01:27:54.000 --> 01:28:12.000
+By the way, Okay, and how to navigate it I think I think it's a very hard problem. it's. It's not my area of expertise. I designed that whole Web the whole Forb thing like I design the whole
+
+01:28:12.000 --> 01:28:23.000
+thing you can tell it's not me I mean I I borrowed some ideas from people I had somebody do some design very at the very beginning, and then it just morphed and you know I just ran by it but anyway.
+
+01:28:23.000 --> 01:28:29.000
+So i'd be very happy to to hear your take on things very, very, and we had to do that.
+
+01:28:29.000 --> 01:28:42.000
+So that's something. I do Okay,
+

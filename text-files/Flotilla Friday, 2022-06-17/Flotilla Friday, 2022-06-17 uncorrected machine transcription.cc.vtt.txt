@@ -1,0 +1,821 @@
+WEBVTT
+
+00:00:07.000 --> 00:00:17.000
+This is a flotilla. friday for june seventeenth, 22 we've been talking about some other stuff and not not recorded. You didn't miss much.
+
+00:00:17.000 --> 00:00:29.000
+Don't worry about it and now we wanted to talk about shared profiles or user editable profiles is another way to think of, or personally added more profiles.
+
+00:00:29.000 --> 00:00:39.000
+And Michael's got some thoughts you muted Michael
+
+00:00:39.000 --> 00:01:06.000
+My half formed thought. and it's really more of a question is, if they're is a way for self-edited Google, Doc simple or or text edit document simple, whatever whatever whatever individual that you know ideally might have some
+
+00:01:06.000 --> 00:01:17.000
+links in it, or something, and ideally might follow a little bit pattern of what information you are asked to provide.
+
+00:01:17.000 --> 00:01:41.000
+Could live in shared drive and then drawn on into air table, but with with consent. You know offered by on on on a group basis, you know, like you were like saying, here's here's our group, the flotilla
+
+00:01:41.000 --> 00:01:49.000
+group as a collection of profiles and part of our agreement about You know what happens to those profiles are going to allow them.
+
+00:01:49.000 --> 00:01:55.000
+It would be in the air table. That map weavers is doing so, you know.
+
+00:01:55.000 --> 00:02:09.000
+Cool with that, If you're gonna put your info in here but i'm i'm throwing that out as as a lots of possible centralized and more centralized answers, let me let me go first and then i'm sure
+
+00:02:09.000 --> 00:02:15.000
+Vincent is thought through this bunch, too. the the way i've been wanting to do this for a while.
+
+00:02:15.000 --> 00:02:30.000
+Let me show you. let me show you something that i've been working on or used to work on
+
+00:02:30.000 --> 00:02:37.000
+By the way, just to throw this out there. in in a conversation with Jordan.
+
+00:02:37.000 --> 00:02:55.000
+One of the things that came up was his desire understandably that there'd be a, you know, type form on a Lionsburg site that just you know you fill in some basic info and your order you're in that
+
+00:02:55.000 --> 00:03:02.000
+database. so the let me I I won't share right away.
+
+00:03:02.000 --> 00:03:06.000
+Let me also like bringing up Lionsberg like that.
+
+00:03:06.000 --> 00:03:14.000
+Reminds me that another another idea that you've got is that name tag thing, and I've I've thought to the technical part of that.
+
+00:03:14.000 --> 00:03:19.000
+Not the sociological part of it. i've been thinking through the technical part of that.
+
+00:03:19.000 --> 00:03:23.000
+They do that. So in an email address, one of the things you want is to make it globally unique.
+
+00:03:23.000 --> 00:03:27.000
+So an easy way to do that is to make an email address
+
+00:03:27.000 --> 00:03:34.000
+And then email addresses are well protected, reasonably well protected, you know I can.
+
+00:03:34.000 --> 00:03:41.000
+I I own my email address, you on your email address and it's hard for other people to pretend to own it.
+
+00:03:41.000 --> 00:03:52.000
+It turns out matrix matrix kind of has a couple things.
+
+00:03:52.000 --> 00:03:59.000
+Their user. Ids are something like at Peter Comminsky Colon, and then a server name.
+
+00:03:59.000 --> 00:04:02.000
+So multiple people can be computer convincing around the world.
+
+00:04:02.000 --> 00:04:08.000
+But only I can be at Peter Kaminsky at out a particular server, right?
+
+00:04:08.000 --> 00:04:12.000
+It might be matrix. Dot org is the is the the big server.
+
+00:04:12.000 --> 00:04:23.000
+But there could be a Csc. matrix. There could be a Lionsburg matrix, so I think, like a a way to do it, and a pretty good way to do it for lots of technical reasons.
+
+00:04:23.000 --> 00:04:35.000
+Would be to use matrix for Lionsberg to have a matrix server, and then for the name tag to be at Peter Kaminski, Colon Winesburg.
+
+00:04:35.000 --> 00:04:46.000
+So so we should come back to name tags, and and why you want how you situated, and all that kind of stuff.
+
+00:04:46.000 --> 00:04:50.000
+The the thing that I want with the profile is
+
+00:04:50.000 --> 00:05:00.000
+I can edit my profile. I can host my profile wherever I want, and aggregators come and pick it up.
+
+00:05:00.000 --> 00:05:09.000
+So maybe it's on a Google doc maybe it's in a massive wiki that gets shoved to the web.
+
+00:05:09.000 --> 00:05:16.000
+And you know I I will agree to make it in kind of a standard format.
+
+00:05:16.000 --> 00:05:23.000
+And then the aggregators will agree to grab it, you know.
+
+00:05:23.000 --> 00:05:30.000
+Often every day, every week. something like that so if I change it the aggregators will pick it up and put it in their in their meeting directories.
+
+00:05:30.000 --> 00:05:43.000
+That's kind of my base thing. the the thing After that. Would that would be really nice is for me to put some hashtags or something Hashtags flotilla project hashtag Meta project has to have massive
+
+00:05:43.000 --> 00:05:50.000
+wiki, so that when you suck, when an aggregator sucks it up you know they they they can attach me to those projects.
+
+00:05:50.000 --> 00:05:55.000
+Maybe also having some visibility stuff, you know I want to be listed in flotilla project.
+
+00:05:55.000 --> 00:06:00.000
+I don't want to be listed in the general directory of you know.
+
+00:06:00.000 --> 00:06:02.000
+All the people with these kind of directies on the whole web. right?
+
+00:06:02.000 --> 00:06:07.000
+I I want to be kind of unlisted, or I definitely do not want to be part of.
+
+00:06:07.000 --> 00:06:13.000
+You know Hashtag Mega, you know. Never put me in in that group, you know.
+
+00:06:13.000 --> 00:06:16.000
+I'm not there, even though you can skate my information if I show up there.
+
+00:06:16.000 --> 00:06:32.000
+I'm gonna be really really unhappy So I I have a a kind of a rough spec. So now let me do a little bit of show and tell
+
+00:06:32.000 --> 00:06:35.000
+This is a couple of years old, and I haven't really been working on it since then.
+
+00:06:35.000 --> 00:06:46.000
+It's it's not totally doesn't totally work but I like the idea stall this is something that I called Q A.
+
+00:06:46.000 --> 00:07:04.000
+And the idea was that instead of making people maintain a yaml file or a Json file, or anything like that, what you ask them to do is to maintain a text file with questions and answers and I played around with
+
+00:07:04.000 --> 00:07:08.000
+numbering the questions, and not numbering the questions and yada it doesn't matter too much.
+
+00:07:08.000 --> 00:07:15.000
+I I never tested this with real people and i'm pretty sure it would break
+
+00:07:15.000 --> 00:07:26.000
+But the idea is this this is literally the the template. I've started filling this one in right this is an answer.
+
+00:07:26.000 --> 00:07:36.000
+This is an example. This is an answer, these ones aren't answered. But if I can give this template to you and you go okay.
+
+00:07:36.000 --> 00:07:42.000
+Looks looks reasonable. I I can work with us, you know.
+
+00:07:42.000 --> 00:07:46.000
+It turns out that this isn't true anymore. so maybe i'll change this and my copy of it.
+
+00:07:46.000 --> 00:07:54.000
+I have to the the system would have to ask people please don't change this.
+
+00:07:54.000 --> 00:07:58.000
+You know, change whatever you want and the answer. But please do not change that.
+
+00:07:58.000 --> 00:08:12.000
+So then the idea of this is that this questionnaire has an Id number and then the parsers go.
+
+00:08:12.000 --> 00:08:17.000
+Okay, I. If if I find this, Id and A. Q. A.
+
+00:08:17.000 --> 00:08:25.000
+Template in my library. i've got these questions so I know that I can parse all of this.
+
+00:08:25.000 --> 00:08:31.000
+This is a question, and whatever it comes after it, whatever the users type, there is the answer.
+
+00:08:31.000 --> 00:08:37.000
+This is a question, and this is the answer to it. and so the the parser goes.
+
+00:08:37.000 --> 00:08:41.000
+You know, mapped this question. Whatever is answered by this question.
+
+00:08:41.000 --> 00:08:52.000
+Map that into there'll be a template on the in the library that says that this template matches this schema.
+
+00:08:52.000 --> 00:08:55.000
+So this is actually a field called full underscore name.
+
+00:08:55.000 --> 00:09:03.000
+This is actually a field called email underscore address.
+
+00:09:03.000 --> 00:09:07.000
+This is, you know, a schema field called Geo.
+
+00:09:07.000 --> 00:09:21.000
+Underscore location, or whatever. right? So I can take this normal thing for people to do and turn it into totally computer, understandable.
+
+00:09:21.000 --> 00:09:29.000
+As long as we can have everybody agree not to mess up the questions too much.
+
+00:09:29.000 --> 00:09:41.000
+I think you could actually fuzzy match. these you know if somebody said I don't like that that comma there, or you know, they misspelled state, or whatever there there could maybe be some fuzzy matching
+
+00:09:41.000 --> 00:09:45.000
+people are gonna want province in that space. Yeah.
+
+00:09:45.000 --> 00:09:51.000
+Yeah, you might. You might do something like when when somebody edits that.
+
+00:09:51.000 --> 00:09:56.000
+You might. You might, if you find it an email and address in there.
+
+00:09:56.000 --> 00:09:59.000
+You might send her an email, hey? It looks like you didn't follow the format.
+
+00:09:59.000 --> 00:10:05.000
+Did you mean you know this? or can you talk to the the form?
+
+00:10:05.000 --> 00:10:13.000
+Maintainer and ask them to publish a new form, or you know, whatever
+
+00:10:13.000 --> 00:10:19.000
+So this So the good news is, Anybody can do this.
+
+00:10:19.000 --> 00:10:29.000
+You can also have a an email system that you know, if you just send me an email to the right email address, you know the the the parser also lives at an email address.
+
+00:10:29.000 --> 00:10:40.000
+You know the parser you you tell the parser here's where I am right, and you tell it a Google drive or you send it emails once in a while or you tell it a dropbox or you know you tell
+
+00:10:40.000 --> 00:10:49.000
+it a catalyst page, or whatever, and it knows to regularly go out and find that stuff and and upload it, and syndicate it.
+
+00:10:49.000 --> 00:11:01.000
+So that's that's kind of where that's what I've been wanting to do
+
+00:11:01.000 --> 00:11:12.000
+Like that. What do you think? What do you think about catalyst? How does this kind of list and map We just do this
+
+00:11:12.000 --> 00:11:27.000
+I love the Q. A. approach. I feel like we haven't talked about it in a little while piece. but feel like work that we're doing with map weavers right now.
+
+00:11:27.000 --> 00:11:33.000
+I feel like It's reached the point where the like structured way that catalyst does.
+
+00:11:33.000 --> 00:11:43.000
+It has been progressively getting more and more unstructured and flexible to the point where now it's kind of like knocking on that knocking on Q a's door. be like hey?
+
+00:11:43.000 --> 00:11:55.000
+I feel like we're getting close because the the last thing that we were talking about was, and what we're gonna be doing next week is like creating the project form.
+
+00:11:55.000 --> 00:12:16.000
+And the different questions for that project form can either be one of the like preset fields and the the list of fields that already exists in the air table.
+
+00:12:16.000 --> 00:12:20.000
+I shared last week. like you know, Audience: location, title description.
+
+00:12:20.000 --> 00:12:24.000
+So I have a startup like 70 questions right now for a project.
+
+00:12:24.000 --> 00:12:30.000
+Or it could be like a custom defined just like texts.
+
+00:12:30.000 --> 00:12:41.000
+Shit to be answered. So I I feel like what we're doing with the products.
+
+00:12:41.000 --> 00:12:55.000
+Form is like pretty closely. could could also be broken out of a form, and then just put into the format you're describing, which is just like a a page like text on a page?
+
+00:12:55.000 --> 00:13:03.000
+And are you saying the tool? did you? Did you build anything that would actually take?
+
+00:13:03.000 --> 00:13:10.000
+And then kind of be able to do the conversion the matching and the confusion into a I guess like a database.
+
+00:13:10.000 --> 00:13:18.000
+It feels like that's the main technical barrier Otherwise it feels like we're kind of already, almost there.
+
+00:13:18.000 --> 00:13:25.000
+Yeah, I don't have any code to do this but it would be easy and fun to write, and isn't the the other thing.
+
+00:13:25.000 --> 00:13:35.000
+By the way, I I didn't the the with q a thing not, you know many people won't some people will just want to fill out a type form.
+
+00:13:35.000 --> 00:13:45.000
+So you know, did you? show it set up as a type form thing. and that gets saved into a place where then other aggregators can pick it up, and that's probably pretty close to Vincent.
+
+00:13:45.000 --> 00:13:52.000
+What You're thinking that's what catalyst or map weavers is is basically set up to do right?
+
+00:13:52.000 --> 00:13:58.000
+Yeah, I see Q. A being a potential other input into the air table.
+
+00:13:58.000 --> 00:14:11.000
+, the air table being the canonical. then I mean , , , needs to be each individual's profile wherever that lives.
+
+00:14:11.000 --> 00:14:21.000
+Right and then, and then so cat maply visual catalyst at a we'll see what Vincent says.
+
+00:14:21.000 --> 00:14:33.000
+But to me mouth we visual catalyst is a is a rollup of all of the canonical information but it's it's as it does that it's one step away from you know the the
+
+00:14:33.000 --> 00:14:48.000
+canonical if you really need to know who I am, maybe you want to find where I source it from, rather than looking at at catalyst or or the mass of wiki representation, or whatever Vincent.
+
+00:14:48.000 --> 00:15:02.000
+I one thing we started as jordan and I were we're talking about stuff in a way catalyst.
+
+00:15:02.000 --> 00:15:08.000
+I I don't know how. do you say it map, map weavers or catalysts is map weavers a catalyst instance, or is not.
+
+00:15:08.000 --> 00:15:11.000
+Weavers a separate thing, or is it I think map?
+
+00:15:11.000 --> 00:15:20.000
+We versus just a community or it's not just but Matt, we primarily ate , the the date, the how about the map?
+
+00:15:20.000 --> 00:15:41.000
+We for is There is is the map weavers data separate from catalyst, or it's not really. it's just a view on the catalyst universe
+
+00:15:41.000 --> 00:15:55.000
+Oh, the The data in the map Weavers air table is
+
+00:15:55.000 --> 00:16:21.000
+To put simply it's it's just data in an air table to to put in more specifically to put it more specifically, it's a combination of data that is directly come from our zoom chats number data that
+
+00:16:21.000 --> 00:16:31.000
+has for profiles that have come from the catalyst like network check-in map, which which was then just kind of like imported into to air table.
+
+00:16:31.000 --> 00:16:43.000
+And then the third source of information primarily has been stuff that Wendy and I have been manually adding in, and I've I've like imported some data sets from Catalyst into that to kind of use some test
+
+00:16:43.000 --> 00:16:50.000
+data, because we don't really have a project we don't really have a project directory.
+
+00:16:50.000 --> 00:17:01.000
+But without the project directory form there was no way of people inputting projects yet, and so I kind of just took some project lists and put it in the Projects field.
+
+00:17:01.000 --> 00:17:10.000
+To be able to like show an example of of some data because when people see an empty, database they're like, what is this?
+
+00:17:10.000 --> 00:17:15.000
+So Yeah, that's that's the specific answer it's a combination of data from a few different places.
+
+00:17:15.000 --> 00:17:21.000
+It's ready to be hooked up with catalyst to do an either one way or 2 as Sync.
+
+00:17:21.000 --> 00:17:35.000
+But it's not The only the only thing that we're doing is sync with catalyst right now is the the tapestry that there's a table called contributions and that is syncing with catalysts right
+
+00:17:35.000 --> 00:17:45.000
+now , Okay, I I think
+
+00:17:45.000 --> 00:17:51.000
+We we should somebody should be the the data steward. right?
+
+00:17:51.000 --> 00:17:55.000
+For that data, and maybe it's map weavers maybe it's catalyst.
+
+00:17:55.000 --> 00:18:08.000
+Maybe it's something else. So somebody should essentially own that air table, and then, you know, and then it gets used on behalf of various things.
+
+00:18:08.000 --> 00:18:23.000
+But and I mean, you know, the the other thing that out of the last meeting seemed like it would be an input to that air table, at least in the Meta projects.
+
+00:18:23.000 --> 00:18:33.000
+Chase was the spreadsheet that was generated from the the skills and fashion waterfall.
+
+00:18:33.000 --> 00:18:47.000
+And the idea that all those things live in in a place where they are stewarded.
+
+00:18:47.000 --> 00:18:57.000
+But but aggregateable, with permission by catalyst, by tapestry, by massive wiki.
+
+00:18:57.000 --> 00:19:06.000
+By, you know I mean it seems like you know there are permissions, issues that we have to.
+
+00:19:06.000 --> 00:19:34.000
+If if if the Meta project, or lions for, or sovereigns related there to are using massive wiki or catalyst, or you know a spreadsheet or tapestry or factor, whatever that they could
+
+00:19:34.000 --> 00:19:48.000
+be . from that aggregating from that which you know catalyst is in the best position to do, because you're doing both, and you're doing it with an eye toward catalyst ability to aggregate it
+
+00:19:48.000 --> 00:19:51.000
+but you ideally would want i'm talking to you Vincent.
+
+00:19:51.000 --> 00:19:59.000
+But, you would want a modification to a pro profile.
+
+00:19:59.000 --> 00:20:17.000
+Information made in by a Dna user, for instance, to be sucked in by the air table and and alter the output in in catalyst.
+
+00:20:17.000 --> 00:20:41.000
+Imagine this scenario. If if that dna user has said, you know a hashtag meta project, you know, and it's related one of the things that I feel like is when it comes to Google drive the limitations of
+
+00:20:41.000 --> 00:20:57.000
+Google drive for doing this sort of like permissioned data sharing in the way we're talking about is that there their social layer isn't deep enough so that this 2 social layers on Google drive are you can share this
+
+00:20:57.000 --> 00:21:01.000
+with emails with, like, you know, one or more people.
+
+00:21:01.000 --> 00:21:14.000
+Or you can share it with an organization which you know That's kind of a recent addition to Google drive as they've added on the business suite like share this with everyone inside of this organization.
+
+00:21:14.000 --> 00:21:31.000
+Google does. So the the way that the file system is set up in Google is different from the way that, like sharing a project within catalyst works, because catalyst has a few additional social layers.
+
+00:21:31.000 --> 00:21:37.000
+So one of those is like this project should be shared with.
+
+00:21:37.000 --> 00:21:52.000
+It should be private to these people, it should be restricted to like one of the groups I own, or I want to share it with, like these other groups or other networks which are comprised of many groups, and then the the third
+
+00:21:52.000 --> 00:21:59.000
+layer is like. I want this information to be then aggregated across different platforms.
+
+00:21:59.000 --> 00:22:10.000
+So you know, being able to say like, okay, a group like a group on another platform is even getting even more detailed than that.
+
+00:22:10.000 --> 00:22:21.000
+But the idea of like saying, I want my product to be hosted here, and then I I want it to be shared onto you know, shared into.
+
+00:22:21.000 --> 00:22:23.000
+I want my profile to be shared it into a different platform entirely.
+
+00:22:23.000 --> 00:22:36.000
+So those are some of the like layers. that I see
+
+00:22:36.000 --> 00:22:47.000
+And when we collect information in like an air table or a Google sheet, often there's some like assumed role of like this is where we want it to like.
+
+00:22:47.000 --> 00:22:53.000
+We want it to be shared within this folder or just like the people that are working on it.
+
+00:22:53.000 --> 00:23:07.000
+And so that's how I see it Why, a lot of this sort of like duplication ends up happening of efforts is because the way that the sort of like platforms like Google are structured it's like you create
+
+00:23:07.000 --> 00:23:20.000
+something, and it's not easy to share it beyond just your organization or a few emails, or or the world which for the world.
+
+00:23:20.000 --> 00:23:29.000
+Yeah, exactly. yeah. there's no like global news feed of like all the public things post on the Google drive.
+
+00:23:29.000 --> 00:23:57.000
+So
+
+00:23:57.000 --> 00:24:08.000
+So vincent we've got we've got well so catalyst has profiles, and can how did How do?
+
+00:24:08.000 --> 00:24:15.000
+If I want to edit my profile on catalyst, how do I do that with my catalyst account?
+
+00:24:15.000 --> 00:24:22.000
+Or yeah, so you would go to Catalyst Dot network.
+
+00:24:22.000 --> 00:24:41.000
+You would sign in, and then you would hit that little profile button, and I did profile. and there are some fields which are all kind of auto binding, so like as you edit it updates automatically
+
+00:24:41.000 --> 00:24:48.000
+And my call at. How do you feel about that? or is that what you want or not?
+
+00:24:48.000 --> 00:24:55.000
+What you want, or I mean this this gets into sort of an age old question.
+
+00:24:55.000 --> 00:25:05.000
+It's just that, you know I that I mean this comes up in the cta all the time.
+
+00:25:05.000 --> 00:25:12.000
+It's just like you know
+
+00:25:12.000 --> 00:25:29.000
+You know, Tibet, is in a full-room position and so stuff that's Cta stuff ends up happening on a high low, and you know the the the idea I mean like Vincent is doing stuff I couldn't even
+
+00:25:29.000 --> 00:25:40.000
+dream of, and and I don't think factor will duplicate but
+
+00:25:40.000 --> 00:25:56.000
+I, you know, as a as a as a very accomplished but still nascent platform, and not the sort of neutral ground that Zoom or Google Docs or Heck and D.
+
+00:25:56.000 --> 00:26:07.000
+Or you know, I mean any of the other matter. most other tools we use making. I mean cattle.
+
+00:26:07.000 --> 00:26:10.000
+It's awesome that catalysts should be the best manifestation.
+
+00:26:10.000 --> 00:26:18.000
+It can possibly be of the information that we're sharing as a group, but that it be the place that people have to join.
+
+00:26:18.000 --> 00:26:22.000
+And you know I meanm sure open impact would have something to say about that.
+
+00:26:22.000 --> 00:26:28.000
+I I just I always I always run into that and
+
+00:26:28.000 --> 00:26:40.000
+Yeah, I I you know that's that's well put I so. so I guess I maybe maybe all of us are saying the same thing.
+
+00:26:40.000 --> 00:26:43.000
+I, The way I feel is that I want I want a a decentralized profile.
+
+00:26:43.000 --> 00:26:49.000
+I don't want to edit profiles in many places i'd rather have a bunch of places pull from my Q. A.
+
+00:26:49.000 --> 00:26:54.000
+Profile, you know, which i'll either host in Google docs or in my email.
+
+00:26:54.000 --> 00:27:00.000
+And you know, drafts folder, or you know, on my website, or whatever right?
+
+00:27:00.000 --> 00:27:05.000
+So
+
+00:27:05.000 --> 00:27:12.000
+So. So I will start a Q. A. project and do some development.
+
+00:27:12.000 --> 00:27:20.000
+And and maybe ask other folks if they wanna help to to start making that a thing.
+
+00:27:20.000 --> 00:27:31.000
+And you know I just wanna insert that part of this is is structural economic systemic.
+
+00:27:31.000 --> 00:27:38.000
+You know, problem where the ways to say, Okay, this is a nonprofit.
+
+00:27:38.000 --> 00:27:43.000
+This is open source. This is a co-op. This is, you know, a public good.
+
+00:27:43.000 --> 00:27:51.000
+Everything. You know the ownership of this thing is in the commons that we don't have ways to do and eat.
+
+00:27:51.000 --> 00:28:11.000
+You know and that's problematic and I like I know that you know that, Vincent, you're in the process of like figuring out what combination of for profit, and nonprofit and you know open source and not you
+
+00:28:11.000 --> 00:28:17.000
+know catalyst, you know catalyst isn't open source. Now, maybe it will be, you know what's protocol.
+
+00:28:17.000 --> 00:28:22.000
+But anybody can use and riff on, you know. just like, if we can.
+
+00:28:22.000 --> 00:28:24.000
+If we can answer those questions which are really difficult to add?
+
+00:28:24.000 --> 00:28:30.000
+Answer, you know, with that that puts different color on it.
+
+00:28:30.000 --> 00:28:40.000
+But for now it seems like we shouldn't specific yeah so just to add one like it's I feel like it's so.
+
+00:28:40.000 --> 00:28:44.000
+It's so hard to give a simple a simple answer for thing.
+
+00:28:44.000 --> 00:28:51.000
+A simple answer is great because it's like not confusing but then it's like it's missing something.
+
+00:28:51.000 --> 00:29:00.000
+And so what what i've been working on yesterday with with Jonathan.
+
+00:29:00.000 --> 00:29:16.000
+Is basically each on on catalyst. each Each person has a profile like you have, like one profile of one account.
+
+00:29:16.000 --> 00:29:28.000
+But then, for each group, that you're a part of you have a different I i'm calling it like a membership like a membership profile.
+
+00:29:28.000 --> 00:29:37.000
+So my main catalyst profile we'll have like my name, my email, like information that you know, will not change very often.
+
+00:29:37.000 --> 00:30:05.000
+But when I join a group, then I have the option to use a different, or use a different email or have a different bio or headshot for that account, or or the member profile within a particular, group so that's, one of the
+
+00:30:05.000 --> 00:30:17.000
+things that will allow a group to say. We wanna keep our directory of members in Air Table or Google sheets or high low.
+
+00:30:17.000 --> 00:30:28.000
+And then there is a protocol for being able to say but we also want to use catalysts, and we don't want to have to read you know.
+
+00:30:28.000 --> 00:30:38.000
+Enter make everyone create a catalyst account. So we just wanna do a one way, sync from air table or or highlight to catalyst for the profile data.
+
+00:30:38.000 --> 00:30:49.000
+And those won't create like global accounts but they will create like a member profile within a group.
+
+00:30:49.000 --> 00:31:05.000
+And so that's that's kind of what i'm working on transitioning towards and with the first step being like doing this from from air table, so the design signed studio is like the first group that we're in
+
+00:31:05.000 --> 00:31:18.000
+the middle of like building this out for but it it's very technically complicated. and and most platforms don't do it because it's just so like it's.
+
+00:31:18.000 --> 00:31:32.000
+So utterly like against the idea of like okay we're gonna try to make a frictionless sign up process because like network effects, and this tool won't be valuable And let's just really simple and easy for people to
+
+00:31:32.000 --> 00:31:50.000
+sign up so it's kind of going against that but I Think it'll be be worth it in the long run.
+
+00:31:50.000 --> 00:32:00.000
+It adds some friction for the like, not for the user, but for the community organizer to be able to say, Okay, we want to choose.
+
+00:32:00.000 --> 00:32:09.000
+This is our our source for the profiles, and then communicate that to our
+
+00:32:09.000 --> 00:32:15.000
+Yeah, like communicating that and making that clear for like for this group. This is how it's gonna work.
+
+00:32:15.000 --> 00:32:27.000
+So, allowing that flexibility is requires like really good kind of communication, I would say, and it requires a little more upfront work on behalf of the like platform owners.
+
+00:32:27.000 --> 00:32:35.000
+Yeah, that's my longer answer to your question Michael about like how to edit, or Pete to how to edit a profile.
+
+00:32:35.000 --> 00:32:44.000
+That's the answer to how to edit the profile If catalyst isn't the primary location of the data
+
+00:32:44.000 --> 00:32:53.000
+I I wonder if you can make it to to add a little bit more complexity and another alert another.
+
+00:32:53.000 --> 00:32:59.000
+Anyway, I it would be nice if I can say pull my data from. hi!
+
+00:32:59.000 --> 00:33:06.000
+Hello or pull my data from this massive wiki, or pull my data via via Q.
+
+00:33:06.000 --> 00:33:13.000
+A you know, over here
+
+00:33:13.000 --> 00:33:25.000
+Right? Yeah, that's so that's exactly the the intention So right now how it'll work for example like, let's say we have a database of profiles in the air table for the meta project and then
+
+00:33:25.000 --> 00:33:34.000
+we decide we wanna have a visualization of those members in a private directory within Lionsburg.
+
+00:33:34.000 --> 00:33:48.000
+So we could import that as members And then if somebody were to go to their member profile and say, actually, I wanna sign up for like a global catalyst account, they can start it from that. data.
+
+00:33:48.000 --> 00:33:58.000
+So they can like click. Turn this membership into a catalyst profile or they can create a cows profile, and then like link it afterwards.
+
+00:33:58.000 --> 00:34:04.000
+So that's the the idea is that yeah like that's the specific example for air table.
+
+00:34:04.000 --> 00:34:10.000
+But the idea being like eventually being able to do that from lots of other sources as well.
+
+00:34:10.000 --> 00:34:14.000
+But I guess I mean I I feel uncomfortable pushing back on this.
+
+00:34:14.000 --> 00:34:38.000
+But you know if from the get go it's it's streamlined for catalyst, but not for other platforms, and and that's I mean, if you know map weavers is treating all other platforms, as equal in
+
+00:34:38.000 --> 00:34:44.000
+its mind, you know, if map we use versus saying, you know you might.
+
+00:34:44.000 --> 00:35:03.000
+Wanna you know. Use your twitter profile to link to this and you might want to use high lower catalyst, or or you know, true or factor, or you know whatever, and we're gonna make those equally easy possible and we're not going
+
+00:35:03.000 --> 00:35:25.000
+to make it possible for catalyst but nothing else I mean I I mean I I sort of it's it's it's a little bit yeah it's it's awkward.
+
+00:35:25.000 --> 00:35:30.000
+So it it especially when we're in bootstrap mode right.
+
+00:35:30.000 --> 00:35:34.000
+One of the one of the principles kind of has to be.
+
+00:35:34.000 --> 00:35:47.000
+You know. I get that. We want to be totally decentralized and stuff like that, and we just have to be practical and use something to start right and and starting with catalyst is fine for for profiles.
+
+00:35:47.000 --> 00:35:56.000
+I think maybe well, I I I wanna push back on that because I feel like in every other circumstance we're saying this might be where we want to be.
+
+00:35:56.000 --> 00:36:14.000
+You know, Heck, Md. Heck, and d and obsidian and air table, and you know, matter most things that are much more established than catalyst is, and don't have any personal interest to any one of us are, things that
+
+00:36:14.000 --> 00:36:19.000
+we aspire to be on, and you know we'd like to pick the open source.
+
+00:36:19.000 --> 00:36:31.000
+You know, nonprofit cooperative decentralized, you know, whatever that is, and we're going with, we're we're biting the bullet and going with something that's more
+
+00:36:31.000 --> 00:36:39.000
+ubiquitous when we choose, instead to use Google docs, or you know, whatever.
+
+00:36:39.000 --> 00:36:48.000
+And catalyst is exactly. Not that it would be like if if one of us had started a Google up Google Docs analog.
+
+00:36:48.000 --> 00:36:56.000
+And we were making everybody you know we weren't developing for the the good of that one.
+
+00:36:56.000 --> 00:37:05.000
+It it's just it it seems wrong and i'm sorry to
+
+00:37:05.000 --> 00:37:12.000
+So sorry I'm sorry sorry what vincent I'd have to run actually
+
+00:37:12.000 --> 00:37:20.000
+So I just wanna say 1 one quick thing to michael's point and then happy to watch watch the rest of the recording.
+
+00:37:20.000 --> 00:37:23.000
+Or do you guys want to go on a different topic that's fine, too.
+
+00:37:23.000 --> 00:37:35.000
+But just to say, like yeah the the kind of assumption that i've been building a lot of like catalysts off of it, like I I've been building with no code tools.
+
+00:37:35.000 --> 00:37:53.000
+And so If if catalyst is able to easily aggregate or like, do a sync with data from air table as like a No code, platform then any experience software development team would be able to like also do it
+
+00:37:53.000 --> 00:37:58.000
+even easier, and so that's kind of like like if if I can make it easy for catalyst.
+
+00:37:58.000 --> 00:38:02.000
+Then it will be easy for other people to That has been kind of like a general.
+
+00:38:02.000 --> 00:38:18.000
+That i've been or assumption i've been working on. So if you guys don't agree with that assumption, then yeah, then I feel like we should continue talking. So then maybe an an easy hack is somebody
+
+00:38:18.000 --> 00:38:32.000
+who's not Vincent is essentially the data steward for an air table that feeds catalyst and a type form is the input form for that
+
+00:38:32.000 --> 00:38:38.000
+That makes sense
+
+00:38:38.000 --> 00:38:43.000
+So, and that's kind of the best of both worlds then we get to use catalyst and all its power.
+
+00:38:43.000 --> 00:38:56.000
+But it's also where we have data sovereignty you know, or somebody somebody on behalf of of Lansbury Meta Project has data sovereignty or is the data stored when you were talking or I didn't
+
+00:38:56.000 --> 00:39:06.000
+want to interrupt. But when you mentioned data, Stewart and you were asking, I was thinking that Math Weavers was probably the right group to be the data stewards.
+
+00:39:06.000 --> 00:39:08.000
+That that was just the thought that I had, which is separate.
+
+00:39:08.000 --> 00:39:22.000
+I I feel like map weavers is a tool sovereign, and I wouldn't want the tool sovereign to be the data steward.
+
+00:39:22.000 --> 00:39:27.000
+So i'd rather have a e you know social dimensions or or something like that. right?
+
+00:39:27.000 --> 00:39:31.000
+The Wisdom Council i'd rather have that be the data stored.
+
+00:39:31.000 --> 00:39:37.000
+Or maybe there needs to be Stewart the sovereign of Stewart.
+
+00:39:37.000 --> 00:39:46.000
+Yeah. or you know the the interim thing is just for somebody to be the data steward, you know, hey?
+
+00:39:46.000 --> 00:40:00.000
+I i'm so so i'm I do steward for some things, or the you know the the shared folder steward right, which I am very happy about.
+
+00:40:00.000 --> 00:40:04.000
+Well, and and not that it should necessarily be me. it you know it'd be great if it were.
+
+00:40:04.000 --> 00:40:12.000
+Anyway, the other thing is it I like the idea of multiple stewards and stewards?
+
+00:40:12.000 --> 00:40:15.000
+So it wouldn't necessarily be the wisdom council and the stewardship Council.
+
+00:40:15.000 --> 00:40:22.000
+They should both be data stewards, you know. code coordinating.
+
+00:40:22.000 --> 00:40:28.000
+Thanks, Vincent. the 30 problem. You need doing a really good job of helping navigate.
+
+00:40:28.000 --> 00:40:35.000
+And and I I hope, toward you and and catalyst comes through.
+
+00:40:35.000 --> 00:40:40.000
+And addressing this thorny question it's not about you you know.
+
+00:40:40.000 --> 00:40:46.000
+Oh, no, I and I I know I know the bias like that.
+
+00:40:46.000 --> 00:40:53.000
+Obviously I have and it's I also feel like i'm like Well, there's not really a better choice at the moment.
+
+00:40:53.000 --> 00:41:09.000
+And so that's kind of yeah when it when it comes to like our decision within Lionsberg to use air table like that was a very conscious decision that I've continued to push for because if because that's something
+
+00:41:09.000 --> 00:41:14.000
+that if catalysts were to, you know, just blow up and explode.
+
+00:41:14.000 --> 00:41:26.000
+We have all the data and and you know all the thought that's going into all the progress is not going to get lost. it's going to be very easy to transition to something else when we're when we're ready
+
+00:41:26.000 --> 00:41:31.000
+so
+
+00:41:31.000 --> 00:41:40.000
+Gotcha. So I was gonna say, Csc matter most is kind of that same thing where it well, so that that resolves it really.
+
+00:41:40.000 --> 00:42:01.000
+Well, Vincent. So even though i'm running cs matter most, you know, if if I blow up the you know the the the system stuff, it's still somebody can use it you know take it over and and because because in that case,
+
+00:42:01.000 --> 00:42:08.000
+we're using open source, because matter most is analogous to air table.
+
+00:42:08.000 --> 00:42:19.000
+And that yeah, yeah,
+
+00:42:19.000 --> 00:42:25.000
+I gotta go was fun. Thanks, Stacey. Bye, bye, I got her on to talk to you guys soon.
+
+00:42:25.000 --> 00:42:35.000
+Pete. I would love to meet at some point to talk about the Cse matter most, and catabot and a few other things with Csc.
+
+00:42:35.000 --> 00:42:41.000
+In general like, or at least with the matter most channel. Okay, sounds great.
+
+00:42:41.000 --> 00:42:51.000
+Do you have a Do you have a calendar or I can send you my calendar cool?
+
+00:42:51.000 --> 00:42:57.000
+Let's do Sometime next week I presume talk to you guys, too.
+
+00:42:57.000 --> 00:43:09.000
+Hi,
+

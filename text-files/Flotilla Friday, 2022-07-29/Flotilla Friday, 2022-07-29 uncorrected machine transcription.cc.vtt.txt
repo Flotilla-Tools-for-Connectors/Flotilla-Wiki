@@ -1,0 +1,1904 @@
+WEBVTT
+
+00:00:20.000 --> 00:00:35.000
+it's hard for me to know what's you know what's what's catalyst and what's the map weavers and what slides for I can keep what's pucks straight because connect those
+
+00:00:35.000 --> 00:00:48.000
+dots also rumblings of task management.
+
+00:00:48.000 --> 00:00:56.000
+Different people want to do task management. so I think Jordan asked you about that. I think i've talked to him about it.
+
+00:00:56.000 --> 00:01:05.000
+Zeke is interested in test management spirit is everybody's talking about different tools.
+
+00:01:05.000 --> 00:01:15.000
+Yeah, I feel like that might be something that would be better to talk about if Zebra Jordan showed up today.
+
+00:01:15.000 --> 00:01:19.000
+I it, and it may not even be a fleet to a thing that might be a better.
+
+00:01:19.000 --> 00:01:25.000
+They might be better to convene something, you know, landscape infrastructure.
+
+00:01:25.000 --> 00:01:35.000
+Yeah, yeah, definitely, I don't know photos I mean we talk about that kind of stuff.
+
+00:01:35.000 --> 00:01:54.000
+But it's not really the right call for it yeah The other thing that Jordan mentioned was a way to kind of across different channels, surface messages, and a more organized way.
+
+00:01:54.000 --> 00:01:59.000
+I was thinking about that a little bit. but I haven't had a chance to formally respond.
+
+00:01:59.000 --> 00:02:07.000
+With with Catabot. It does that right now for links specifically
+
+00:02:07.000 --> 00:02:18.000
+But it could do that with messages as well. It only grabs a message when there is a link, but it could.
+
+00:02:18.000 --> 00:02:32.000
+It could be it's kind of just a leading line of code to make it also catalog messages, and be able to have a kind of search engine across the messages.
+
+00:02:32.000 --> 00:02:38.000
+Funny. It starts to sound to me like doctor, like factor.
+
+00:02:38.000 --> 00:02:54.000
+Yeah, Oh, how so? well I don't know that's kind of what what factor is supposed to be doing right aggregating and searching, and I don't know right the aggregating is from per factor is from I
+
+00:02:54.000 --> 00:02:58.000
+guess it's just people yeah just bookmarking.
+
+00:02:58.000 --> 00:03:06.000
+And Rss: Yeah, conceptually kinda you know.
+
+00:03:06.000 --> 00:03:12.000
+Yeah, I started Hackham d i'm going to share that's okay.
+
+00:03:12.000 --> 00:03:42.000
+And so there is plaque
+
+00:03:45.000 --> 00:03:54.000
+That save incentivized that's my I just caught it out of the corner of my eye.
+
+00:03:54.000 --> 00:04:01.000
+That's a I think like github very cool handle
+
+00:04:01.000 --> 00:04:10.000
+Oh, I lost you guys over here
+
+00:04:10.000 --> 00:04:39.000
+Thanks
+
+00:04:39.000 --> 00:04:46.000
+Hey, Wendy, hey? Everyone
+
+00:04:46.000 --> 00:04:52.000
+Hey, Wendy? Hi! Wendy i'm just off camera with the migraine.
+
+00:04:52.000 --> 00:05:05.000
+Sorry to hear that. Hi, Stacey
+
+00:05:05.000 --> 00:05:14.000
+Instead, I think he had a different another one. Yeah, it was just cataloging messages.
+
+00:05:14.000 --> 00:05:22.000
+Oh, right right! and is it be cataloging or
+
+00:05:22.000 --> 00:05:36.000
+Jordan used to a word following, I guess. Yeah. And yeah, I think the interesting thing about Catabot is right now.
+
+00:05:36.000 --> 00:05:44.000
+It goes to air table so it could be an input, and air table has a plugin that lets you generate an Rss.
+
+00:05:44.000 --> 00:05:51.000
+Stream with it, so it could be a tool that actually factor can pick up.
+
+00:05:51.000 --> 00:06:01.000
+Factor can say, Okay, we want to use Catabot to take a mattermost channel and then use it to generate an Rss that we can pick up
+
+00:06:01.000 --> 00:06:31.000
+That would be cool. the Catabot
+
+00:06:38.000 --> 00:06:48.000
+Yeah, that's kind of cool wendy how about you anything hotelish.
+
+00:06:48.000 --> 00:07:08.000
+I would say, No, it seems like there are more people like I think you've shared the mirrorboard, and I'm working on with Bill, and there's a few people spirits I think and spirit, and I are gonna get together and
+
+00:07:08.000 --> 00:07:19.000
+start integrating stuff. So zeke's whole ecosystem is gonna somehow get integrated with spirits.
+
+00:07:19.000 --> 00:07:27.000
+Help I am hoping to like. I just realized yesterday, I think, and I would love your feedback on this just.
+
+00:07:27.000 --> 00:07:34.000
+It should be quick, but for all the projects that i'm highlighting on the mirror.
+
+00:07:34.000 --> 00:07:50.000
+It's really just text right now, in my mind at first I was thinking I would link everything, and now i'm thinking it might actually be better just to link to a directory, because it otherwise i'm curating all the information that's in
+
+00:07:50.000 --> 00:07:55.000
+the Directory into the mirror and that doesn't make any sense. right.
+
+00:07:55.000 --> 00:08:17.000
+So then the question is, what directory do I link to right Now, I'm, linking to just exploring projects in catalyst and I'm, linking to the map weavers air table grid view of the projects you could you
+
+00:08:17.000 --> 00:08:32.000
+could link to a callous page you could link to a Lensburg wiki page or both, maybe definitely want a link to Jonathan is already helping me link to specific Lionsburg Wiki pages
+
+00:08:32.000 --> 00:08:36.000
+from specific areas of the mirror I think that's probably the best way to do that one.
+
+00:08:36.000 --> 00:08:42.000
+But when it comes to the projects themselves, I didn't that seemed kind of silly for me to go here's the website.
+
+00:08:42.000 --> 00:08:47.000
+Here's the information here's the contact right that is directory ish to me.
+
+00:08:47.000 --> 00:08:54.000
+So I Just so that's what's going on for me those things I I think i'll just keep bringing questions to this group like that.
+
+00:08:54.000 --> 00:09:03.000
+If, if knowing that, i'm linking to a directory, helps us start to merge some of these directories or Vince.
+
+00:09:03.000 --> 00:09:09.000
+And if you had like, Yeah, right now, this directory is more complete than that directory, right?
+
+00:09:09.000 --> 00:09:15.000
+That kind of thing that I would I would link to one but those are the 2 that I've chosen in an effort to to capture.
+
+00:09:15.000 --> 00:09:19.000
+I'm. i'm thinking you could link to a page online for Wiki.
+
+00:09:19.000 --> 00:09:23.000
+And then you could from that page you could link to a couple directories and explain.
+
+00:09:23.000 --> 00:09:27.000
+You know which ones newer which one's older which one is whatever.
+
+00:09:27.000 --> 00:09:33.000
+Okay, yeah. i'm trying to reduce the number of clicks for people. Yeah.
+
+00:09:33.000 --> 00:09:42.000
+Yeah, that's true. when did you do you want an export of certain information.
+
+00:09:42.000 --> 00:09:46.000
+Yeah, we could talk about that vincent I don't think i'm quite there yet, right with .
+
+00:09:46.000 --> 00:09:52.000
+Cause. I still have a bunch of projects to add, so that might become clear once.
+
+00:09:52.000 --> 00:10:01.000
+I know what projects I already have a place on the marrow board because that's what i'm gonna be doing while I'm in Cape Cod is a lot of that finer work right?
+
+00:10:01.000 --> 00:10:06.000
+First I was just getting the flow down now. that the flows down. I'm going to use the projects to go. Oh, wait a minute.
+
+00:10:06.000 --> 00:10:10.000
+I don't have a place for this project yet that's a problem right like like that's a missing Hole.
+
+00:10:10.000 --> 00:10:15.000
+Let me let me make sure there's a flow that includes this project, because we know this project is important or whatever right?
+
+00:10:15.000 --> 00:10:21.000
+So. so i'm now going to use the projects to tell me where the holes are.
+
+00:10:21.000 --> 00:10:29.000
+And then i'll have a more complete list but I bet it's gonna be I actually was going to the air table.
+
+00:10:29.000 --> 00:10:40.000
+I'm going. Okay, let's start with the ones that were already curated through Meta Project, and make sure that I have representation of all of those in some way, and I literally was just going to go down the list.
+
+00:10:40.000 --> 00:10:45.000
+So then I it made it kind of silly they're all they're all there.
+
+00:10:45.000 --> 00:10:57.000
+I have an air table. I have a air table, which is a copy of all the projects in catalyst, so I can filter it by all the ones that are public.
+
+00:10:57.000 --> 00:11:04.000
+And I can share whichever fields of this data you would like, since these are public.
+
+00:11:04.000 --> 00:11:10.000
+Yeah. So can you help me and think about like, How would you envision that table?
+
+00:11:10.000 --> 00:11:18.000
+Then being available to the mirror. What makes sense to you do you you may see something I don't.
+
+00:11:18.000 --> 00:11:23.000
+Well, what's the goal with the mirror in terms of is that happening in?
+
+00:11:23.000 --> 00:11:28.000
+Go ahead!
+
+00:11:28.000 --> 00:11:35.000
+And they and they see. Oh, you know there's the plex, and then they're like, Well, what is that right?
+
+00:11:35.000 --> 00:11:45.000
+They're gonna wanna I can I can How about this?
+
+00:11:45.000 --> 00:11:59.000
+So each one of these projects has a unique Id, and then
+
+00:11:59.000 --> 00:12:03.000
+What you can do is create a button or i'll just do a formula, right?
+
+00:12:03.000 --> 00:12:09.000
+So this will be
+
+00:12:09.000 --> 00:12:18.000
+Projects. Oh, no. Have to let my client okay, private slash.
+
+00:12:18.000 --> 00:12:28.000
+And then the unique Id. So this will be the like project, Url.
+
+00:12:28.000 --> 00:12:36.000
+And so then, if I click that link, if I do this right
+
+00:12:36.000 --> 00:12:40.000
+Then it will take you to that project page which will have all the information.
+
+00:12:40.000 --> 00:12:49.000
+So if you want, I can create a little directory here with just a list of the links to the project pages.
+
+00:12:49.000 --> 00:12:54.000
+Not all of the projects in the mirror are on catalysts, but for the ones that are.
+
+00:12:54.000 --> 00:13:06.000
+You can just put this link in the mirror yeah do you think people would want to go to the page or a card like a directory card.
+
+00:13:06.000 --> 00:13:12.000
+I'm open to either. but I just wanted to bring that up before we do the work of you know of linking.
+
+00:13:12.000 --> 00:13:17.000
+Does it make more sense to link to a card or to a page?
+
+00:13:17.000 --> 00:13:24.000
+What do you mean by a card like a card so the the grid view that you created an air table?
+
+00:13:24.000 --> 00:13:31.000
+That's just a quick snapshot right of
+
+00:13:31.000 --> 00:13:38.000
+Of like name, you know. little description website, link kind of thing.
+
+00:13:38.000 --> 00:13:43.000
+I think if you wanted to do that, you would just put the Url of the project if you know it, if it has a website.
+
+00:13:43.000 --> 00:13:54.000
+And I think Miro actually lets you now have a little a little card which is the title and the description of the website, unless you do a comment.
+
+00:13:54.000 --> 00:14:05.000
+But if I do comments everywhere, we won't have I won't be able to collaborate because I need the comments to use the comments as collaborative tool I know that's what zeke's doing
+
+00:14:05.000 --> 00:14:09.000
+he's doing using comments to to give the details of the projects.
+
+00:14:09.000 --> 00:14:14.000
+But I think that's gonna get crazy i'd rather use a link, an external link to something.
+
+00:14:14.000 --> 00:14:30.000
+So. No, I think the page the page is good then because you're giving me one source right instead of and I think it's nice that the information has already been curated in a standardized format right I kind of want i'm
+
+00:14:30.000 --> 00:14:34.000
+trying to reduce the cognitive load so if it just links to the website.
+
+00:14:34.000 --> 00:14:46.000
+Then who's the person who's the contact how do I get more, you know, like i'm not I don't think that's as valuable as kind of more directory? information for this particular flow is it I I have a dumb
+
+00:14:46.000 --> 00:14:54.000
+question, Do do you even want to link those? Or I like like the idea of like a higher level?
+
+00:14:54.000 --> 00:14:58.000
+You know you know here's all the information but I think it's.
+
+00:14:58.000 --> 00:15:04.000
+Okay, not to have all the links right I like the idea of at a higher level.
+
+00:15:04.000 --> 00:15:21.000
+It's like if you want to find something about one of these least nodes just go to this directory instead of having linked right? because I might have what's also happening is each project is showing up multiple times right?
+
+00:15:21.000 --> 00:15:38.000
+So it's gonna get that's gonna get nuts as it's really easy, then, for the links to be wrong, or you know, and for it to be broken I have a a technical idea about that, But I don't I think it's better not to link everything all the all the time, everywhere
+
+00:15:38.000 --> 00:16:00.000
+and so let's go with that but but you could actually you could have a link to where you put a link in mirror, and then an air table, that or air table, and some api automation that refreshes the link
+
+00:16:00.000 --> 00:16:13.000
+when you need Yeah, one of the projects Yeah, that's that's actually a good idea, a dynamic appendix.
+
+00:16:13.000 --> 00:16:18.000
+How does that
+
+00:16:18.000 --> 00:16:26.000
+You can include the you know the the meet of the Directory into there into the Mirror Board, just at least list it all out so that they can.
+
+00:16:26.000 --> 00:16:36.000
+I don't know how to Do that inside of mirror, except to do it by hand like manually.
+
+00:16:36.000 --> 00:16:46.000
+I think you could just create one link that's like if you want to find any of these projects click here, and then it has a list of the projects, and then the list of the I think you could make a a frame or something
+
+00:16:46.000 --> 00:16:55.000
+and and populate it. but I can do it automatically is my point.
+
+00:16:55.000 --> 00:17:14.000
+Oh, okay, So as long as we max Max used to hang out, and he's mirror api genius. if if we need it, the thing might be.
+
+00:17:14.000 --> 00:17:21.000
+Gonna. But if we need if the strategy is let me repeat it back, make sure I've got it.
+
+00:17:21.000 --> 00:17:35.000
+The strategy is make sure you know it's more in my thinking, as I start to place more projects on the board, make sure that the projects that i'm placing on the board are in the air, table, and i'll probably use
+
+00:17:35.000 --> 00:17:41.000
+the map weavers air table, Vincent: Just because that one probably makes the most sense. unless you have a different one.
+
+00:17:41.000 --> 00:17:54.000
+You think I should use? And then, if long as those 2 things are things are synced. Then, when I come back, we can figure out how to get what's in the air table back on Tamiro as a as an appendix then
+
+00:17:54.000 --> 00:18:00.000
+it should I mean it'll be 95 probably probably won't be unless I get really nicky about it.
+
+00:18:00.000 --> 00:18:04.000
+But I think that's better than that I have a weird suggestion.
+
+00:18:04.000 --> 00:18:13.000
+Yeah. is to write up like your project manager right up use cases with personas.
+
+00:18:13.000 --> 00:18:20.000
+I was gonna do that. I I already have some I mean we're all good enough.
+
+00:18:20.000 --> 00:18:22.000
+Every one of us here is good enough to kind of doing that in your head.
+
+00:18:22.000 --> 00:18:32.000
+But having it written down and like, you know, Okay, I was trying to figure out how like how I could hide certain flows to go with the story.
+
+00:18:32.000 --> 00:18:39.000
+Yeah, that would like a narrative have a have an air table of use cases.
+
+00:18:39.000 --> 00:18:50.000
+Sorry although I guess i'm not kidding I used to. You know, I used to use air table to like develop use cases and stuff and goals and stuff broken out.
+
+00:18:50.000 --> 00:18:59.000
+And it was actually a really useful tool. It was better than like, you know, better than doing them by hand.
+
+00:18:59.000 --> 00:19:08.000
+Interesting, but anyway, have a have a list of use cases, and then you can put those together into a like a narrative flow.
+
+00:19:08.000 --> 00:19:13.000
+You know. Yeah, i'll have to that that will come after this phase.
+
+00:19:13.000 --> 00:19:17.000
+That will be the next phase of like, How do I highlight certain, Cuz?
+
+00:19:17.000 --> 00:19:28.000
+I already have the narratives in my quite a few narratives, and when I, when I use the projects now to fill holes right in the flow, then I'll start using the use cases that I already developed years ago to fill in holes
+
+00:19:28.000 --> 00:19:37.000
+in the flow, and then we'll it'll be pretty rich by that point, right, and hopefully and so complicated that without the narratives it'll start to feel crazy.
+
+00:19:37.000 --> 00:19:50.000
+So so cross your fingers for me here we go no it's a ride that I've been on for a long time, and it actually feels really good to get it down somewhere.
+
+00:19:50.000 --> 00:19:54.000
+So. so. yeah, I think that's it for me thank you that was very helpful.
+
+00:19:54.000 --> 00:20:08.000
+I will focus on the idea of an appendix and for right Now just put the names of the projects on, and go through the map weavers lists as my as a first pass at making sure I have all the you know not
+
+00:20:08.000 --> 00:20:14.000
+There's no i'm never gonna get all the projects on there, but get a lot of the projects on there.
+
+00:20:14.000 --> 00:20:20.000
+I think you know it's kind of my imagining that but hope, hoping it will be true that when this gets shared with a larger group.
+
+00:20:20.000 --> 00:20:24.000
+One of the things. first things people are gonna want to do is Oh, where's my project?
+
+00:20:24.000 --> 00:20:36.000
+Besides walking through a use case that that the can relate to it's gonna be where's my project and searching for their project name, and seeing it appear in, you know 6 different places or whatever will help them orient themselves, to the
+
+00:20:36.000 --> 00:20:45.000
+flow as well. so I think, making sure that their project is actually on it.
+
+00:20:45.000 --> 00:20:55.000
+Anyway, that's where i'm headed any other anyone have any other suggestions or thoughts about it
+
+00:20:55.000 --> 00:21:00.000
+I'll put the link in the to share it i'll put the link in there, Vincent, did you get editing access.
+
+00:21:00.000 --> 00:21:13.000
+I I don't know, i'm having a hard time figuring out. No, Okay, because I went through and gave you access. and then it gave me a weird message again, and I was like what is going on.
+
+00:21:13.000 --> 00:21:20.000
+I think I might have to up my I think I would use mirror a lot more if their permission controls are better, and they didn't.
+
+00:21:20.000 --> 00:21:28.000
+Yeah, they weren't they didn't make me make you create 5 accounts to like have more than 3 boards. Yeah.
+
+00:21:28.000 --> 00:21:32.000
+So I already paid for the upgrade? Yeah.
+
+00:21:32.000 --> 00:21:42.000
+And then it said, There can only be 5 people on my team, or something like that, and only my team can have editing access, or I have to give editing access to the world and i'm like wait.
+
+00:21:42.000 --> 00:21:47.000
+What? Yes, if the permissions are definitely the limiting thing for me now?
+
+00:21:47.000 --> 00:21:51.000
+So They're trying to get me to upgrade again, and i'm like I don't think I need to upgrade again.
+
+00:21:51.000 --> 00:21:55.000
+I do not understand this. Yeah, So You're right that is definitely the friction point.
+
+00:21:55.000 --> 00:22:00.000
+Vermont for me, too, or I could just create another account.
+
+00:22:00.000 --> 00:22:10.000
+I suppose, but i feel like the sharing permissions got more complicated when I when I upgraded because i'm in this in between I'm in the first tier, and they're trying to get me into the second
+
+00:22:10.000 --> 00:22:16.000
+here, whatever there it is. people should. you can at least make comments.
+
+00:22:16.000 --> 00:22:23.000
+Everyone should be able to make comments. I think that means you still have to sign in in order to make a comment.
+
+00:22:23.000 --> 00:22:27.000
+But but i'm i'm open to comments i'm already starting to create versions.
+
+00:22:27.000 --> 00:22:40.000
+So I have backup don't feel like you're gonna ruin something, if you comment or if you have. If you're a person as editing rights in you, and you move something worst, case we can always go back so no big
+
+00:22:40.000 --> 00:22:44.000
+deal. Yeah, I only have comment, access, and i'm logged in.
+
+00:22:44.000 --> 00:22:51.000
+Okay, I will fix that today. Okay, Thanks. However, I choose to fix it.
+
+00:22:51.000 --> 00:23:03.000
+It will, I will fix it
+
+00:23:03.000 --> 00:23:14.000
+Michael. you look you're looking intently at your screen so i'm imagining that you've clicked through in our Okay, So I just want to point to you that there's kind of if you zoom way out there's kind of
+
+00:23:14.000 --> 00:23:23.000
+3 sections, one on the left, one in the middle, and one on the right, and the area we were working on together with Jordan is on the right, and you can find it in 2 ways.
+
+00:23:23.000 --> 00:23:27.000
+You can zoom in to the right side of the board and it and find it.
+
+00:23:27.000 --> 00:23:39.000
+It starts with the being of service. and it's gotten so much bigger to incorporate all the things that we were talking about when we were in our discussion with Jordan, or you can.
+
+00:23:39.000 --> 00:23:47.000
+There's a magnifying glass at the top of your screen and a toolbar, and you can click on that type in being a service, and it will give you.
+
+00:23:47.000 --> 00:23:51.000
+It will give you. It will give you a couple of links, and you can.
+
+00:23:51.000 --> 00:23:57.000
+You can find it that way
+
+00:23:57.000 --> 00:24:00.000
+And it's not the one that says being a service dash listening.
+
+00:24:00.000 --> 00:24:07.000
+That's not the one it's the other one
+
+00:24:07.000 --> 00:24:13.000
+Cause it. I have internal linking right So i'm trying to take you from one spot to another spot.
+
+00:24:13.000 --> 00:24:18.000
+So, anyway. Yeah. So anyway, I went through it again with Jonathan yesterday, and
+
+00:24:18.000 --> 00:24:24.000
+That was a really good exercise, too, because I realized the left side of the screen.
+
+00:24:24.000 --> 00:24:32.000
+Is the individual person, their flow and interaction with stuff. and then the middle is the interplay between.
+
+00:24:32.000 --> 00:24:44.000
+When I am trying I am starting to reach out and interact and collaborate with people. Then the right side of the of the larger board is, I am now the host.
+
+00:24:44.000 --> 00:24:52.000
+I am now being of service to other people I am now facilitating the collaboration right?
+
+00:24:52.000 --> 00:24:53.000
+I'm. the way i'm the leader and holding space for other people.
+
+00:24:53.000 --> 00:24:57.000
+I'm not representing myself as an individual on this board anymore.
+
+00:24:57.000 --> 00:25:06.000
+I'm representing myself as a as a leader of a community. And so we that the flow is very different for each one, because the perspective is a bit different.
+
+00:25:06.000 --> 00:25:12.000
+So I realized I probably need to help write up something about that a little bit to help Orient people, because if you dive into the right, what happened?
+
+00:25:12.000 --> 00:25:23.000
+For Jonathan. was he started thinking about the individual person and I was like, No, the individual person's path is all way on the left hand side right, and so just just interesting.
+
+00:25:23.000 --> 00:25:44.000
+It's meant to meant to be the growth from one to the other to the to the next, and I ask the question then if I mean, I think a person ties in with something that I was raising the other day and i'm i'm
+
+00:25:44.000 --> 00:25:51.000
+just wondering
+
+00:25:51.000 --> 00:26:07.000
+How how that identification, recognition keys think necessarily precedes being of service fits in for an individual or group.
+
+00:26:07.000 --> 00:26:20.000
+Just say i'm here like or for us to say or or somebody to say, this person is here.
+
+00:26:20.000 --> 00:26:25.000
+This entity is here is that is, that does that have a place in this flow?
+
+00:26:25.000 --> 00:26:36.000
+Or what does it? yeah So if the in if we were, if we're putting our hat on, and saying i'm an individual first connecting with a meta project you know in in in for the first time.
+
+00:26:36.000 --> 00:26:50.000
+Right. but I'm looking at it from my individual perspective Then that would be the left side of the board where it's the personal personal flow. and that goes Oh, i'm curious about collaborating with someone else, and I start a group
+
+00:26:50.000 --> 00:26:57.000
+quest, and that, you know, and that and the group quest is in the middle right where I'm interacting with groups for the first time.
+
+00:26:57.000 --> 00:27:01.000
+And I have a need, or I have a question, or I have a I have a
+
+00:27:01.000 --> 00:27:09.000
+I want to collaborate I have a project to share that's in now in the middle, because i'm starting to interact with other people.
+
+00:27:09.000 --> 00:27:17.000
+And so I put that all inside the group quest. So all the conversations are even having an Ogm and Meta project are largely inside of the group.
+
+00:27:17.000 --> 00:27:25.000
+Quest right and where they, where individual people say, need need expert.
+
+00:27:25.000 --> 00:27:29.000
+You know, when we talk about people being triggered by trauma to me.
+
+00:27:29.000 --> 00:27:38.000
+It goes, then, from the group crust back to the individual quest because that's an individual shift in transformation.
+
+00:27:38.000 --> 00:27:44.000
+That's gonna happen, so that you can then come back into the group and integrate with the group.
+
+00:27:44.000 --> 00:27:49.000
+Right. So then, from the group Quest if we're talking about us we put our us hat on.
+
+00:27:49.000 --> 00:28:02.000
+We want to hold space for individuals to come. in then that's the flow that is being a service, because we're thinking about bring bringing other people welcoming other people in and then we need to account think differently.
+
+00:28:02.000 --> 00:28:05.000
+We need to account for all the different places they might touch.
+
+00:28:05.000 --> 00:28:13.000
+Our group, and what we do once they get there. right So there is definitely a mirroring between what's happened.
+
+00:28:13.000 --> 00:28:18.000
+But but the flow is different, because our intention is different, and the outcome is different.
+
+00:28:18.000 --> 00:28:24.000
+As a group than the intention and outcome for the individual.
+
+00:28:24.000 --> 00:28:34.000
+So I tried to represent both i'm saying it was I mean no I I that That answer is kind of half of half of my question.
+
+00:28:34.000 --> 00:28:56.000
+I guess the thing i'm also wondering about and maybe it just doesn't fit into this flow right now is is the our external both both kind of third person or third group.
+
+00:28:56.000 --> 00:29:03.000
+Mapping of things, you know, in inclusion of things that we know exist, that we we know we're aligned.
+
+00:29:03.000 --> 00:29:08.000
+But how it shown up and said, I want to join you.
+
+00:29:08.000 --> 00:29:17.000
+We just recognize it. it's not exactly outreach it's more like just recognition, and mapping.
+
+00:29:17.000 --> 00:29:23.000
+We respect and hold space for these projects that have not yet intersected with us.
+
+00:29:23.000 --> 00:29:30.000
+We can see them, you know, a little ways the way in the flotilla going in the same direction.
+
+00:29:30.000 --> 00:29:43.000
+And and you know we're we're expressing our our the fact that we follow them is is no more or less important than that.
+
+00:29:43.000 --> 00:29:52.000
+They follow us, if you know what I mean. Humility and and kind of drawing.
+
+00:29:52.000 --> 00:30:00.000
+Drawing the loose circle bigger, I mean, less as an organization and more as members of a movement.
+
+00:30:00.000 --> 00:30:04.000
+Yeah, I was I I agree. I would love to get that on here.
+
+00:30:04.000 --> 00:30:14.000
+It may need its own flow, and I would say the only place that's represented, because you did so so wonderfully bring it up in our meeting with Jordan about.
+
+00:30:14.000 --> 00:30:18.000
+And but at that point we were framing it a little more as outreach
+
+00:30:18.000 --> 00:30:25.000
+That did make it on here in the being a service section, and the first part where it says, identify new connections.
+
+00:30:25.000 --> 00:30:54.000
+That was my effort to make sure that we didn't lose that piece, and then the the second sub piece of that is just the kind of in between stage of like i'm fine being you know I I I would want to express my
+
+00:30:54.000 --> 00:31:07.000
+alignment with what you're doing i'm not really joining, but keep me posted, You know the kind of the kind of thing that's the equivalent of going to a website, and saying put me on your mailing list
+
+00:31:07.000 --> 00:31:20.000
+i'm not joining you know I I but I wanna keep tabs on you, and sort of that kind of relationship where it's before you're being of service you're just saying I know you exist.
+
+00:31:20.000 --> 00:31:33.000
+And I want you to know I exist. You know where that that can be true of a group or an individual right at the top.
+
+00:31:33.000 --> 00:31:39.000
+In the second piece, or it's identified new connections, and one of them is a partnership.
+
+00:31:39.000 --> 00:31:42.000
+There may need, you know. There, it may be wise for us to think about.
+
+00:31:42.000 --> 00:31:52.000
+What a flow would be if it was just 2 people recognizing they're already in the right alignment.
+
+00:31:52.000 --> 00:32:05.000
+Right. So even offering. So we're offering support and guidance. There's a piece here that says is is the piece urgent or timely, right like we need and we need an introduction with a team lead like immediately
+
+00:32:05.000 --> 00:32:09.000
+right you know what I mean like so so it's trying to accommodate.
+
+00:32:09.000 --> 00:32:22.000
+I'm trying to capture but it's still a good discussion, even if it's captured or not captured about when there's an individual coming through who needs more guidance to figure out who they are and what they want how
+
+00:32:22.000 --> 00:32:30.000
+they can contribute or they have a clean pete you know they have a clear piece, but not but they need to talk about how it fits in right There's going to be a slower process.
+
+00:32:30.000 --> 00:32:35.000
+Then there's some stuff that's going to come along it's gonna be so obvious right we need to move that whole.
+
+00:32:35.000 --> 00:32:40.000
+That process gets collapsed or is not non-existent right, and it's a few meetings.
+
+00:32:40.000 --> 00:32:52.000
+And there's so much alignment it just it we go with it right, or or it's even recognizing that each other are there, and then reaching out when the timing is right.
+
+00:32:52.000 --> 00:32:59.000
+I think all of those are are possibilities. I think one question we have to ask ourselves, and it came up with Jonathan.
+
+00:32:59.000 --> 00:33:06.000
+We could flow everything we could be right I could put keep putting stuff on mirror forever and ever, and ever to.
+
+00:33:06.000 --> 00:33:11.000
+And what is the value we'll have to ask ourselves what's the value of a particular flow?
+
+00:33:11.000 --> 00:33:17.000
+Do do we need it for some reason if we do it absolutely i'm happy to flow it out.
+
+00:33:17.000 --> 00:33:29.000
+But if we're just flowing it because just because it's another piece. I think we'll wanna keep that in check but the partnership one I think, is is actually important because it's going to be a big part
+
+00:33:29.000 --> 00:33:45.000
+of what meta project's doing yeah yeah and I I agree with you in terms of the multiple flows, and I and I i'm almost saying this because i'm i'm fearful of the complexity and and i'm looking for that sort
+
+00:33:45.000 --> 00:33:49.000
+of, you know I I keep thinking back to you know the environmental movement.
+
+00:33:49.000 --> 00:34:00.000
+You know it's like Hey, this is the environmental movement we were, or you know, we're people who are worried about climate change, or you know, people who believe in gender equality.
+
+00:34:00.000 --> 00:34:06.000
+What, whatever that sort of really really basic thing is, know that we exist.
+
+00:34:06.000 --> 00:34:14.000
+Tell us i've muscled silhouettes
+
+00:34:14.000 --> 00:34:20.000
+I i'm trying to close tabs muscle yeah.
+
+00:34:20.000 --> 00:34:28.000
+Oh, that's just didn't nice things in my brain thank you you We won't ask but I don't even know what it is.
+
+00:34:28.000 --> 00:34:41.000
+Hold on anyway. Yeah, you know just like this this is the thing you're an individual or a group.
+
+00:34:41.000 --> 00:34:56.000
+You know the lightest of connections. so that that flow is almost binary, and and it seems like a place that we want to allow people to start and ourselves to start. I agree.
+
+00:34:56.000 --> 00:35:00.000
+I and and I love that you keep bringing that part into the room right that we don't.
+
+00:35:00.000 --> 00:35:05.000
+This this doesn't need to be heavy right can we make it simple, please. right.
+
+00:35:05.000 --> 00:35:16.000
+So part of the flow that i'm trying to create which is now incredibly complex, and I recognize that is is what's in my it's serving me because it's getting stuff out of my head and it's helping
+
+00:35:16.000 --> 00:35:24.000
+me map the projects that we have currently and how they connect to each other, and I don't.
+
+00:35:24.000 --> 00:35:29.000
+I have seen that anywhere yet, to my satisfaction, right so that we can start agreeing.
+
+00:35:29.000 --> 00:35:37.000
+If if if we feel it is even close enough in its representation on the board, then we can put it down.
+
+00:35:37.000 --> 00:35:49.000
+I i'm hoping it's a psychological thing and that people will feel like It's captured It's not going to be forgotten, and that when the groups ready group, whatever whoever it is is ready to focus on that
+
+00:35:49.000 --> 00:35:53.000
+piece. It will be remembered that they're that their project is an important component.
+
+00:35:53.000 --> 00:36:05.000
+They won't it won't be forgotten they don't, and that may free them up to feeling like they don't have to attend every meeting that when the time is right they will be called up again, right to to be a part of
+
+00:36:05.000 --> 00:36:09.000
+things. and then it won't be glossed over and it won't be forgotten, so that's kind of for me.
+
+00:36:09.000 --> 00:36:17.000
+A big piece of this is let's just get all the projects that we know on the page, and that will determine what the flow are, and that need to be.
+
+00:36:17.000 --> 00:36:21.000
+There and then from there it's are we building a landing page.
+
+00:36:21.000 --> 00:36:27.000
+It would it be helpful to have a flow to understand what this landing page is doing, and who's coming and absolutely right like I can't to me.
+
+00:36:27.000 --> 00:36:34.000
+I'm gonna do it in my head whether we do it on paper. So if it's we want it on paper, i'll put it on paper right?
+
+00:36:34.000 --> 00:36:41.000
+So and then that's what I hear you talking to too, and most importantly, for whoever needs all the detail because they're building something out.
+
+00:36:41.000 --> 00:36:47.000
+There's a a forever emphasis on let's do the low hanging fruit.
+
+00:36:47.000 --> 00:36:56.000
+Let's do the easiest stuff Yes, it's important to think about when something goes off on a tangent or conflict start to disband a group.
+
+00:36:56.000 --> 00:37:14.000
+Or it's important to understand those things but there's so much easy work here so much joyful work here, and there's so much alignment already, and let's let's do the work that gets that moving Yes, Yeah.
+
+00:37:14.000 --> 00:37:25.000
+Yeah, Yeah. So I I think i'm gonna put a note on it like like, what's the easy path like create an easy path?
+
+00:37:25.000 --> 00:37:30.000
+I'm also thinking about it in terms of you know.
+
+00:37:30.000 --> 00:37:44.000
+So the the landing page project projects you know that where we feel like we fit into the casual visitor or person.
+
+00:37:44.000 --> 00:37:54.000
+If you find through search results and like how how deep they feel, they have to dive to.
+
+00:37:54.000 --> 00:37:59.000
+Yeah, I did There's a landing page link Now did you see that, Jonathan?
+
+00:37:59.000 --> 00:38:16.000
+Hi added the generic landing page piece and i've had it connect into this asynchronous connection, and then, like 4 or 5 things that a person could do from there.
+
+00:38:16.000 --> 00:38:29.000
+So, and from my perspective, the next step would be to to take that flow, and make sure it's represented in whatever landing page is created.
+
+00:38:29.000 --> 00:38:42.000
+That would be what I would do next with with the information right and just as the flow being just another insight into what one person's thinking was about what would be ideal, and from an asynchronous perspective what people could be
+
+00:38:42.000 --> 00:38:46.000
+allowed to do, and what that might generate and where it would go from there.
+
+00:38:46.000 --> 00:38:52.000
+But that doesn't mean that doesn't mean that's the only thing, and it doesn't mean that my flow is right either.
+
+00:38:52.000 --> 00:39:04.000
+But it's just a a platform to start discussing and what came up for me because I was building it out, cause I, too, saw a need for just something so like people being able to dip a toe in and then leave right like
+
+00:39:04.000 --> 00:39:16.000
+this, and you keep speaking to that. so beautifully Michael like There shouldn't Not every contact should end in like a full partnership right?
+
+00:39:16.000 --> 00:39:19.000
+There should be people, and I want people to feel like they can touch in.
+
+00:39:19.000 --> 00:39:29.000
+Get the information they need, even if we're being a service i'm want people to feel like they got the one thing they got a new funding source, and they left great.
+
+00:39:29.000 --> 00:39:34.000
+They got one new person that became an expert, the one expert.
+
+00:39:34.000 --> 00:39:38.000
+They needed legal expertise, and they got that, and they left great.
+
+00:39:38.000 --> 00:39:44.000
+Yes, that's if that was the thing holding you back from from bringing the fullness of your project into the world fabulous.
+
+00:39:44.000 --> 00:39:50.000
+You don't need to ever even talk to us that to me would be the the ideal right?
+
+00:39:50.000 --> 00:40:06.000
+Is that we are unlocking the things that are holding people back from doing the great work that they're doing in the simplest, quickest, most supportive way possible, right and to some degree that asynchronous stuff is is
+
+00:40:06.000 --> 00:40:09.000
+probably a lot of it right that could cause that can work faster.
+
+00:40:09.000 --> 00:40:23.000
+And it can be in multiple places at once. The The flip of that is deep conversation, deep community building full on legal partnerships right, which are also gonna happen.
+
+00:40:23.000 --> 00:40:38.000
+But I agree with you. there's a lot that can be physicalated from the easiest version of this this the quickest versions of this
+
+00:40:38.000 --> 00:40:46.000
+And maybe just that being my first user flow right is what's the what's the fastest path through the through the whole thing right?
+
+00:40:46.000 --> 00:40:50.000
+Is actually not a bad, a bad way to look at it you know to create it.
+
+00:40:50.000 --> 00:40:54.000
+Wouldn't be hard I don't think to highlight things through through the board.
+
+00:40:54.000 --> 00:41:02.000
+So yeah, it's funny, I mean in the decision you know kind of traditional decision tree.
+
+00:41:02.000 --> 00:41:16.000
+You have, you know. you know, something like discover exists, you know.
+
+00:41:16.000 --> 00:41:35.000
+Walk away. Look further, you know, there's there's like you know, a lot of stuff that could happen. that's just one step, no steps, 2, steps, and before you get to right and I think I have like back out like a couple of times.
+
+00:41:35.000 --> 00:41:44.000
+Here, did I put it? I remember I put it in once or twice, like disconnect trying to see if it's in here.
+
+00:41:44.000 --> 00:41:56.000
+Decline, decline connection, invite the decline connection like fine, and and I mean for people to feel like
+
+00:41:56.000 --> 00:42:15.000
+You know I I think that's i'm i'm really interested, that you brought the word decline, and cause you know It's that that at the end of something where you say you know i'm complete which could be after
+
+00:42:15.000 --> 00:42:22.000
+talking for 5 min or after talking for 5 s you know it's it's like that.
+
+00:42:22.000 --> 00:42:27.000
+It's Okay, to go as far as you go and be complete and it's not really.
+
+00:42:27.000 --> 00:42:35.000
+Maybe it's it's important to us to make it seem like It's not a decline.
+
+00:42:35.000 --> 00:42:51.000
+I mean I know exactly what you have you meant but it just sort of triggered the thought in me that we want like everything to be a win, even if it's I don't think it's important, you know I
+
+00:42:51.000 --> 00:42:58.000
+mean if you if you're doing a flow where you know people you know
+
+00:42:58.000 --> 00:43:06.000
+Maybe It's important it's not important to me i'm just thinking about it in sort of more of a of a
+
+00:43:06.000 --> 00:43:32.000
+People. Oh, when I hate using the term when but you know when, however far they go, and and, you know feel inclined to go better, go further, get more involved, connect more ,
+
+00:43:32.000 --> 00:43:40.000
+Wendy I like how you're flushing the fles out, and it it makes me think that you want I hate to say it.
+
+00:43:40.000 --> 00:43:49.000
+2 maps, one that's easy. and low cognitive load to kind of visualize what's going on and one that's full full.
+
+00:43:49.000 --> 00:44:01.000
+Yeah, it's too bad. I I wish or you know. I wish we had sparkle sparkle ponies and rainbow unicorns.
+
+00:44:01.000 --> 00:44:06.000
+I could put pictures on there if you want.
+
+00:44:06.000 --> 00:44:11.000
+I wish Miro had a way that that you could do this.
+
+00:44:11.000 --> 00:44:14.000
+The you could do both of those views at once, you know.
+
+00:44:14.000 --> 00:44:21.000
+You could use, you could say, hide all the the detail level below, you know. P.
+
+00:44:21.000 --> 00:44:24.000
+6, or something like that, or you know, whatever
+
+00:44:24.000 --> 00:44:33.000
+So some people could look at something and go. Wow! this tells me a lot, and I get the whole picture right. and they're not seeing much of the detail.
+
+00:44:33.000 --> 00:44:40.000
+And then other people go. Okay, you know i'm gonna I need to do some heavy duty like you know maintenance on this micro flow right here.
+
+00:44:40.000 --> 00:44:48.000
+Let me see down to P. 16 and like, you know, you know what?
+
+00:44:48.000 --> 00:45:01.000
+I mean I don't I don't know if Miro allows this at all I mean it, it it just makes me think of like you know there are those bifurcations that happen all the way.
+
+00:45:01.000 --> 00:45:05.000
+Along, and you don't need to see I mean you know Wendy.
+
+00:45:05.000 --> 00:45:09.000
+You are are seeing the whole thing and taking that on.
+
+00:45:09.000 --> 00:45:22.000
+But to take people through the flow, you know, to just say, like to be looking at a blank page that says, you know English or spanish Are you an individual?
+
+00:45:22.000 --> 00:45:34.000
+Or a group, or you know W. whatever. and that's all you see? and you make that choice, and then you know, do you want to be on? You know I mean like and then you don't see it?
+
+00:45:34.000 --> 00:45:37.000
+You only see your trail as you go. right.
+
+00:45:37.000 --> 00:45:42.000
+This is exactly what I want built. Yeah, right? This is cause.
+
+00:45:42.000 --> 00:45:46.000
+Obviously, this is the way I think right so. But the knowledge network, the global knowledge network.
+
+00:45:46.000 --> 00:46:00.000
+If I were, if I could use it, to create what i've now created on the mirror, plus some your navigation of what I created would be just like a crum breadcrum trail right and and right and you would see you would be able
+
+00:46:00.000 --> 00:46:05.000
+to collapse branches or expand branches that are of interest to you.
+
+00:46:05.000 --> 00:46:11.000
+And ultimately, if you like a whole section, you can curate it to your own private stuff right?
+
+00:46:11.000 --> 00:46:17.000
+So that it makes a subset that's in that is of interest to you like a factor stream.
+
+00:46:17.000 --> 00:46:26.000
+Right, but all the factor streams are still networked and connected, and you can still see it in a flow, or you could see it in a list, or you could see it in a you know, and a navig, you know, inevitable
+
+00:46:26.000 --> 00:46:30.000
+wiki that's a wiki like whether you want text, or you want visual.
+
+00:46:30.000 --> 00:46:37.000
+It's gonna be the same information right and Then but you get to expand it, or con collapse it.
+
+00:46:37.000 --> 00:46:52.000
+How you like that is my dream. i'm with you a 100% and no mirror doesn't do it, because if it did on it, cause that would be amazing.
+
+00:46:52.000 --> 00:46:59.000
+Yeah, yeah, i've thought a lot about the individual flow I mean that's where it started for me.
+
+00:46:59.000 --> 00:47:02.000
+So I thought a lot about the individual flow through this information.
+
+00:47:02.000 --> 00:47:08.000
+And how do you stay creative in a creative flow state?
+
+00:47:08.000 --> 00:47:11.000
+You do that by not being overwhelmed by the information so you have to have.
+
+00:47:11.000 --> 00:47:23.000
+In my opinion each individual has to have choice over what they're seeing, and when they're seeing it to a certain degree, and if you get surprised, and you all send you a land and a spot that has you know 150,000 nodes.
+
+00:47:23.000 --> 00:47:36.000
+That there's a way to control that you can either filter it, or you can break it down, or it can highlight things for you, or whatever to help make it manageable again, and then and then make you feel more curious about it instead of
+
+00:47:36.000 --> 00:47:43.000
+going. Oh, okay, that just did sound great and backing away. So how do we help people be curious about diving into that?
+
+00:47:43.000 --> 00:47:49.000
+Even if it's just to say you know what i'll take a look at this another time, right, and and put it aside for a while.
+
+00:47:49.000 --> 00:47:57.000
+Marie, all, all of that is is a win to me and we're certainly not there yet.
+
+00:47:57.000 --> 00:48:01.000
+But yeah, so i'm i'm well aware that you know I tried.
+
+00:48:01.000 --> 00:48:06.000
+I was showing this map to my husband and my husband's like i'm getting a headache within about 5 min.
+
+00:48:06.000 --> 00:48:15.000
+Right, so it's not I said but the people I'm showing it to are thinking these things all the time, or at least thinking about one of the flows in detail right?
+
+00:48:15.000 --> 00:48:25.000
+And like this is how we're all very much meta thinkers, or we wouldn't be in these spaces and and even then it's overwhelming.
+
+00:48:25.000 --> 00:48:29.000
+So i'm already, you know to your point pete I I've already thought you know, the user flows may have.
+
+00:48:29.000 --> 00:48:35.000
+I may have to pull them out right. It may. There may not really be a way to highlight it.
+
+00:48:35.000 --> 00:48:39.000
+They may have to pull them out and say, This is the trail of one, and this is the trail of the other.
+
+00:48:39.000 --> 00:48:47.000
+But i'll only be willing to do that if if what's on this mirror settles settles in a bit.
+
+00:48:47.000 --> 00:49:04.000
+I I like that they're all together. so it you know so a different way to do it is to have one that's everything. and then copy that once in a while and the what i'm thinking of Yeah, Yeah, which is why I want the big master one to settle in a bit So that
+
+00:49:04.000 --> 00:49:10.000
+i'm not going. Oh, should I change half the things over here and now I gotta copy it, you know another.
+
+00:49:10.000 --> 00:49:16.000
+That might be another automatable thing. you might be able to export import or something.
+
+00:49:16.000 --> 00:49:21.000
+Export it, and then trim stuff. I was I was wondering.
+
+00:49:21.000 --> 00:49:36.000
+Yeah. but but if you could if you could tag all the nodes, for instance, I don't I I don't think in tag and commenting, I think is probably not What you want but if you could tag
+
+00:49:36.000 --> 00:49:48.000
+nodes and just delete them right or just or just copy them into a new Yeah.
+
+00:49:48.000 --> 00:49:53.000
+Another another way to do it would be this this is gonna sound crazy.
+
+00:49:53.000 --> 00:50:02.000
+But maybe it's not another way. to do it would be to copy the link to all everything.
+
+00:50:02.000 --> 00:50:13.000
+So if if there's probably there's a way that you could get all the links, and then this would be that the tedious part you could set up identify the ones that are high priority or something the ones that you want to
+
+00:50:13.000 --> 00:50:18.000
+keep or the ones that you want to throw away. The ones that you want to keep might be easier.
+
+00:50:18.000 --> 00:50:25.000
+And then have have an api script that just deletes everything that's not a keeper getting that that list.
+
+00:50:25.000 --> 00:50:32.000
+The first time would be a a pain. But if you had an air table of you know everything except these.
+
+00:50:32.000 --> 00:50:37.000
+You could do that over and over and over. You could make that export super easy, as prefer fast.
+
+00:50:37.000 --> 00:50:42.000
+I think you lost any somewhere in the middle so I get that it's good.
+
+00:50:42.000 --> 00:50:48.000
+Then we just talk about it more because I get that it's doable, and i'm so glad you see it, and I don't.
+
+00:50:48.000 --> 00:51:05.000
+I have no idea about doing that, so so take the the map that you've got The The top level interesting stuff that you want to leave for a newbie is probably 50 nodes or something like that something so
+
+00:51:05.000 --> 00:51:17.000
+maintain a list of those and then somebody rates, a scope, Max or me, or Vincent, or whoever
+
+00:51:17.000 --> 00:51:23.000
+So then you just make a copy of the master, and you run the script, and the script goes through all the nodes.
+
+00:51:23.000 --> 00:51:26.000
+It looks at all the nodes. Is this on the keep list?
+
+00:51:26.000 --> 00:51:38.000
+No delete it, so you could make it, you know, like like literally a 30 s operation to make an extracted top level view of it.
+
+00:51:38.000 --> 00:51:56.000
+Yeah, interesting. But we need to do that same. run the same script and and pick the things i'd want to keep for each say user flow or for each
+
+00:51:56.000 --> 00:52:06.000
+The links to all of the the top level nodes but that's, you know, 50 things you can do that in you know, 45 min or an hour and a half or whatever and then you'd also have to
+
+00:52:06.000 --> 00:52:23.000
+update that but but once you do that every every export to a simplified map is, you know, 30 s, or whatever and and it would be pretty easy I probably wouldn't even maintain like as i'm
+
+00:52:23.000 --> 00:52:32.000
+adding stuff I wouldn't maintain that list what I would do is just do an export and then look it over, and it's like, Oh, yeah, this whole thing new thing is new, and it it got deleted.
+
+00:52:32.000 --> 00:52:48.000
+Let me put that back in the list of of keepers yeah I I can't decide whether that seems easier over the long term, or if you know high, I've gotten really good at highlighting whole sections, and deleting or moving
+
+00:52:48.000 --> 00:53:05.000
+them. Yeah, right, and just do it. That way. so that i'm always working from a master, you know, and the masters one and i'm not. My suggestion is that you always work on the master and you just you just set it up So that
+
+00:53:05.000 --> 00:53:15.000
+you can automate deleting big swaths of things i'm Sure it's easy to delete lots of stuff at at once.
+
+00:53:15.000 --> 00:53:22.000
+But you have to. You have to pay attention to what you're doing. if you can make it.
+
+00:53:22.000 --> 00:53:29.000
+That sounds pretty. Yeah. But I get yeah and it does get complicated the highlighting of stuff to make sure you grab some things and not other things.
+
+00:53:29.000 --> 00:53:42.000
+It's not too hard there's one other way to do this, which is, if you were to take that list and sync it with kumu kumu has a option where you can have different like
+
+00:53:42.000 --> 00:53:50.000
+highlighted set chunks like if you have like a 100 nodes you can like have 20 nodes that like when you click through a story.
+
+00:53:50.000 --> 00:53:56.000
+It'll only show you certain ones and you can have lots of different views over the same information.
+
+00:53:56.000 --> 00:54:06.000
+Nice. So when do you ever know how how easy you are to experiment with this type of diagram in Kumo?
+
+00:54:06.000 --> 00:54:22.000
+But it's possible to do that I'm just coming here, I think, for right now, because the board is still, growing and still needs to. you know, to harness more details and things like that I think this is for me one of those
+
+00:54:22.000 --> 00:54:29.000
+things I would come back to because i'm not i'm not at the stage yet where i'm going to be pulling out sections.
+
+00:54:29.000 --> 00:54:33.000
+I'm still adding i'm guessing in about a month.
+
+00:54:33.000 --> 00:54:39.000
+I'll be at that stage So i'm just gonna make a note about how could work? Thank you.
+
+00:54:39.000 --> 00:54:49.000
+Those are both good good options. we'll see What the you see what see what the needs are at the time.
+
+00:54:49.000 --> 00:54:52.000
+Okay, I feel like I sucked up a bunch of time on this meeting. Thank you.
+
+00:54:52.000 --> 00:55:10.000
+That's been really fruitful for me I know you had a list of stuff, Vincent, so I I want to give air time back to you
+
+00:55:10.000 --> 00:55:32.000
+We were just going through this list, and then I would add 1, one other one Pete, which could be for next week, which is the getting getting messages from zoom chats.
+
+00:55:32.000 --> 00:55:36.000
+Maybe that's something you and I just follow up on.
+
+00:55:36.000 --> 00:55:48.000
+Yeah, i've i've got a i've got the I've got text chainsaw on that shop floor, but working on it.
+
+00:55:48.000 --> 00:55:59.000
+Yeah, let me know if you have any test test date I can play around with I'll have to go back and find out if I've got
+
+00:55:59.000 --> 00:56:07.000
+Hi, you know, I kind of wonder the same thing vincent about about synergies between the plexler table and and Lionsburg table.
+
+00:56:07.000 --> 00:56:13.000
+That's probably something that you and I should just get together and chat about.
+
+00:56:13.000 --> 00:56:23.000
+I have an oddball one. about ai, our image and art generators.
+
+00:56:23.000 --> 00:56:35.000
+So So let me ask, ask gently some questions, and and mostly figure out where else to ask questions.
+
+00:56:35.000 --> 00:56:48.000
+So. i've been playing around with first of all let me say that ai image our generators are tried overused. kind of bullshit all that kind of stuff.
+
+00:56:48.000 --> 00:56:58.000
+So I get that So let's put all of that part aside and talk about a tiny little bit of signal in there, too.
+
+00:56:58.000 --> 00:57:04.000
+I've been playing with different kinds of ai art stuff for a while.
+
+00:57:04.000 --> 00:57:14.000
+It. I finally got I finally got into using dolly the open Ai, the kind of the best one right now makes these nice photo realistic images, and really good.
+
+00:57:14.000 --> 00:57:32.000
+It's really good at it. so playing around with a and I I get one other images and other image generators.
+
+00:57:32.000 --> 00:57:37.000
+You have to go through like a 100 images generate a 100 things, and let me find the one or 2 that are interesting with open Ai.
+
+00:57:37.000 --> 00:57:49.000
+It's actually about one. in 10 which is pretty good but the other thing is, you can make really nice artistic images that nobody's ever seen before.
+
+00:57:49.000 --> 00:58:06.000
+And so there's different kinds of like the kind of the kind of imagery that you would go looking in stock photography for or conceptual art or or things.
+
+00:58:06.000 --> 00:58:14.000
+There's new stuff that like a non artistic person like me. can make right, and it's not that I can do it.
+
+00:58:14.000 --> 00:58:22.000
+It's, like many people, can do it right if you can play around with conceptual stuff texted images in your head.
+
+00:58:22.000 --> 00:58:27.000
+The the Ai does, You know, 99% of 90% of the heavy lifting.
+
+00:58:27.000 --> 00:58:40.000
+So i've got this catalog of 100 or so a really cool, interesting, different kinds of of images that should go in stock photography, someplace stock images, someplace right?
+
+00:58:40.000 --> 00:58:52.000
+And it's there's a I I can sense.
+
+00:58:52.000 --> 00:58:59.000
+I have this the same feeling that I used to get about the Internet before the Internet was big and about computers before computers were back and stuff like that.
+
+00:58:59.000 --> 00:59:03.000
+This is like a C change in the way that we do.
+
+00:59:03.000 --> 00:59:12.000
+Visual imagery. So you know, like any like pick up a high concept, not super high concept.
+
+00:59:12.000 --> 00:59:27.000
+Not an art magazine, but a high concept magazine about, you know, science, or something like that, or or management. and you're flipping through, and the images that you see are like Yeah, it's a pretty nice image they you know
+
+00:59:27.000 --> 00:59:34.000
+they paid a 100 bucks for that, or whatever. All of that kind of stuff is being done now by professional image.
+
+00:59:34.000 --> 00:59:51.000
+People who are, you know, professional photographers or professional visible graphic designers and stuff like that, like that whole market, and that that flow of imagery from the creative brains of visual artists.
+
+00:59:51.000 --> 00:59:55.000
+Like It's that whole thing is gonna blow up over the next you know.
+
+00:59:55.000 --> 01:00:04.000
+I don't know 2, 3 5 years or something like that, because anybody can do that kind of stuff Now anybody everybody can do that.
+
+01:00:04.000 --> 01:00:14.000
+And it's a little bit like photography when flicker happened, or you know, later, Instagram, or whatever it's a little bit like music.
+
+01:00:14.000 --> 01:00:24.000
+When we went from you had to be able to play a musical instrument to their synthesizers and sequencers and stuff like that, You don't have to play any kind of instrument.
+
+01:00:24.000 --> 01:00:30.000
+You still have to be musical. You have to be able to like conceptualize stuff in your head and get it out through tools.
+
+01:00:30.000 --> 01:00:33.000
+But the tools do all of the instrument playing for you.
+
+01:00:33.000 --> 01:00:39.000
+Right the a good image generator is kinda like that right it lets you.
+
+01:00:39.000 --> 01:00:43.000
+It doesn't replace the fact that you need to think about what you're doing.
+
+01:00:43.000 --> 01:00:50.000
+But it does replace the fact that you have to spend 15 or 20 years learning how to play the drums or the piano, or whatever right the guitar.
+
+01:00:50.000 --> 01:01:09.000
+So so open ai costs a little bit of money doesn't cut off the cost a lot of money, but it it costs more money than I kind of want to spend but it's also generating things that you would
+
+01:01:09.000 --> 01:01:12.000
+think would be able to generate at least a little bit of revenue, right like you put it.
+
+01:01:12.000 --> 01:01:22.000
+But an image of I have some amazing images of volkswagen buses with surf boards on top, for instance.
+
+01:01:22.000 --> 01:01:25.000
+And it's the kind of thing that you go wow!
+
+01:01:25.000 --> 01:01:29.000
+I'd i'd buy a poster of that you know and put it on my wall.
+
+01:01:29.000 --> 01:01:33.000
+So
+
+01:01:33.000 --> 01:01:46.000
+So I could just invent Pete Kaminsky, you know, visual designer or something, and start posting stuff to Art Station or to you know, stock I stock or whatever.
+
+01:01:46.000 --> 01:01:54.000
+Thanks Stacy, I I if I didn't have to add money to this.
+
+01:01:54.000 --> 01:02:01.000
+I wouldn't but but i'm ready to I I have so much fun doing this kind of stuff, and I love image images so much.
+
+01:02:01.000 --> 01:02:19.000
+I've you know. I've been doing photography and and watching artists and stuff for 20 years, or whatever with a lot of excitement I think if I asked you for a picture you would just give it to me Yeah, I I have plenty of pictures actually on them you know
+
+01:02:19.000 --> 01:02:25.000
+all of my flicker stuff is creative commons and I There's been a lot of my photos that end up in some publication, right?
+
+01:02:25.000 --> 01:02:29.000
+And you know it's like Oh, can we use your image end like sure thing.
+
+01:02:29.000 --> 01:02:35.000
+Just give me credit. The The thing is the generator, the open ai generator.
+
+01:02:35.000 --> 01:02:40.000
+Dolly costs enough money that it's like well I can't really just do this for fun.
+
+01:02:40.000 --> 01:02:55.000
+I have to like, you know. So so, first my first idea is like not the stock photography thing. I don't think that's the right way to do it, even though maybe it is next idea is like okay Well, just set up
+
+01:02:55.000 --> 01:03:00.000
+a Patreon Pete thanks vincent we'll see you soon.
+
+01:03:00.000 --> 01:03:09.000
+And you and I should catch up about air tables and and change laws and stuff your tables and chainsaw sounds dangerous, awesome.
+
+01:03:09.000 --> 01:03:14.000
+Juggling air tables and chains off.
+
+01:03:14.000 --> 01:03:19.000
+So figure out how to get it in this talk photography, stock image interface somehow.
+
+01:03:19.000 --> 01:03:24.000
+Get it set up for Patreon, and just go, hey?
+
+01:03:24.000 --> 01:03:28.000
+You know. throw some money in the tip jar and and that'll hopefully.
+
+01:03:28.000 --> 01:03:35.000
+I'll make enough to cover my my my habit you know
+
+01:03:35.000 --> 01:03:41.000
+Forget money entirely. Just post everything on Twitter. That would be fine, too.
+
+01:03:41.000 --> 01:03:51.000
+But what I really want is a the one of the problems with like dumping stuff into.
+
+01:03:51.000 --> 01:03:59.000
+I actually any of those any of those things it's so easy to make interesting images that well, it's so easy to make images.
+
+01:03:59.000 --> 01:04:04.000
+It's so easy to make images at that many people are going to start doing it, and they're gonna make junk.
+
+01:04:04.000 --> 01:04:12.000
+So the whole brand of you know it it's kind of like I don't know when when Cassius first came out.
+
+01:04:12.000 --> 01:04:22.000
+It's like everybody can play you know a crappy Cassio sounding piano, you know, so you get lots of people recording themselves, playing happy birthday, or whatever like that on a copy.
+
+01:04:22.000 --> 01:04:25.000
+Cassio piano and it's like look i'm a musician.
+
+01:04:25.000 --> 01:04:30.000
+So the same thing is happening. Same thing has happened in a big way with Ai Ai.
+
+01:04:30.000 --> 01:04:34.000
+Images to the extent that I think places will start just banning them.
+
+01:04:34.000 --> 01:04:41.000
+It's like dude if you're making ai stuff it's gonna be so trite there's gonna be a plus, you know, overwhelming amount of it.
+
+01:04:41.000 --> 01:04:45.000
+Just stop it. I don't want to see any of that so that's happening a little bit.
+
+01:04:45.000 --> 01:04:54.000
+I think it's gonna happen more the it's It's a throwing the baby out with the bathwater thing because they're going to be artistic geniuses.
+
+01:04:54.000 --> 01:04:59.000
+That used to not be able to paint, or whatever who can now make really cool stuff right?
+
+01:04:59.000 --> 01:05:13.000
+That that people would wanna see so so I kind of feel like you know, going to flickr going to art station, or something like that kind of has set up this thing where they're gonna have to have a backlash and
+
+01:05:13.000 --> 01:05:20.000
+because they're set up, you know I stock or whatever is set up around their business models around quality images.
+
+01:05:20.000 --> 01:05:26.000
+They don't need all of a sudden 10 x image floods into their it.
+
+01:05:26.000 --> 01:05:35.000
+Their business model is gonna suck for it right so there's some other interesting things about creating a images.
+
+01:05:35.000 --> 01:05:41.000
+Mostly they they need a little touch up mostly. They they need
+
+01:05:41.000 --> 01:05:48.000
+Actually. Sometimes they need a lot of touch up sometimes sometimes I get something it's like.
+
+01:05:48.000 --> 01:05:51.000
+Oh, my God! if I could have this as a poster, I would love it.
+
+01:05:51.000 --> 01:05:56.000
+But if you blow it up, you know when it starts to get as big as the poster, it's got all kinds of messy stuff in it, right?
+
+01:05:56.000 --> 01:06:02.000
+So I I kind of want to say, Okay, out of the 100 images that are pretty good.
+
+01:06:02.000 --> 01:06:06.000
+Pick 2 or 3 and give those 2 a real artist to redraw the whole thing.
+
+01:06:06.000 --> 01:06:10.000
+I wouldn't even have them edit the thing it's like just redraw this right.
+
+01:06:10.000 --> 01:06:17.000
+But conceptually. this is what I want, to see can you just make a pretty one of it, right for 200 bucks, or whatever 500 bucks I don't know.
+
+01:06:17.000 --> 01:06:29.000
+And then get a cut on you know let's let's sell us as a poster and and you know so so what I really want is something that's a little bit like Patreon, and a little bit like flicker
+
+01:06:29.000 --> 01:06:40.000
+or art stations. but it's set up at the foundational level to be have this flow for ai imagery right?
+
+01:06:40.000 --> 01:06:55.000
+Just kind of acknowledge that teleport you yourself 5 years into the future, and say there's going to be image markets which have amazing images kind of like a *d printing, or something like that right you can go to
+
+01:06:55.000 --> 01:06:59.000
+a threed printing marketplace now, and you can get really nice jewelry.
+
+01:06:59.000 --> 01:07:16.000
+That joy or figurines or game pieces or whatever right think ofverse, and and whatever there was a time when fingers didn't exist, and people were trading stl files, or whatever, and most of them were
+
+01:07:16.000 --> 01:07:27.000
+junk, right hey? look I made a you know I made it a little puzzle that can kind of that twist right, and it's amazing that it twists because that's hard to do in 3 threed printing.
+
+01:07:27.000 --> 01:07:34.000
+But now we're to the part where there's actually fine art of threed printing, and a marketplace for that.
+
+01:07:34.000 --> 01:07:41.000
+So what I kind of really want is a marketplace for very professional looking.
+
+01:07:41.000 --> 01:07:52.000
+Small images that came pretty that are pretty fresh out of the press, and then the workflow of turning those into bigger and better versions.
+
+01:07:52.000 --> 01:07:59.000
+Rating systems that make it so that it's easy to find images that you really like to to look at.
+
+01:07:59.000 --> 01:08:04.000
+I would, you know I would pay 5 bucks a month to join.
+
+01:08:04.000 --> 01:08:08.000
+I I think there's a little bit of spillover on Twitter, or something like that.
+
+01:08:08.000 --> 01:08:12.000
+There's a a guy who and so we're just getting into this right?
+
+01:08:12.000 --> 01:08:19.000
+But there's, somebody every once in a while there's somebody who discovers a new, a new way to do things and it's like, Oh, my gosh!
+
+01:08:19.000 --> 01:08:26.000
+I never thought of that. This is a wonderful thing there's a guy who accidentally stumbled into making bar charts with with Dolly.
+
+01:08:26.000 --> 01:08:33.000
+This image generated is called Dolly d a l e so it's half Wally.
+
+01:08:33.000 --> 01:08:37.000
+That picks our movie and half dolly the the Salvador Dolly.
+
+01:08:37.000 --> 01:08:42.000
+So he's like making bar charts with Dolly?
+
+01:08:42.000 --> 01:08:46.000
+And and one third the the sheep who was clowned.
+
+01:08:46.000 --> 01:09:01.000
+And there you go. Yes, I had never even realized that but yes, just so he's making charts, and they're like amazing right like It's like if if tufti had come up with this
+
+01:09:01.000 --> 01:09:04.000
+you know it's like Oh, my God tusty is a genius.
+
+01:09:04.000 --> 01:09:09.000
+But here's this random guy playing around with dolly who's our charts of like all kinds of different things.
+
+01:09:09.000 --> 01:09:16.000
+Like stuff that I had never imagined. But I would pay, you know, 5 bucks a month to be in, you know.
+
+01:09:16.000 --> 01:09:26.000
+Some kind of thing like medium, except not for text it's images or thing like Patreon, or whatever right and and you wanted that bubble up thing.
+
+01:09:26.000 --> 01:09:39.000
+So I actually went to another thing I have with Patreon. for a long time, even before all this ai stuff thing with patron is that you cannot find any anything of value in Patreon. Not that there isn't things.
+
+01:09:39.000 --> 01:09:47.000
+Of patriot. value in patreon it's just paycheck, and has no interest in helping you find the the signal in the noise right?
+
+01:09:47.000 --> 01:09:51.000
+It's like browser thing it's like here's a search bar, you know.
+
+01:09:51.000 --> 01:09:54.000
+Go for it, and it's like dude what am I gonna type into a search bar.
+
+01:09:54.000 --> 01:09:56.000
+And how are the revel relevance Things going to find me?
+
+01:09:56.000 --> 01:10:07.000
+The things that are amazing. Right? So another one of my startup ideas is, is just better better collaborative filtering for Patreon.
+
+01:10:07.000 --> 01:10:17.000
+Helping people find their favorite, you know artists and patreon. I've I have stumbled into a couple of amazing things on Patreon, and I would love to share them right.
+
+01:10:17.000 --> 01:10:22.000
+But they John doesn't help me do that so so anyway.
+
+01:10:22.000 --> 01:10:45.000
+So. How do I find people who don't think i'm crazy and and care about image images and and stuff, and Am Am I crazy and maybe that's it.
+
+01:10:45.000 --> 01:10:49.000
+I guess so might call you. You raise your hand and and waited for me to finish.
+
+01:10:49.000 --> 01:11:09.000
+Thanks. I don't think you're crazy I do think I mean It's it's very interesting the sort of scenarios that you were like putting up with where we're using early when you were talking about you know
+
+01:11:09.000 --> 01:11:18.000
+you look at a website or pick up magazine. And you know, picture photographer took that.
+
+01:11:18.000 --> 01:11:37.000
+A photo editor found that you know, an art director said to the photo editor, We need this because, you know, I mean all the all the people that go into making this thing that originally might have been in the head of the publisher
+
+01:11:37.000 --> 01:11:52.000
+editor could as solo act say, I want a picture of you know. I mean I i'm gonna it's funny because I was thinking for some reason I was thinking about this as a travel magazine.
+
+01:11:52.000 --> 01:12:04.000
+I want a picture of a happy couple on the you know, on a beach in Sicily, and there, you know
+
+01:12:04.000 --> 01:12:10.000
+One of them is mixed race, and you know, just like the the perfect picture for whatever it is.
+
+01:12:10.000 --> 01:12:19.000
+Yup, you know, I know what Dolly would produced in that case, and it would be yeah, a little squarely.
+
+01:12:19.000 --> 01:12:25.000
+But you know. Okay, let's see dolly get better and you get that thing.
+
+01:12:25.000 --> 01:12:43.000
+But it's not the real thing it's sort of like you know. I want a writer I want I want the writing equivalent of Dolly to write a story about what it would be like to take a vacation on beach in
+
+01:12:43.000 --> 01:12:50.000
+Sicily. and you know we can plug in the information with the links to the hotels that are there that we can take.
+
+01:12:50.000 --> 01:13:05.000
+So on the Internet. but it wouldn't be real and maybe you could give it to another writer, another photo retoucher, another, you know person to make it look, you know.
+
+01:13:05.000 --> 01:13:24.000
+But then you're really talking about kind of morally not I I hate to say morally, but you know good just in terms of of people being able to derive truth you're getting
+
+01:13:24.000 --> 01:13:41.000
+I wouldn't want to call it right but that's The day now is probably you can make art that looks like you are an artist right right?
+
+01:13:41.000 --> 01:14:04.000
+I mean the difference between parts. I mean it. It was interesting as you were talking about photo stock, and and I mean, I think this falls into into art, into illustration, and to create output as opposed to like the thing that you were the thing
+
+01:14:04.000 --> 01:14:06.000
+that you were describing, I mean the chain I was talking about.
+
+01:14:06.000 --> 01:14:11.000
+Sorry for being long winded about it, but I mean was just like that to me.
+
+01:14:11.000 --> 01:14:20.000
+Is not what you want. Yeah. and and the commercial market for it's sort of like.
+
+01:14:20.000 --> 01:14:37.000
+Also, I thought, as you were saying this, you know, as somebody who was a graphic designer back in the analog world, when desktop publishing happened suddenly, everybody was graphic designer and graphic designer whose graphic design there
+
+01:14:37.000 --> 01:14:42.000
+was a lot lot more graphic design in the world, and a lot more shitty, graphic design.
+
+01:14:42.000 --> 01:14:55.000
+And after a while you got to the point where you realized Oh, even though I have the tools to slap some comic fans real big on the top of this thing and and put it out.
+
+01:14:55.000 --> 01:15:01.000
+I kinda wanna look better than that, and I need one of those professionals who you know doesn't use an exacto blade anymore.
+
+01:15:01.000 --> 01:15:31.000
+Now uses you know yup and so by Wendy Hi lenny and the the i'm i'm really interested in what we're doing also how it How it How it does
+
+01:15:33.000 --> 01:15:39.000
+Jive with that Patreon problem, and it drives with the information.
+
+01:15:39.000 --> 01:15:48.000
+You know the the Qualitative and Information Trust network thing of like.
+
+01:15:48.000 --> 01:16:04.000
+Yeah, I I wanna see you know parts vw buses with surf boards. But I want to filter out stuff that somebody has looked at and said, Oh, that's crap Yeah.
+
+01:16:04.000 --> 01:16:23.000
+And and and or that this person I mean it gets into the whole information qualitative judgment, which which is fine.
+
+01:16:23.000 --> 01:16:27.000
+I we we know how to do that. reasonable now, you know, I mean.
+
+01:16:27.000 --> 01:16:45.000
+But the tool average person I mean I just as you say with patriarch like tools for you to set up your filters to say whether it's a visual or whether it's writing like this is what I
+
+01:16:45.000 --> 01:16:50.000
+want this is don't let through anything that doesn't meet this criteria.
+
+01:16:50.000 --> 01:16:57.000
+No, that's that's not there so I I Think what you're talking about is super useful.
+
+01:16:57.000 --> 01:17:05.000
+Probably you're right more absent in the voice visual space than it is.
+
+01:17:05.000 --> 01:17:16.000
+You know, people are at least working on it, and doing you know some kind of something in the realm of word algorithms.
+
+01:17:16.000 --> 01:17:23.000
+It's much harder with visuals the it's an interesting thanks for that.
+
+01:17:23.000 --> 01:17:38.000
+Michael, that's great and you're right at an important thing for me that that you said was that I'm I'm really interested in the creative creative part of it, and not not just the commercial pipeline you know
+
+01:17:38.000 --> 01:17:42.000
+Our director needs, you know, to fill in the space on a page.
+
+01:17:42.000 --> 01:17:47.000
+And and so she asked, You know either either dolly or a whole stream of people.
+
+01:17:47.000 --> 01:17:52.000
+That's the and the reason I bring up something like stock photos is right now.
+
+01:17:52.000 --> 01:17:59.000
+That's one of the outlets for interesting imagery right Another one would be a cafe press or something like that.
+
+01:17:59.000 --> 01:18:07.000
+Right. Take your cool picture of folks wagon with surfboard and make 3 of them are at 6 of them, and you know Buy on a t-shirt.
+
+01:18:07.000 --> 01:18:11.000
+Buy it, and I buy it on a mouse bat, or something like that.
+
+01:18:11.000 --> 01:18:21.000
+And there is Stocks illustration, you know I mean the like is is definitely, you know, relevant.
+
+01:18:21.000 --> 01:18:26.000
+And and it's applicable you know and and so.
+
+01:18:26.000 --> 01:18:38.000
+So then the other conundrum, i've got is that the current marketplaces, even the ones that you know I actually stopped finding stock imagery is really hard.
+
+01:18:38.000 --> 01:18:49.000
+Somebody said it's somebody said it's harder to find a good prompt for Dolly than it is to do a a stock image.
+
+01:18:49.000 --> 01:18:54.000
+Search, and I hate stock image searches. you know and I I know exactly what they mean, because it's like you know.
+
+01:18:54.000 --> 01:19:07.000
+Once, you you know I want. I want a picture of you know art installation in in Manhattan, and it's gotta be sunny, but not too sunny, and you know, like finding it out on on I stock or something
+
+01:19:07.000 --> 01:19:15.000
+like that is a pain in the but the funny thing is I feel like it's I i'm I don't enjoy looking for stock imagery.
+
+01:19:15.000 --> 01:19:40.000
+I love playing with Dolly so anyway. the marketplaces aren't great and their business model is set up around a different, a different era kind of so
+
+01:19:40.000 --> 01:19:46.000
+I'd i'd be interested in talking to you more about this, just to you know.
+
+01:19:46.000 --> 01:20:01.000
+Sounds sounds good I I also i'll just throw this out jumps into my head that, and i'm sorry I don't mean to sound so like cynical and negative.
+
+01:20:01.000 --> 01:20:19.000
+But I mean It's more like you sort of want to Think of the what could go wrong to think of the way where you want to go, how you, you you know, elevate the good and i'm imagining art, words and like
+
+01:20:19.000 --> 01:20:30.000
+poetry written by Ai, and you know which could sound nice and be interesting to do.
+
+01:20:30.000 --> 01:20:42.000
+And then the idea that you'd give it to somebody who I mean sort of on your model of like you know an artist could take this clue. G.
+
+01:20:42.000 --> 01:20:54.000
+Image that has the sort of like there's you know some staticy data, you know, in this one part, and they could like, say, Oh, I can see what should be there. and would be there.
+
+01:20:54.000 --> 01:21:13.000
+Let's move that. let's complete that today but put in some background. blah blah blah and likewise some poetry editor could like, say, Oh, what it's like translation almost you know and
+
+01:21:13.000 --> 01:21:30.000
+that's cool on one level but you know i'm i'm trying to figure out how you how you
+
+01:21:30.000 --> 01:21:34.000
+And incentivize and disincentivize like it.
+
+01:21:34.000 --> 01:21:50.000
+It kind of makes artists who might have a market for or like creating work to to, you know, really speak for themselves as artists to say.
+
+01:21:50.000 --> 01:21:56.000
+Well, I could gamble on that it's like you know from investment.
+
+01:21:56.000 --> 01:22:05.000
+That's 1 point of view. Okay, like good you know take the gamble on myself as unicorn, or I could spread my bets.
+
+01:22:05.000 --> 01:22:30.000
+Okay across like helping a bunch of other people make art that's you know better than the art they would be able to make just using the a yeah, probably not as great as the best artist pursuing their single vision would be it's
+
+01:22:30.000 --> 01:22:41.000
+It's just an interesting market dynamic I I know just a tiny bit of that from from music.
+
+01:22:41.000 --> 01:22:53.000
+Yeah. So tell me about that i mean i'm just curious like, Is there such a thing as somebody fixing editing somebody?
+
+01:22:53.000 --> 01:23:06.000
+Yeah. there's there's marketplaces where where you can hire a a producer, basically, or a mixer, you can hire a mixer, and a mixer can make something you know go from 80
+
+01:23:06.000 --> 01:23:14.000
+percent to 110% you know so you can.
+
+01:23:14.000 --> 01:23:23.000
+It's not there aren't really good marketplaces for this. but on the right boards, or whatever you can you know, find somebody is like you know. here's a bunch of Here's what I can do I can mix your thing I can
+
+01:23:23.000 --> 01:23:34.000
+make it done a lot better, I can make it you know production ready, and then they'll have a crappy demo, and then, you know, a fully nicely mixed, you know, maybe up level a little bit with some production, tricks and stuff, like
+
+01:23:34.000 --> 01:23:43.000
+that, and you know you go. Wow! and and it goes from, you know, amateur semi pro to basically pro right
+
+01:23:43.000 --> 01:23:48.000
+But Rebecca Black sounded like when she first.
+
+01:23:48.000 --> 01:23:54.000
+Yes, yes, I you know. Similarly, the the other thing that I like.
+
+01:23:54.000 --> 01:24:11.000
+I I've done enough music playing around with synthesizers and enough music production like like pro-level music production classes that I know.
+
+01:24:11.000 --> 01:24:15.000
+If I if I spent enough time I don't think I could do it in in finite amount of time.
+
+01:24:15.000 --> 01:24:19.000
+But if I spent enough time I could actually make pretty good music, and then
+
+01:24:19.000 --> 01:24:31.000
+And then you'd. wanna polish, it right so I guess the The one thing I don't have in that chain is is a vocalist, so I I know that you can also go you know you can go to a
+
+01:24:31.000 --> 01:24:41.000
+vocalist store, and you know find somebody who do these kinds of you know the style vocals that's all the vocals, and they've got Demos and stuff like that.
+
+01:24:41.000 --> 01:24:49.000
+So you could. You could build a band around yourself you know with piece parts right?
+
+01:24:49.000 --> 01:24:54.000
+Somebody's already done all of the creation of amazing wonderful sounds and stuff like that.
+
+01:24:54.000 --> 01:24:59.000
+And you know there's the sequencers and stuff like that which are hard to use by using them.
+
+01:24:59.000 --> 01:25:07.000
+You know, if you need, you know a a drummer or vocalist, or whatever you can find out.
+
+01:25:07.000 --> 01:25:11.000
+And then so you can do all of that with, you know.
+
+01:25:11.000 --> 01:25:20.000
+A few $1,000, not not $100,000. do you i'm curious.
+
+01:25:20.000 --> 01:25:50.000
+With that. Can you i'm also playing that out as Ai, you know, is all ai in my mind, and saying, Okay, I want like this phrase that and and tune that I wrote performed as if you know daft
+
+01:25:50.000 --> 01:26:05.000
+Punk had but you know chuck berry is the vocalist. yeah, they I I haven't seen I There's definitely I've seen style transfer kind of the way you do.
+
+01:26:05.000 --> 01:26:09.000
+You know. Take this photograph, but make it look like Pacso painted it.
+
+01:26:09.000 --> 01:26:20.000
+I've i've definitely heard that there's also a bunch of ai synthesizer tools that will you know.
+
+01:26:20.000 --> 01:26:33.000
+Help you set up melodies or beats or whatever there's not there's not the thing in Dalai where you can do a voice prompt of something as far as I know, they're probably some some
+
+01:26:33.000 --> 01:26:40.000
+experimental stuff, but not but there is a lot of and it's it's it's interesting because it's a little bit more subtle.
+
+01:26:40.000 --> 01:26:50.000
+Right. The music, the virtualized musician marketplace, has come together like more piecemeal over time.
+
+01:26:50.000 --> 01:26:53.000
+Dolly is like coming in like a freight train right now.
+
+01:26:53.000 --> 01:27:01.000
+The whole idea of of image and gans, and all that kind of stuff is just like, you know, like blossomed in the the space of like a year and a half, or something like that.
+
+01:27:01.000 --> 01:27:11.000
+So we we find yourselves the whole everybody's Perception of it, and the marketplace, and all that kind of stuff is in a weird, volatile kind of hyper, you know.
+
+01:27:11.000 --> 01:27:17.000
+Hyper. Yeah. hey? Stacey, hey? Yeah, I heard you say something.
+
+01:27:17.000 --> 01:27:26.000
+I have to look for it. but i've seen the most amazing music videos that have taken something like from the 20 like, you know.
+
+01:27:26.000 --> 01:27:38.000
+And for taking pictures from the twenties and put it with music of the age, and I've seen them do it with me, and it's incredible, and you know have it marked somewhere.
+
+01:27:38.000 --> 01:27:42.000
+So i'll find them. but you know the idea was when it was ready to reach out to them.
+
+01:27:42.000 --> 01:27:54.000
+So I think that's there's a there's a music video that somebody I I don't think it was Dolly, but they did a ai image generator for the whole music video and it's
+
+01:27:54.000 --> 01:28:03.000
+all in motion. So you know, the the lyrics are talking about, you know I don't know desolation and love, and blah blah blah, and the whole thing is like changing.
+
+01:28:03.000 --> 01:28:17.000
+You know, like an ai art generator and it's would have taken a brilliant, You know visual artist to do that to do that Now, I'm thinking of another one which was hand drawn and it's like Wow!
+
+01:28:17.000 --> 01:28:21.000
+That's amazing
+
+01:28:21.000 --> 01:28:35.000
+I don't think I mean yeah the yeah, I actually prefer that, because then they're using their passion like i'd rather go to them.
+
+01:28:35.000 --> 01:28:52.000
+And say, you just do that that's not what we need ai for yeah, I mean, you know, deep fix of course are like the and and you know I I actually I mean I think it's fun to see?
+
+01:28:52.000 --> 01:29:08.000
+Deep fix that are don't that Don't not to be deep face like what if yeah, I mean just you know the the the meme is like Nicholas Cage was this scene.
+
+01:29:08.000 --> 01:29:18.000
+But you know I mean but they're a lot of other things that are out of the past, and clearly impossible that you know are interesting.
+
+01:29:18.000 --> 01:29:33.000
+But you know, Yeah, I I I guess you know the the the challenge the societal challenge, The marketplace challenged.
+
+01:29:33.000 --> 01:29:39.000
+You know they're just all these all these vectors on which you want to be transparent.
+
+01:29:39.000 --> 01:29:57.000
+Yeah, very cool that this exists. But don't pass it off as truth, and you know, and and an art standpoint. you can easily see that I mean you definitely get to the point where people are are buying art for their living
+
+01:29:57.000 --> 01:30:03.000
+spaces in the way that they sometimes try to now like.
+
+01:30:03.000 --> 01:30:07.000
+Oh, you know our couch is red, so we like want something.
+
+01:30:07.000 --> 01:30:19.000
+This, and you know it would be nicer it was about this big, and you'll be able to specify all of that stuff and the style it's in, and picasso never did that.
+
+01:30:19.000 --> 01:30:26.000
+But i'm gonna have an original that kind of looks like a picasso and fits the space in my decor.
+
+01:30:26.000 --> 01:30:44.000
+And okay. Alright, I I think it is I think I think that is good. And I my guess is, it's kind of gonna be like like like you.
+
+01:30:44.000 --> 01:30:55.000
+Were saying, we we've We got desktop publishing, and and all of a sudden everybody could use any font they wanted, and that made them a available layout.
+
+01:30:55.000 --> 01:31:06.000
+You know designer but then at some point, you know It's like, okay, you know, you still need a professional in the mix.
+
+01:31:06.000 --> 01:31:21.000
+I I can kind of imagine that that you you'd want to go to a marketplace and get a person to say, Okay, I want it to look like you know, Picasso. But it's also got to be red and and I wish
+
+01:31:21.000 --> 01:31:25.000
+It had a little picture of my dog in it, too, or something like that.
+
+01:31:25.000 --> 01:31:31.000
+And the professional, you know, is different than the visual designers.
+
+01:31:31.000 --> 01:31:46.000
+We reach out for now. but anyway, you know I mean it's not. it's not different, not not hugely different from the sort of I mean the the distance between.
+
+01:31:46.000 --> 01:31:54.000
+What it's called the that design marketplace 99.
+
+01:31:54.000 --> 01:32:14.000
+Yeah, whatever it is you know, they're they're just a lot of you could get an ai to do some of the stuff that some of generate and you know come in with a really low bid and and it
+
+01:32:14.000 --> 01:32:23.000
+will, you know it will have a big effect on the market just like desktop publishing did.
+
+01:32:23.000 --> 01:32:40.000
+And thanks, thanks. thanks. That was really helpful. to be continued the the frustrating thing, or something is like 20 years ago, or something.
+
+01:32:40.000 --> 01:32:45.000
+If I were in the same place, it'd be like okay, i'm writing up a a powerpoint.
+
+01:32:45.000 --> 01:32:52.000
+And gonna go pitch for you know 1 million dollars or whatever to get the startup going, cause I can just see it and taste it.
+
+01:32:52.000 --> 01:33:06.000
+The you know, there's, you know, 2 3 5 years is going to be marketplaces for visual art that have this whole you know rating and ranking and and and casual casualties viewing
+
+01:33:06.000 --> 01:33:18.000
+subscriptions, and you know the the back end workflow to to hook together. People who, you know could help you, you know, so so I can taste it.
+
+01:33:18.000 --> 01:33:29.000
+You know no, I mean I I can totally see it I mean it's like you look at like like
+
+01:33:29.000 --> 01:33:34.000
+Have we talked about? 20 by 200? Are you familiar with 20 by 200?
+
+01:33:34.000 --> 01:33:47.000
+A Are you looking at? yeah?
+
+01:33:47.000 --> 01:33:51.000
+So a gallerist that I know who has a place in.
+
+01:33:51.000 --> 01:33:57.000
+You know East village
+
+01:33:57.000 --> 01:34:05.000
+Was was having like I mean she put up stuff in her space, and you know it was the original, and people could.
+
+01:34:05.000 --> 01:34:13.000
+Then she started doing this thing with different artists, first artists who were exhibiting under space that like, Okay, there was the original.
+
+01:34:13.000 --> 01:34:24.000
+And then there was, in addition of 200 miniatures that would be available for $20, to make art accessible for more people.
+
+01:34:24.000 --> 01:34:29.000
+But put artists, and you know control of it, and then that threw it to its own separate thing.
+
+01:34:29.000 --> 01:34:50.000
+Where there was there was like the there were 200 copies of it for $20, and then there were 20 larger higher quality copies of it for $200, and then there was $2,000, or whatever, and and then you have like art
+
+01:34:50.000 --> 01:34:57.000
+dot, com and frame bridge. and you know, like all these other things that are sort of making art accessible in this way, right?
+
+01:34:57.000 --> 01:35:04.000
+And for you. So digital art to be
+
+01:35:04.000 --> 01:35:10.000
+Marketplace as that, and then 20 by 200 is like a great I mean the stuff that they have there's.
+
+01:35:10.000 --> 01:35:20.000
+There's some really, you know good features
+
+01:35:20.000 --> 01:35:28.000
+Might be worth looking at just for. So I mean like this is something that you that your I just can just taste.
+
+01:35:28.000 --> 01:35:43.000
+It is, is driving you to like really wanna do it pretty close.
+

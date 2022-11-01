@@ -1,0 +1,1763 @@
+WEBVTT
+
+00:00:08.000 --> 00:00:20.000
+we're all set This is flotilla Friday, Friday, July 20, s, 2022. Wendy, Do you want to go first, or sure?
+
+00:00:20.000 --> 00:00:28.000
+Yeah, we were talking about the kind of the rising need for creating a social architecture group or attention on those kinds of things.
+
+00:00:28.000 --> 00:00:41.000
+Yeah for couple of months, and then trying to put together in well forever. I've been trying to put together a flow right of all the parts and all the pieces, and I've been doing it in a bunch of different ways, and it
+
+00:00:41.000 --> 00:00:46.000
+kept. Yeah. kept feeling like I needed to do it on mirror.
+
+00:00:46.000 --> 00:00:53.000
+And then but every time I try and create this flow it gets so nodded that I end up stopping.
+
+00:00:53.000 --> 00:01:03.000
+So something happened this week, and finally, yesterday I I think I spent maybe 6 h putting a flow together, and it finally makes sense to me at least.
+
+00:01:03.000 --> 00:01:07.000
+So now the question will be, Does it make sense to anyone else?
+
+00:01:07.000 --> 00:01:19.000
+But I realize once I I that shift I made that made the difference was, instead of trying to do it from their perspective of Meta project, or from the perspective of interoperability in flotilla.
+
+00:01:19.000 --> 00:01:24.000
+Or from. I did it from their perspective of a person kind to a website.
+
+00:01:24.000 --> 00:01:37.000
+And where do they go? And then so that made the projects and the groups ancillary, and at the fringe, instead of those being at the center, and the people being on the fringe, and so it also tells a better story, right so you
+
+00:01:37.000 --> 00:01:41.000
+can walk it through, and you can imagine yourself, I think, a little bit better.
+
+00:01:41.000 --> 00:01:51.000
+Walking through Oh, yeah here's where it go Oh, that's interesting. and then I would do this and then I would do that, and I think it just helps so it's definitely flowing so i'm i'm i'm following
+
+00:01:51.000 --> 00:01:55.000
+it whether it turns out to be something it's definitely helping me a lot.
+
+00:01:55.000 --> 00:02:08.000
+And it's already really deep. and rich so I Yeah, I definitely wanna share that the flow that I've been doing today and get some feedback, so that we can you guys can help me figure out the parts that are working in terms of a
+
+00:02:08.000 --> 00:02:14.000
+way to communicate, and parts that are not awesome in terms of social architecture.
+
+00:02:14.000 --> 00:02:29.000
+It's definitely in that in that that's cool I I brought up the my the so the the thing that I ended up calling social architecture.
+
+00:02:29.000 --> 00:02:33.000
+I'm not sure that's the destiny for it yet, but on the map we were just call it turned out.
+
+00:02:33.000 --> 00:02:35.000
+I thought it would. what's on the navigation call it was on the map.
+
+00:02:35.000 --> 00:02:39.000
+Weepers call. I wrote a little bit on Lionsburg 10 square.
+
+00:02:39.000 --> 00:02:51.000
+There was a question that's buried asked about currency, experiments, and so just to say something about the currency experiments, currency experiments need social architecture as well as toolmaking and as well as kind
+
+00:02:51.000 --> 00:03:01.000
+of the social dimensions background of how we work together as people So in the process of that, I wrote up, you know pretty much what I meant by the social architecture, Right?
+
+00:03:01.000 --> 00:03:09.000
+There was another thing, and reminded me going back to find those notes from map weepers reminded me of another another thing that I brought up on map.
+
+00:03:09.000 --> 00:03:20.000
+Weavers, and then talked separately with wendy Alfred a little bit more about which is the idea of in.
+
+00:03:20.000 --> 00:03:37.000
+If anything is actually not even quite project teams it's or it's the there's a thing that I think of as role separation oppositional roles is maybe the the web page I would or the
+
+00:03:37.000 --> 00:03:52.000
+wiki page I would write about it and is basically the idea that you can get into situations where it's really important to have 2 separate people
+
+00:03:52.000 --> 00:03:58.000
+Who are in a bit of opposition about how to get something done.
+
+00:03:58.000 --> 00:04:13.000
+So for me the the classic examples come out of product development where I've worked for a while, and you need a strong tech lead advocating for the technology and how you're building things and building it you know with quality.
+
+00:04:13.000 --> 00:04:25.000
+And care and things like that. and then you need a product manager who cares about the technology, but doesn't care about it like
+
+00:04:25.000 --> 00:04:30.000
+She knows that the devil the the tech lead is the one that's responsible for that.
+
+00:04:30.000 --> 00:04:35.000
+So with her hat on. she's like I care about the user experience.
+
+00:04:35.000 --> 00:04:37.000
+I care about how how the sales team is gonna sell it.
+
+00:04:37.000 --> 00:04:44.000
+How you know and and and you know i'm an advocate for the product.
+
+00:04:44.000 --> 00:04:49.000
+The overall product, vision and usability and user advocacy and things like that.
+
+00:04:49.000 --> 00:05:02.000
+So when those aren't the only 2 roles that I think you want to see in opposition, but a failure mode a very common failing mode is for there not to be enough people to fulfill those
+
+00:05:02.000 --> 00:05:06.000
+roles, and you end up. You know the the
+
+00:05:06.000 --> 00:05:14.000
+The maker ends up being also the user advocate and also the usability expert and all that kind of stuff.
+
+00:05:14.000 --> 00:05:20.000
+And it's just a bad way to make decisions about you know. should should we do it this way or that way?
+
+00:05:20.000 --> 00:05:26.000
+Even as it's hard to try switching hats back and forth.
+
+00:05:26.000 --> 00:05:31.000
+You know. Okay, Now i'm gonna think about what features we need, and how usable they're gonna be.
+
+00:05:31.000 --> 00:05:40.000
+And now i'm thinking about the technical architecture and how those features will get built, the you you end up cheating you end up just meeting one or the other.
+
+00:05:40.000 --> 00:05:45.000
+Because you know too much about, and You you care too much about both of them at the same time.
+
+00:05:45.000 --> 00:05:53.000
+You just can't can't Do a good job so if you pull those roles apart into oppositions friendly opposition.
+
+00:05:53.000 --> 00:06:01.000
+I don't mean angry opposition, but where each of them is advocating strongly for 1 one thing or another thing.
+
+00:06:01.000 --> 00:06:07.000
+Those things are so different that you want somebody advocating for all of it with all their heart.
+
+00:06:07.000 --> 00:06:20.000
+And with compassion for the other side, but in compassion and conversation and things, but not not over agreement, not easy agreement about things that are hard.
+
+00:06:20.000 --> 00:06:31.000
+So so with both of those ideas, and then realizing that they kind of fell on the floor this week, and i'm busy and got other things to do, and I don't really want to spend the time to write about them.
+
+00:06:31.000 --> 00:06:39.000
+Thanks, thanks, Wendy, for suggesting that we could maybe talk through them, and maybe I can go back to this transcript and copy and paste a whole bunch of stuff.
+
+00:06:39.000 --> 00:06:55.000
+It made me think about a meta thing, which is that situation when, in conversations smaller conversations, we come up with important ideas that need larger visibility, more visibility in the group.
+
+00:06:55.000 --> 00:07:07.000
+And one way I know to do that and this isn't the only way that think in this spirit kind of just innocently asked, You know.
+
+00:07:07.000 --> 00:07:09.000
+Oh, how about this thing? and i'm like you know I have A.
+
+00:07:09.000 --> 00:07:21.000
+I have a big part of my answer is something that you know you and me and spirit talked about on tuesday, but didn't didn't flow back into the larger group.
+
+00:07:21.000 --> 00:07:30.000
+So my my general idea for that obviously bringing stuff up in a chat Channel and town square, or something, you know, hey?
+
+00:07:30.000 --> 00:07:35.000
+This was the week that we thought about a new thing you know here's this new thing.
+
+00:07:35.000 --> 00:07:40.000
+The the problem with just doing it in chat is that
+
+00:07:40.000 --> 00:07:45.000
+If somebody misses those messages and comes to the conversation a week later.
+
+00:07:45.000 --> 00:07:48.000
+It's kind of scrolled off and we're not talking about it anymore.
+
+00:07:48.000 --> 00:07:50.000
+It doesn't make any sense it's not a live anymore.
+
+00:07:50.000 --> 00:07:56.000
+And it's not even really saved anywhere it's just scrolled off.
+
+00:07:56.000 --> 00:08:07.000
+So I think the thing to do more so is to aim for using the wiki as a as a persistence layer.
+
+00:08:07.000 --> 00:08:19.000
+But then a lot of things, a lot of new ideas it doesn't make sense to write a really good wiki page like the oppositional roles. one I could probably write a good wiki page on the social architecture thing i'm not
+
+00:08:19.000 --> 00:08:23.000
+sure you know. maybe, that's the wrong name I want to talk to a bit with people more about it.
+
+00:08:23.000 --> 00:08:32.000
+So it's a a thing where you want a wiki page, but kind of a conversational one, not like a Here's our here's our total wisdom on this topic.
+
+00:08:32.000 --> 00:08:43.000
+It's more like here's the conversation about this thing and we're trying to figure it out and this might turn into 0 wiki pages in 6 months, maybe we'll just you know absorb everything and and it'll
+
+00:08:43.000 --> 00:08:47.000
+go away, or maybe it'll turn into 10 or 20 wiki pages and a whole section of the wiki.
+
+00:08:47.000 --> 00:08:52.000
+I don't know yet right so the way that i've thought about.
+
+00:08:52.000 --> 00:09:04.000
+That is what I call blogging in the wiki We've We've got some lightweight blogging structure setup for, especially Jordan Jonathan and I have blog structure Setup We're not really using it yet, I
+
+00:09:04.000 --> 00:09:10.000
+think Jonathan actually is a little but even though it might sound counterintuitive or something like that.
+
+00:09:10.000 --> 00:09:15.000
+I i've used this pattern before in wikis and it works really well.
+
+00:09:15.000 --> 00:09:23.000
+Where in in actually in my. I did this in my wiki company mostly.
+
+00:09:23.000 --> 00:09:27.000
+I. I also taught clients how to use, and things like that in the Wiki Company.
+
+00:09:27.000 --> 00:09:38.000
+What I did. is suggest that everybody blog every day actually you know Here's what happened to me Here's the things that were going on. Here's what I learned Here's Here's the problems I have and things like
+
+00:09:38.000 --> 00:09:47.000
+that there are things that quotidian stuff. If you capture sometimes you can look back over the past couple of weeks or go back to something.
+
+00:09:47.000 --> 00:10:05.000
+6 months later, and go didn't you know didn't you know I, we we learned that we talked about something like that, and you can pull out stuff that that in the moment seems interesting, but not like like persistently important and you can
+
+00:10:05.000 --> 00:10:08.000
+kind of aggregate those into time in time into something, you know.
+
+00:10:08.000 --> 00:10:17.000
+You can pull it back out of the the diary and turn it into like a real discussion in in this case it wouldn't even it.
+
+00:10:17.000 --> 00:10:29.000
+I what I should do today, or what I should do this week I guess when I have time I don't probably don't have time today, but soon what I should do I think is right to put blog post thoughts about social architecture another
+
+00:10:29.000 --> 00:10:35.000
+blog post thoughts about oppositional roles.
+
+00:10:35.000 --> 00:10:41.000
+And that pulls it conceptually kind of into discussion. space rather than settled.
+
+00:10:41.000 --> 00:10:50.000
+Settled and group agreed upon culture.
+
+00:10:50.000 --> 00:11:04.000
+So you pull it into blog posts. Maybe people comment on the blog posts, and maybe we have calls where we bring it up, and we can actually look at the blog posts on on the Wiki page and somebody else.
+
+00:11:04.000 --> 00:11:09.000
+Can go. okay. Well, that's great here's my thoughts on that in my blog.
+
+00:11:09.000 --> 00:11:22.000
+That's great pete but that's crazy and and i'll have a blog post saying Why, it's crazy. but you get the you get conversational in the wiki, and then you can kind of
+
+00:11:22.000 --> 00:11:28.000
+jiggle that stuff around and move it. And, Annie, it is a old knowledge term we used to use.
+
+00:11:28.000 --> 00:11:35.000
+You can, you can improve it, and gradually make it into
+
+00:11:35.000 --> 00:11:41.000
+Culture rather than just, you know, have happen sounds for one or 2 people.
+
+00:11:41.000 --> 00:12:00.000
+So long story short, or reminded me again that this, that that whole blogging pattern, and the the gradient or the spectrum of kind of page maturity and thinking maturity, is something that I think is important in our in our
+
+00:12:00.000 --> 00:12:09.000
+wiki most most long term wikis I have a lot of experience doing that.
+
+00:12:09.000 --> 00:12:14.000
+I Haven't written down, or even talked about most of it with with the Meta project.
+
+00:12:14.000 --> 00:12:17.000
+So we're flotilla or map weavers or whoever.
+
+00:12:17.000 --> 00:12:22.000
+So reminds me again to kind of get that going.
+
+00:12:22.000 --> 00:12:33.000
+So I guess one more quick thought. as I was describing that spectrum of page maturity and moving from conversation, and and actually just even observations, not even conversation.
+
+00:12:33.000 --> 00:12:44.000
+You know here's what happened to me today. here's the things I looked up on the web in order to get my job done to get through the day to answer question that kind of captures stuff.
+
+00:12:44.000 --> 00:12:57.000
+Is, and then moving that into more mature and larger discussions that have had more people thinking and working on it, and more more potentially.
+
+00:12:57.000 --> 00:13:02.000
+It's the same kind of things you know hey? look spirit Blog this on, you know.
+
+00:13:02.000 --> 00:13:13.000
+Last month, and I blogged that on this month and it turns out they're kind of connected, and let's write another blog post about that that kind of thing is something that is really obvious for me that you do in a
+
+00:13:13.000 --> 00:13:18.000
+Wiki and i'll bet most people all kind of thinking about Wikipedia.
+
+00:13:18.000 --> 00:13:23.000
+Maybe as as a wiki that they know of kind of it's like you don't do that in Wikipedia at all right.
+
+00:13:23.000 --> 00:13:39.000
+Every every article is supposed to be in an Encyclopedia article, and if it's not go away and come back when you can post it in encyclopedia, yeah and if it's not final, product it
+
+00:13:39.000 --> 00:13:50.000
+gets deleted it doesn't get developed So So really, actually really important distinction.
+
+00:13:50.000 --> 00:13:56.000
+Yeah, because there's not that many tools that help facilitate the inception of things.
+
+00:13:56.000 --> 00:14:00.000
+It's a a beautiful thing in the in the wiki Company
+
+00:14:00.000 --> 00:14:05.000
+We had, you know, after a couple of years, 2, 3, 4 years.
+
+00:14:05.000 --> 00:14:12.000
+You could look at a conversation that was going on in the Wiki, and you didn't even know that it started to be a conversation.
+
+00:14:12.000 --> 00:14:25.000
+But it was, you know, if you looked back you know we're starting to talk about these things in a couple of separate places, and then you could see a coalass. you could see a team being confused, and really really not understanding how you would
+
+00:14:25.000 --> 00:14:34.000
+ever resolve some questions about, you know, product, design or audience, or market, or whatever right really tough questions.
+
+00:14:34.000 --> 00:14:42.000
+And over time people would pick at it. you know after a couple of months they would have a an idea, and they'd they'd blog a little bit more about it.
+
+00:14:42.000 --> 00:14:51.000
+And you could see you could trace a conversation and a thinking process, and a resolution, a surprising resolution.
+
+00:14:51.000 --> 00:14:59.000
+You know, that came out of being able to kind of Observe all of that knowledge asynchronously over years.
+
+00:14:59.000 --> 00:15:03.000
+It's really really wonderful on phone the same kind of thing.
+
+00:15:03.000 --> 00:15:12.000
+It. It happens, and you know, like you kind of do that in scientific papers or or art, art criticism, or something like that.
+
+00:15:12.000 --> 00:15:15.000
+It kind of happens in, especially in the Torah.
+
+00:15:15.000 --> 00:15:20.000
+The Torah is is built to, has has evolved over time.
+
+00:15:20.000 --> 00:15:29.000
+Where you have a an early writing and then you get rabbis, you know, over centuries, adding things around around it.
+
+00:15:29.000 --> 00:15:38.000
+So it it happens and it's beautiful wherever it happens but Wikis are really good on it, and so I hope we get there.
+
+00:15:38.000 --> 00:15:52.000
+Yeah, that's cool so no go Michael and I hope my ambient noise is to it's not bad at all.
+
+00:15:52.000 --> 00:15:59.000
+So in thinking about i've been thinking about this a lot, too, and we had, you know.
+
+00:15:59.000 --> 00:16:17.000
+If you were you were bringing up spirit his comment and Jonathan's, or if it's reaction to his actions on the Wiki and
+
+00:16:17.000 --> 00:16:41.000
+And then hearing you talk about about blogging in that context, it's it's to me really a fascinating way that people can of of blogging as you know to have a blog to be a
+
+00:16:41.000 --> 00:16:49.000
+blogger to have even if you're you know blogging every day about mundanity.
+
+00:16:49.000 --> 00:16:53.000
+Well, okay, that's your that's your blog it's a boy.
+
+00:16:53.000 --> 00:17:13.000
+It's a diary or you know somebody who posts on medium, on privacy issues, or like you know the people are to have a blog is to have a purpose for your blog, and for to be a blog it has
+
+00:17:13.000 --> 00:17:24.000
+to be, you know, periodic in some way, irregular potentially, but but not just one thing.
+
+00:17:24.000 --> 00:17:32.000
+And I think that's really daunting for a lot of people I mean it's it's daunting for me.
+
+00:17:32.000 --> 00:17:40.000
+I know, I've never had a blog in a way That post something.
+
+00:17:40.000 --> 00:17:50.000
+It's like the difference between blogging and posting which unfortunately, you know, devolves to.
+
+00:17:50.000 --> 00:18:11.000
+Oh, I'm gonna post, Then that means I have to post some place where I don't quote unquote have a blog, which means Facebook or Twitter, or you know, some place where you didn't can make a point and
+
+00:18:11.000 --> 00:18:32.000
+posting is a lower bar, but it's still like I mean if you if i'm thinking about some of the issues that are feel like spirit was talking about, and you know, come up in the in the you know we will we were using the
+
+00:18:32.000 --> 00:18:57.000
+metaphor. Oh, if the the that jordan is putting together and wants involvement input on but is being sort of administrative about If that's the wellly jelling constitution, then that input is the debate you
+
+00:18:57.000 --> 00:19:17.000
+know on the war of the whatever body it is and I if i'm hearing you right that's what You're. That's an example of something that you might say that should take place. blog Posts is that is that right
+
+00:19:17.000 --> 00:19:37.000
+so far. yes, I I can. I can talk more. But maybe you have another question, or some more thought that it is there.
+
+00:19:37.000 --> 00:19:51.000
+So to to post like let's say you know
+
+00:19:51.000 --> 00:19:58.000
+You know Jordan does something about you know, to participate in this movement.
+
+00:19:58.000 --> 00:20:03.000
+You know.
+
+00:20:03.000 --> 00:20:17.000
+We're all taking individuals that can and put through so we're only taking groups, you know, and then somebody wants to push
+
+00:20:17.000 --> 00:20:31.000
+Comments on it, or question, or something to block most on it being the means of which in which they would do do that they would have to.
+
+00:20:31.000 --> 00:20:47.000
+They couldn't like put they could reference the line in the post in the wiki that says that policy, and just say, Hmm!
+
+00:20:47.000 --> 00:20:50.000
+I'm not so sure about this? we should talk about it?
+
+00:20:50.000 --> 00:21:08.000
+They kind of have to present what it was that's happening where and and you know, link to it potentially and say, well, a bad idea, and if they really want it to be successful with their update, they probably have to you know present both sides you
+
+00:21:08.000 --> 00:21:31.000
+know what I mean. So feeling the tension between I was in wondering, and I I've never blogged in a wiki, and so i'm wondering how would that first how that might better work great great
+
+00:21:31.000 --> 00:21:38.000
+questions and and thanks so much, Michael. when you've got your hand up.
+
+00:21:38.000 --> 00:21:58.000
+Yeah, so The way i've seen this in my own thought experiments is there would be, I always kind of thought it more as a trove actually the way that, or as a factor stream.
+
+00:21:58.000 --> 00:22:06.000
+Even Michael. One of the things I like about troops is you can, and this is on catalyst is.
+
+00:22:06.000 --> 00:22:14.000
+You can make just a post like a comment you know you could just put something on there, but it's all, or you know, you can be links to videos.
+
+00:22:14.000 --> 00:22:17.000
+It could be links to a mirror board. it could be links to an article.
+
+00:22:17.000 --> 00:22:22.000
+It can be a blog post. It can be any, you know, a single blog post somewhere else.
+
+00:22:22.000 --> 00:22:27.000
+And it gathers it all right underneath the particular topic.
+
+00:22:27.000 --> 00:22:33.000
+I'm I that's maybe it's just the that's the way I think you know, because I tend to be a mapper.
+
+00:22:33.000 --> 00:22:47.000
+But to me, too, Logs feel too heavy most of the time like it's almost like they're further down the process for me now.
+
+00:22:47.000 --> 00:22:55.000
+Some people may feel like writing is the is the first iteration of an idea from from that came from seemingly nowhere.
+
+00:22:55.000 --> 00:23:02.000
+And It's the first thing that comes out for them i'm Sure, that would be true, for my daughter who's a writer for me.
+
+00:23:02.000 --> 00:23:16.000
+That's it's not my first thing and so if i'm still playing around with something writing doesn't feel comfortable, and if I just found something that I think is relevant, and I want other people to know and I want it to go
+
+00:23:16.000 --> 00:23:28.000
+somewhere. just making a quick link in a post I think is important. I think we've we talked about that in other spaces, too map weavers, and other places where I want it to be held in there in the quote right spot which of
+
+00:23:28.000 --> 00:23:39.000
+course, is a whole conversation into itself. What? how to, how to tag it or categorize it, or feel the flexibility to put it where I want to put it relative to other things, and yet still have other people find it that it
+
+00:23:39.000 --> 00:23:49.000
+gets held there there's a comfort knowing it's held there until the right moment, which is then up to other people to pick it up and take it forward.
+
+00:23:49.000 --> 00:23:59.000
+I I see a lot of that. The importance of that happening in the conversations of late, where we're saying, Ha, ha!
+
+00:23:59.000 --> 00:24:03.000
+How do we pass the baton right? How do we pass the baton from one person to another?
+
+00:24:03.000 --> 00:24:12.000
+And in this case it's how can an idea come forward and for someone else to pick it up and move it along.
+
+00:24:12.000 --> 00:24:14.000
+And I think Wikis are one way to do it for me it's not.
+
+00:24:14.000 --> 00:24:22.000
+I can already tell for me it's not gonna be the only way
+
+00:24:22.000 --> 00:24:31.000
+And this ultimately this idea of allowing ideas to come forth and allowing threads to kind of and rest, and then someone to finally go.
+
+00:24:31.000 --> 00:24:34.000
+Hey? Wait a minute, You know we need. We could weave these together.
+
+00:24:34.000 --> 00:24:39.000
+This is a thing and needs attention that there is a process for that is critical.
+
+00:24:39.000 --> 00:24:51.000
+I think, because we're trying. to play in these spaces where new ideas are coming forward all the time, and we don't have good processes for that and I and then I just wanna speak what I put into the chat
+
+00:24:51.000 --> 00:24:55.000
+so the link to 2 links to mirror boards.
+
+00:24:55.000 --> 00:24:58.000
+The first one is the one I really wanted to share today and I'm.
+
+00:24:58.000 --> 00:25:04.000
+I think it probably be wise if I screen share at some point and and walk you through it, because it's very big.
+
+00:25:04.000 --> 00:25:14.000
+And then the other one is the cycle of emergence and I only brought that up because you were talking about how ideas the inception of ideas, and it immediately brought me back to that Eventually i'm going to incorporate
+
+00:25:14.000 --> 00:25:28.000
+the cycle emergence somehow into the larger master flow but I haven't done that yet. So I just put it on here as well, because this is, you know, at things that i've started to put in the cycle of emergence is exactly what we're
+
+00:25:28.000 --> 00:25:36.000
+talking about right in terms of how do, we shepherd things through the through the whole cycle, so that we can get to something that's static or or feels at least more complete.
+
+00:25:36.000 --> 00:25:40.000
+Right. And how do we let new ideas new people new projects new thoughts, And that's what you were talking about, Michael.
+
+00:25:40.000 --> 00:25:48.000
+If I disagree with something How do I cycle background it's It's all that stuff kind of trying to map it out of it.
+
+00:25:48.000 --> 00:26:03.000
+Thanks if it's if it's okay michael i'll go. I've got i've got some kind of thoughts about the the blog stuff that you talked about wendy I really like your cycle of
+
+00:26:03.000 --> 00:26:12.000
+emergence. and it is a lot about what we're talking about so
+
+00:26:12.000 --> 00:26:24.000
+So when when I say blogging in the wiki when what?
+
+00:26:24.000 --> 00:26:30.000
+So I maybe maybe a way to talk about it is what I used to ask people to do.
+
+00:26:30.000 --> 00:26:43.000
+So it was as you're doing, your job as you're looking up stuff as you lookre learning about new things as you're looking through the wiki or asking somebody Where do I find us just you know keep a little dary of
+
+00:26:43.000 --> 00:26:51.000
+that when you come across links that are interesting. you know, stuff that you wanna share with other people.
+
+00:26:51.000 --> 00:26:58.000
+Keep a diary of that when you have when you're in discussion.
+
+00:26:58.000 --> 00:27:05.000
+Like we're having a discussion now here or on map weavers, or doing a navigation call or spirit.
+
+00:27:05.000 --> 00:27:11.000
+And me talking about about things. Sometimes you write a longer blog post.
+
+00:27:11.000 --> 00:27:18.000
+So for me, a blog blog posts in a wiki can be like lots of different shapes.
+
+00:27:18.000 --> 00:27:22.000
+They can be kind of just the link log you know here's Here's some interesting stuff I looked up today.
+
+00:27:22.000 --> 00:27:28.000
+Maybe it's not quite just a link log maybe it's actually kind of things I learned today.
+
+00:27:28.000 --> 00:27:34.000
+You know I I needed to find out how to I I found out today about the cycle of emergence, you know.
+
+00:27:34.000 --> 00:27:42.000
+And here's some thoughts about that here's some links to other things I know about here's you know some ideas and questions.
+
+00:27:42.000 --> 00:27:53.000
+And I might actually even Tag Wendy, you know, at at Wendy Mcclain, you know.
+
+00:27:53.000 --> 00:28:06.000
+Did you mean this? what do you think about that But then there's also conversational turn-taking about something bigger, right, a bigger idea that you know.
+
+00:28:06.000 --> 00:28:16.000
+So the social architecture idea that that would be a great post here's a you know, here's a thing that I've noticed, and I and I want to talk about some ideas about that.
+
+00:28:16.000 --> 00:28:24.000
+So that would might be a pretty pretty pretty long, and potentially even fairly written kind of blog post.
+
+00:28:24.000 --> 00:28:33.000
+So in in the regular Internet, you don't post those different shapes of things to your blog.
+
+00:28:33.000 --> 00:28:42.000
+So you either. have a blog that's all links or you have a blog that's all you know deep big post, or something like that.
+
+00:28:42.000 --> 00:28:58.000
+But you wouldn't mix them my experience in a wiki is that it's it's fine to mix them because i'm not blogs on the Internet are looking for in in in large part.
+
+00:28:58.000 --> 00:29:07.000
+There. They're kind of or or professional blogging some of my professional bogging important blogging.
+
+00:29:07.000 --> 00:29:14.000
+You're like essentially looking for an audience and you need to keep the audience engaged blogging in a wiki.
+
+00:29:14.000 --> 00:29:22.000
+It, and a team Wiki is different what i'm trying to do is capture this stuff in in the group brain.
+
+00:29:22.000 --> 00:29:28.000
+That's important to the group brain right so I won't blog cap videos very much.
+
+00:29:28.000 --> 00:29:38.000
+Into the lionsburg wiki and if I did you know, blog a link to a cabinet, or something like that?
+
+00:29:38.000 --> 00:29:43.000
+It would be like Here's here's how this relates to Lionsburg right?
+
+00:29:43.000 --> 00:29:47.000
+But I don't I don't care for it to get attention within Linesburg.
+
+00:29:47.000 --> 00:29:57.000
+What I really care about is groom growing and maturing thinking, and knowledge and memory and things like that.
+
+00:29:57.000 --> 00:30:01.000
+So it's actually probably really important. if I were doing a better job of this.
+
+00:30:01.000 --> 00:30:05.000
+Already. the Lionsberg wiki would have a bunch of you know.
+
+00:30:05.000 --> 00:30:19.000
+Here's links to drawing tools here's links to project management, you know, wisdom here's links to you know It's like Pete If somebody was just beating my my you know an Internet blog
+
+00:30:19.000 --> 00:30:25.000
+with a bunch of random stuff like Pete. Why are you throwing all this random stuff in your
+
+00:30:25.000 --> 00:30:31.000
+You know Why, don't you put that in in a trough? Why don't you put that on factor in the Wiki?
+
+00:30:31.000 --> 00:30:35.000
+Because you're always kind of recomposting the whole thing.
+
+00:30:35.000 --> 00:30:51.000
+You're always kind of weaving back and forth in the in the larger content content matrix of the wiki having little snippets of stuff is actually really good fodder for you know a blog post that is
+
+00:30:51.000 --> 00:30:56.000
+someday. you know. Okay, today, I have some thoughts about Project manager.
+
+00:30:56.000 --> 00:31:03.000
+And here's where spirit talked about it in 2,021 here's where Wendy talked about this and 2,022.
+
+00:31:03.000 --> 00:31:09.000
+Michael and Michael and Wendy. Alfred had a great discussion over here.
+
+00:31:09.000 --> 00:31:24.000
+You can pull all of those things into place in a wiki and then leave the links out to the the the the first in a way that makes the whole thing associative. memory. right?
+
+00:31:24.000 --> 00:31:34.000
+It's kind of like jerry's brain but kind of like on steroids, too, because Jerry Jerry can only kind of link between nodes.
+
+00:31:34.000 --> 00:31:39.000
+He can't write about the nodes you can't make a blog post that says here i've pulled all these nodes together.
+
+00:31:39.000 --> 00:31:42.000
+He does this in his head. Actually he does, you know you can.
+
+00:31:42.000 --> 00:31:51.000
+You can point him to a thought, and he can narrate the blog post that you would write about that in a wiki.
+
+00:31:51.000 --> 00:31:56.000
+You actually write that narration down and you write it down as you're associatively memory into the whole thing.
+
+00:31:56.000 --> 00:32:02.000
+So then somebody can read that as a as a set piece and go Okay, that's cool.
+
+00:32:02.000 --> 00:32:10.000
+Somebody can refer to it. somebody else can refer. to it somebody could like dig into each of the links that you've made into the associate larger associative memory, and go. Oh, wow!
+
+00:32:10.000 --> 00:32:14.000
+I didn't know that spirit was talking about this and 1 2,021.
+
+00:32:14.000 --> 00:32:22.000
+There's a whole thread here that's really important to me that I linked off to from you know from this one blog post.
+
+00:32:22.000 --> 00:32:29.000
+So having a lot of different kinds of things, a different shape of stuff and and blogging that is really useful.
+
+00:32:29.000 --> 00:32:38.000
+I think so. So then a a a way I think about this is with matter most.
+
+00:32:38.000 --> 00:32:45.000
+We see kind of a topic-based way of of organizing stuff. right?
+
+00:32:45.000 --> 00:32:57.000
+If I want to talk about project management today, I'll go over and find program process management in Lionsburg or whatever I think kind of that topic based chat is important.
+
+00:32:57.000 --> 00:33:09.000
+But it's also important to have person based chat So here are here's the here's the river of stuff that I've been thinking over the past 6 months.
+
+00:33:09.000 --> 00:33:19.000
+Right and at least into a bunch of different things. It laces into project management, to lace it into python coding laces into You know.
+
+00:33:19.000 --> 00:33:24.000
+Hyper scale, social structures, and and why capitalism is good or bad, and the Don of everything.
+
+00:33:24.000 --> 00:33:34.000
+All of that stuff is, you know, associatively part of my my narrative stream right?
+
+00:33:34.000 --> 00:33:49.000
+And then, if if multiple people are doing it at the same time you get this, the you get the blogs talking to each other is kind of the way I think of it. it's it's not even so much the people talking together.
+
+00:33:49.000 --> 00:33:53.000
+You know it's not me and Michael having a conversation about social architecture.
+
+00:33:53.000 --> 00:34:02.000
+It's the to topic of social architecture getting talked in in peace blog, and in Michael's bog and and Wendy's blog.
+
+00:34:02.000 --> 00:34:09.000
+It's that conversation happening across blogs right so There's a a conversational thing that's hanging together.
+
+00:34:09.000 --> 00:34:13.000
+That was emergent. Maybe it didn't have to live in a particular channel.
+
+00:34:13.000 --> 00:34:23.000
+On the on matter most very twitter like and not the, you know, within the limits of a 143 characters.
+
+00:34:23.000 --> 00:34:39.000
+But you know there's a cloud of twitter conversation around something that isn't isn't exactly I mean it is sequential and like you could look at it I mean it's difficult on twitter But if on the
+
+00:34:39.000 --> 00:34:55.000
+mythical platform. We all wish for you know you could put that stuff into a protein, and then single out the things that are just part of that subject matter among these people.
+
+00:34:55.000 --> 00:35:11.000
+So yeah, some Sunday we'll get there it sounds real cool I mean it's really interesting to me, because terminologically, we're like, you know, to some degree technologically They're different.
+
+00:35:11.000 --> 00:35:30.000
+Ways of addressing this, but in a way to me what what you're saying is in this this this group of people who are part of this Wiki
+
+00:35:30.000 --> 00:35:38.000
+Everybody also has I won't call it a blog i'll call it a home page a personal stream.
+
+00:35:38.000 --> 00:35:55.000
+You know it's like there this is what I have to say on this and this and this, and the thing that is missing a little bit to me for it to be everything you'd want it to be with something you touched on when
+
+00:35:55.000 --> 00:36:06.000
+you're talking is like okay. this is important in this context, and I don't actually, you know, this is something I learned today.
+
+00:36:06.000 --> 00:36:11.000
+But I want to remember that I learned today it's sort of my role of stuff.
+
+00:36:11.000 --> 00:36:15.000
+But I don't wanna share that publicly so you know that's that's not public.
+
+00:36:15.000 --> 00:36:20.000
+This is something I wanna share with Pete but I don't wanna share with everybody.
+
+00:36:20.000 --> 00:36:34.000
+This is when I the thing I want to share with flotilla. but I don't want to share with everybody so like the stream of me for flotilla looks different than the stream of me for my sister you know and and maybe
+
+00:36:34.000 --> 00:36:47.000
+there's a little bit of overlap but probably not much, and and that like ability to you know, to save stuff that's just for you.
+
+00:36:47.000 --> 00:37:05.000
+And just, and just in this context and in that context is so powerful and so missing to me that that's one of the capabilities that, like that, we haven't fully achieved but that you know i'm i'm really
+
+00:37:05.000 --> 00:37:12.000
+pointing at with factor or wanting to look toward somewhere else.
+
+00:37:12.000 --> 00:37:23.000
+And you know, if you, if you take away the baggage of the word blog, it sounds like what you're talking about is is pretty much exactly that.
+
+00:37:23.000 --> 00:37:32.000
+Also with that limitation of not being able to slice and dice your audiences, though maybe there is a way. I I don't know.
+
+00:37:32.000 --> 00:37:42.000
+But I mean you're there's a There's a cool thing. i'm doing that I and this isn't the only way that that it can be done that massive wiki actually works really well, for that it's
+
+00:37:42.000 --> 00:37:49.000
+it's common now for me i've i've got a couple dozen massive wikis on my computer.
+
+00:37:49.000 --> 00:38:03.000
+And there are different topics that different people it's it's very common for me to write a blog post, so i'm gonna call it it's very common for me to write a page in one.
+
+00:38:03.000 --> 00:38:08.000
+Place, and maybe it saves there. Maybe it gets posted to a couple mass of wikis.
+
+00:38:08.000 --> 00:38:13.000
+Maybe I realize you know a month later that Oh, wow!
+
+00:38:13.000 --> 00:38:26.000
+I have the perfect page already written in private. Let me take that private page, lift and shift it trim it a little bit, move some of the stuff out, or or reward it a little bit, and then put it into a more public place that that whole
+
+00:38:26.000 --> 00:38:35.000
+thing is working beautifully for me now and it's it's wonderful and fun.
+
+00:38:35.000 --> 00:38:41.000
+Yeah, and that that is to me, you know, very, very appealing.
+
+00:38:41.000 --> 00:38:57.000
+I mean the thing I hear you saying that's tough what I Thought you Maybe we're gonna say is like everything you write anywhere you write it, and maybe you're sort of saying this everything you write anywhere that's going to go on any
+
+00:38:57.000 --> 00:39:08.000
+massive wiki, or anything, or or just stay with you is in one place, and then you put it someplace else.
+
+00:39:08.000 --> 00:39:18.000
+It's close to that and it's really interesting that's. That's a that's a an interesting pattern, and that's not at all what happens.
+
+00:39:18.000 --> 00:39:26.000
+I write stuff in many different places, and then I realize it goes well in some other place.
+
+00:39:26.000 --> 00:39:29.000
+So a lot of the stuff that is kind of me personally ends up.
+
+00:39:29.000 --> 00:39:36.000
+I write it in Lionsburg wiki or I write in an Ogm Wiki, or I write it, and don I haven't written and done everything yet.
+
+00:39:36.000 --> 00:39:39.000
+But I write it in a public wiki and then it's like Oh, wow!
+
+00:39:39.000 --> 00:39:44.000
+I have this conversation with myself going on in my private Wiki, too.
+
+00:39:44.000 --> 00:39:56.000
+I need to copy that over here. so the the the a a way that you might think it might happen is like.
+
+00:39:56.000 --> 00:40:01.000
+Oh, wow! i'm gonna write i'm gonna write in my Private Wiki first, and then i'll figure out the right place to put it.
+
+00:40:01.000 --> 00:40:04.000
+It turns out that you know my private wiki has a really bad audience.
+
+00:40:04.000 --> 00:40:10.000
+You know It's like It's just me right so if I go over to Lionsburg Wiki.
+
+00:40:10.000 --> 00:40:24.000
+I can think about the people i'm talking to and how it makes sense to to situate it. and then it's easier for me to write it, you know, talking to a group of people then rather just talking to myself and then I have
+
+00:40:24.000 --> 00:40:30.000
+a beautiful, wonderful thing that i've written and you know it goes other places, if it needs to do.
+
+00:40:30.000 --> 00:40:36.000
+You have i'm just curious like wendy I can't see like hands and stuff.
+
+00:40:36.000 --> 00:40:46.000
+So I don't know if i'm yeah i'd love to talk after you go, for it I was just gonna say, do you have?
+
+00:40:46.000 --> 00:40:56.000
+And is this your your personal Wiki something that you use as your second brain?
+
+00:40:56.000 --> 00:41:04.000
+Essentially you know that that's the place that you 4 things that you're gonna port is the wrong word.
+
+00:41:04.000 --> 00:41:22.000
+But you know that you save stuff that you wanna look at later, or that you might wanna spin into a blog post, or whatever you know, cap Video: that you're never gonna share with anybody but you just wanna be able to find
+
+00:41:22.000 --> 00:41:30.000
+again. I I am using I the actually i've got a couple wiki's i've got a separate music wiki actually.
+
+00:41:30.000 --> 00:41:36.000
+So there's some topic based Private wiki actually the music One is public now, I think about it.
+
+00:41:36.000 --> 00:41:39.000
+I've got a couple of wikis kind of different topics.
+
+00:41:39.000 --> 00:41:48.000
+But then I do have one big brain thing that's got you know household stuff, you know this is the parts to order for fixing the washer.
+
+00:41:48.000 --> 00:41:53.000
+These are the important utilities to install.
+
+00:41:53.000 --> 00:42:01.000
+Every time you install a new Mac you know here's information about you know, all kinds of stuff.
+
+00:42:01.000 --> 00:42:11.000
+I I do have that that. But but for me the experience of having hey
+
+00:42:11.000 --> 00:42:21.000
+A personal knowledge management, a a personal brain it's actually exciting into Linesburg, Wiki, and ogm Wiki and relate wiki.
+
+00:42:21.000 --> 00:42:31.000
+Maybe there's, that my my brain actually extends out to public Wikis as well, and and public wikis that are shared with other people.
+
+00:42:31.000 --> 00:42:35.000
+So some of the most important things I write will will end up being on Winsburg with you, for instance.
+
+00:42:35.000 --> 00:42:53.000
+Possibly, and may or may not end up you know in my in my private space. I have a couple of quick wendy. if you, if if I can ask indulgence for I wanted to speak a couple things from a chat thing that
+
+00:42:53.000 --> 00:43:05.000
+I I wrote the so I thanks Michael for bumping into the blog as an a word with a lot of back
+
+00:43:05.000 --> 00:43:09.000
+So i'm gonna keep using blogging but I don't necessarily mean to That's the important part of it.
+
+00:43:09.000 --> 00:43:17.000
+The important part is the conceptual stuff the one of the things I've I noticed wicking is also hard understanding how to wiki.
+
+00:43:17.000 --> 00:43:20.000
+It's intimidating right it's like I don't want to write an encyclopedia article.
+
+00:43:20.000 --> 00:43:28.000
+All I want to do is you know I have I have half a sentence of an I idea fragment, that I need to put somewhere.
+
+00:43:28.000 --> 00:43:34.000
+You know it's embarrassing even to put it on Twitter turns out a wiki is great for that kind of stuff.
+
+00:43:34.000 --> 00:43:38.000
+So one of the one of the kind of a accommodations of learning how to wiki is I.
+
+00:43:38.000 --> 00:43:45.000
+And the way I thought about it. Maybe this is because I I used to think about this 20 years ago, when when blogging was big.
+
+00:43:45.000 --> 00:43:48.000
+But you can say, yeah, the way about writing wiki pages.
+
+00:43:48.000 --> 00:43:52.000
+Just write blog posts, and then you can say just don't worry about blog posts.
+
+00:43:52.000 --> 00:43:58.000
+You know. Just write a little tweet, but put it in the wiki right
+
+00:43:58.000 --> 00:44:08.000
+The The other practice that that I ended up encouraging was what I call dialogue posts that quotedian everyday kind of thing that does a couple cool things.
+
+00:44:08.000 --> 00:44:17.000
+What they what they told people was, you know, at the beginning of your workday start a a blog page that, says Peter Kaminsky.
+
+00:44:17.000 --> 00:44:20.000
+2022. Oh, 7 22 today.
+
+00:44:20.000 --> 00:44:24.000
+This is today's blog post it doesn't have to have a title, saying what the blog post is about.
+
+00:44:24.000 --> 00:44:35.000
+It's just today's you know diary entry So then, if you start that in the morning, you have a place where you can put the stuff that you've bumped into during the day, you've already kind of set up
+
+00:44:35.000 --> 00:44:40.000
+the topic. this the the topic of this post is going to be pizza day.
+
+00:44:40.000 --> 00:44:48.000
+You've got a place to collect a bunch of stuff, and then over the course of doing that for you know a few days or a few weeks, You go, hey?
+
+00:44:48.000 --> 00:44:53.000
+I get you I i'm used to it you know I i'm gonna start writing a little bit longer.
+
+00:44:53.000 --> 00:45:05.000
+I'm gonna write a couple sentences on today's dairy, and she i'm gonna like write it a thing I'm gonna write a link on today's thing to a whole new page that I've
+
+00:45:05.000 --> 00:45:18.000
+created it's a it's an easy stepping stone into blogging in general, and then the idea of just starting a a post for today, and not even caring about how it's going to end up gets you into the practice
+
+00:45:18.000 --> 00:45:28.000
+of of just putting stuff into the wiki and getting better at at wicking and that's it, Thanks for you.
+
+00:45:28.000 --> 00:45:37.000
+Sure. Yes, I just wanna go back to the question you'd asked about the public private, and Pete.
+
+00:45:37.000 --> 00:45:46.000
+Your interesting reflection on the fact that a lot of stuff ends up public first, and then you realize that you want to save some down for private stuff.
+
+00:45:46.000 --> 00:46:01.000
+I have also found that it goes both ways, with whatever tools or thoughts I have, that some stuff starts private, and then i'm surprised that you know what I what I thought was private was is being echoed in public spaces.
+
+00:46:01.000 --> 00:46:09.000
+And so now I realize that it needs a public you know it needs a public facing kind of conversation. or attention, and then I've also seen it go the other way.
+
+00:46:09.000 --> 00:46:18.000
+I think for me, this is definitely part of that inception phase of the cycle of emergence, or whatever we want to call it like. when things are coming into the world.
+
+00:46:18.000 --> 00:46:27.000
+They'll come in in many different forms in as many ways as it can, and it's recognizing to me the key isn't so much.
+
+00:46:27.000 --> 00:46:38.000
+Well, maybe that runs in parallel part of it is capturing in a repository the pieces so that they can be connected to each other over time.
+
+00:46:38.000 --> 00:46:48.000
+Part of It is the human ability to see the patterns right and whether it was started in public or started in private almost doesn't matter.
+
+00:46:48.000 --> 00:46:51.000
+It's the it's the aha moment of Oh, wait a minute.
+
+00:46:51.000 --> 00:46:54.000
+I've been talking about this for a while or hey?
+
+00:46:54.000 --> 00:46:58.000
+Wait a minute. So 5 different people have mentioned the same thing over the last 2 weeks.
+
+00:46:58.000 --> 00:47:03.000
+Maybe we should bring it to me that's we we can get as far as we want with the technology.
+
+00:47:03.000 --> 00:47:10.000
+But that last step that is to me I, a solely human function.
+
+00:47:10.000 --> 00:47:21.000
+Ai can do it right. But only to a certain degree. because when you start associating things that logically have no other reason to be associated with each other, that's when we get really incredible innovation.
+
+00:47:21.000 --> 00:47:31.000
+And creativity, so to me that's that's the gem at the end of all this is we can create all the infrastructure and all the wonderful conversation.
+
+00:47:31.000 --> 00:47:38.000
+But it's the human that says wait a minute there's something important here happening, and let's give it some more attention.
+
+00:47:38.000 --> 00:47:46.000
+So to me that's really the challenge that we have where we're talking about Ogm, or we're talking about here.
+
+00:47:46.000 --> 00:47:50.000
+We're talking about meta project or anywhere else it's it's?
+
+00:47:50.000 --> 00:47:57.000
+How do we elevate? How do we use technology to elevate that potential to happen more often?
+
+00:47:57.000 --> 00:48:01.000
+And again. I think I think some I can tell you right now.
+
+00:48:01.000 --> 00:48:08.000
+Writing is never been it. I have tried for for myself to write things down journals.
+
+00:48:08.000 --> 00:48:12.000
+My my whole life writing for me has been, and so could I get.
+
+00:48:12.000 --> 00:48:19.000
+A writing has been frictionful, so could I get to a point where right is less frictionful with more practice.
+
+00:48:19.000 --> 00:48:24.000
+Yes, of course and it's already gotten there for me i've done a lot of you know. I've had a lot of practice.
+
+00:48:24.000 --> 00:48:26.000
+I'm married to a to a person who is a fabulous writer.
+
+00:48:26.000 --> 00:48:36.000
+I have a daughter who's a fabulous writer I've had it, you know i've definitely through Osmosis, you know, gotten better at all of that is it a joy for me absolutely not There's nothing
+
+00:48:36.000 --> 00:48:42.000
+about it that is joyful for me. I do it because it's a great way to communicate things right.
+
+00:48:42.000 --> 00:48:48.000
+It's a tool. So for me when i'm writing I don't have the flow that I have that i'm in in other spaces.
+
+00:48:48.000 --> 00:48:52.000
+So I think that's another important piece to keep here that the flow is gonna happen.
+
+00:48:52.000 --> 00:48:57.000
+That flow of Oh, yeah, wait. I have this thought, and I want to connect it to this thing.
+
+00:48:57.000 --> 00:49:01.000
+And there was something that happened last week. Let me go back and look at that. Yep.
+
+00:49:01.000 --> 00:49:12.000
+That does connect, let me cut, back back to that there's joy in that that I'm hearing and what Pete is saying, and what we're talking about, and if it's not it through writing I want to make sure we give people
+
+00:49:12.000 --> 00:49:17.000
+other means to do it in ways that feel integrated However, we don't have that yet.
+
+00:49:17.000 --> 00:49:21.000
+And so massive. Wiki becomes a very, a very lovely way to do that.
+
+00:49:21.000 --> 00:49:29.000
+In the interim. you know definitely you know the catalyst troops, I think, have an opportunity to be something like that.
+
+00:49:29.000 --> 00:49:40.000
+They're definitely not there yet that's not the the Ui and the ux isn't far enough along for it to to to allow for people to be in flow space and for it to be interconnected in those
+
+00:49:40.000 --> 00:49:53.000
+ways. So we're this is the edge I think this is the edge of what we're trying to figure out together, and I think massive Wiki is a great step forward if if that's something that people wanna want to engage
+
+00:49:53.000 --> 00:50:02.000
+with a great point, and and wendy have I on my screen. I've got zoom, and I've got in the background in your mirror with the cycle of emergence.
+
+00:50:02.000 --> 00:50:08.000
+So I I think you you get in flow when you're dialing in mirror or something like that.
+
+00:50:08.000 --> 00:50:13.000
+So it would be super easy to be in the Flow State and create that beautiful picture.
+
+00:50:13.000 --> 00:50:24.000
+Grab, grab it as a png drop it in mass of Wiki, and then and then you've made a bridge at least into you know a a space where we can do writing.
+
+00:50:24.000 --> 00:50:36.000
+We don't have to do writing it would be great to have a page called Cycle Emergence a picture, and then you start linking that to other pages, and people start linking their blog posts or their their posts about social
+
+00:50:36.000 --> 00:50:44.000
+structures, or whatever and I can say the same thing about like, we would create a mirror and start linking in all the documents right like to me.
+
+00:50:44.000 --> 00:50:51.000
+It doesn't and and that's to me that you know when we talk about like a global knowledge network to me it is both.
+
+00:50:51.000 --> 00:50:55.000
+It has to be both You know the way it posted in in chat.
+
+00:50:55.000 --> 00:51:03.000
+You know you have the brain. even though jerry doesn't use this version because I asked him about the pages when when they, when they announced version 12.
+
+00:51:03.000 --> 00:51:10.000
+I think it was that that had, you know, every note could have its own page I was like, Oh, here we go!
+
+00:51:10.000 --> 00:51:17.000
+The 2 are coming together. This is great and I asked him he's like, Yeah, I don't use that that's not right, and I was like That's so interesting.
+
+00:51:17.000 --> 00:51:29.000
+So I definitely see it needs both right sometimes I want to write on a piece of paper, and sometimes I need to spread all the the papers out on the table right, or I need to start using post-its right?
+
+00:51:29.000 --> 00:51:33.000
+To me it's the same you know if i'm in brainstorming the mode.
+
+00:51:33.000 --> 00:51:39.000
+I wanna spread it out that's neat right So like it just It's people are everybody's different.
+
+00:51:39.000 --> 00:51:43.000
+Okay, I have to share. Can I share the other one? The mirror?
+
+00:51:43.000 --> 00:51:51.000
+I wanna share my Nero, so i'm gonna do that taking over.
+
+00:51:51.000 --> 00:52:01.000
+Okay, So this is the first link. I put in chat and basically, i'll just give you a quick overview, because we're already like an hour and 50. it's in to our meeting.
+
+00:52:01.000 --> 00:52:06.000
+So I want to be sensitive to people's time basically started with.
+
+00:52:06.000 --> 00:52:10.000
+We've kind of in a lot of our meetings backed up from?
+
+00:52:10.000 --> 00:52:14.000
+How do we collaborate well together to how do we help people with personal transformation?
+
+00:52:14.000 --> 00:52:17.000
+So they're ready to collaborate i'm oversimplifying.
+
+00:52:17.000 --> 00:52:23.000
+But that's I it's been interesting to me to watch the conversations of late, maybe the past 6 weeks or so.
+
+00:52:23.000 --> 00:52:28.000
+Talk more and more, and more about what if somebody's going through trauma?
+
+00:52:28.000 --> 00:52:30.000
+What if somebody's going through something? What if it triggers something?
+
+00:52:30.000 --> 00:52:35.000
+How do we help people find a line between who they are and what they want to do in the group?
+
+00:52:35.000 --> 00:52:45.000
+How do we allow for different roles? and so this first one is starts with the individual person, so it's the most fleshed out, and it basically has 4 arms.
+
+00:52:45.000 --> 00:52:49.000
+Right Now I feel like there's a fifth that's still the Comp.
+
+00:52:49.000 --> 00:52:54.000
+But one is is You can almost imagine this as entering a website.
+
+00:52:54.000 --> 00:52:57.000
+And what do I? you know? What do I do and where do I go
+
+00:52:57.000 --> 00:53:07.000
+But it's really also a flow for all of us to see how the pieces that we are aware of interoperate with each other like, Where do they where do they touch on the flow?
+
+00:53:07.000 --> 00:53:16.000
+So the pieces are in highlighted yellow And then the flow is basically how a person would walk through and then end up touching those pieces.
+
+00:53:16.000 --> 00:53:21.000
+So the first section is creating community and collaboration.
+
+00:53:21.000 --> 00:53:25.000
+This second one is more of a marketing piece that is like, How do I create a better life?
+
+00:53:25.000 --> 00:53:28.000
+Just because I know a lot of people would be attracted to that.
+
+00:53:28.000 --> 00:53:33.000
+And then it basically links to a lot of a lot of other spaces in this in the flow.
+
+00:53:33.000 --> 00:53:37.000
+A third one is my own personal growth and transformation. And what would that look like?
+
+00:53:37.000 --> 00:53:40.000
+And what sort of pieces do we need support people in that?
+
+00:53:40.000 --> 00:53:46.000
+And the last one is building trust and usability. Just as we engage with each other in this way.
+
+00:53:46.000 --> 00:53:52.000
+How do we? How do we encourage that from other people right So there's a bunch of detail there.
+
+00:53:52.000 --> 00:53:55.000
+I'm just gonna keep giving an overview so eventually we jump right.
+
+00:53:55.000 --> 00:54:04.000
+There's these spots where we have jumps into the Global Knowledge network jumps into group quest and I'm just talking, not just talking about my individual cell.
+
+00:54:04.000 --> 00:54:14.000
+I'm starting to talk about group stuff and over here, too, up in here community actualization here's the group quest is again there and collaborating.
+
+00:54:14.000 --> 00:54:18.000
+So here I have all the group quests so here's where how the group press works the way.
+
+00:54:18.000 --> 00:54:30.000
+I'm envisioning. it right and how it touches on how you know if i'm coming into okay, yeah, I think I wanna reach out to other people. Either I wanna participate in the group I wanna create a request for
+
+00:54:30.000 --> 00:54:34.000
+collaboration. because I have an idea. I want to start my own group.
+
+00:54:34.000 --> 00:54:38.000
+I want to host an event so all of these obviously interconnect with each other.
+
+00:54:38.000 --> 00:54:43.000
+And here's where we've been talking most over the last year or more, right?
+
+00:54:43.000 --> 00:54:52.000
+This is where you see a lot of connection to to all the projects, and i'm not nearly done with linking in.
+
+00:54:52.000 --> 00:54:55.000
+But even we were just talking in map weavers.
+
+00:54:55.000 --> 00:55:03.000
+I made sure to include all the stuff that was in chat, because I grabbed that really quick just making sure that we had most of the pieces in there.
+
+00:55:03.000 --> 00:55:07.000
+The Global Knowledge network is something we're all dreaming about but we don't have yet established.
+
+00:55:07.000 --> 00:55:18.000
+So really we have this other thing that are then in my mind are kind of in betweens, right massive wiki and catalyst and tapestry, and seriously and mirrorboards, and you know open impact and all that
+
+00:55:18.000 --> 00:55:32.000
+Really, we all kind of want to mushroom together, which is why I thought this was important for this meeting, and Floatilla, because I know so many of us wanna kind of get this together, right? and i'm naming that the global knowledge
+
+00:55:32.000 --> 00:55:36.000
+network, but we can name it whatever we want right. but that to me is the ideal is.
+
+00:55:36.000 --> 00:55:43.000
+We have this place where we can all go and interact with the information in our own way, but it also helps with
+
+00:55:43.000 --> 00:55:53.000
+The public version of it also helps with the with the group stuff So that's what all this is. And then i'm just starting to flesh out. What's the global knowledge network.
+
+00:55:53.000 --> 00:55:56.000
+What does that look like? What is it doing? how do I interact with it as an individual?
+
+00:55:56.000 --> 00:56:05.000
+Because again, i'm coming at all this from an individual's perspective. but of course it'll have links back out to the group stuff as well.
+
+00:56:05.000 --> 00:56:09.000
+Here's the onboarding piece so here's the if we're doing collaborative action.
+
+00:56:09.000 --> 00:56:14.000
+This is a flow that came out a couple of months ago.
+
+00:56:14.000 --> 00:56:16.000
+As I was starting to work on the cycle of emergence.
+
+00:56:16.000 --> 00:56:20.000
+This this popped out, is kind of a separate thing. How do we work together?
+
+00:56:20.000 --> 00:56:32.000
+This is for me what I see a big role that the Meta project can play is bringing all the pieces together and coordinating action the way, say, somebody might do for their for their project, or their company.
+
+00:56:32.000 --> 00:56:39.000
+Now we're trying to coordinate action across projects and across companies and across sectors of society, and that's the challenge.
+
+00:56:39.000 --> 00:56:46.000
+We're kind of stuck in and so to me I see them at a project going across all of that, and this flow is to help.
+
+00:56:46.000 --> 00:56:50.000
+We have a particular idea. How do we bring in everything and every, you know perspectives.
+
+00:56:50.000 --> 00:56:53.000
+And this goes back to what you were saying. pete about roles.
+
+00:56:53.000 --> 00:57:05.000
+That's how I what I was hearing How do you make sure you have each role, each value, each strength, each societal sector represented, so that concentration can happen otherwise.
+
+00:57:05.000 --> 00:57:13.000
+You're not in conversation. there's nothing being generated there's no expansion there's just echoes of of what we already know.
+
+00:57:13.000 --> 00:57:22.000
+And so to me that's what happens in the center section so and and what's important together about you know creating some collaborative action together.
+
+00:57:22.000 --> 00:57:33.000
+And then this is all the onboarding stuff that we've been talking about, and I called it being of service because in a lot of the early conversations we keep using the word onboarding.
+
+00:57:33.000 --> 00:57:43.000
+But in the early conversations a lot of time was spent talking about how we can help others starting with how we can help people not asking them to on board.
+
+00:57:43.000 --> 00:57:52.000
+So i'm just to the part now. down here. where it's really more traditional onboarding, and I just started to do that right before we got here.
+
+00:57:52.000 --> 00:57:57.000
+There's lots to still flesh out you know what happens to a project.
+
+00:57:57.000 --> 00:58:05.000
+If I have a if I have a particular project, what happens If I want to do research, what does community access actualization look like?
+
+00:58:05.000 --> 00:58:10.000
+And the economic piece, I think, is pretty well flushed out, that could have its own flow already.
+
+00:58:10.000 --> 00:58:19.000
+I think. And so this is my effort to do a massive Wiki mirror style.
+
+00:58:19.000 --> 00:58:30.000
+Gorgeous. thanks. Hmm. Go ahead, Michael I was gonna say it's really awesome.
+
+00:58:30.000 --> 00:58:40.000
+And I I wanna have a session with you if I can where I'm not on my phone to talk to you about it.
+
+00:58:40.000 --> 00:58:47.000
+I would love that. that would be great and I kind of Imagine over the next month or so i'll be having, you know.
+
+00:58:47.000 --> 00:58:52.000
+With each one on one conversation I wanna be able to add, or edit or people can.
+
+00:58:52.000 --> 00:58:57.000
+You can already go there. microwave comments if Something's flowing for you, and you, wanna you wanna dump it.
+
+00:58:57.000 --> 00:59:04.000
+There, that's fine and we can have con you know conversation that way asynchronously.
+
+00:59:04.000 --> 00:59:07.000
+But yeah, I would. I would love to sit down and and talk with you about it.
+
+00:59:07.000 --> 00:59:19.000
+That would be great, cool, and maybe this will become a backbone, for you know the social architecture and onboarding meetings that we're having.
+
+00:59:19.000 --> 00:59:30.000
+Yeah, a couple of questions. How? How long is How long did it take you to put together what you've got so far?
+
+00:59:30.000 --> 00:59:46.000
+Years of thinking 6 h it's a a valuable 6 h. one of the one things that occurs to me is I.
+
+00:59:46.000 --> 00:59:55.000
+We we have a similar, but I think worst problem in in massive wiki, and well, maybe not massive wiki in Lionsburg, wiki
+
+00:59:55.000 --> 01:00:10.000
+One of the things that you need to do as a as the collaboration team is kind of understand what the grammar is.
+
+01:00:10.000 --> 01:00:16.000
+So for for me, looking at your mirror board the the grammar that you've got
+
+01:00:16.000 --> 01:00:25.000
+You know it's it's what direction things flow in when you decide a thing is a new thing rather than you know.
+
+01:00:25.000 --> 01:00:35.000
+When you when you make an error on, when you make a a sub or something like that the when you highlight things
+
+01:00:35.000 --> 01:00:41.000
+How naming works and stuff like that same thing in in a wiki.
+
+01:00:41.000 --> 01:00:46.000
+You have to kind of agree, you know. When do we split this into separate pages?
+
+01:00:46.000 --> 01:00:51.000
+What do links mean? How do we How do we tell each other that this page is in draft?
+
+01:00:51.000 --> 01:00:55.000
+And it's a crazy idea, and and where no this is actually really important.
+
+01:00:55.000 --> 01:01:00.000
+And this is settled knowledge that you know a whole bunch of us.
+
+01:01:00.000 --> 01:01:21.000
+So the I just kinda wanted to acknowledge, or something like that, or or at at some point, you know, in a well done information system that needs to be actually viewed by anybody doesn't even have to be
+
+01:01:21.000 --> 01:01:24.000
+collaborative. You kind of need to start drawing legends, you know.
+
+01:01:24.000 --> 01:01:32.000
+This is what I mean by this, and this is how it got constructed in, and you won't see these kinds of things, because it doesn't make sense.
+
+01:01:32.000 --> 01:01:39.000
+This is how to fold an emergent idea that would have fit here into the structure more more carefully.
+
+01:01:39.000 --> 01:01:47.000
+Right and it's a it's a pain to do that kind of documentation, and and it's hard, because there's a bunch of stuff that as you doing flow.
+
+01:01:47.000 --> 01:01:51.000
+It's just well, obviously, it makes sense to do it this way right?
+
+01:01:51.000 --> 01:01:54.000
+Obviously it makes sense on a in a wiki it's like you know.
+
+01:01:54.000 --> 01:01:59.000
+I know why i'm making a header here and I know why i'm making these bullet points rather than separate headers, and you know.
+
+01:01:59.000 --> 01:02:12.000
+But but then the the process, the process of doing that in a wiki, that the best way i've found is is a couple things you have synchronous calls where you go over you know here's what I did on the
+
+01:02:12.000 --> 01:02:17.000
+Wiki this week here's What I see you did can you describe why you did it.
+
+01:02:17.000 --> 01:02:21.000
+That way. Can we make an agreement that you know, when we use this tag?
+
+01:02:21.000 --> 01:02:37.000
+It means, you know that it means something right you have to have those kind of synchronous conversations to kind of stitch back together the way the the ways that you've in flow invented. How to how that we talk right Yeah.
+
+01:02:37.000 --> 01:02:41.000
+it's also cool it's wikis are good at self documenting, too.
+
+01:02:41.000 --> 01:02:46.000
+So it's it's pretty easy usually to go Oh, wow!
+
+01:02:46.000 --> 01:02:52.000
+I just did A. I invented a new way of of structuring an idea or a structuring, you know, Blog post or something like that.
+
+01:02:52.000 --> 01:03:03.000
+Let me make a link on this page to a page where I described that so so
+
+01:03:03.000 --> 01:03:09.000
+So I look forward to learning more about not just the content here, but the way you think of the structure of it.
+
+01:03:09.000 --> 01:03:15.000
+Yeah. So what I hear you when you say grammar, you mean like a common language.
+
+01:03:15.000 --> 01:03:33.000
+For understanding or common symbolism for understanding How things are organized, and why they're organized the way they are, so that everyone can come to the board in this case with a with that common set of understanding and it helps them get
+
+01:03:33.000 --> 01:03:37.000
+into flow. So they're not like Wait What just happened where is this going, and how is she doing it?
+
+01:03:37.000 --> 01:03:40.000
+And and that they also can contribute without breaking without me.
+
+01:03:40.000 --> 01:03:46.000
+Feeling like they're breaking things that's really well captured, I think.
+
+01:03:46.000 --> 01:03:53.000
+And then, and then to make some observations about the use of a of a grammar.
+
+01:03:53.000 --> 01:04:09.000
+One of one of the things that we kind of learn is there's a there's a learning curve versus power.
+
+01:04:09.000 --> 01:04:17.000
+Capability thing. if you if you have a very very simple grammar, it's very easy for people to pick up, and it's not very powerful.
+
+01:04:17.000 --> 01:04:28.000
+If you have a really really complicated grammar, you can express really deep things, but nobody can ever get to it, because they they learning curve for the grammar is too hard.
+
+01:04:28.000 --> 01:04:30.000
+So obviously. you kind of want to be somewhere in the middle.
+
+01:04:30.000 --> 01:04:38.000
+But one of the As as design people, as visualizing people, as information, you know, users and creators.
+
+01:04:38.000 --> 01:04:42.000
+One of the things that we kind of get taught without even really thinking about.
+
+01:04:42.000 --> 01:04:51.000
+It as you go through especially more advanced school and Then you know early early work live it's like dude.
+
+01:04:51.000 --> 01:04:55.000
+Nobody's gonna care about your grammar they're not going to learn your grammar.
+
+01:04:55.000 --> 01:05:01.000
+Do not make artifacts that have a grammar that people just don't get right away.
+
+01:05:01.000 --> 01:05:05.000
+Right. so it's easy to come away with kind of just a subconscious thing.
+
+01:05:05.000 --> 01:05:18.000
+I'm going to make this simple and easy for people to understand right? and i'm not going to require that the the grammar is just going to fall out and be obvious to like 80% of the population right
+
+01:05:18.000 --> 01:05:30.000
+it's it's a so so then the thing that you learn later is that there are things you just cannot express unless you use a more complicated grammar and you have to get over the fact. that hey?
+
+01:05:30.000 --> 01:05:37.000
+Everything should be simple and easy to understand the first 10 s where you can't you know It's like Yeah, there's you have to do that sometimes.
+
+01:05:37.000 --> 01:05:48.000
+And there's other times when we're just at a level where we're going to have to talk about how we talk. and then we're gonna have to talk about how we diagram and visualize and and put things together so that we can have
+
+01:05:48.000 --> 01:05:55.000
+a much more nuanced conversation of it. so kind of just wanted to bring that into conscious space.
+
+01:05:55.000 --> 01:06:02.000
+I guess. Yeah, thank you, I mean I I definitely think that way and i'm trying to preempt it a little bit.
+
+01:06:02.000 --> 01:06:14.000
+There's already a key on there and I I put it to do on my list, which is the list is there as well, which is to make sure I make some sort of table of contents, because I can tell I I decided early.
+
+01:06:14.000 --> 01:06:28.000
+On to put it all on one board and to not have it, jumped to a completely different board, because I felt like that would be too disorienting. and because mirror has internal linking, which not everyone's gonna even know right
+
+01:06:28.000 --> 01:06:39.000
+I can link to a different part of the board and people can then jump to different parts without, you know, and and hopefully stay in the flow of what they're interested in following
+
+01:06:39.000 --> 01:06:45.000
+So when mirror, I think on the mirror only did that about 3, 4 months ago, maybe it's 6 months ago now, and time is collapsed.
+
+01:06:45.000 --> 01:06:48.000
+But you know for me it was one of those. Oh, wait a minute.
+
+01:06:48.000 --> 01:06:55.000
+Mirror. just got much more valuable because you could do internal internal linking to jump to different parts.
+
+01:06:55.000 --> 01:07:04.000
+So i'm using that and i'm realizing that it gets rather large, as probably good to have have it start on this introductory, you know.
+
+01:07:04.000 --> 01:07:10.000
+Here's here's what you need to think about here's the key, and know that you can then it's going to jump around.
+
+01:07:10.000 --> 01:07:16.000
+And here are the major things you might want to jump right to i'm also excited.
+
+01:07:16.000 --> 01:07:23.000
+I I noticed that the linking I you can copy a link that then you can use in any web browser.
+
+01:07:23.000 --> 01:07:34.000
+So we can do that in massive wiki i'm really excited about the possibility of of merging or mixing, or or whatever something like your mirror board.
+
+01:07:34.000 --> 01:07:40.000
+And a set of massive wiki pages in Lansberg looking so you could kind of go back and forth.
+
+01:07:40.000 --> 01:07:45.000
+I would love that. I think that's really useful I can also see
+
+01:07:45.000 --> 01:07:56.000
+I mentioned this in map Weavers right that I was going to do a mirror board or something, and remember Jordan saying, Oh, we could do a little video, you know, about certain pieces.
+
+01:07:56.000 --> 01:08:02.000
+I I was seeing that, too, like going you know there's like there's a video that goes along with this cycle of emergence.
+
+01:08:02.000 --> 01:08:11.000
+Let's say, and explains it. I think would be much more approachable to people than then our whole you know real written out thing. especially if it's under 2 min.
+
+01:08:11.000 --> 01:08:14.000
+So things like that I think could add a lot if we're finding value.
+
+01:08:14.000 --> 01:08:18.000
+Then you basically have the mass of wiki and you have a mirror.
+
+01:08:18.000 --> 01:08:24.000
+You see, you work right? we're basically we got both and they they start stitching together.
+
+01:08:24.000 --> 01:08:28.000
+And really lovely ways. So I mean I have a bunch of stuff on Google Docs.
+
+01:08:28.000 --> 01:08:41.000
+I'm gonna and and then, if we're finding this a value. What could easily happen is, I could bring the Google Docs over to massive Wiki right and then, so that there it stays primarily in 2 places would probably
+
+01:08:41.000 --> 01:08:48.000
+be smart. That makes sense. that sounds good i'm exciting Yeah, really lovely, Wendy.
+
+01:08:48.000 --> 01:08:56.000
+Thanks. Yeah, I mean, this is a flow, you know. I keep hearing the same parts over and over.
+
+01:08:56.000 --> 01:09:02.000
+So my hope is that this flow massive wiki, the combination, whatever right that we get it to a point.
+
+01:09:02.000 --> 01:09:13.000
+And I think I said, this and map weavers where we can elevate the conversation a bit right, because then we can at least point to a spot and say a spot either in massive wiki or in mirror or both and
+
+01:09:13.000 --> 01:09:18.000
+say, wait a minute. This needs expansion this is the new thing that's that work that is just coming in now.
+
+01:09:18.000 --> 01:09:26.000
+We've been talking about it for 3 days let's I think we understand it better Now let's capture it, and I think that's what you were saying about massive Wiki, too.
+
+01:09:26.000 --> 01:09:29.000
+Right, like So let's create the diagram of it Let's create the document for it.
+
+01:09:29.000 --> 01:09:31.000
+And now we've got it and then if we need to revisit it.
+
+01:09:31.000 --> 01:09:35.000
+We know where we need to go, and we can add to it.
+
+01:09:35.000 --> 01:09:39.000
+But at least now we've captured it and it hasn't gone missing.
+
+01:09:39.000 --> 01:09:47.000
+I I Yeah. 6 exciting because we've been talking around things for so long.
+
+01:09:47.000 --> 01:10:02.000
+So i'm also inspired i've I've got flows like this written down, and they're really hard to like see as a flow and they're really hard to understand so i'm inspired
+
+01:10:02.000 --> 01:10:09.000
+to learn some of your grammar and and structure and stuff like that, and and maybe try to a mirror.
+
+01:10:09.000 --> 01:10:16.000
+I some of the things that that that work would work better as a visual visual Jason rather than a description.
+
+01:10:16.000 --> 01:10:21.000
+I'm happy to do it with you too, because I think I would learn yeah from doing it with you.
+
+01:10:21.000 --> 01:10:30.000
+I. I created the grammar as I went from how, having done a few other mirrors, and from having, you know, navigated other peoples.
+
+01:10:30.000 --> 01:10:37.000
+As well. I think we together. we'd come up with probably something even better. Thank you.
+
+01:10:37.000 --> 01:10:42.000
+I'll i'll take you up on that okay good schedule something. All right, gentlemen.
+
+01:10:42.000 --> 01:10:50.000
+I gotta I gotta run. Is there anything else? This is great.
+
+01:10:50.000 --> 01:10:57.000
+Yeah, it was great, really Appreciate it, Michael. Any final thoughts
+
+01:10:57.000 --> 01:11:09.000
+You must have had to go first. Sorry no I didn't I was just trying to get to my microphone, because finally did get home, and just bring some stuff in from the car.
+
+01:11:09.000 --> 01:11:19.000
+So yeah, this was really great. And I, you know I mean the the the integration.
+
+01:11:19.000 --> 01:11:40.000
+You know it it's how to get out of the how to get out of the but this way and and to the and this way, you know that it's that it's visual that it's but it's
+
+01:11:40.000 --> 01:11:52.000
+visual that it's sequential that it's you know private that it's public, that it's group based, I mean all those things that I mean I think we're all striving for from from you know not I
+
+01:11:52.000 --> 01:12:01.000
+wouldn't even say different directions it's like there's no reason, you know they shouldn't integrate, and you want them to.
+
+01:12:01.000 --> 01:12:11.000
+I mean there are times you're looking at something and you're like I am totally not interested in the the substance of all these angels.
+
+01:12:11.000 --> 01:12:21.000
+Individual things I want to look at the network view or you're looking at Jerry's brain, and you're getting the network view, and you're not I don't want this I want to see like where this shows up in
+
+01:12:21.000 --> 01:12:34.000
+massive wiki you know or on factor you know it's just like It's the holy grail where you know every day I feel like we're getting closer even if we don't know we're getting
+
+01:12:34.000 --> 01:12:41.000
+closeer, cause we we're still here then that's what we all want right, so we'll get there.
+
+01:12:41.000 --> 01:12:47.000
+Well, I mean, you know I wanna keep up the conversation with with both of you and toward you know I would.
+
+01:12:47.000 --> 01:12:54.000
+I would love to be a fly, on the wall to go in the conversation that you're you're having which you know that that's fine.
+
+01:12:54.000 --> 01:13:03.000
+If I'm. not but you know want to see this happen with you know with it's funny.
+
+01:13:03.000 --> 01:13:13.000
+I was just I I broke into a you guys will probably be both be interested in this in the series called Stoa.
+
+01:13:13.000 --> 01:13:29.000
+I don't know if you know it there was a installment on, on Youtube and it's Daniel Smockenberger interviewing what's your name forgetting the woman's name who does
+
+01:13:29.000 --> 01:13:48.000
+society library. which is a good, great, resource in itself though you know very, very ambitious, and brad degraph who you know you've seen in in meetings, who's working on particularly trust networks and does a lot of
+
+01:13:48.000 --> 01:13:54.000
+network based stuff and like it's it's worth listening to particularly Brad's part.
+
+01:13:54.000 --> 01:13:58.000
+Well, actually society library. I was familiar with but the that's really interesting, too.
+
+01:13:58.000 --> 01:14:04.000
+There's somebody else who's about kind of ai envisioned stuff.
+
+01:14:04.000 --> 01:14:08.000
+That's that's interesting but not not as relevant.
+
+01:14:08.000 --> 01:14:18.000
+But anyway, so that that sounds like a video called emerging projects in public sense making with Daniel.
+
+01:14:18.000 --> 01:14:29.000
+Yes, that's the one This cannot 2 days ago thank you from the person who can't stick a link in the chat right now.
+
+01:14:29.000 --> 01:14:33.000
+So yeah, you guys will get a kick out of that awesome.
+
+01:14:33.000 --> 01:14:38.000
+Thank you. you're you're gonna post that in Madras someplace.
+
+01:14:38.000 --> 01:14:45.000
+Yes, I will, as a matter of fact, and cool that's awesome.
+
+01:14:45.000 --> 01:14:51.000
+I I am reminded I need a replacement for the words blog and blogging.
+
+01:14:51.000 --> 01:15:00.000
+We don't have to do it right now but but Honestly, I I think the the the lowercase generic term is post.
+
+01:15:00.000 --> 01:15:21.000
+Hmm Well, there's a the the the the word I'm looking for is Pete has a set of posts that are more about him, than more about Lionsburg or more about a topic in lines with Yeah, So for that I I say there's so
+
+01:15:21.000 --> 01:15:29.000
+I have posts in a blog and I encourage people to do blogging, I mean, or it goes back to Jerry's nuggets.
+
+01:15:29.000 --> 01:15:38.000
+Yeah, the the was there earlier the the name I need describes that it's.
+
+01:15:38.000 --> 01:15:44.000
+So we we hit home at some point kind of homepage or something like that.
+
+01:15:44.000 --> 01:15:53.000
+But it needs to be multiple posts right so some description of of here's a series of things that Pete is doing in the wiki that are much more.
+
+01:15:53.000 --> 01:16:00.000
+They're they're like 90% peak rather than or 90% Jonathan or 95 Jordan.
+
+01:16:00.000 --> 01:16:07.000
+They're not 90%, you know the collective wisdom of the the whole whole group. right? right? right.
+
+01:16:07.000 --> 01:16:16.000
+You have a blog to me has that like article like it's, an it's a finished article and that's what I think is feels the thing piece right so some we maybe need to come
+
+01:16:16.000 --> 01:16:24.000
+honestly, truly, come up with a new word So i'm surprised to hear that from both of you, and then not not surprise.
+
+01:16:24.000 --> 01:16:28.000
+Actually it makes total sense i've i've telescope. the word blog.
+
+01:16:28.000 --> 01:16:34.000
+You know, over the past 20 years, starting with a wiki to mean what I mean right?
+
+01:16:34.000 --> 01:16:43.000
+A a personal
+
+01:16:43.000 --> 01:17:09.000
+Yeah, anyway. Well, I I just wanna pipe in. when you think about, when you think about what people do on their whether their twitter, their instagram, their Facebook, their you know, their their page, their profile, However, they think of it the thing, that
+
+01:17:09.000 --> 01:17:15.000
+they do in that aim. It is universal to those I mean.
+
+01:17:15.000 --> 01:17:23.000
+Maybe the verb might be tweet on Twitter. but if you said I posted something on Twitter, people would know what you meant.
+
+01:17:23.000 --> 01:17:39.000
+That if they went to you they'd see a series of things that you did, and if they just looked for that post they might see related things you know that that shared the hashtag You know I mean, there, it has
+
+01:17:39.000 --> 01:17:46.000
+that that multiply associative property that like is desirable, that you know.
+
+01:17:46.000 --> 01:17:53.000
+Yes, I can see everything that Keith, Pete, Pete Post.
+
+01:17:53.000 --> 01:18:11.000
+Pete posted in his blog you know on on massive wiki, but it might be related to something that is linked out from there, and that's his that that to me is the tougher thing I mean i'm
+
+01:18:11.000 --> 01:18:23.000
+i'm. i'm pushing post just because it's so bland, and and therefore adaptable to I think there's you think there's 2 things. so you wouldn't say pete's post right I
+
+01:18:23.000 --> 01:18:32.000
+It's post is a good name for an individual thing but then you want a name for the collection of things, and maybe it's so Diary sends a little bit too.
+
+01:18:32.000 --> 01:18:52.000
+Personal. Maybe it's speed or something like that profile if if if you yeah, except there would probably be different threads on when these fill in the plan and piece fill in the black, So what that thing
+
+01:18:52.000 --> 01:18:56.000
+is I I feel you, I mean it's just like is it?
+
+01:18:56.000 --> 01:19:02.000
+I mean you almost don't want to have to say you don't want to have to call it something.
+
+01:19:02.000 --> 01:19:16.000
+It's like you know well go to pete's link to Pete and see what he's posted link to Wendy and see what she's posted and and where that takes you it's like your
+
+01:19:16.000 --> 01:19:26.000
+homepage your like it's so home like calling it a person or homepage puts it in just one place, right?
+
+01:19:26.000 --> 01:19:40.000
+It's not that whole thread hello yeah it it's, I believe me, this is this is a conversation that, like you know.
+
+01:19:40.000 --> 01:19:46.000
+If just to just to say just from theory, point of view, like on factor.
+
+01:19:46.000 --> 01:20:07.000
+If you post something in in on somebody else's stream or you know some particular stream, it can show up on your profile or not show up on your profile, and that's a call that you make and like so what took we we we
+
+01:20:07.000 --> 01:20:14.000
+ended up calling it profile unhappily. and what to call that thing, looking at what?
+
+01:20:14.000 --> 01:20:21.000
+What wendy post what wendy posted is it's there's no winner.
+
+01:20:21.000 --> 01:20:30.000
+Yeah, my my husband's you know in the business of creating apps, and recently they had to create, and I think they called it my my home.
+
+01:20:30.000 --> 01:20:36.000
+I think that they defaulted because it was the same problem like
+
+01:20:36.000 --> 01:20:50.000
+I like river Yeah, I love that we'll see I like, Oh, you could have little drops.
+
+01:20:50.000 --> 01:21:03.000
+That's actually kind of cool, because it sounds like a bit of a you know, just a tiny little thing right that then flows into that, then flows into kind of like that.
+
+01:21:03.000 --> 01:21:15.000
+I just wanna drop some knowledge. yeah it's a good one.
+
+01:21:15.000 --> 01:21:41.000
+Don't need to answer for that one now I don't. I don't think we'll get there, but thanks for starting the conversation with me.
+

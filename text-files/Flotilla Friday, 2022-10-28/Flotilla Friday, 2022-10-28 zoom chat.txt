@@ -1,0 +1,21 @@
+00:19:50	Pete Kaminski:	http://www.topicquests.org/
+00:20:05	Pete Kaminski:	https://reasonpedia.com/
+00:20:19	Pete Kaminski:	https://gullibot.com/
+00:21:38	Pete Kaminski:	https://hackmd.io/@peterkaminski/r1628dKEs/edit?both
+00:22:42	Michael Grossman (Factr):	Did you say Forby, Sam?
+00:23:47	Pete Kaminski:	https://forby.io/
+00:25:27	Pete Kaminski:	https://hackmd.io/@peterkaminski/r1628dKEs/edit
+00:31:16	Michael Grossman (Factr):	Nice to meet you, Sam! I’m in and out of full presence, (but listening) today. https://factr.com is our related project.
+00:41:40	Vincent Arena (Catalist Commons):	@Michael i have a technical question ive asked previous that I want to revisit!
+00:41:46	Vincent Arena (Catalist Commons):	previously**
+00:47:05	Michael Grossman (Factr):	Sam, I overheard you describe your stack, and it very heavily overlaps Factr’s. We don’t use Fastify (to my knowledge—I’m similarly a non-technical founder), but everything else you mentioned, we do.
+00:47:47	Michael Grossman (Factr):	Vincent, sure! DM me or whatever.
+00:48:54	Pete Kaminski:	still around, just muting for a sec
+01:02:11	Wendy McLean, NY:	@Sam, you might like this event: Community Wisdom Garden Summit & Pattern Jam - Nov 1st 3pm ET https://convo.kernel.community/rsvp/1JIqB28K0S
+01:03:39	Michael Grossman (Factr):	There are mechanics to make what you're calling “investors” holders of debt with a set cap on return.
+01:04:37	Michael Grossman (Factr):	Berkeley in the house.
+01:12:52	Michael Grossman (Factr):	I’ll be off camera for a minute here and there, but still here!
+01:13:07	Jonathan Sand:	FUN, indeeed
+01:18:56	Wendy McLean, NY:	When we collaborate, we begin to share common resources.  The more we do that, the more we all benefit, the more the whole system is successful.  Competition for resources eventually leads to a strain on the resources, competition gets more intense, and we all loose.  The former facilitates a sense of abundance, the latter facilitates a sense of lack.
+01:30:01	Wendy McLean, NY:	Such a pleasure meeting you Sam.  Hope to see you here again.  Pleasure everyone!  Thanks for the discussion.  Have a great weekend.  Happy Halloween!
+01:33:57	Vincent Arena (Catalist Commons):	https://www.catalist.network/trove/impactstartup

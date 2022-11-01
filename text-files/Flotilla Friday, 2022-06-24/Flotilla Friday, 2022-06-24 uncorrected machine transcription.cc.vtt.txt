@@ -1,0 +1,1268 @@
+WEBVTT
+
+00:00:15.000 --> 00:00:21.000
+I was just relating that that I had a a misadvantage recently.
+
+00:00:21.000 --> 00:00:33.000
+Mostly my my fault. user error. but a little bit of a sharp edge on the tool with a tool called crab fit, which is a replacement, for when well, not a replacement, an alternative to when to meet and
+
+00:00:33.000 --> 00:00:41.000
+some other services scheduling poll. So after I kind of straightened down and said, Okay, I made a new poll.
+
+00:00:41.000 --> 00:00:45.000
+I A little bit later, I said, and I made 2 issues in the open source.
+
+00:00:45.000 --> 00:00:49.000
+Repo for it, and stacy's like Well, that is that's cool.
+
+00:00:49.000 --> 00:00:56.000
+Is that a open source thing or do you happen to know these people, and that's why you got involved it's It's actually literally an open source thing.
+
+00:00:56.000 --> 00:01:09.000
+It's it's a a kind of a highest complement, and and also seen as very contributory to a project to make a good bug report or a good issue enhancement.
+
+00:01:09.000 --> 00:01:14.000
+Request. So I you know I feel like I contributed to their project.
+
+00:01:14.000 --> 00:01:20.000
+I I also feel a little bit guilty that I didn't contribute code or something like that.
+
+00:01:20.000 --> 00:01:37.000
+But for an open source project. the the the way that you participate is by constructive criticism is one of the highest forms of contributing to a thing not quite as high as as documenting something that
+
+00:01:37.000 --> 00:01:49.000
+isn't documented or even better fixing the bug and and saying, here's a fix for the bug that I have, you know, and and you could use it if you want can I can I just say that I think
+
+00:01:49.000 --> 00:01:56.000
+it's usually valuable the fact that we're using it, and we're sharing it, and that people know about it.
+
+00:01:56.000 --> 00:02:00.000
+I mean I don't think that should be overlooked at all.
+
+00:02:00.000 --> 00:02:08.000
+Yeah, you know the So. So when I when I made those enhancement requests are actually enhancement request.
+
+00:02:08.000 --> 00:02:12.000
+Did they? They have a a thing, you know. Do you want to do an enhancement request or a bugle part?
+
+00:02:12.000 --> 00:02:15.000
+And so I clicked enhancement requests because they weren't bugs.
+
+00:02:15.000 --> 00:02:22.000
+So then another another good practice is for me to go.
+
+00:02:22.000 --> 00:02:29.000
+Read all the bug reports and it enhancement requests. even the ones that are have been fixed and go. okay.
+
+00:02:29.000 --> 00:02:43.000
+It's not that one. it's not that one to make sure that i'm not duplicating right in the in the process of doing that One of the ones that that I I referenced did have a comment where he said
+
+00:02:43.000 --> 00:02:46.000
+you know. by the way, this tool is wonderful and it's awesome you know.
+
+00:02:46.000 --> 00:02:50.000
+Thank you so much for for creating it I felt a little bit weird I didn't do that.
+
+00:02:50.000 --> 00:02:56.000
+A lot of times I will but it's it's also it it.
+
+00:02:56.000 --> 00:02:59.000
+It feels good as a maintainer when I get those kind of comments.
+
+00:02:59.000 --> 00:03:09.000
+It's always wonderful, but it also I it also junks up the enhancement request or the the Bug report a little bit to put a just a random compliment in it.
+
+00:03:09.000 --> 00:03:17.000
+So I decided not to, for whatever reason and I I kind of in my head, I've got a social debt, you know to, you know.
+
+00:03:17.000 --> 00:03:23.000
+Hit them on Twitter, or something like that. and say by the way we were using crab fit, and you know the experience has been awesome or something like that.
+
+00:03:23.000 --> 00:03:34.000
+So that's I have the intent to do that even even if I don't the so
+
+00:03:34.000 --> 00:03:49.000
+So there's a really cool long essay that explains some of this it's some of it is ancient and no longer relevant, but some of it is really relevant and it's a really good piece
+
+00:03:49.000 --> 00:03:54.000
+I'm thinking about in the beginning was the command line with by Neil Stevenson.
+
+00:03:54.000 --> 00:04:01.000
+I'm not sure I can recommend the whole thing I think maybe i'll what i'll do is find the interesting bits.
+
+00:04:01.000 --> 00:04:13.000
+But he talks about it's. it's about the difference between largely it's about the difference between mediated experiences and raw experiences.
+
+00:04:13.000 --> 00:04:28.000
+So he makes the the distinction between you're traping through the jungle of India, and you come across some stone ruins, and you get to experience the whole thing versus you're you're in Orlando
+
+00:04:28.000 --> 00:04:37.000
+Florida at Disney World, and you stumble across some ruins, and they look even more authentic than the real ruins.
+
+00:04:37.000 --> 00:04:45.000
+Because Disney, is that an awesome job of kind of like setting the stage, getting you emotionally ready for it, you know, replicating it, and then amping up a little bit.
+
+00:04:45.000 --> 00:04:55.000
+The the whole experience of ancient ruins. Right? So he uses that kind of metaphor to talk about interfaces to computers.
+
+00:04:55.000 --> 00:05:04.000
+So we are, we're all using a windows fancy windows interface with a lot of affordances that make the computer quote unquote easier to use it.
+
+00:05:04.000 --> 00:05:12.000
+Also an easier interface strips away as some of the the power of of the computer.
+
+00:05:12.000 --> 00:05:24.000
+So at least 3 of us here, I think, also pull up a pretend version of the old way that we used to interface with computers versus via the command line and then we have the power of the command.
+
+00:05:24.000 --> 00:05:27.000
+Line and the power of the Gui interface, so the whole.
+
+00:05:27.000 --> 00:05:43.000
+The whole thing is about in the beginning with the command line here's these 2 ways of approaching power and ease of use, and in that he talks about the difference between linux an open source system and microsoft
+
+00:05:43.000 --> 00:05:48.000
+windows. a closed source system closed our system like windows has to pretend that it's perfect.
+
+00:05:48.000 --> 00:05:52.000
+So you'll never hear microsoft saying Oh, windows is broken in these ways.
+
+00:05:52.000 --> 00:05:57.000
+Please don't use it for those things linux on the other hand, he's he loves the fact.
+
+00:05:57.000 --> 00:06:03.000
+Stevenson loves the fact that you come to linux, and pretty much the first thing you're blasted with Here are all the bugs.
+
+00:06:03.000 --> 00:06:12.000
+Here is all the ways that it's horrible here's all the you know. and he says you know so what happens in an open source.
+
+00:06:12.000 --> 00:06:24.000
+Environment is you know the context of the tool that you're using and you can participate in in talking about it's shortcomings, and you can help improve it and stuff like that.
+
+00:06:24.000 --> 00:06:27.000
+And so it gets better and better and more fit to purpose.
+
+00:06:27.000 --> 00:06:31.000
+Over time windows. the feedback loops are broken.
+
+00:06:31.000 --> 00:06:40.000
+They can admit that there's anything wrong so they hide a bunch of stuff, and they keep building craft on top of that like to hide the fact that it's not working, and it gets bloated and ugly and
+
+00:06:40.000 --> 00:06:45.000
+hard to use, and and nobody can admit that it's hard to use.
+
+00:06:45.000 --> 00:06:59.000
+And so it just gets ugly and uglier So that's the part of the story that I wanted to kind of convey and maybe I can find enough of that encapsulated in the the essay that I can
+
+00:06:59.000 --> 00:07:03.000
+say here read this part. I read that part as I mentioned in the Chat.
+
+00:07:03.000 --> 00:07:10.000
+There's the first of the essays and travels in hyper reality. Biomimico goes real.
+
+00:07:10.000 --> 00:07:16.000
+There goes deeply into the the ruin situation. You described it. Co.
+
+00:07:16.000 --> 00:07:23.000
+Incidentally also wrote this hilarious piece about operating systems as religion.
+
+00:07:23.000 --> 00:07:33.000
+Do you remember that one where he compares Mac with Catholicism and windows, would pretend participantism?
+
+00:07:33.000 --> 00:07:52.000
+And at some point I think unix was Talmudic and the the it's it's a great piece, hey? go it! who has some, as you extremely sharp commentary on so many things but I remember the
+
+00:07:52.000 --> 00:08:05.000
+the piece about. I think he was referencing Disney. but wax museums where, for example, there's a reproduction of the Venus of Milo, and Of course cause it's a wax
+
+00:08:05.000 --> 00:08:18.000
+museum they have the full statue with arms because you know they wouldn't have been broken to start with, and it's in full color, because well, actually, in this case it's defensible that it was originally painted to
+
+00:08:18.000 --> 00:08:31.000
+start with it. wasn't white marble and and he said on the one hand, it's it was there's a he He gave 2 slogans.
+
+00:08:31.000 --> 00:08:40.000
+Is that it has to be the real thing, but then it has to be something more, and he says, those are the 2 principles of American aesthetics.
+
+00:08:40.000 --> 00:08:44.000
+Up to a point about some of these things and the real thing.
+
+00:08:44.000 --> 00:08:57.000
+I, we have to give you the real But no we have to get you to something more than the real thing. and that's what she called hyper reality, partly following both of the yeah, Stacy yeah.
+
+00:08:57.000 --> 00:09:02.000
+Just as this relates to in math weavers the idea we were talking.
+
+00:09:02.000 --> 00:09:18.000
+I mean we weren't talking about yet we're supposed to be talking about interviewing projects as if they were people I love the way this conversations amorphousizing these projects, and giving them personality because it kind of will match and
+
+00:09:18.000 --> 00:09:24.000
+help to describe the personalities needed to work in such an environment.
+
+00:09:24.000 --> 00:09:34.000
+I mean if you don't want to work in that environment you can't be that type of person either
+
+00:09:34.000 --> 00:09:45.000
+Okay, should we do around there's something i'd like to discuss, But I want to give other people chance to propose topics as well.
+
+00:09:45.000 --> 00:09:49.000
+We should go around. Yep, you should go first, my good one.
+
+00:09:49.000 --> 00:10:00.000
+Okay, So I really want to dig into what is needed for he stocks to flow tooling.
+
+00:10:00.000 --> 00:10:08.000
+And I may want to dig into data models and a lot of the complex requirements.
+
+00:10:08.000 --> 00:10:17.000
+If people are interested in that, but it's very much a little bit rough standpoint, more about stocks and those tools.
+
+00:10:17.000 --> 00:10:25.000
+I think a lot of us are interested in So stocks and flows of information.
+
+00:10:25.000 --> 00:10:38.000
+Yeah. translating conversation processes which such as videos, transcripts thereof, and anything like that into something more synthetic which would be the stock.
+
+00:10:38.000 --> 00:10:57.000
+So the conversations, the flow ideas pass by or it can be chat Interfaces are where it whatever is for found lead time, balance versus something that is more synthetic, and says, well, here's a that serves in a way
+
+00:10:57.000 --> 00:11:01.000
+as an index into all the conversations but allows all sorts of okay, what's being said?
+
+00:11:01.000 --> 00:11:13.000
+What decisions have been taken what's the current state of things and may or may not be you know.
+
+00:11:13.000 --> 00:11:21.000
+And and and translating one to another is work it's very serious work.
+
+00:11:21.000 --> 00:11:31.000
+But how do we do it in a way that's ecosystemic? And how do we do it?
+
+00:11:31.000 --> 00:11:39.000
+In a way that's not 2 up in united about tooling but also a allows interrupt.
+
+00:11:39.000 --> 00:11:51.000
+So that's my topic and let's round other topics
+
+00:11:51.000 --> 00:12:07.000
+Jonathan you're muted
+
+00:12:07.000 --> 00:12:27.000
+Oh, oh, throw out I mean in this is just something spurred by what you were saying, Mark Antoine, that the
+
+00:12:27.000 --> 00:12:47.000
+Granularization, the segmentation of of sequential things like, you know, conversations, chats, email chains.
+
+00:12:47.000 --> 00:13:08.000
+You know discussions that we're having you know I I think it's sort of a necessary prerequisite in a way that you'd be able to look at pieces so to recombine for relevance
+
+00:13:08.000 --> 00:13:13.000
+and and of course a lower a lower barred it's a more mechanical function.
+
+00:13:13.000 --> 00:13:24.000
+But I think it's a really valuable one you know we've got transcripts
+
+00:13:24.000 --> 00:13:30.000
+Ways that we could manually or non manually chop those up and search them.
+
+00:13:30.000 --> 00:13:43.000
+Is is a question that comes to mind, and of course, how we can do that in a somewhat flat, interoperable way.
+
+00:13:43.000 --> 00:13:48.000
+So you know nothing too big or difficult
+
+00:13:48.000 --> 00:13:56.000
+Absolutely no, that's the topic I want to discuss before we dig into it. more.
+
+00:13:56.000 --> 00:14:09.000
+Let's see if we can elicit any more conversations I haven't been watching Jonathan Is Is he doing other stuff, or I think he's trying to figure out how to unmute?
+
+00:14:09.000 --> 00:14:14.000
+He was unmuted at some point but we still didn't hear it real quick.
+
+00:14:14.000 --> 00:14:26.000
+F. 2 F. means face to face. Thank you.
+
+00:14:26.000 --> 00:14:46.000
+Throughout one other subject, while we're waiting for jonathan that that is perennial and and I was thinking about how to approach it from a different angle.
+
+00:14:46.000 --> 00:15:16.000
+That the idea of using you're using using high low you know, in the context of work we're doing here, and the Meta project was raised, and oh, just the question of how we hello, and you know, take take this
+
+00:15:26.000 --> 00:15:38.000
+test case just to say, this is how we allow information to manifest itself in different ways on different platforms.
+
+00:15:38.000 --> 00:15:48.000
+From the work we're doing
+
+00:15:48.000 --> 00:15:59.000
+Not not privileging in one platform over another it's Is that how to decide what platform to use?
+
+00:15:59.000 --> 00:16:07.000
+Well how not to decide what platform to use is is what I'm saying, I mean how to.
+
+00:16:07.000 --> 00:16:17.000
+How do you act in interruptable enough ways to
+
+00:16:17.000 --> 00:16:23.000
+Not say
+
+00:16:23.000 --> 00:16:38.000
+Where choosing high, low, and therefore unchoosing catalyst, or seriously, or you know Yup,
+
+00:16:38.000 --> 00:16:44.000
+Yeah, I I like that, I I I have to say, without getting into the topic itself.
+
+00:16:44.000 --> 00:17:00.000
+One of my heuristics for tools for project management, for instance, is the best tool for project management is whatever tool the project manager feels most comfortable with.
+
+00:17:00.000 --> 00:17:03.000
+So that one is a it's a bit of a spoiler.
+
+00:17:03.000 --> 00:17:12.000
+It's not quite like a collaborative tool like matter most or highlight, or matrix, or something like that where everybody has to participate in it.
+
+00:17:12.000 --> 00:17:17.000
+It's a tool where one person has to participate and everybody has to follow along.
+
+00:17:17.000 --> 00:17:26.000
+But in those cases you know the heuristic that let's let's use a tool that everybody likes is really bad.
+
+00:17:26.000 --> 00:17:33.000
+Because if it's not a tool that the program project manager likes, they're not gonna use it very well.
+
+00:17:33.000 --> 00:17:50.000
+So I guess maybe I I can use another i'll add another bullet to that which is tools where everybody needs to use it equally
+
+00:17:50.000 --> 00:17:55.000
+That's indicated where we have program program manager but I even agree.
+
+00:17:55.000 --> 00:18:00.000
+It's important it a a and well, and this is why I care about interrupt right?
+
+00:18:00.000 --> 00:18:08.000
+What I would like is a tool where everybody can use whatever they want, and it flows into whatever tool to project.
+
+00:18:08.000 --> 00:18:12.000
+Manager wants to use that would be the ideal case.
+
+00:18:12.000 --> 00:18:21.000
+Yes, did it? and that's kind of the That's that's always been the the flotilla line, you know.
+
+00:18:21.000 --> 00:18:30.000
+Let's let's use massive wiki and let's use catalyst and let's see this factor, and let's use silo and let's use you know and then make sure they can all talk to each
+
+00:18:30.000 --> 00:18:33.000
+other
+
+00:18:33.000 --> 00:18:40.000
+Okay, so should I get started I Don't think Jonathan is managing to join us.
+
+00:18:40.000 --> 00:18:53.000
+Unfortunately. yes, yes, I agree. and everybody's good with the the definitions of stocks and flows.
+
+00:18:53.000 --> 00:19:12.000
+I could use some clarification on exactly what stocks the how you would define Star one of the one of the ways to think of it is water.
+
+00:19:12.000 --> 00:19:19.000
+So flows our way. the water's moving and stocks are when the water is still like a lake.
+
+00:19:19.000 --> 00:19:23.000
+Another way to think of it is in a factory floor.
+
+00:19:23.000 --> 00:19:30.000
+Flows are where pieces and parts and finish things are moving, and stocks is like a stockpile.
+
+00:19:30.000 --> 00:19:40.000
+So if i've got to insert you know bracket bracket, 1, 2, 3 into the large superstructure.
+
+00:19:40.000 --> 00:19:44.000
+I'm working on. if I have a stock of bracket, 1, 2, 3 behind me.
+
+00:19:44.000 --> 00:19:47.000
+Then I can grab one and put it if I don't have a stock behind me.
+
+00:19:47.000 --> 00:19:56.000
+If it's always in flow i've got the problem that i'm waiting for the person to hand me bracket 1, 2, 3, before I can do anything.
+
+00:19:56.000 --> 00:20:00.000
+The flip side, though. and this is the Toyota production system.
+
+00:20:00.000 --> 00:20:08.000
+The trick is if I have a 1 billion bracket 1, 2, 3 is behind me.
+
+00:20:08.000 --> 00:20:15.000
+Somebody had to make all those we have to figure out the factory floor space to accommodate all those we have to figure out a way to move the ones and back towards me.
+
+00:20:15.000 --> 00:20:25.000
+When I I you know. So stocks were found to be inefficient in lean production, and they tried to operate on flows. And just in time.
+
+00:20:25.000 --> 00:20:34.000
+Manufacturing is a, you know, optimizing for flow and something that in computer science we call back pressure to tell an incoming flow.
+
+00:20:34.000 --> 00:20:38.000
+Wait. i'm. not ready to receive this because i'm processing other stuff.
+
+00:20:38.000 --> 00:20:42.000
+Yeah, and and conversely i'm i'm waiting on you.
+
+00:20:42.000 --> 00:20:48.000
+Now you know, please give me what you've got so that we can keep the whole thing flowing.
+
+00:20:48.000 --> 00:20:58.000
+The The visual visual combine cards are actually meant to be forward pressure and back pressure signals to the upstream.
+
+00:20:58.000 --> 00:21:05.000
+Interestingly enough, makes perfect sense the the the i'm sorry.
+
+00:21:05.000 --> 00:21:16.000
+My metaphor is a river with logs and I mean for me the conversation is like there's all these interesting pieces of ideas floating on the river of the conversation.
+
+00:21:16.000 --> 00:21:29.000
+But I want to take the logs. out of the river and build the cabin that's and that means so in that example. the logs are the flow, not the water, the logs are either flowing or they've they've
+
+00:21:29.000 --> 00:21:37.000
+been curated. they've been harvested and encompassed and collected into a log cabin.
+
+00:21:37.000 --> 00:21:47.000
+So I guess my question is, what is the when I mean as opposed to a manufacturing line?
+
+00:21:47.000 --> 00:22:00.000
+An information flow we're the stucks that we're making of them are the cabin in a way.
+
+00:22:00.000 --> 00:22:10.000
+It's not that they're they're fundable you know identical parts that they need to be identified as they flow.
+
+00:22:10.000 --> 00:22:19.000
+And and evaluated verified That is a hard problem.
+
+00:22:19.000 --> 00:22:37.000
+That is the hard problem. Yes, those unadidentified logs as part of the flow and the removed curated version as stocks.
+
+00:22:37.000 --> 00:22:45.000
+That's why I was just asking about the definition , because I know I know what you mean. I mean, Pete.
+
+00:22:45.000 --> 00:22:59.000
+Your definition makes total sense in in the physical world. I I think Mark and Chuan has done something interesting with a metaphor, and I wish I knew my argumentation and conversation theory well enough to call it autonomy or something like
+
+00:22:59.000 --> 00:23:05.000
+that. but But I think Mark and Fund typically stock stocks and flows are commodity kinds of things.
+
+00:23:05.000 --> 00:23:14.000
+I everything the same like water or like bracket 1 2 3 so it's it's kind of an interesting extension of the metaphor to talk about.
+
+00:23:14.000 --> 00:23:25.000
+He's he's using he's using that metaphor to talk, talk about the way things you know they're They're either flowing, they're real-time conversation and things are going fast and you can't
+
+00:23:25.000 --> 00:23:31.000
+grab on anything, or they've accumulated in one place but but there is a shape to them.
+
+00:23:31.000 --> 00:23:35.000
+The things that are flowing have different shapes, different concepts and thoughts and things.
+
+00:23:35.000 --> 00:23:41.000
+You know things like that. and then when you build them into something different.
+
+00:23:41.000 --> 00:23:48.000
+People might build it differently. The components of it aren't aren't plug and play like a log or bracket.
+
+00:23:48.000 --> 00:23:51.000
+They have, you know, interesting shapes and stuff like that.
+
+00:23:51.000 --> 00:23:57.000
+Yeah, it It's interesting that you brought in factory aligned because it's not what I had in my mind.
+
+00:23:57.000 --> 00:24:15.000
+But you're absolutely right when people say stock and flow that is the most common reference, and and and i'm very much thinking about, you know the the paradox of transforming meaningful conversations into meaningful documents because
+
+00:24:15.000 --> 00:24:18.000
+nobody's going to listen to the bloody conversation again another nobody.
+
+00:24:18.000 --> 00:24:24.000
+A lot of people do, but i'm the usually the one complaining about.
+
+00:24:24.000 --> 00:24:29.000
+Don't send me videos or Youtube. I won't listen to them I want something written.
+
+00:24:29.000 --> 00:24:43.000
+I want something concise, and if I want to dig in i'll dig in, make it fractal But I don't want to listen to a 90 min conversation, because there might be something interesting in There It's 90 min.
+
+00:24:43.000 --> 00:24:53.000
+I can skin the 90 min transcript in roughly 5 min in the extract relevant nuggets for me which might not be the same.
+
+00:24:53.000 --> 00:24:57.000
+Not gets it, you will find relevant. but do you?
+
+00:24:57.000 --> 00:25:05.000
+And in that instance market, and what you really want is that I don't know.
+
+00:25:05.000 --> 00:25:23.000
+What it is in the in stock slow terms. But The the granularity view on what's in that video to be able to say, Oh, there are there 12 videos out there.
+
+00:25:23.000 --> 00:25:31.000
+This one has 0 instances of the thing i'm interested in this one has 5, and there are these these time marks.
+
+00:25:31.000 --> 00:25:39.000
+This one has 2, you know, whatever it is that the either just wanna watch those things or you wanna watch.
+
+00:25:39.000 --> 00:25:44.000
+You might wanna watch an entire conversation if it deals enough with the subject.
+
+00:25:44.000 --> 00:25:46.000
+But i'll be able to see that possibly yes, but it.
+
+00:25:46.000 --> 00:25:57.000
+It's less a problem of filtering than the problem of yeah zooming in on the relevant part.
+
+00:25:57.000 --> 00:26:00.000
+It's not about knowing Oh, there's these 20 videos which one has what interests me.
+
+00:26:00.000 --> 00:26:05.000
+It's which small part, or see it from another angle so both.
+
+00:26:05.000 --> 00:26:12.000
+We have series like hours, right? We have all these Ogm and all these things, and we talk about a lot of things.
+
+00:26:12.000 --> 00:26:21.000
+Suppose the decision is taken about what we'll do in the Meta Project are one part of the Meta project or one team of the Meta project.
+
+00:26:21.000 --> 00:26:40.000
+How do I know when the decisions being taken what it's about all these things that were or were not taken into account for that decision which may be dispersed around 20 videos and That's legend But this was taken
+
+00:26:40.000 --> 00:26:48.000
+into account, which in this other conversation, this other conversation and we ended up with a decision way down the line.
+
+00:26:48.000 --> 00:26:50.000
+I'd like to be able to look at the decision? and look oh!
+
+00:26:50.000 --> 00:27:00.000
+Did they take this into account. Maybe that's another video but that's my, that's my need somebody else will have a different need.
+
+00:27:00.000 --> 00:27:08.000
+And what's in? How are are you looking at how to do that with that without human like I never said that?
+
+00:27:08.000 --> 00:27:16.000
+Well, not no, not obviously, not without human input. But I mean how to scale the ability.
+
+00:27:16.000 --> 00:27:23.000
+I mean it sounds like a great, you know machine intelligence, you know.
+
+00:27:23.000 --> 00:27:32.000
+Ai thing to be able to say, you know. Okay, rather than like having this subject that comes up.
+
+00:27:32.000 --> 00:27:36.000
+And you can search a transcript to find out where it comes up to like.
+
+00:27:36.000 --> 00:27:41.000
+Build your picture of what this is if it's a meta enough issue.
+
+00:27:41.000 --> 00:27:45.000
+You're not gonna be able to search a single you know if it's governance, you know.
+
+00:27:45.000 --> 00:27:56.000
+There's going to be all these conversations about it and you need to be a lot smarter about how you analyze, which is why i'm not thinking so much about ai.
+
+00:27:56.000 --> 00:28:17.000
+But pete go ahead thanks I I wanted to I don't know I I under shared the screen and then it's like darn I should have kept it shared so I wanna make sure that we don't
+
+00:28:17.000 --> 00:28:20.000
+get over attracted to the stock and flow. metaphor.
+
+00:28:20.000 --> 00:28:32.000
+Kind of mark Mark, and twon is just using it to to say there's there's places where the information is flowing and and hard to capture, and then there's places where it is accumulated and been curated, and
+
+00:28:32.000 --> 00:28:51.000
+things like that. Yeah, So I I just wanted to suggest another metaphor that I've been talking through is you know there's harvesting and composting and synthesizing and sense making that's so
+
+00:28:51.000 --> 00:28:56.000
+that one has that metaphor again is a metaphor and it has other deficiencies.
+
+00:28:56.000 --> 00:29:12.000
+But we're talking those those are both pictures of the same thing and the the interesting part, I think probably, of the discussion is making sure that you can harvest, and then making sure that you can transform what you've harvested into
+
+00:29:12.000 --> 00:29:34.000
+something that's more to adjustable. easier to use more more usable, you know, more compacted. more curated and things like that , and keeping the link , , I had shown you at idealoom had I it's been a long
+
+00:29:34.000 --> 00:29:39.000
+time since we've seen a deal in yeah you should show it again.
+
+00:29:39.000 --> 00:29:54.000
+I think I should show Go ahead. I was just gonna say you know I resonate a lot more with that metaphor, you know, than than stocks and flows I mean not that It's not you know it sort of includes Stocks
+
+00:29:54.000 --> 00:30:01.000
+and flows in a way. but the one thing that I don't seeing it as you laid it out right there, and I went.
+
+00:30:01.000 --> 00:30:17.000
+What your metaphor is is the or your analog is is the identification or the you know it's like we're keeping the link like like Mark and Johnson.
+
+00:30:17.000 --> 00:30:42.000
+Yeah, well keeping the link, and and and identifying the that thing to say, you know it's not it's in what kind of thing it is, what subject it's on what you know all all the tags
+
+00:30:42.000 --> 00:30:45.000
+that's what i'd like to introduce yes, yeah.
+
+00:30:45.000 --> 00:30:56.000
+But I guess I guess what in the in the harvesting, composting, synthesizing sense, making thing, what would we call?
+
+00:30:56.000 --> 00:31:02.000
+You know the indexing, the the identification that sort of flat. The stop asking.
+
+00:31:02.000 --> 00:31:11.000
+I'll give you answers. Okay, the metaphor. So let me let me interject one thing, and then we should get to to ideal loop.
+
+00:31:11.000 --> 00:31:22.000
+When you when you do composting or there's there's some, or when between harvesting and composting, you take the things that aren't going to compost well and you put them in a separate
+
+00:31:22.000 --> 00:31:28.000
+bucket right we or when you're harvest when you're composting you have composting at different stages or 4 different things.
+
+00:31:28.000 --> 00:31:32.000
+Right it's kind of like that the metaphor Yeah.
+
+00:31:32.000 --> 00:31:35.000
+Sorting the sort of flopping in the case of composting.
+
+00:31:35.000 --> 00:31:40.000
+In my experience. , yeah, this is gonna this needs to break down a little bit more.
+
+00:31:40.000 --> 00:31:50.000
+So i'm gonna like dice, it, so the metaphor doesn't completely hold up it's it's a lot of it is just evocative, because we like to use biological metaphors, or you know,
+
+00:31:50.000 --> 00:31:57.000
+agricultural metaphors and it's easy to Say, everybody knows what harvesting everybody kind of knows what accomplishing is.
+
+00:31:57.000 --> 00:32:06.000
+But the you you saw me, Chi Inputs synthesizing and sense making at the end of that metaphor which is not composting at all.
+
+00:32:06.000 --> 00:32:11.000
+So could it, could it? We could have cooking and recipe making.
+
+00:32:11.000 --> 00:32:19.000
+Yeah, not bad. The the except except except except cooking, is is consumes.
+
+00:32:19.000 --> 00:32:26.000
+The input which I don't think is necessary in this case okay, let me show quickly.
+
+00:32:26.000 --> 00:32:34.000
+Ideal loom because I think it's relevant to what i'm trying to to build, and yet not so i'll go very quickly.
+
+00:32:34.000 --> 00:32:42.000
+This is ideal loom. So basically the idea was, you have a classic web forum.
+
+00:32:42.000 --> 00:32:47.000
+So these are messages. Forget the green to seconds. So this is a This is a thread.
+
+00:32:47.000 --> 00:32:54.000
+This is a fake conversation, but here's a real one Here's a real conversation with 400 messages.
+
+00:32:54.000 --> 00:33:07.000
+It happened. let's and and you had these small threads and people talking about this and that, and people would exactly do this.
+
+00:33:07.000 --> 00:33:15.000
+Say, Okay, here are the themes here. so this team this is a there's cnn sorry this is a French one.
+
+00:33:15.000 --> 00:33:26.000
+So it's been put there so that somebody put the message there, but in other cases it was about people found and let me open.
+
+00:33:26.000 --> 00:33:37.000
+This people found these extracts, these passage of the text, This, this, somebody said, this goes here.
+
+00:33:37.000 --> 00:33:42.000
+I can take something and say, Okay, this goes here I won't do it.
+
+00:33:42.000 --> 00:33:44.000
+In this case this is a real conversation. I don't want to change it.
+
+00:33:44.000 --> 00:33:49.000
+But let me do it on the demo, because the demo gets regenerated all the time.
+
+00:33:49.000 --> 00:33:56.000
+See this one is in this. Id is empty right now, but I could take
+
+00:33:56.000 --> 00:34:07.000
+The whole conversation. login in place that's the whole conversation and says this thing.
+
+00:34:07.000 --> 00:34:13.000
+That message will remain as a seated with that idea.
+
+00:34:13.000 --> 00:34:16.000
+It belongs in periodic synthesis, for example.
+
+00:34:16.000 --> 00:34:32.000
+And now this bit of conversation, these 3 messages this bit of the thread is associated with periodic synthesis, and if I unlock and go back to periodic synthesis, I see here are the messages the thread
+
+00:34:32.000 --> 00:34:39.000
+that started with this message, which i've associated with this idea and everything that is in here, and everything that is in there and here.
+
+00:34:39.000 --> 00:34:45.000
+I have 3 extracts, and I can show. Okay, show me this one and show me this one and show me this one.
+
+00:34:45.000 --> 00:34:52.000
+These are the extracts of text that were associated with the idea of summarization.
+
+00:34:52.000 --> 00:34:59.000
+So this is composting. This is exactly it. This bit of text belongs here.
+
+00:34:59.000 --> 00:35:08.000
+And then just goes with, not reliable. And so now not reliable, has this bit of text and this bit of of the thread.
+
+00:35:08.000 --> 00:35:14.000
+So this was a way this was built on a web forum.
+
+00:35:14.000 --> 00:35:19.000
+It can read the list. serve like a email conversation or
+
+00:35:19.000 --> 00:35:25.000
+Because when this was built, emailed was still widely used, and that was before slack.
+
+00:35:25.000 --> 00:35:31.000
+Facebook was there, but Facebook as we know doesn't allow export reliably.
+
+00:35:31.000 --> 00:35:42.000
+We have a whole Facebook export in porter written. But it's now obsolete because they changed their Api because they don't want people to get stuff out of Facebook really.
+
+00:35:42.000 --> 00:35:55.000
+But the whole idea that people have a conversation somewhere, and then you try to extract a structure out of it, and any of the extracts can be in many places.
+
+00:35:55.000 --> 00:36:09.000
+I can say this also belongs here, and I think this one doesn't it's been added here, but it's possible this didn't update at once, so that's a bug but the the notion that
+
+00:36:09.000 --> 00:36:14.000
+things can exist in many places. there's a many too many relationship between ideas and the text.
+
+00:36:14.000 --> 00:36:18.000
+That expresses the idea. So you can ask yourself, Okay, what was said about this?
+
+00:36:18.000 --> 00:36:23.000
+Look at the conversation. So this is the flow, and this structure is the stuck.
+
+00:36:23.000 --> 00:36:26.000
+And then I can look okay. What are the great themes in here?
+
+00:36:26.000 --> 00:36:31.000
+And okay, I'm interested in this one and I can jump to Okay, what was said about this?
+
+00:36:31.000 --> 00:36:39.000
+So imagine. Okay, there's stuff in chat which I should take
+
+00:36:39.000 --> 00:36:43.000
+You got the basic idea of ideal room it's one instantiation.
+
+00:36:43.000 --> 00:36:49.000
+It's a certain, as I said it's adapted to only one or a few modality.
+
+00:36:49.000 --> 00:36:56.000
+I can also take ourss feeds and other stuff. But now we need to think beyond that, because this is not where things are happening right.
+
+00:36:56.000 --> 00:37:01.000
+We have conversations in so many Media and Pete, You have something to ask.
+
+00:37:01.000 --> 00:37:05.000
+I I do if it won't interrupt your train no, go ahead, go ahead.
+
+00:37:05.000 --> 00:37:15.000
+It it doesn't move forward to the future you're talking about, but it I wanna make sure not to lose it in the thread.
+
+00:37:15.000 --> 00:37:30.000
+So idealism. you were essentially enabling the ability to do dialogue mapping, I think, Conklin's dialogue mapping, and I wonder if you ever thought about it a view taking taking
+
+00:37:30.000 --> 00:37:37.000
+the rearrangement that, or they are composing that people had done, and turn it into visualized dialogue.
+
+00:37:37.000 --> 00:37:42.000
+Mount it's I haven't spent a lot of energy on that.
+
+00:37:42.000 --> 00:38:02.000
+But yes, you have at least divergent diagram of the terms and each of them maps back, not ideally because but it maps back to the i'm not super familiar with how dialogue
+
+00:38:02.000 --> 00:38:05.000
+mapping looks or No, this is not. This is not the dialogue.
+
+00:38:05.000 --> 00:38:12.000
+Mapping look. it's it's another look but I could have made this: I didn't identify like he r identified this as a question.
+
+00:38:12.000 --> 00:38:16.000
+This is an answer. This is, or sorry. This is an answer.
+
+00:38:16.000 --> 00:38:21.000
+This at the beginning is a question so yeah but that's that came later up to a point.
+
+00:38:21.000 --> 00:38:29.000
+And Hey, this do you have a a quick way to show us what dialogue mapping looks like?
+
+00:38:29.000 --> 00:38:33.000
+Well, the best for that is, since craft, and I think I showed it.
+
+00:38:33.000 --> 00:38:41.000
+But let me look or compendium no no no well yeah sure that's that's good.
+
+00:38:41.000 --> 00:38:54.000
+Can I get that picture about compendium Maybe there's a big version of pet picture companion was one of the good training.
+
+00:38:54.000 --> 00:39:00.000
+Sorry to put you on the spot. Okay, let me.
+
+00:39:00.000 --> 00:39:11.000
+And i'm familiar. So a a related thing is it's concept mapping some little bit different.
+
+00:39:11.000 --> 00:39:17.000
+Okay, I guess this is as good an example as we'll get yay.
+
+00:39:17.000 --> 00:39:22.000
+So this is, it's not a good example now I can do better than that.
+
+00:39:22.000 --> 00:39:30.000
+Frankly, let me get sense craft here's one maybe
+
+00:39:30.000 --> 00:39:46.000
+I I put one in chat but maybe it's sad to say, since craft may be this so surviving dialogue mapping tools that that is not good.
+
+00:39:46.000 --> 00:39:56.000
+So here we have a Can you click on the one in chat real quick,
+
+00:39:56.000 --> 00:40:01.000
+Oh, yeah, that's a good one. Yes, Yes, Yes, so here's a question here's different answers here.
+
+00:40:01.000 --> 00:40:10.000
+Here's this question. This answer has raises a new question so you can add questions.
+
+00:40:10.000 --> 00:40:16.000
+There, and new answers to that sub question or you can say Oh, here's why this is not a good idea Con.
+
+00:40:16.000 --> 00:40:25.000
+Just why this is a good idea pro and here's references to support the pros and cons.
+
+00:40:25.000 --> 00:40:31.000
+And so this. So So one of the things that dialogue mapping is best at is wicked problems.
+
+00:40:31.000 --> 00:40:48.000
+So everybody can see, and kind of differentiate the different things I in in the You can imagine this conversation in you know, in a school board public meeting, where everybody is just shouting and everybody's got their own thing that they're talking
+
+00:40:48.000 --> 00:40:52.000
+about. but if you, if you map it like this then you can say hey, look!
+
+00:40:52.000 --> 00:40:58.000
+You're talking about this piece the thing that we need to to figure out is the answers to this question.
+
+00:40:58.000 --> 00:41:02.000
+So that's what what you would use a dialogue map for Ram.
+
+00:41:02.000 --> 00:41:18.000
+Yeah, that that in human terms one good thing about projecting a dialogue map, as a conversation happens, is it gets people instead of talking, you know, instead of shouting at you, I can divert it. it creates a limited.
+
+00:41:18.000 --> 00:41:28.000
+Object. So I can say this is what I disagree with and then I'm pointing at the board not as you, and it does change the dynamic. but it was kind of a stock.
+
+00:41:28.000 --> 00:41:34.000
+It's a it's absolutely a stock it it but it does require a skilled dialogue Mapper to do the real-time map.
+
+00:41:34.000 --> 00:41:44.000
+As people are speaking, they've tried a synchronous and it didn't work nearly as well, and the question is, how can we make it work as synchronous?
+
+00:41:44.000 --> 00:41:48.000
+Really because the way this synchronous is everybody, either.
+
+00:41:48.000 --> 00:42:05.000
+Well, basically they let people create the map. And then basically, you had people who did not understand the methodology as well create havoc, or you had a lot of side issues that would make the thing blow out of proportion and you had the
+
+00:42:05.000 --> 00:42:13.000
+usual Wendy called it the bird's neck nest instead of the ball of darn that's cool, but it's eligible.
+
+00:42:13.000 --> 00:42:22.000
+Michael, you had a question. Oh, it it It was just about in ideal loom.
+
+00:42:22.000 --> 00:42:28.000
+How the recurrence of a term that falls.
+
+00:42:28.000 --> 00:42:31.000
+You know the way the way these things are nested.
+
+00:42:31.000 --> 00:42:47.000
+Terms are nested. if a nested term shows up in other under other headings, is there is there linkage there?
+
+00:42:47.000 --> 00:42:59.000
+Or no. right now the ideal loom table of ideas, as we call it, is not is a tree.
+
+00:42:59.000 --> 00:43:05.000
+It's not a graph, so every known exist only in one place in the treat.
+
+00:43:05.000 --> 00:43:16.000
+However, as I said it's possible to take those extracts and put them in many places, which is another way to achieve the same multi location.
+
+00:43:16.000 --> 00:43:22.000
+But ideally I would have wanted the ideal to the left, right thing to be a graph.
+
+00:43:22.000 --> 00:43:39.000
+But there's they didn't go to and was overruled at the beginning. so mark and 2011 or 12 min we have left with you So what's the difference between ideal loom or dialog mapping and
+
+00:43:39.000 --> 00:43:52.000
+the thing that you're thinking of the thatload mapping is one case of stock, And, by the way, ideal loom is not restricted to dialogue mapping that was a bit of a also a
+
+00:43:52.000 --> 00:44:00.000
+parenthesis which I think is important but we didn't need to get into, because the whole the point of ideal loom was not that like mapping?
+
+00:44:00.000 --> 00:44:15.000
+It was idea classification and in the way there's many different methodologies to create a stock that look Mapping is one way of doing stocks.
+
+00:44:15.000 --> 00:44:24.000
+It's not the only way and I absolutely I think it's important to be analytical about things and dialogue Mapping is one way to be analytical.
+
+00:44:24.000 --> 00:44:30.000
+There's many ways to be analytical and there's many ways to be synthetic, and that's the 2, and we need both.
+
+00:44:30.000 --> 00:44:46.000
+What's important, however, is that we have all these conversation, all these flows that nobody will reread, or very few people will read, and we want to be able to create synthetic use synthetic curated views that are connected
+
+00:44:46.000 --> 00:44:54.000
+to this, and so forget Id loom, which is one tool if we think Federation.
+
+00:44:54.000 --> 00:45:09.000
+If we think if we think collective what we want is we want to be able to point to a part of a piece of conversation, and that's Urls up to a point.
+
+00:45:09.000 --> 00:45:14.000
+But we need to be a bit standard about making sure that it's easy to create.
+
+00:45:14.000 --> 00:45:27.000
+You are a representation of the text on the web with the Url that can allow to pinpoint subsets and all that. mechanics has been done with web annotations. So that's not difficult.
+
+00:45:27.000 --> 00:45:45.000
+But we have to make sure we have that part we have the identification of idea in the various synthesis tools, and what we need is a many to many connection like, if i'm doing this stuff making an ideal loom and
+
+00:45:45.000 --> 00:45:50.000
+somebody else is doing an insense craft, and somebody else is doing it in calo or in Kumu, or in whatever.
+
+00:45:50.000 --> 00:46:06.000
+What I want is to be able to take my little i'm talking about this bit of the conversation Have the same Url, but also had it in a way that I can go back to the conversation view and know Oh, this bit of the conversation has
+
+00:46:06.000 --> 00:46:23.000
+been annotated by Macout one, and ideal Loom and by in massive wiki and by Michael in Kumu, and by Stacey and Callo, or whatever right or in the factor it Shouldn't matter so we
+
+00:46:23.000 --> 00:46:38.000
+need. I kind of many too many a way federated distributed centralized up to a point. I don't care, but we need a way to say this bit of the conversation has shown up in this aggregation tool and
+
+00:46:38.000 --> 00:47:00.000
+It's a many, too many because many people may be sense making on that conversation, And there has to be a federated thing where we can ask, Okay, where has this been sense made composted where and what are all the
+
+00:47:00.000 --> 00:47:05.000
+composers to use, and can we make them talk that's an ext That's the hyper knowledge plan.
+
+00:47:05.000 --> 00:47:14.000
+Can we connect these things? But I think the first step, which is in a way easier and a way harder.
+
+00:47:14.000 --> 00:47:16.000
+Well, not harder but it's it's it's a separate step.
+
+00:47:16.000 --> 00:47:34.000
+It's the bits of conversation make sure they have their addressable, and say this of conversation are in relationship with ideas represented in stockmaking apps, and the next step is making sure.
+
+00:47:34.000 --> 00:47:40.000
+Oh, how you identified his idea. in this stuck making a house to correspond to the idea, and that's not making happen. That's the other That's the next step.
+
+00:47:40.000 --> 00:47:58.000
+But before that we can just do bit of conversation to idea and stop making app and that's already something that can be useful for people looking at a conversation, and want to know what's being done with that and so that's what
+
+00:47:58.000 --> 00:48:13.000
+I'm saying, we need we should think hard about a very simple, you know I concepts have an identifier, and every tool will have their own light in the fires, and that's fine and bits of conversations have an
+
+00:48:13.000 --> 00:48:20.000
+identifier, and we want to make the connection and make the different tools be aware of the connection.
+
+00:48:20.000 --> 00:48:33.000
+So we can have like bidirectional next i'd like to make a connection to do you go delete hera in fellowship of the link.
+
+00:48:33.000 --> 00:48:45.000
+So he was talking about something similar conceptually, at least, where content repositories could be queried to say, hey!
+
+00:48:45.000 --> 00:48:51.000
+What do you have about this link? Or he? He also said, What do you have about this concept?
+
+00:48:51.000 --> 00:48:56.000
+And then factor a massive wiki or catalyst or whatever idealism could say.
+
+00:48:56.000 --> 00:49:00.000
+Here's you know here the conversations I have on my server that reference that.
+
+00:49:00.000 --> 00:49:08.000
+So you could do you know it's it's like service discovery, basically for is that the overweight?
+
+00:49:08.000 --> 00:49:13.000
+Hello, I'm trying to remember names I I actually don't know anything about them.
+
+00:49:13.000 --> 00:49:25.000
+I I haven't been to any of the scholarship meetings. but you posted a a cool little, you know. that's a you that's somebody else.
+
+00:49:25.000 --> 00:49:37.000
+Yeah over took 2. That, you know, does he? Benjamin is the overweight guy.
+
+00:49:37.000 --> 00:49:59.000
+So deacon no Diego, i'm not sure I know then, i'll have to have a look bye bye start his his handle, and thought God that's a aggressive die God la
+
+00:49:59.000 --> 00:50:04.000
+Kind of reminds me in an odd way, Boost Sterling is playing around with Dolly, the Ai.
+
+00:50:04.000 --> 00:50:09.000
+Image generator, and he was trying to get it to make a particular demon.
+
+00:50:09.000 --> 00:50:17.000
+God thing, and it's so he was using the the description of the demon God thing you know, muscular man with blah blah blah, and he didn't get any good results.
+
+00:50:17.000 --> 00:50:22.000
+But then he put 0 or one, and the name like concat.
+
+00:50:22.000 --> 00:50:27.000
+I pretended to the name of the the demon God, and he got some really good ones, and it was.
+
+00:50:27.000 --> 00:50:45.000
+It was not like. so somehow, Dolly is taking that number and taking off the word, or something like that, and doing something interesting with them, which, now that I've said that I also have to mention somebody else has had there was this great tweet
+
+00:50:45.000 --> 00:50:53.000
+thread about. hey? look! the ai has an internal language about what and and I've discovered the internal language. How so?
+
+00:50:53.000 --> 00:50:59.000
+You can type these nonsense words at I think it might have been Dolly. i'm not sure which one, and it would.
+
+00:50:59.000 --> 00:51:04.000
+It would recapitulate images that you wouldn't have thought of So it's like this is the internal language.
+
+00:51:04.000 --> 00:51:09.000
+So somebody else. It was a it's a fun thread somebody else debunk that.
+
+00:51:09.000 --> 00:51:13.000
+And he said, Yeah, that's not what's happening here's what's really happening.
+
+00:51:13.000 --> 00:51:17.000
+So now to find those links and post them to fluttle, I guess.
+
+00:51:17.000 --> 00:51:23.000
+But okay, Tiger de la hada thank you i'll have a look.
+
+00:51:23.000 --> 00:51:32.000
+So yeah, this is We should also hook up with a fellowship of the link, a little bit more tightly.
+
+00:51:32.000 --> 00:51:38.000
+That's something that jerry's kind of been involved in and I haven't been to any of the meetings.
+
+00:51:38.000 --> 00:51:47.000
+But we're talking about similar things. how I see Flansian is in that conversation
+
+00:51:47.000 --> 00:52:07.000
+Really cool really cool my and fun Well, it's it's they just started launching the the Id But I think let's talk about the the requirements and make this into I think I I feel like
+
+00:52:07.000 --> 00:52:14.000
+I feel like we could work on our metaphors a little bit more, too, to to understand it better.
+
+00:52:14.000 --> 00:52:22.000
+I I I kinda know what we're talking about and I kind of don't, and I didn't don't have a good mental label for what we're talking about.
+
+00:52:22.000 --> 00:52:47.000
+Okay, what one component that that really strikes me as we're really talking about a lot of metadata on the a single statement link, you know.
+
+00:52:47.000 --> 00:53:05.000
+Comment, segment of A. of a conversation that says, You know that that has This is , This is where it appears.
+
+00:53:05.000 --> 00:53:17.000
+This is how central it is, and you know I mean that that really the annotation, you know, to go go back to I mean the library metaphor.
+
+00:53:17.000 --> 00:53:32.000
+We've used before it's like sort of backlinking all the things that anybody highlighted and used anywhere, you know. any time this was quoted anywhere else. , That's Why, it has to be , , from
+
+00:53:32.000 --> 00:53:39.000
+the from the sentence from the book to the the places that was quoted.
+
+00:53:39.000 --> 00:53:44.000
+Yeah, totally. and that's why offline notation.
+
+00:53:44.000 --> 00:53:52.000
+It cannot be in line. I I would say, instead of offline, I would call that out of bound.
+
+00:53:52.000 --> 00:53:56.000
+I I think offline is a bit of an official term now.
+
+00:53:56.000 --> 00:54:03.000
+By people who are writing those systems yeah didn't realize that How?
+
+00:54:03.000 --> 00:54:12.000
+How is so? this is related. to hyper knowledge too of course of course it's a it's a small bit of it, but it's related.
+
+00:54:12.000 --> 00:54:19.000
+So , so we don't have to implement hyper knowledge to implement whatever we're talking about.
+
+00:54:19.000 --> 00:54:30.000
+That's the point it's like i'm trying to find out the small bits and frankly there's a whole thing about going from transcript doing offline annotation transcript that's hugely important
+
+00:54:30.000 --> 00:54:40.000
+that's hugely useful on its own and it's like if I can make that not part of the hyper Knowledge Project. I.
+
+00:54:40.000 --> 00:54:48.000
+It makes my life easier and wendy and I are doing projects where what we haven't been doing offline.
+
+00:54:48.000 --> 00:54:52.000
+Well, actually, we're doing we're doing the stuff that would deliver offline.
+
+00:54:52.000 --> 00:55:00.000
+So she's. she's doing pull quotes and things like that she's also when the she's also adding additional materials.
+
+00:55:00.000 --> 00:55:10.000
+But we don't have that stitch together. we're not doing an offline version of the transcript to statute that it's it's disconnected right now, so we will i'll wrap that in with
+
+00:55:10.000 --> 00:55:36.000
+wendy we'll do more of that and we've actually got real use cases , bye bye, bye, oops, Jonathan, we miss you I don't know if you can hear us
+
+00:55:36.000 --> 00:55:43.000
+You know, as as you guys were just talking i'm sorry this this this is sort of continuation of of my phones.
+
+00:55:43.000 --> 00:56:09.000
+Combo pet The idea that where we really we're talking about a scheme for every piece of information that allows for you know places this piece of information that superior people who have piece of information people who have
+
+00:56:09.000 --> 00:56:21.000
+quoted that, you know, did it like so? the the the the number of fields, the number of things that would be filled into the fields of
+
+00:56:21.000 --> 00:56:31.000
+You know the it I think, therefore I am, You know, like how many times has that been quoted in one?
+
+00:56:31.000 --> 00:56:49.000
+In what context, how many different things has that been I mean it's like? No, it's it's metadata that what is in almost every case much greater than you know is really what we're looking for
+
+00:56:49.000 --> 00:56:56.000
+Yeah, I I wish you could have. I wish we could have asked Marcus one about
+
+00:56:56.000 --> 00:57:10.000
+Xanadu, so ted nelson's Ted Nelson envisioned you know a system where everything was linked together, and and, you know, you could trace back references and things like that which
+
+00:57:10.000 --> 00:57:31.000
+which wasn't eric brangle showing I I don't know if it was in flotilla, but he was he was zigzag zigzag is related right
+
+00:57:31.000 --> 00:57:41.000
+awesome. It also reminds me in a weird way.
+
+00:57:41.000 --> 00:57:52.000
+Yesterday I was reading about about the Mandela effect
+
+00:57:52.000 --> 00:57:56.000
+I can still mandela somebody it's it's funny.
+
+00:57:56.000 --> 00:58:05.000
+Somebody went through here's a bunch of examples of the menela effect with, I don't know star trek or Star Wars, or something like that, and they they didn't say what the mandela effect was and
+
+00:58:05.000 --> 00:58:12.000
+i'm like what's that the mandela effect is a culturally held memory.
+
+00:58:12.000 --> 00:58:17.000
+That's incorrect so it's named after Nelson Mandel.
+
+00:58:17.000 --> 00:58:22.000
+Everybody thought he died in prison in the in the eighties but he didn't
+
+00:58:22.000 --> 00:58:31.000
+Everybody thinks that the flint stones has 2 teas in the name everybody or not everybody, you know.
+
+00:58:31.000 --> 00:58:38.000
+Many people remember that like affirmative action like of course you know. and then it's not the right thing.
+
+00:58:38.000 --> 00:58:57.000
+So that's there's like there's cases I I wonder maybe I can
+
+00:58:57.000 --> 00:59:04.000
+Feel like there's this weird thing with my browser history that it's not quite doing what I thought it would be doing.
+
+00:59:04.000 --> 00:59:10.000
+But anyway, you know, of course, curious storage has a tail.
+
+00:59:10.000 --> 00:59:19.000
+Oops. What do you mean, he doesn't have a town No, this is the wrong way to do this Of course it's jiffy.
+
+00:59:19.000 --> 00:59:32.000
+It's not jeff of course it's t o and not to un so
+
+00:59:32.000 --> 00:59:40.000
+, So there's a weird thing where the the reference that you have might be it to a thing that's false.
+
+00:59:40.000 --> 00:59:43.000
+And then you have to have a reference to the true thing.
+
+00:59:43.000 --> 00:59:54.000
+And then maybe right references about why you believe that, or how many people believe that, or or whatever
+
+00:59:54.000 --> 01:00:11.000
+Wow, I types exact that I didn't type fantastic
+
+01:00:11.000 --> 01:00:18.000
+It's a good observation my call it's a lot of the the metadata would much out, you know.
+
+01:00:18.000 --> 01:00:23.000
+Same thing happens when I look up, quotes one of the things I like to do is you know.
+
+01:00:23.000 --> 01:00:32.000
+Plans are useless, but planning is, you know, imperative, or
+
+01:00:32.000 --> 01:00:39.000
+The the best is the enemy of the good and you'll find, you know, 3 different people there's 20 or 30 different people.
+
+01:00:39.000 --> 01:00:42.000
+It's attributed to their 3 or 3 2 or 3 people.
+
+01:00:42.000 --> 01:00:44.000
+It's you can affirmatively, attribute to them.
+
+01:00:44.000 --> 01:00:48.000
+But they said a different way, and you know yeah they got it in different languages, you know.
+
+01:00:48.000 --> 01:01:04.000
+Here's the translation that got popular yeah yeah and and you know the related, you know, relationship to 80 20 rule, you know, or and you know different.
+
+01:01:04.000 --> 01:01:21.000
+Yeah. different variations. and how often it appears like with or is used in opposition to excellent Yeah.
+
+01:01:21.000 --> 01:01:26.000
+Thing to think about is the Google text actually can answer those kinds of questions.
+
+01:01:26.000 --> 01:01:32.000
+Not that they provided an interface to it but yeah you know Google's Ai.
+
+01:01:32.000 --> 01:01:38.000
+Actually understands a lot of that stuff
+
+01:01:38.000 --> 01:01:47.000
+In in ways that humans probably don't understand how it understands
+
+01:01:47.000 --> 01:02:03.000
+Yeah, I was trying to dig deep on reasons
+
+01:02:03.000 --> 01:02:28.000
+This shows where my head's at and you'll understand why but possible grounds for legal challenges to the Jerry mandering of States in order to like you know classically North and South Dakota or 2 State I mean There
+
+01:02:28.000 --> 01:02:43.000
+are other reasons. But one of the main reasons that got through statehood was ratified was because the Republicans we're the good guys at that point.
+
+01:02:43.000 --> 01:02:51.000
+But but but the Republicans were like, if we have 2 States We're gonna carry these 2 States, and we'll have 4 Senators instead of 2.
+
+01:02:51.000 --> 01:03:07.000
+Of course you know an electoral votes and and so that bit of state, Jerry mandering which conceivably could be challenged in court the way a gerrymander could be challenged in
+
+01:03:07.000 --> 01:03:26.000
+court. Anyway, I was trying to ask Google about this and and try to find, you know, other other examples of of statehood being connected, you know, just putting a bunch of words in, and it was pretty good.
+
+01:03:26.000 --> 01:03:33.000
+I was, I was surprised by how much like weird small stuff I was able to raise in that area.
+
+01:03:33.000 --> 01:03:42.000
+Reminds me of my it's funny I I wanna say favorite, but I guess it's least favorite example of jeremandering.
+
+01:03:42.000 --> 01:03:52.000
+This is where Hudson Yards. a fancy thing. in Manhattan, is a distressed urban area, because it's connected up to Harlem.
+
+01:03:52.000 --> 01:03:56.000
+It's like Oh, yeah, this is definitely part of our own no worries.
+
+01:03:56.000 --> 01:04:04.000
+That's that's the right way. to Do that yeah and Central Park is definitely a distressed area.
+
+01:04:04.000 --> 01:04:11.000
+Yes, exactly. it's it's the least objectionable connection you know.
+
+01:04:11.000 --> 01:04:22.000
+Yeah, interesting. Now they're they're you know not a lot of income there, it's true,
+
+01:04:22.000 --> 01:04:35.000
+It it. I wonder if we'll maybe kind of wrap because it's been an hour and my head is certainly fall after full on
+
